@@ -234,7 +234,7 @@
 
 ## Batchfile 
 
-- [swagkarna/Defeat-Defender-V1.2.0](https://github.com/swagkarna/Defeat-Defender-V1.2.0) - Powerful batch script to dismantle complete windows defender protection and even bypass tamper protection ..Disable Windows-Defender Permanently....Hack windows. POC
+- [swagkarna/Defeat-Defender-V1.2](https://github.com/swagkarna/Defeat-Defender-V1.2) - Powerful batch script to dismantle complete windows defender protection and even bypass tamper protection ..Disable Windows-Defender Permanently....Hack windows. POC
 - [ninhpn1337/Disable-Windows-Defender](https://github.com/ninhpn1337/Disable-Windows-Defender) - Disable Windows Defender All Version
 - [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
@@ -2382,6 +2382,7 @@
 
 ## Go 
 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies
 - [Binject/go-donut](https://github.com/Binject/go-donut) - Donut Injector ported to pure Go.  For use with https://github.com/TheWover/donut
 - [signedsecurity/sigurlfind3r](https://github.com/signedsecurity/sigurlfind3r) - A passive reconnaissance tool for known URLs discovery - it gathers a list of URLs passively using various online sources.
@@ -3858,6 +3859,7 @@
 - [skahwah/DetectionLab](https://github.com/skahwah/DetectionLab) - Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
 - [skahwah/wordsmith_parsers](https://github.com/skahwah/wordsmith_parsers) - This repository contains a collection of parsers that were written to collect and collate data for Wordsmith v2
 - [threatland/TL-FRAUD](https://github.com/threatland/TL-FRAUD) - A collection of fraud related tools for research.
+- [sbousseaden/EVTX-ATTACK-SAMPLES](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Windows Events Attack Samples
 - [lkys37en/DetectionLab](https://github.com/lkys37en/DetectionLab) - Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
 - [vanhoefm/dragonblood](https://github.com/vanhoefm/dragonblood) - 
 - [codepr/codepr.github.io](https://github.com/codepr/codepr.github.io) - Personal site
@@ -5566,6 +5568,8 @@
 
 ## Others 
 
+- [Torbet/Dot-It-Up](https://github.com/Torbet/Dot-It-Up) - A collection of dotfile scripts, plugins, and clever hacks so that you can become the master of your own OS! 🚀
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.
 - [abhinavporwal/bug-bounty-dorks](https://github.com/abhinavporwal/bug-bounty-dorks) - List of Google Dorks for sites that have responsible disclosure program & bug bounty program
 - [sushiwushi/bug-bounty-dorks](https://github.com/sushiwushi/bug-bounty-dorks) - List of Google Dorks for sites that have responsible disclosure program / bug bounty program
 - [es0/conti-leak](https://github.com/es0/conti-leak) - original files
@@ -7712,7 +7716,6 @@
 - [mdavis332/DomainPasswordSpray](https://github.com/mdavis332/DomainPasswordSpray) - DomainPasswordSpray is a tool written in PowerShell to perform a password spray attack against users of a domain. It will automatically generate a userlist from the domain which excludes accounts that are expired, disabled locked out, or within 1 lockout attempt.
 - [roflsandwich/Chrome-Password-Dumper](https://github.com/roflsandwich/Chrome-Password-Dumper) - 
 - [skahwah/ad-quick-install](https://github.com/skahwah/ad-quick-install) - 
-- [sbousseaden/EVTX-ATTACK-SAMPLES](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Windows Events Attack Samples
 - [threatexpress/invoke-pipeshell](https://github.com/threatexpress/invoke-pipeshell) - SMB Named Pipe shell
 - [lkys37en/Lab-Automation](https://github.com/lkys37en/Lab-Automation) - Packer and vagrant scripts to automate building Windows and Linux machines on vCenter
 - [lkys37en/Start-ADEnum](https://github.com/lkys37en/Start-ADEnum) - Tool that automates Active Directory enumeration
@@ -11259,8 +11262,8 @@
 - [rbsec/dnscan](https://github.com/rbsec/dnscan) - 
 - [derv82/wifite2](https://github.com/derv82/wifite2) - Rewrite of the popular wireless network auditor, "wifite"
 - [eshork/transmute](https://github.com/eshork/transmute) - Simple but effective word list transmutation command-line app. Feed it words, and mangle them into new variations quickly and easily!
-- [ProgVal/Supybot-plugins](https://github.com/ProgVal/Supybot-plugins) - Collection of plugins for Supybot/Limnoria I wrote or forked.
-- [ProgVal/Limnoria](https://github.com/ProgVal/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins. Successor of the well-known Supybot.
+- [progval/Supybot-plugins](https://github.com/progval/Supybot-plugins) - Collection of plugins for Supybot/Limnoria I wrote or forked.
+- [progval/Limnoria](https://github.com/progval/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins. Successor of the well-known Supybot.
 - [ptigas/simple-captcha-solver](https://github.com/ptigas/simple-captcha-solver) - simple CAPTCHA solver in python :snake:
 - [jseidl/virtuaplant](https://github.com/jseidl/virtuaplant) - VirtuaPlant is a Industrial Control Systems simulator which adds a “similar to real-world control logic” to the basic “read/write tags” feature of most PLC simulators.
 - [trustedsec/tap](https://github.com/trustedsec/tap) - The TrustedSec Attack Platform is a reliable method for droppers on an infrastructure in order to ensure established connections to an organization.
@@ -14096,6 +14099,7 @@
 
 ## Shell 
 
+- [allingeek/nmap-sd](https://github.com/allingeek/nmap-sd) - NMAP powered service discovery for passive service registration.
 - [felipecaon/BugBountyStuff](https://github.com/felipecaon/BugBountyStuff) - Stuff for bug bounty
 - [poolpog/bash-otp](https://github.com/poolpog/bash-otp) - One-time Password generator for CLI using bash, oathtool
 - [ajrosen/Alfred](https://github.com/ajrosen/Alfred) - Alfred workflows
@@ -15598,6 +15602,7 @@
 
 ## TypeScript 
 
+- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal
 - [cisagov/crossfeed](https://github.com/cisagov/crossfeed) - External monitoring for organization assets
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
