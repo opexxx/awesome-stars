@@ -1764,7 +1764,7 @@
 - [jafarlihi/revp](https://github.com/jafarlihi/revp) - Reverse HTTP proxy that works on Linux, Windows, and macOS. Made with C++ and Boost.
 - [slaeryan/FALCONSTRIKE](https://github.com/slaeryan/FALCONSTRIKE) - A stealthy, targeted Windows Loader for delivering second-stage payloads(shellcode) from Github to the host machine undetected
 - [google/fuzzing](https://github.com/google/fuzzing) - Tutorials, examples, discussions, research proposals, and other resources related to fuzzing
-- [hasherezade/paramkit](https://github.com/hasherezade/paramkit) - A small library helping to parse commandline parameters
+- [hasherezade/paramkit](https://github.com/hasherezade/paramkit) - A small library helping to parse commandline parameters (for C/C++)
 - [nccgroup/SocksOverRDP](https://github.com/nccgroup/SocksOverRDP) - Socks5/4/4a Proxy support for Remote Desktop Protocol / Terminal Services / Citrix / XenApp / XenDesktop
 - [CredDefense/CredDefense](https://github.com/CredDefense/CredDefense) - Credential and Red Teaming Defense for Windows Environments
 - [monoxgas/FlyingAFalseFlag](https://github.com/monoxgas/FlyingAFalseFlag) - Slides and Code for the BHUSA 2019 talk: Flying a False Flag
@@ -7817,7 +7817,7 @@
 - [SadProcessor/CypherDog](https://github.com/SadProcessor/CypherDog) - PoSh BloodHound Dog Whisperer
 - [Cybereason/Invoke-WMILM](https://github.com/Cybereason/Invoke-WMILM) - 
 - [d0nkeys/redteam](https://github.com/d0nkeys/redteam) - Red Team Scripts by d0nkeys (ex SnadoTeam)
-- [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows retail ISOs
+- [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows ISOs or the UEFI Shell
 - [0xbadjuju/PowerProvider](https://github.com/0xbadjuju/PowerProvider) - 
 - [adrecon/ADRecon](https://github.com/adrecon/ADRecon) - ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.
 - [ecstatic-nobel/pOSINT](https://github.com/ecstatic-nobel/pOSINT) - Gather Open-Source Intelligence using PowerShell.
@@ -8696,6 +8696,7 @@
 ## Python 
 
 - [mandiant/apooxml](https://github.com/mandiant/apooxml) - Generate YARA rules for OOXML documents.
+- [felipecaon/BugBountyStuff](https://github.com/felipecaon/BugBountyStuff) - Stuff for bug bounty
 - [MShahine/Bug-Bounty-Recon](https://github.com/MShahine/Bug-Bounty-Recon) - All The Notes And Tips I FOund In Github And Twitter I Put Them Here
 - [Hackndo/WebclientServiceScanner](https://github.com/Hackndo/WebclientServiceScanner) - Python tool to Check running WebClient services on multiple targets based on @leechristensen
 - [BehzaDMagzer/p.maker](https://github.com/BehzaDMagzer/p.maker) - PassWord List Maker
@@ -14100,7 +14101,6 @@
 ## Shell 
 
 - [allingeek/nmap-sd](https://github.com/allingeek/nmap-sd) - NMAP powered service discovery for passive service registration.
-- [felipecaon/BugBountyStuff](https://github.com/felipecaon/BugBountyStuff) - Stuff for bug bounty
 - [poolpog/bash-otp](https://github.com/poolpog/bash-otp) - One-time Password generator for CLI using bash, oathtool
 - [ajrosen/Alfred](https://github.com/ajrosen/Alfred) - Alfred workflows
 - [leevigraham/dotfiles](https://github.com/leevigraham/dotfiles) - OS X dotfiles: bash, git, vim, etc.
