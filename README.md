@@ -2391,7 +2391,7 @@
 - [benjojo/totp-ssh-fluxer](https://github.com/benjojo/totp-ssh-fluxer) - Take security by obscurity to the next level (this is a bad idea, don't really use this please)
 - [FINCTIVE/video-download-bot](https://github.com/FINCTIVE/video-download-bot) - download online videos with telegram bot. (built for raspberry pi 👏)
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
-- [armaget/sc0ur](https://github.com/armaget/sc0ur) - 
+- [grines/scour](https://github.com/grines/scour) - 
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
 - [jetstack/jetstack-secure](https://github.com/jetstack/jetstack-secure) - Open source components of Jetstack Secure
@@ -3502,7 +3502,7 @@
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [michenriksen/aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
 - [malisit/kolpa](https://github.com/malisit/kolpa) - A fake data generator written in and for Go
-- [theupdateframework/notary](https://github.com/theupdateframework/notary) - Notary is a project that allows anyone to have trust over arbitrary collections of data
+- [notaryproject/notary](https://github.com/notaryproject/notary) - Notary is a project that allows anyone to have trust over arbitrary collections of data
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。KCPプロトコルに基づく安全なトンネル。KCP 프로토콜을 기반으로 하는 보안 터널입니다。
@@ -12571,7 +12571,7 @@
 - [gaubert/gmvault](https://github.com/gaubert/gmvault) - gmail backup software
 - [DexterInd/GrovePi](https://github.com/DexterInd/GrovePi) - GrovePi is an open source platform for connecting Grove Sensors to the Raspberry Pi.
 - [npad/sidestream](https://github.com/npad/sidestream) - The SideStream package for logging web100 statistics from all connections
-- [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service. Implementations in Python, C, Node.js and Ruby.
+- [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
 - [nmathewson/mixminion](https://github.com/nmathewson/mixminion) - mixminion is the main implementation of the Type III ("Mixminion") remailer protocol.
 - [python-otr/pure-python-otr](https://github.com/python-otr/pure-python-otr) - Off-The-Record Protocol Implementation in Python
 - [safl/mifcho](https://github.com/safl/mifcho) - MIddleware For Connection Handling and Orchestration
