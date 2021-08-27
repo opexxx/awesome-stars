@@ -2079,7 +2079,6 @@
 - [tenzir/vast](https://github.com/tenzir/vast) - :crystal_ball: Visibility Across Space and Time – The network telemetry engine for data-driven security investigations.
 - [0xdabbad00/OpenHIPS](https://github.com/0xdabbad00/OpenHIPS) - OpenHIPS prevents exploitation of Windows systems
 - [torps/torps](https://github.com/torps/torps) - The Tor Path Simulator
-- [mcandre/fgdump](https://github.com/mcandre/fgdump) - Mirror of Fizzgig password dump
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
 - [tomahawk-player/tomahawk-resolvers](https://github.com/tomahawk-player/tomahawk-resolvers) - Resolver plugins for Tomahawk Player
 - [inliniac/libhtp](https://github.com/inliniac/libhtp) - LibHTP is a security-aware parser for the HTTP protocol and the related bits and pieces.
@@ -3779,7 +3778,7 @@
 - [JPCERTCC/ToolAnalysisResultSheet](https://github.com/JPCERTCC/ToolAnalysisResultSheet) - Tool Analysis Result Sheet
 - [elestio/ws-monitoring](https://github.com/elestio/ws-monitoring) - A simple & lightweight realtime monitoring web UI + server in Node.js
 - [prinsharma1999/bug_bounty_tweets](https://github.com/prinsharma1999/bug_bounty_tweets) - 
-- [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat 🐐 is a "Vulnerable by Design" Kubernetes Cluster. Designed to be an intentionally vulnerable cluster environment to learn and practice Kubernetes security 🔐
+- [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat 🐐  is a "Vulnerable by Design" Kubernetes Cluster. Designed to be an intentionally vulnerable cluster environment to learn and practice Kubernetes security 🔐
 - [AaronDinnage/Licensing](https://github.com/AaronDinnage/Licensing) - Microsoft 365 licensing diagrams
 - [WADComs/WADComs.github.io](https://github.com/WADComs/WADComs.github.io) - WADComs is an interactive cheat sheet, containing a curated list of Unix/Windows offensive tools and their respective commands.
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
@@ -4526,7 +4525,7 @@
 - [timqian/star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [ivolo/disposable-email-domains](https://github.com/ivolo/disposable-email-domains) - A list of disposable email domains
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [google/certificate-maker](https://github.com/google/certificate-maker) - An experimental tool for turning HTML templates into PDF files.
 - [contra/captchagen](https://github.com/contra/captchagen) - Captcha generation for NodeJS
 - [trekjs/captcha](https://github.com/trekjs/captcha) - A Lightweight Pure JavaScript Captcha for Node.js. No C/C++, No ImageMagick, No Canvas.
@@ -5784,6 +5783,7 @@
 - [zer0yu/Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike) - cobaltstrike的相关资源汇总 / List of Awesome CobaltStrike Resources
 - [brave/adblock-lists](https://github.com/brave/adblock-lists) - Maintains adblock lists that Brave uses
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
+- [pandasec888/taowu-cobalt-strike](https://github.com/pandasec888/taowu-cobalt-strike) - 
 - [DefensiveOrigins/AtomicPurpleTeam](https://github.com/DefensiveOrigins/AtomicPurpleTeam) - Atomic Purple Team Framework and Lifecycle
 - [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and cheap DIY IP-KVM based on Raspberry Pi
 - [ellerbrock/docker-security-images](https://github.com/ellerbrock/docker-security-images) - :closed_lock_with_key: Docker Container for Penetration Testing & Security
@@ -7546,7 +7546,6 @@
 - [ScorpionesLabs/DVS](https://github.com/ScorpionesLabs/DVS) - D(COM) V(ulnerability) S(canner) AKA Devious swiss army knife - Lateral movement using DCOM Objects
 - [DGG-IT/Match-ADHashes](https://github.com/DGG-IT/Match-ADHashes) - Builds a hashmap of AD NTLM hashes/usernames and iterates through a second list of hashes checking for the existence of each entry in the AD NTLM hashmap
 - [MScholtes/TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - Copies of my 'Script Center' and 'Technet Gallery' publications
-- [pandasec888/taowu-cobalt-strike](https://github.com/pandasec888/taowu-cobalt-strike) - 
 - [swimlane/PSAttck](https://github.com/swimlane/PSAttck) - PSAttck is a light-weight framework for the MITRE ATT&CK Framework.
 - [jimtin/BasicWindowsForensicData](https://github.com/jimtin/BasicWindowsForensicData) - Gets basic windows forensic data
 - [jimtin/HostHunterCore0.1](https://github.com/jimtin/HostHunterCore0.1) - HostHunterCore Public Branch
@@ -8695,6 +8694,7 @@
 
 ## Python 
 
+- [bashexplode/cs2webconfig](https://github.com/bashexplode/cs2webconfig) - Convert Cobalt Strike profiles to IIS web.config files
 - [mandiant/apooxml](https://github.com/mandiant/apooxml) - Generate YARA rules for OOXML documents.
 - [felipecaon/BugBountyStuff](https://github.com/felipecaon/BugBountyStuff) - Stuff for bug bounty
 - [MShahine/Bug-Bounty-Recon](https://github.com/MShahine/Bug-Bounty-Recon) - All The Notes And Tips I FOund In Github And Twitter I Put Them Here
@@ -8723,7 +8723,6 @@
 - [klezVirus/chameleon](https://github.com/klezVirus/chameleon) - PowerShell Script Obfuscator
 - [seed-labs/seed-labs](https://github.com/seed-labs/seed-labs) - SEED Labs developed in the last 20 years.
 - [ztgrace/mole](https://github.com/ztgrace/mole) - Mole is a framework for identifying and exploiting out-of-band application vulnerabilities.
-- [Rog3rSm1th/Profil3r](https://github.com/Rog3rSm1th/Profil3r) - OSINT tool that allows you to find a person's accounts and emails + breached emails 🕵️
 - [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [3ndG4me/spraygen](https://github.com/3ndG4me/spraygen) - Password list generator for password spraying - prebaked with goodies
 - [Taha-Firoz/DDL2Excel](https://github.com/Taha-Firoz/DDL2Excel) - This is a simple python script that converts DDL for Oracle SQL to excel headings to make creating datasets in excel faster
@@ -8825,7 +8824,7 @@
 - [Charmve/BLE-Security-Attack-Defence](https://github.com/Charmve/BLE-Security-Attack-Defence) - ✨ Purpose only! The dangers of Bluetooth Low Energy（BLE）implementations: Unveiling zero day vulnerabilities and security flaws in modern Bluetooth LE stacks.
 - [embedded-sec/halucinator](https://github.com/embedded-sec/halucinator) - 
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
-- [Mostafayahia-hunter/Virustotal-python-API](https://github.com/Mostafayahia-hunter/Virustotal-python-API) - 
+- [Mostafayahia-hunter/Virustotal-python-API-Domains-IPs-and-URLs-](https://github.com/Mostafayahia-hunter/Virustotal-python-API-Domains-IPs-and-URLs-) - 
 - [DreyAnd/DeadDNS](https://github.com/DreyAnd/DeadDNS) - DNS hijacking via dead records automation tool
 - [center-for-threat-informed-defense/attack-control-framework-mappings](https://github.com/center-for-threat-informed-defense/attack-control-framework-mappings) - Security control framework mappings to MITRE ATT&CK provide a critically important resource for organizations to assess their security control coverage against real-world threats and provide a bridge for integrating ATT&CK-based threat information into the risk management process.
 - [kakshay21/verify_email](https://github.com/kakshay21/verify_email) - verify-email can verify any email address by efficiently checking the domain name and pinging the handler to verify its existence.
