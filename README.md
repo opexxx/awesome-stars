@@ -376,7 +376,7 @@
 - [ssdeep-project/ssdeep](https://github.com/ssdeep-project/ssdeep) - Fuzzy hashing API and fuzzy hashing tool
 - [ifding/iot-malware](https://github.com/ifding/iot-malware) - Malware source code samples leaked online uploaded to GitHub for those who want to analyze the code
 - [ant4g0nist/Vulnerable-Kext](https://github.com/ant4g0nist/Vulnerable-Kext) - A WIP "Vulnerable by Design" kext for iOS/macOS to play & learn *OS kernel exploitation
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [brannondorsey/naive-hashcat](https://github.com/brannondorsey/naive-hashcat) - Crack password hashes without the fuss :cat2:
 - [slaeryan/DetectCobaltStomp](https://github.com/slaeryan/DetectCobaltStomp) - Detects Module Stomping as implemented by Cobalt Strike
 - [hardik05/Damn_Vulnerable_C_Program](https://github.com/hardik05/Damn_Vulnerable_C_Program) - a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts.
@@ -4420,7 +4420,6 @@
 - [shellfarmer/WeakestLink](https://github.com/shellfarmer/WeakestLink) - Browser extension that extracts users from LinkedIn company pages
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [ruyadorno/ipt](https://github.com/ruyadorno/ipt) - Interactive Pipe To: The Node.js cli interactive workflow
-- [CERT-Polska/drakvuf-sandbox](https://github.com/CERT-Polska/drakvuf-sandbox) - DRAKVUF Sandbox - automated hypervisor-level malware analysis system
 - [salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [remy/jqterm](https://github.com/remy/jqterm) - A jq as a service (a different take on the the existing playground)
@@ -4590,7 +4589,7 @@
 - [feross/spoof](https://github.com/feross/spoof) - Easily spoof your MAC address in macOS, Windows, & Linux!
 - [openpgpjs/openpgpjs](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
-- [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
+- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - A markdown editor for developers on Mac, Windows and Linux.
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans
 - [dtinth/ttycast](https://github.com/dtinth/ttycast) - Broadcast your tty to the world! Stream your live terminal session online. Powered by ttyrec, tty.js and Socket.IO
 - [Cretezy/MasterPassX](https://github.com/Cretezy/MasterPassX) - A deterministic stateless password generator.
@@ -5198,7 +5197,7 @@
 
 - [rocky-linux/infrastructure](https://github.com/rocky-linux/infrastructure) - The infrastructure monorepo for the Rocky Linux project
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion 2 - Linux distro for threat hunting, enterprise security monitoring, and log management
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [splunk/attack_range](https://github.com/splunk/attack_range) - A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk
 - [geerlingguy/ansible-role-kubernetes](https://github.com/geerlingguy/ansible-role-kubernetes) - Ansible Role - Kubernetes
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
@@ -7611,7 +7610,7 @@
 - [mspnp/reference-architectures](https://github.com/mspnp/reference-architectures) - templates and scripts for deploying Azure Reference Architectures
 - [MSEndpointMgr/ConfigMgr](https://github.com/MSEndpointMgr/ConfigMgr) - Microsoft Endpoint Configuration Manager scripts and tools
 - [poshbotio/PoshBot](https://github.com/poshbotio/PoshBot) - Powershell-based bot framework
-- [rmbolger/Posh-ACME](https://github.com/rmbolger/Posh-ACME) - ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
+- [rmbolger/Posh-ACME](https://github.com/rmbolger/Posh-ACME) - PowerShell module and ACME client to create certificates from Let's Encrypt (or other ACME CA)
 - [EvotecIT/PSWriteHTML](https://github.com/EvotecIT/PSWriteHTML) - PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 - [PrateekKumarSingh/Graphical](https://github.com/PrateekKumarSingh/Graphical) - Open-Source, Platform independent module that consumes data points as input and plots them on a 2D graph 📈📊💹 [Scatter / Bar / Line] on the PowerShell Console/Terminal
 - [nerdile/convert-windowsimage](https://github.com/nerdile/convert-windowsimage) - Scripts for converting Windows images (ISO,WIM) to VHD's
@@ -8701,7 +8700,7 @@
 - [Hackndo/WebclientServiceScanner](https://github.com/Hackndo/WebclientServiceScanner) - Python tool to Check running WebClient services on multiple targets based on @leechristensen
 - [BehzaDMagzer/p.maker](https://github.com/BehzaDMagzer/p.maker) - PassWord List Maker
 - [Dineshkarthik/telegram_media_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB
-- [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT is a forensic tool to look for signs of infection in smartphone devices
+- [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [Mte90/DL-Telegram-by-file-attachment](https://github.com/Mte90/DL-Telegram-by-file-attachment) - Download documents by terms looking in a Telegram channel
 - [Mr-B0b/BloodCheck](https://github.com/Mr-B0b/BloodCheck) - BloodCheck enables Red and Blue Teams to manage multiple Neo4j databases and run Cypher queries against a BloodHound dataset.
 - [mindcrypt/powerglot](https://github.com/mindcrypt/powerglot) - Powerglot encodes offensive powershell scripts using polyglots . Offensive security tool useful for stego-malware, privilege escalation, lateral movement, reverse shell, etc.
@@ -9116,6 +9115,7 @@
 - [0xb0bb/pwndra](https://github.com/0xb0bb/pwndra) - A collection of pwn/CTF related utilities for Ghidra
 - [sharkdp/shell-functools](https://github.com/sharkdp/shell-functools) - Functional programming tools for the shell
 - [PaperMtn/slack-watchman](https://github.com/PaperMtn/slack-watchman) - Monitoring your Slack workspaces for sensitive information
+- [CERT-Polska/drakvuf-sandbox](https://github.com/CERT-Polska/drakvuf-sandbox) - DRAKVUF Sandbox - automated hypervisor-level malware analysis system
 - [RedLectroid/KingCrown](https://github.com/RedLectroid/KingCrown) - Automated tool for setting up KingPhisher
 - [dariusztytko/words-scraper](https://github.com/dariusztytko/words-scraper) - Selenium based web scraper to generate passwords list
 - [amosshapira/thermal](https://github.com/amosshapira/thermal) - Setup wide-area-network using IPSec tunnels between multiple AWS VPC's
@@ -10336,7 +10336,7 @@
 - [sdushantha/qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) - Transfer files over WiFi between your computer and your smartphone from the terminal
 - [nicolargo/isittor](https://github.com/nicolargo/isittor) - IsItTor is a script to check if an IP address is a Tor exit node
 - [crits/mcrits](https://github.com/crits/mcrits) - CRITs IOC Visualization in Maltego
-- [mpenning/ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations. Python Infrastructure as Code (IaC) for Cisco IOS (and other vendors).
+- [mpenning/ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations.
 - [openshift/openshift-ansible](https://github.com/openshift/openshift-ansible) - Install and config an OpenShift 3.x cluster
 - [D4Vinci/PasteJacker](https://github.com/D4Vinci/PasteJacker) - Hacking systems with the automation of PasteJacking attacks.
 - [blacklanternsecurity/Convert-Invoke-Kerberoast](https://github.com/blacklanternsecurity/Convert-Invoke-Kerberoast) - Converts the output from Invoke-Kerberoast into hashcat format.
