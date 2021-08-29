@@ -342,6 +342,7 @@
 
 ## C 
 
+- [woju/make_ext4fs](https://github.com/woju/make_ext4fs) - make_ext4fs from OpenWRT
 - [anthemtotheego/CredBandit](https://github.com/anthemtotheego/CredBandit) - Proof of concept Beacon Object File (BOF) that uses static x64 syscalls to perform a complete in memory dump of a process and send that back through your already existing Beacon communication channel
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [Velocidex/WinPmem](https://github.com/Velocidex/WinPmem) - The multi-platform memory acquisition tool.
@@ -4351,6 +4352,7 @@
 
 ## JavaScript 
 
+- [apnex/vmw-cli](https://github.com/apnex/vmw-cli) - CLI and API for programmatic access to my.vmware.com
 - [sindresorhus/open-cli](https://github.com/sindresorhus/open-cli) - Open stuff like URLs, files, executables. Cross-platform.
 - [itszero/kgcat](https://github.com/itszero/kgcat) - Tap into Google's knowledge right from your console.
 - [archerysec/archerysec](https://github.com/archerysec/archerysec) - Centralize Vulnerability Assessment and Management for DevSecOps Team
@@ -5298,6 +5300,7 @@
 
 ## Kotlin 
 
+- [yeswehack/YesWeBurp](https://github.com/yeswehack/YesWeBurp) - YesWeHack Api Extension for Burp
 - [GoSecure/dtd-finder](https://github.com/GoSecure/dtd-finder) - List DTDs and generate XXE payloads using those local DTDs.
 - [helloworld1/FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
@@ -10797,7 +10800,7 @@
 - [nccgroup/idahunt](https://github.com/nccgroup/idahunt) - idahunt is a framework to analyze binaries with IDA Pro and hunt for things in IDA Pro
 - [hannob/optionsbleed](https://github.com/hannob/optionsbleed) - 
 - [Lz1y/CVE-2017-8759](https://github.com/Lz1y/CVE-2017-8759) - CVE-2017-8759
-- [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 2,100 + stars, 580 + forks
+- [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 3,100+ stars, 900+ forks
 - [Plazmaz/Sublist3r](https://github.com/Plazmaz/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [nopernik/sshpry](https://github.com/nopernik/sshpry) - Seamlessly spy on SSH session like it is your tty
 - [jullrich/pcap2curl](https://github.com/jullrich/pcap2curl) - Read a packet capture, extract HTTP requests and turn them into cURL commands for replay.
@@ -13999,6 +14002,7 @@
 
 ## Rust 
 
+- [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [citronneur/kerlab](https://github.com/citronneur/kerlab) - Kerberos laboratory to better understand and then detecting attack on kerberos
 - [pbzweihander/rust-trending](https://github.com/pbzweihander/rust-trending) - A twitter bot (@RustTrending) to tweet trending rust repositories, inspired by @TrendingGithub
 - [resyncgg/armada](https://github.com/resyncgg/armada) - A high performance TCP SYN port scanner.
@@ -14157,7 +14161,6 @@
 - [swimlane/CLAW](https://github.com/swimlane/CLAW) - A packer utility to create and capture DFIR Image for use AWS & Azure
 - [dwisiswant0/galer](https://github.com/dwisiswant0/galer) - A fast tool to fetch URLs from HTML attributes by crawl-in.
 - [coolacid/docker-misp](https://github.com/coolacid/docker-misp) - A (nearly) production ready Dockered MISP
-- [marco-lancini/k8s-lab-plz](https://github.com/marco-lancini/k8s-lab-plz) - Modular Kubernetes Lab which provides an easy and streamlined way to deploy a test cluster with support for different components.
 - [harsh-bothra/VPS-Install](https://github.com/harsh-bothra/VPS-Install) - Quick script to install all the required tools over a VPS (tested on DEBIAN)
 - [InfraBuilder/benchmark-k8s-cni-2020-08](https://github.com/InfraBuilder/benchmark-k8s-cni-2020-08) - Kubernetes CNI benchmark - August 2020
 - [vp777/metahttp](https://github.com/vp777/metahttp) - A bash script that automates the scanning of a target network for HTTP resources through XXE
