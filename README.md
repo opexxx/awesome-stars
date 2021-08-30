@@ -2382,6 +2382,7 @@
 
 ## Go 
 
+- [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh) - An OOB interaction gathering server and client library
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies
 - [Binject/go-donut](https://github.com/Binject/go-donut) - Donut Injector ported to pure Go.  For use with https://github.com/TheWover/donut
@@ -5582,7 +5583,7 @@
 - [ksoclabs/awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security) - A curated list of awesome Kubernetes security resources
 - [random-robbie/bruteforce-lists](https://github.com/random-robbie/bruteforce-lists) - Some files for bruteforcing certain things.
 - [dsopas/assessment-mindset](https://github.com/dsopas/assessment-mindset) - Security Mindmap that could be useful for the infosec community when doing pentest, bug bounty or red-team assessments.
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
 - [gatlindada/cissp-mind-map](https://github.com/gatlindada/cissp-mind-map) - CISSP mind map, 8 domains, 2020 edition, OSG/AIO eighth edition, 8th
 - [stefanoj3/tordock](https://github.com/stefanoj3/tordock) - Dockerized TOR socks5
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -6545,7 +6546,7 @@
 - [MindPointGroup/ansible-volatility](https://github.com/MindPointGroup/ansible-volatility) - An Ansible role for deploying the Volatility memory forensics framework.
 - [jtleek/reviews](https://github.com/jtleek/reviews) - Writing reviews of academic papers
 - [masatokinugawa/filterbypass](https://github.com/masatokinugawa/filterbypass) - Browser's XSS Filter Bypass Cheat Sheet
-- [dumb-password-rules/dumb-password-rules](https://github.com/dumb-password-rules/dumb-password-rules) - Shaming sites with dumb password rules.
+- [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - Shaming sites with dumb password rules.
 - [actionjack/so-you-want-to-onboard-a-devops-engineer](https://github.com/actionjack/so-you-want-to-onboard-a-devops-engineer) - Guidance on how to make your environment easier to onboard for Web Ops Engineers, SRE's and DevOps Practitioners
 - [zeroXten/secdevops](https://github.com/zeroXten/secdevops) - SevDevOps tools and resources
 - [AonCyberLabs/Docker-Secure-Deployment-Guidelines](https://github.com/AonCyberLabs/Docker-Secure-Deployment-Guidelines) - Deployment checklist for securely deploying Docker
@@ -7055,6 +7056,7 @@
 
 ## PHP 
 
+- [antonioribeiro/google2fa-qrcode](https://github.com/antonioribeiro/google2fa-qrcode) - QRCode for Google2FA
 - [sh377c0d3/Payloads](https://github.com/sh377c0d3/Payloads) - Payload Arsenal for Pentration Tester and Bug Bounty Hunters
 - [incredibleindishell/CORS_vulnerable_Lab-Without_Database](https://github.com/incredibleindishell/CORS_vulnerable_Lab-Without_Database) - 
 - [Hi-Folks/gh-actions-yaml-generator](https://github.com/Hi-Folks/gh-actions-yaml-generator) - Ghygen is a GitHub Actions configurator for your Laravel Application.
