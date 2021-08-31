@@ -9306,7 +9306,7 @@
 - [tomoneill19/FacebookOSINT](https://github.com/tomoneill19/FacebookOSINT) - FBOSINT - A tool to replace facebook graph search
 - [bernsteining/instaloctrack](https://github.com/bernsteining/instaloctrack) - An Instagram OSINT tool to collect all the geotagged locations available on an Instagram profile in order to plot them on a map, and dump them in a JSON.
 - [EtienneDx/OsintMultitool](https://github.com/EtienneDx/OsintMultitool) - This repo regroups multiples OSINT tools for which I've made a GUI
-- [KishanBagaria/AirDoS](https://github.com/KishanBagaria/AirDoS) - 💣 Remotely render any nearby iPhone or iPad unusable
+- [KishanBagaria/AirDoS](https://github.com/KishanBagaria/AirDoS) - 💣 Remotely render any nearby iPhone or iPad unusable with an AirDrop exploit (now patched)
 - [dividuum/html-vault](https://github.com/dividuum/html-vault) - Generates self-contained HTML files protecting secret text content.
 - [th3unkn0n/TeleGram-Scraper](https://github.com/th3unkn0n/TeleGram-Scraper) - telegram group scraper tool. fetch all information about group members
 - [xen0l/aws-gate](https://github.com/xen0l/aws-gate) - Better  AWS SSM Session manager CLI client
@@ -12552,9 +12552,9 @@
 - [ikkebr/PyBozoCrack](https://github.com/ikkebr/PyBozoCrack) - A silly & effective MD5 cracker in Python
 - [invl/pip-autoremove](https://github.com/invl/pip-autoremove) - Remove a package and its unused dependencies.
 - [dragnet-org/dragnet](https://github.com/dragnet-org/dragnet) - Just the facts -- web page content extraction
-- [pianoboysai/pync](https://github.com/pianoboysai/pync) - a python netcat tool
-- [pianoboysai/SRopFinder](https://github.com/pianoboysai/SRopFinder) - a tool used to search rop shellcode
-- [pianoboysai/pyInspector](https://github.com/pianoboysai/pyInspector) - python inspect rootkit tool
+- [yiwiz-sai/pync](https://github.com/yiwiz-sai/pync) - a python netcat tool
+- [yiwiz-sai/SRopFinder](https://github.com/yiwiz-sai/SRopFinder) - a tool used to search rop shellcode
+- [yiwiz-sai/pyInspector](https://github.com/yiwiz-sai/pyInspector) - python inspect rootkit tool
 - [davehunt/pytest-zap](https://github.com/davehunt/pytest-zap) - OWASP Zed Attack Proxy plugin for py.test
 - [bigsnarfdude/pythonNetworkProgrammingN00B](https://github.com/bigsnarfdude/pythonNetworkProgrammingN00B) - HTTP Tester, SMTP Server, DNS grinder, socket scanner, packet sniffer, HTTP, Proxy Cache, port conversion scripts with select, sockets and python
 - [kamorin/DHCPig](https://github.com/kamorin/DHCPig) - DHCP exhaustion script written in python using scapy network library
@@ -15143,7 +15143,7 @@
 - [JosiahKerley/DockProx](https://github.com/JosiahKerley/DockProx) - An SSL Proxy Handler for Docker hosts
 - [yadutaf/docker-tty.js](https://github.com/yadutaf/docker-tty.js) - Simple tty.js Docker image that  "just works"
 - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
-- [chovy/node-startup](https://github.com/chovy/node-startup) - Startup script for Linux-based systems for running node app when rebooting using an /etc/init.d script.
+- [deadmanwalking74/node-startup](https://github.com/deadmanwalking74/node-startup) - Startup script for Linux-based systems for running node app when rebooting using an /etc/init.d script.
 - [sexibytes/sexilog](https://github.com/sexibytes/sexilog) - SexiLog is a specific ELK virtual appliance designed for vSphere environment
 - [pyotr777/dockerIaaSTools](https://github.com/pyotr777/dockerIaaSTools) - Tools for creating basic IaaS on Docker containers
 - [l3nz/whaleware](https://github.com/l3nz/whaleware) - A standard startup template for Docker images
