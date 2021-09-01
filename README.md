@@ -5512,7 +5512,6 @@
 - [joesavage/binspect](https://github.com/joesavage/binspect) - A Mac app for format-agnostic binary visualisation and analysis.
 - [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native OS X KeePass client
 - [andreasfink/dirhash](https://github.com/andreasfink/dirhash) - create a plist file containing hashes of files in it. To fingerprint modifications of Xcode
-- [agilebits/onepassword-app-extension](https://github.com/agilebits/onepassword-app-extension) - 1Password Extension for iOS Apps
 - [Leandros/ownDrop](https://github.com/Leandros/ownDrop) - Your One-Click upload client for ownCloud
 - [ttscoff/bookmark-cli](https://github.com/ttscoff/bookmark-cli) - CLI for OS X that returns a base64 string of bookmark data for a file, or locates a file given a base64 string
 - [petewarden/iPhoneTracker](https://github.com/petewarden/iPhoneTracker) - 
@@ -6850,6 +6849,7 @@
 - [superponible/presentations](https://github.com/superponible/presentations) - 
 - [SherifEldeeb/COPP](https://github.com/SherifEldeeb/COPP) - COFEE of Poor People
 - [vk496/linset](https://github.com/vk496/linset) - Evil Twin Attack Bash script
+- [agilebits/onepassword-app-extension](https://github.com/agilebits/onepassword-app-extension) - 1Password Extension for iOS Apps
 - [sparkfun/Serial_DB9_Breakout](https://github.com/sparkfun/Serial_DB9_Breakout) - Serial DB9 Breakout, available from SparkFun Electronics
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [aikinci/androguard](https://github.com/aikinci/androguard) - A dockerized androguard installation
@@ -9139,7 +9139,6 @@
 - [najiji/csv2sql](https://github.com/najiji/csv2sql) - A small python utility to convert CSV files into SQL insert statements
 - [redsymbol/csv2parquet](https://github.com/redsymbol/csv2parquet) - Create Parquet files from CSV
 - [rufuspollock/csv2sqlite](https://github.com/rufuspollock/csv2sqlite) - Python script to load CSV to SQLite
-- [GitHackTools/TorghostNG](https://github.com/GitHackTools/TorghostNG) - TorghostNG - Make your internet traffic anonymized through Tor network and Privoxy. Rewritten from TorGhost with Python 3
 - [Dviros/rbcd-attack](https://github.com/Dviros/rbcd-attack) - Kerberos Resource-Based Constrained Delegation Attack from Outside using Impacket
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [airbus-seclab/bta](https://github.com/airbus-seclab/bta) - Open source Active Directory security audit framework.
