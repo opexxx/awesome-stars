@@ -2382,6 +2382,7 @@
 
 ## Go 
 
+- [cristianoliveira/ergo](https://github.com/cristianoliveira/ergo) - The management of multiple apps running over different ports made easy
 - [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh) - An OOB interaction gathering server and client library
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies
@@ -2411,7 +2412,7 @@
 - [projectdiscovery/simplehttpserver](https://github.com/projectdiscovery/simplehttpserver) - Go alternative of python SimpleHTTPServer
 - [dundee/gdu](https://github.com/dundee/gdu) - Disk usage analyzer with console interface written in Go
 - [niocs/csvsql](https://github.com/niocs/csvsql) - Golang project to run sql queries on any csv file using embedded sqlite database. Has interactive and non-interactive modes.
-- [senthilrch/kube-fledged](https://github.com/senthilrch/kube-fledged) - A kubernetes add-on for creating and managing a cache of container images directly on the cluster worker nodes, so application pods start almost instantly
+- [senthilrch/kube-fledged](https://github.com/senthilrch/kube-fledged) - A kubernetes operator for creating and managing a cache of container images directly on the cluster worker nodes, so application pods start almost instantly
 - [cdk-team/CDK](https://github.com/cdk-team/CDK) - CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily.
 - [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) - A Git-native, schema-aware, extensible client-side tool for packaging, customizing, validating, and applying Kubernetes resources.
 - [cyberark/kubesploit](https://github.com/cyberark/kubesploit) - Kubesploit is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in Golang, focused on containerized environments.
@@ -2626,7 +2627,7 @@
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
 - [cycloidio/terracognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
-- [brimdata/zed](https://github.com/brimdata/zed) - Search and analysis tooling for structured logs
+- [brimdata/zed](https://github.com/brimdata/zed) - A cloud-native, searchable data lake for semi-structured and structured data
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [micrictor/Requestor](https://github.com/micrictor/Requestor) - Defensive counterpart to https://github.com/SpiderLabs/Responder
 - [arnaucube/cryptofun](https://github.com/arnaucube/cryptofun) - Crypto algorithms from scratch. Learning purposes only. ECC, BN128 pairing, Paillier, RSA, Homomorphic computation, ElGamal, Schnorr, ECDSA, BLS, ...
@@ -4592,7 +4593,7 @@
 - [feross/spoof](https://github.com/feross/spoof) - Easily spoof your MAC address in macOS, Windows, & Linux!
 - [openpgpjs/openpgpjs](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
-- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - A markdown editor for developers on Mac, Windows and Linux.
+- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans
 - [dtinth/ttycast](https://github.com/dtinth/ttycast) - Broadcast your tty to the world! Stream your live terminal session online. Powered by ttyrec, tty.js and Socket.IO
 - [Cretezy/MasterPassX](https://github.com/Cretezy/MasterPassX) - A deterministic stateless password generator.
@@ -5582,7 +5583,7 @@
 - [ksoclabs/awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security) - A curated list of awesome Kubernetes security resources
 - [random-robbie/bruteforce-lists](https://github.com/random-robbie/bruteforce-lists) - Some files for bruteforcing certain things.
 - [dsopas/assessment-mindset](https://github.com/dsopas/assessment-mindset) - Security Mindmap that could be useful for the infosec community when doing pentest, bug bounty or red-team assessments.
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG.
 - [gatlindada/cissp-mind-map](https://github.com/gatlindada/cissp-mind-map) - CISSP mind map, 8 domains, 2020 edition, OSG/AIO eighth edition, 8th
 - [stefanoj3/tordock](https://github.com/stefanoj3/tordock) - Dockerized TOR socks5
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -6828,6 +6829,7 @@
 - [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) - :octocat: A a curated list of curated lists of awesome lists.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [caesar0301/awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.
@@ -8698,6 +8700,7 @@
 
 ## Python 
 
+- [home-assistant-ecosystem/home-assistant-cli](https://github.com/home-assistant-ecosystem/home-assistant-cli) - :computer: Command-line tool for Home Assistant
 - [bashexplode/cs2webconfig](https://github.com/bashexplode/cs2webconfig) - Convert Cobalt Strike profiles to IIS web.config files
 - [mandiant/apooxml](https://github.com/mandiant/apooxml) - Generate YARA rules for OOXML documents.
 - [felipecaon/BugBountyStuff](https://github.com/felipecaon/BugBountyStuff) - Stuff for bug bounty
@@ -13515,6 +13518,7 @@
 
 ## Ruby 
 
+- [unixorn/tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh) - Tumult is a collection of macOS-specific functions and scripts for your shell environment. It is packaged as a ZSH plugin, but can be used in bash/fish as well.
 - [knazarov/homebrew-qemu-virgl](https://github.com/knazarov/homebrew-qemu-virgl) - A homebrew tap for qemu with support for 3d accelerated guests
 - [noraj/vrt-cli](https://github.com/noraj/vrt-cli) - A simple tool to visualize VRT (Vulnerability Rating Taxonomy) from the CLI.
 - [Orange-Cyberdefense/ctf-party](https://github.com/Orange-Cyberdefense/ctf-party) - :flags: A library to enhance and speed up script/exploit writing for CTF players
@@ -14104,6 +14108,8 @@
 
 ## Shell 
 
+- [GetAmbush/deepx-zsh-plugin](https://github.com/GetAmbush/deepx-zsh-plugin) - 
+- [unixorn/Bash-Snippets](https://github.com/unixorn/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [allingeek/nmap-sd](https://github.com/allingeek/nmap-sd) - NMAP powered service discovery for passive service registration.
 - [poolpog/bash-otp](https://github.com/poolpog/bash-otp) - One-time Password generator for CLI using bash, oathtool
 - [ajrosen/Alfred](https://github.com/ajrosen/Alfred) - Alfred workflows
@@ -15210,7 +15216,6 @@
 - [blacktop/docker-elastic-stack](https://github.com/blacktop/docker-elastic-stack) - ELK Stack Dockerfile
 - [jasonish/docker-suricata-elk](https://github.com/jasonish/docker-suricata-elk) - [ABANDONED] A Docker container running Suricata and the ELK stack.
 - [jpetazzo/nsenter](https://github.com/jpetazzo/nsenter) - 
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [ikrukov/epub](https://github.com/ikrukov/epub) - Free books in epub format
 - [ftao/vpn-deploy-playbook](https://github.com/ftao/vpn-deploy-playbook) - A Collection of Ansible Playbook for deploy vpn services
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
@@ -15616,7 +15621,7 @@
 - [softrams/bulwark](https://github.com/softrams/bulwark) - An organizational asset and vulnerability management tool, with Jira integration, designed for generating application security reports.
 - [luisfontes19/xxexploiter](https://github.com/luisfontes19/xxexploiter) - Tool to help exploit XXE vulnerabilities
 - [aletheia/iam-policy-generator](https://github.com/aletheia/iam-policy-generator) - A simple library to generate IAM policy statements with no need to remember all the actions APIs
-- [brimdata/brim](https://github.com/brimdata/brim) - Desktop application to efficiently search large packet captures and Zeek logs.
+- [brimdata/brim](https://github.com/brimdata/brim) - Desktop application to efficiently search and analyze semi-structured/structured data and packet captures
 - [timbru31/amazon-tag-remover](https://github.com/timbru31/amazon-tag-remover) - 🚫 💹 🛒WebExtension for Chrome, Firefox, Edge and Opera to remove the Amazon affiliate tracking ID (tag) from amazon links
 - [OWASP/RiskAssessmentFramework](https://github.com/OWASP/RiskAssessmentFramework) - The Secure Coding Framework
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
