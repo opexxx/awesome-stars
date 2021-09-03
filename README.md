@@ -2553,7 +2553,7 @@
 - [balook/teleman](https://github.com/balook/teleman) - Telegram cli tool for bot notifications
 - [toufik-airane/leakin](https://github.com/toufik-airane/leakin) - Secrets detection based on regular expressions.
 - [Cgboal/Decant](https://github.com/Cgboal/Decant) - Expand CIDR ranges to IPv4 addresses
-- [Cgboal/SonarSearch](https://github.com/Cgboal/SonarSearch) - A MongoDB importer and API for Project Sonars DNS datasets
+- [Cgboal/SonarSearch](https://github.com/Cgboal/SonarSearch) - A rapid API for the Project Sonar dataset
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [random-robbie/slurp](https://github.com/random-robbie/slurp) - Enumerate S3 buckets via certstream, domain, or keywords
 - [praetorian-inc/trident](https://github.com/praetorian-inc/trident) - automated password spraying tool
@@ -8869,6 +8869,7 @@
 - [D4-project/passive-ssh](https://github.com/D4-project/passive-ssh) - A Passive SSH back-end and scanner.
 - [megadose/OnionSearch](https://github.com/megadose/OnionSearch) - OnionSearch is a script that scrapes urls on different .onion search engines.
 - [KasperskyLab/TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere.
+- [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - 🛡️ Make your web services secure by default !
 - [inovex/illuminatio](https://github.com/inovex/illuminatio) - The kubernetes network policy validator.
 - [anchore/anchore-engine](https://github.com/anchore/anchore-engine) - A service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and certification
 - [eslam3kl/3klector](https://github.com/eslam3kl/3klector) - 3klector is an automation Recon tool which collecting information about Acquisitions and ASN which related to Big Scope company
@@ -14183,7 +14184,6 @@
 - [vigneshwaranr/bd](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory in linux instead of typing "cd ../../.." repeatedly
 - [spaceraccoon/manuka](https://github.com/spaceraccoon/manuka) - A modular OSINT honeypot for blue teamers
 - [storenth/lazyrecon](https://github.com/storenth/lazyrecon) - Wicked sick v2.0 script is intended to automate your reconnaissance process in an organized fashion.
-- [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - 🛡️ Make your web services secure by default !
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [xiaopeng163/docker-k8s-lab](https://github.com/xiaopeng163/docker-k8s-lab) - docker and kubernetes lab
 - [jnoller/kubernaughty](https://github.com/jnoller/kubernaughty) - IO, resource contention notes, docs and tools
