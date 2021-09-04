@@ -4357,7 +4357,6 @@
 - [apnex/vmw-cli](https://github.com/apnex/vmw-cli) - CLI and API for programmatic access to my.vmware.com
 - [sindresorhus/open-cli](https://github.com/sindresorhus/open-cli) - Open stuff like URLs, files, executables. Cross-platform.
 - [itszero/kgcat](https://github.com/itszero/kgcat) - Tap into Google's knowledge right from your console.
-- [archerysec/archerysec](https://github.com/archerysec/archerysec) - Centralize Vulnerability Assessment and Management for DevSecOps Team
 - [meetfranz/franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
 - [MrRio/vtop](https://github.com/MrRio/vtop) - Wow such top. So stats. More better than regular top.
 - [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices) - 🔮 Find devices connected to the current local network.
@@ -8703,7 +8702,6 @@
 - [home-assistant-ecosystem/home-assistant-cli](https://github.com/home-assistant-ecosystem/home-assistant-cli) - :computer: Command-line tool for Home Assistant
 - [bashexplode/cs2webconfig](https://github.com/bashexplode/cs2webconfig) - Convert Cobalt Strike profiles to IIS web.config files
 - [mandiant/apooxml](https://github.com/mandiant/apooxml) - Generate YARA rules for OOXML documents.
-- [felipecaon/BugBountyStuff](https://github.com/felipecaon/BugBountyStuff) - Stuff for bug bounty
 - [MShahine/Bug-Bounty-Recon](https://github.com/MShahine/Bug-Bounty-Recon) - All The Notes And Tips I FOund In Github And Twitter I Put Them Here
 - [Hackndo/WebclientServiceScanner](https://github.com/Hackndo/WebclientServiceScanner) - Python tool to Check running WebClient services on multiple targets based on @leechristensen
 - [BehzaDMagzer/p.maker](https://github.com/BehzaDMagzer/p.maker) - PassWord List Maker
@@ -8711,6 +8709,7 @@
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [Mte90/DL-Telegram-by-file-attachment](https://github.com/Mte90/DL-Telegram-by-file-attachment) - Download documents by terms looking in a Telegram channel
 - [Mr-B0b/BloodCheck](https://github.com/Mr-B0b/BloodCheck) - BloodCheck enables Red and Blue Teams to manage multiple Neo4j databases and run Cypher queries against a BloodHound dataset.
+- [archerysec/archerysec](https://github.com/archerysec/archerysec) - Centralize Vulnerability Assessment and Management for DevSecOps Team
 - [mindcrypt/powerglot](https://github.com/mindcrypt/powerglot) - Powerglot encodes offensive powershell scripts using polyglots . Offensive security tool useful for stego-malware, privilege escalation, lateral movement, reverse shell, etc.
 - [gwen001/dnspy](https://github.com/gwen001/dnspy) - Find subdomain takeovers
 - [bmunoz89/alfred-wf-bluetooth-manager](https://github.com/bmunoz89/alfred-wf-bluetooth-manager) - Connect and disconnect a bluetooth device easily
@@ -14109,9 +14108,11 @@
 
 ## Shell 
 
+- [Dheerajmadhukar/karma_v2](https://github.com/Dheerajmadhukar/karma_v2) - ⡷⠂𝚔𝚊𝚛𝚖𝚊 𝚟𝟸⠐⢾ is a Passive Open Source Intelligence (OSINT) Automated Rconnaissance (framework)
 - [GetAmbush/deepx-zsh-plugin](https://github.com/GetAmbush/deepx-zsh-plugin) - 
 - [unixorn/Bash-Snippets](https://github.com/unixorn/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [allingeek/nmap-sd](https://github.com/allingeek/nmap-sd) - NMAP powered service discovery for passive service registration.
+- [felipecaon/BugBountyStuff](https://github.com/felipecaon/BugBountyStuff) - Stuff for bug bounty
 - [poolpog/bash-otp](https://github.com/poolpog/bash-otp) - One-time Password generator for CLI using bash, oathtool
 - [ajrosen/Alfred](https://github.com/ajrosen/Alfred) - Alfred workflows
 - [leevigraham/dotfiles](https://github.com/leevigraham/dotfiles) - OS X dotfiles: bash, git, vim, etc.
