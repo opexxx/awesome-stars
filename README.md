@@ -1204,6 +1204,8 @@
 
 ## C# # 
 
+- [SharpC2/SharpC2](https://github.com/SharpC2/SharpC2) - Command and Control Framework written in C#.
+- [CCob/BeaconEye](https://github.com/CCob/BeaconEye) - Hunts out CobaltStrike beacons and logs operator command output
 - [connormcgarr/LittleCorporal](https://github.com/connormcgarr/LittleCorporal) - LittleCorporal: A C# Automated Maldoc Generator
 - [cube0x0/CVE-2021-1675](https://github.com/cube0x0/CVE-2021-1675) - C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527
 - [yasenstar/cloud_computing](https://github.com/yasenstar/cloud_computing) - information on cloud computing that Yasen are learning
@@ -2382,6 +2384,10 @@
 
 ## Go 
 
+- [inbug-team/InScan](https://github.com/inbug-team/InScan) - 边界打点后的自动化渗透工具
+- [Rvn0xsy/red-tldr](https://github.com/Rvn0xsy/red-tldr) - red-tldr is a lightweight text search tool, which is used to help red team staff quickly find the commands and key points they want to execute, so it is more suitable for use by red team personnel with certain experience.
+- [TheYkk/git-switcher](https://github.com/TheYkk/git-switcher) - Switch between your git profiles easily
+- [Tylous/SourcePoint](https://github.com/Tylous/SourcePoint) - SourcePoint is a C2 profile generator for Cobalt Strike command and control servers designed to ensure evasion.
 - [cristianoliveira/ergo](https://github.com/cristianoliveira/ergo) - The management of multiple apps running over different ports made easy
 - [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh) - An OOB interaction gathering server and client library
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -9371,7 +9377,7 @@
 - [mitre-attack/attack-scripts](https://github.com/mitre-attack/attack-scripts) - Scripts and a (future) library to improve users' interactions with the ATT&CK content
 - [michaelhidalgo/attack-to-elk](https://github.com/michaelhidalgo/attack-to-elk) - This program exports MITRE ATT&CK framework in ELK dashboard
 - [tyzbit/hosts](https://github.com/tyzbit/hosts) - Extending and consolidating hosts files from a variety of sources like adaway.org, mvps.org, malwaredomains.com, someonewhocares.org, yoyo.org, and potentially others.  You can optionally invoke extensions to block additional sites by category.
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
 - [dgarros/py-metric-collector](https://github.com/dgarros/py-metric-collector) - Python Collector for Metrics data from Network devices (Juniper/F5)
 - [kootenpv/loco](https://github.com/kootenpv/loco) - Share localhost through SSH. Local/Remote port forwarding made safe and easy.
 - [jymcheong/AutoTTP](https://github.com/jymcheong/AutoTTP) - Automated Tactics Techniques & Procedures
