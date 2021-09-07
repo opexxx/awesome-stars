@@ -2384,6 +2384,8 @@
 
 ## Go 
 
+- [metal3d/cors-proxy](https://github.com/metal3d/cors-proxy) - A simple proxy to add CORS for other service
+- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [inbug-team/InScan](https://github.com/inbug-team/InScan) - 边界打点后的自动化渗透工具
 - [Rvn0xsy/red-tldr](https://github.com/Rvn0xsy/red-tldr) - red-tldr is a lightweight text search tool, which is used to help red team staff quickly find the commands and key points they want to execute, so it is more suitable for use by red team personnel with certain experience.
 - [TheYkk/git-switcher](https://github.com/TheYkk/git-switcher) - Switch between your git profiles easily
@@ -4129,7 +4131,6 @@
 - [Y4er/CVE-2020-14645](https://github.com/Y4er/CVE-2020-14645) - Weblogic CVE-2020-14645 UniversalExtractor JNDI injection getDatabaseMetaData()
 - [BishopFox/rmiscout](https://github.com/BishopFox/rmiscout) - RMIScout uses wordlist and bruteforce strategies to enumerate Java RMI functions and exploit RMI parameter unmarshalling vulnerabilities
 - [pyn3rd/Apache-Tomcat-MongoDB-Remote-Code-Execution](https://github.com/pyn3rd/Apache-Tomcat-MongoDB-Remote-Code-Execution) - Apache Tomcat + MongoDB Remote Code Execution
-- [SigPloiter/SigPloit](https://github.com/SigPloiter/SigPloit) - SigPloit: Telecom Signaling Exploitation Framework - SS7, GTP, Diameter & SIP
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [dschadow/JavaSecurity](https://github.com/dschadow/JavaSecurity) - Java web and command line applications demonstrating various security topics
 - [Skyscanner/sonar-secrets](https://github.com/Skyscanner/sonar-secrets) - SonarQube plugin for identifying hardcoded secrets, such as passwords, API keys, AWS credentials, etc..
@@ -5575,6 +5576,7 @@
 
 ## Others 
 
+- [ryan-wendel/wordlists](https://github.com/ryan-wendel/wordlists) - A collection of wordlists
 - [Torbet/Dot-It-Up](https://github.com/Torbet/Dot-It-Up) - A collection of dotfile scripts, plugins, and clever hacks so that you can become the master of your own OS! 🚀
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.
 - [abhinavporwal/bug-bounty-dorks](https://github.com/abhinavporwal/bug-bounty-dorks) - List of Google Dorks for sites that have responsible disclosure program & bug bounty program
@@ -5873,7 +5875,7 @@
 - [petoolse/petools](https://github.com/petoolse/petools) - PE Tools - Portable executable (PE) manipulation toolkit
 - [sublime-security/static-files](https://github.com/sublime-security/static-files) - A collection of static files maintained by the Sublime team, primarily used for phishing defense.
 - [wcventure/FuzzingPaper](https://github.com/wcventure/FuzzingPaper) - Recent Fuzzing Paper
-- [s0md3v/be-a-hacker](https://github.com/s0md3v/be-a-hacker) - 
+- [s0md3v/be-a-hacker](https://github.com/s0md3v/be-a-hacker) - roadmap for being a self-taught hacker
 - [splunk/botsv3](https://github.com/splunk/botsv3) - Splunk Boss of the SOC version 3 dataset.
 - [splunk/securitydatasets](https://github.com/splunk/securitydatasets) - Home for Splunk security datasets.
 - [outflanknl/Presentations](https://github.com/outflanknl/Presentations) - Presentation material presented by Outflank team members at public events.
@@ -7421,6 +7423,8 @@
 
 ## PowerShell 
 
+- [r-darwish/powershell-config](https://github.com/r-darwish/powershell-config) - Powershell Configuration
+- [ha3ks/AD_Permissions_ReportGEN](https://github.com/ha3ks/AD_Permissions_ReportGEN) - a PowerShell script that *should* give you a list of users and permissions in a .csv that didn't cost $1B
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [majkinetor/pass](https://github.com/majkinetor/pass) - Pass password manager using Powershell
 - [ecspresso/TOTPPowerShellModule](https://github.com/ecspresso/TOTPPowerShellModule) - Module for TOTP Client for PowerShell
@@ -8705,6 +8709,7 @@
 
 ## Python 
 
+- [teknotus/verify-email](https://github.com/teknotus/verify-email) - Tool to check DKIM-Signature of many emails and report results in a spreadsheet
 - [home-assistant-ecosystem/home-assistant-cli](https://github.com/home-assistant-ecosystem/home-assistant-cli) - :computer: Command-line tool for Home Assistant
 - [bashexplode/cs2webconfig](https://github.com/bashexplode/cs2webconfig) - Convert Cobalt Strike profiles to IIS web.config files
 - [mandiant/apooxml](https://github.com/mandiant/apooxml) - Generate YARA rules for OOXML documents.
@@ -8819,7 +8824,7 @@
 - [analyticsearch/AddJS2PDF](https://github.com/analyticsearch/AddJS2PDF) - 
 - [AidenPearce369/exif-gps-tracer](https://github.com/AidenPearce369/exif-gps-tracer) - A python script which allows you to parse GeoLocation data from your Image files stored in a dataset.It also produces output in CSV file and also in HTML Google Maps
 - [ssh-mitm/ssh-mitm](https://github.com/ssh-mitm/ssh-mitm) - ssh mitm server for security audits supporting public key authentication, session hijacking and file manipulation
-- [joshschmelzle/lswifi](https://github.com/joshschmelzle/lswifi) - a CLI Wi-Fi scanner for Windows
+- [joshschmelzle/lswifi](https://github.com/joshschmelzle/lswifi) - a CLI-centric Wi-Fi scanner for Windows
 - [reb311ion/CapaExplorer](https://github.com/reb311ion/CapaExplorer) - Capa analysis importer for Ghidra.
 - [loseys/Oblivion](https://github.com/loseys/Oblivion) - Data leak checker & OSINT Tool
 - [Den1al/JSShell](https://github.com/Den1al/JSShell) - An interactive multi-user web JS shell
@@ -14013,6 +14018,8 @@
 
 ## Rust 
 
+- [n2kia4/bkm](https://github.com/n2kia4/bkm) - Bookmark manager written in Rust
+- [rabite0/hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy!
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [citronneur/kerlab](https://github.com/citronneur/kerlab) - Kerberos laboratory to better understand and then detecting attack on kerberos
 - [pbzweihander/rust-trending](https://github.com/pbzweihander/rust-trending) - A twitter bot (@RustTrending) to tweet trending rust repositories, inspired by @TrendingGithub
@@ -14114,6 +14121,7 @@
 
 ## Shell 
 
+- [chiraag-nataraj/firejail-profiles](https://github.com/chiraag-nataraj/firejail-profiles) - Tight Firejail profiles
 - [Dheerajmadhukar/karma_v2](https://github.com/Dheerajmadhukar/karma_v2) - ⡷⠂𝚔𝚊𝚛𝚖𝚊 𝚟𝟸⠐⢾ is a Passive Open Source Intelligence (OSINT) Automated Rconnaissance (framework)
 - [GetAmbush/deepx-zsh-plugin](https://github.com/GetAmbush/deepx-zsh-plugin) - 
 - [unixorn/Bash-Snippets](https://github.com/unixorn/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
