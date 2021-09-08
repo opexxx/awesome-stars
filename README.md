@@ -625,7 +625,6 @@
 - [spacehuhn/wifi_ducky](https://github.com/spacehuhn/wifi_ducky) - Upload, save and run keystroke injection payloads with an ESP8266 + ATMEGA32U4
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [CipherShed/CipherShed](https://github.com/CipherShed/CipherShed) - Main CipherShed Development
-- [newaetech/chipwhisperer](https://github.com/newaetech/chipwhisperer) - ChipWhisperer - the complete open-source toolchain for side-channel power analysis and glitching attacks
 - [vysheng/tg](https://github.com/vysheng/tg) - telegram-cli
 - [telegramdesktop/dependencies_windows](https://github.com/telegramdesktop/dependencies_windows) - Compiled dependencies for the windows build
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
@@ -2384,6 +2383,8 @@
 
 ## Go 
 
+- [yehgdotnet/attack](https://github.com/yehgdotnet/attack) - Utilities/scripts/files to assist emulation of MITRE ATT&CK / PRE-ATT&CK prepared by Myo Soe
+- [balook/tools](https://github.com/balook/tools) - These are my private tools for hacking
 - [metal3d/cors-proxy](https://github.com/metal3d/cors-proxy) - A simple proxy to add CORS for other service
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [inbug-team/InScan](https://github.com/inbug-team/InScan) - 边界打点后的自动化渗透工具
@@ -2849,7 +2850,7 @@
 - [bbb31/slurp](https://github.com/bbb31/slurp) - Preventing malicious takeover of the retired slurp AWS tool
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [netevert/delator](https://github.com/netevert/delator) - Golang-based subdomain miner leveraging certificate transparency logs
-- [vmware/terraform-provider-vra7](https://github.com/vmware/terraform-provider-vra7) - Terraform VMware vRA7 provider
+- [vmware/terraform-provider-vra7](https://github.com/vmware/terraform-provider-vra7) - Terraform VMware vRealize Automation 7 provider
 - [mojocn/base64Captcha](https://github.com/mojocn/base64Captcha) - captcha of base64 image string
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
 - [GoogleContainerTools/container-diff](https://github.com/GoogleContainerTools/container-diff) - container-diff: Diff your Docker containers
@@ -2869,7 +2870,7 @@
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [skydive-project/skydive](https://github.com/skydive-project/skydive) - An open source real-time network topology and protocols analyzer
 - [thanasisk/go-ssh-cracker](https://github.com/thanasisk/go-ssh-cracker) - A simple ssh private key password recovery tool written in Go
-- [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet, vSphere, MetalStack, and Kubevirt with minimal TCO.
+- [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, EquinixMetal, vSphere, MetalStack, and Kubevirt with minimal TCO.
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests) - Performance tests and benchmarks
 - [Leoid/MySQL-Injection-Exfiltration-Optimization](https://github.com/Leoid/MySQL-Injection-Exfiltration-Optimization) - MySQL Injection Exfoliation Optimization
@@ -4498,7 +4499,7 @@
 - [ghostwords/chameleon](https://github.com/ghostwords/chameleon) - Browser fingerprinting protection for everybody.
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [bettercap/caplets](https://github.com/bettercap/caplets) - caplets and proxy modules.
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Tiny local JSON database for small projects (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Local JSON database for small projects (supports Node, Electron and the browser)
 - [DFIRKuiper/Kuiper](https://github.com/DFIRKuiper/Kuiper) - Digital Forensics Investigation Platform
 - [EnKrypt/Doppler](https://github.com/EnKrypt/Doppler) - :chart_with_upwards_trend: A zero configuration remote monitoring tool designed to be better than nothing
 - [OfficeDev/office-js](https://github.com/OfficeDev/office-js) - A repo and NPM package for Office.js, corresponding to a copy of what gets published to the official "evergreen" Office.js CDN, at https://appsforoffice.microsoft.com/lib/1/hosted/office.js.
@@ -8740,7 +8741,6 @@
 - [klezVirus/chameleon](https://github.com/klezVirus/chameleon) - PowerShell Script Obfuscator
 - [seed-labs/seed-labs](https://github.com/seed-labs/seed-labs) - SEED Labs developed in the last 20 years.
 - [ztgrace/mole](https://github.com/ztgrace/mole) - Mole is a framework for identifying and exploiting out-of-band application vulnerabilities.
-- [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [3ndG4me/spraygen](https://github.com/3ndG4me/spraygen) - Password list generator for password spraying - prebaked with goodies
 - [Taha-Firoz/DDL2Excel](https://github.com/Taha-Firoz/DDL2Excel) - This is a simple python script that converts DDL for Oracle SQL to excel headings to make creating datasets in excel faster
 - [securisec/chepy](https://github.com/securisec/chepy) - Chepy is a python lib/cli equivalent of the awesome CyberChef tool.
@@ -9150,7 +9150,7 @@
 - [codeinthehole/csvfilter](https://github.com/codeinthehole/csvfilter) - Command-line tool for manipulating CSV data
 - [sepandhaghighi/csv2latex](https://github.com/sepandhaghighi/csv2latex) - 🔧 Simple script in python to convert CSV files to LaTeX table
 - [fabio-miranda/csv-to-influxdb](https://github.com/fabio-miranda/csv-to-influxdb) - Simple python script that inserts data points read from a csv file into a influxdb database.
-- [najiji/csv2sql](https://github.com/najiji/csv2sql) - A small python utility to convert CSV files into SQL insert statements
+- [ThomasDebrunner/csv2sql](https://github.com/ThomasDebrunner/csv2sql) - A small python utility to convert CSV files into SQL insert statements
 - [redsymbol/csv2parquet](https://github.com/redsymbol/csv2parquet) - Create Parquet files from CSV
 - [rufuspollock/csv2sqlite](https://github.com/rufuspollock/csv2sqlite) - Python script to load CSV to SQLite
 - [Dviros/rbcd-attack](https://github.com/Dviros/rbcd-attack) - Kerberos Resource-Based Constrained Delegation Attack from Outside using Impacket
@@ -11121,7 +11121,7 @@
 - [chadillac/mdns_recon](https://github.com/chadillac/mdns_recon) - Multicast DNS and DNS service discovery daemons deployed on various systems across the Internet are misconfigured and reply to queries targeting their unicast addresses, including requests from their WAN interface. These daemons could be leveraged by attackers for sensitive information disclosure and potentially used in DDoS campaigns for reflection and in some cases amplification.  This vulnerability was made public in cordination with CERT (http://www.kb.cert.org/vuls/id/550620)
 - [OffensivePython/Sniffy](https://github.com/OffensivePython/Sniffy) - A Simple network sniffer implemented on Python 3
 - [jflyup/goMS17-010](https://github.com/jflyup/goMS17-010) - Simple program for detecting if host(s) are vulnerable to SMB exploit(MS17-010)
-- [lijiejie/htpwdScan](https://github.com/lijiejie/htpwdScan) - A python HTTP weak pass scanner
+- [lijiejie/htpwdScan](https://github.com/lijiejie/htpwdScan) - HTTP weak pass scanner
 - [williballenthin/python-ntfs](https://github.com/williballenthin/python-ntfs) - Open source Python library for NTFS analysis
 - [MarkBaggett/ese-analyst](https://github.com/MarkBaggett/ese-analyst) - This is a set of tools for doing forensics analysis on Microsoft ESE databases.
 - [dmtaylor/INDXParse](https://github.com/dmtaylor/INDXParse) - Tool suite for inspecting NTFS artifacts.
@@ -14121,6 +14121,7 @@
 
 ## Shell 
 
+- [gwen001/icmp-send-file](https://github.com/gwen001/icmp-send-file) - send file with ping
 - [chiraag-nataraj/firejail-profiles](https://github.com/chiraag-nataraj/firejail-profiles) - Tight Firejail profiles
 - [Dheerajmadhukar/karma_v2](https://github.com/Dheerajmadhukar/karma_v2) - ⡷⠂𝚔𝚊𝚛𝚖𝚊 𝚟𝟸⠐⢾ is a Passive Open Source Intelligence (OSINT) Automated Rconnaissance (framework)
 - [GetAmbush/deepx-zsh-plugin](https://github.com/GetAmbush/deepx-zsh-plugin) - 
@@ -14156,6 +14157,7 @@
 - [supr4s/VPS-web-hacking-tools](https://github.com/supr4s/VPS-web-hacking-tools) - Automatically install some web hacking/bug bounty tools.
 - [darklotuskdb/sd-goo](https://github.com/darklotuskdb/sd-goo) - Enumerate Subdomains Through Google Dorks
 - [giulianopz/lfcs](https://github.com/giulianopz/lfcs) - Personal notes to prepare for the Linux Foundation Certified System Administrator (LFCS) exam
+- [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [BishopFox/badPods](https://github.com/BishopFox/badPods) - A collection of manifests that will create pods with elevated privileges.
 - [matesz44/scripts](https://github.com/matesz44/scripts) - little helping scripts that I use daily
@@ -15625,6 +15627,7 @@
 
 ## TypeScript 
 
+- [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
 - [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal
 - [cisagov/crossfeed](https://github.com/cisagov/crossfeed) - External monitoring for organization assets
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
@@ -15717,6 +15720,7 @@
 
 ## VHDL 
 
+- [newaetech/chipwhisperer](https://github.com/newaetech/chipwhisperer) - ChipWhisperer - the complete open-source toolchain for side-channel power analysis and glitching attacks
 - [parallella/parallella-hw](https://github.com/parallella/parallella-hw) - Parallella board design files
 
 ## Vala 
