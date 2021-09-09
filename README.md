@@ -2383,6 +2383,8 @@
 
 ## Go 
 
+- [docuowl/docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
+- [konoui/alfred-tldr](https://github.com/konoui/alfred-tldr) - tldr with alfred workflow written in Go
 - [yehgdotnet/attack](https://github.com/yehgdotnet/attack) - Utilities/scripts/files to assist emulation of MITRE ATT&CK / PRE-ATT&CK prepared by Myo Soe
 - [balook/tools](https://github.com/balook/tools) - These are my private tools for hacking
 - [metal3d/cors-proxy](https://github.com/metal3d/cors-proxy) - A simple proxy to add CORS for other service
@@ -2641,7 +2643,7 @@
 - [micrictor/Requestor](https://github.com/micrictor/Requestor) - Defensive counterpart to https://github.com/SpiderLabs/Responder
 - [arnaucube/cryptofun](https://github.com/arnaucube/cryptofun) - Crypto algorithms from scratch. Learning purposes only. ECC, BN128 pairing, Paillier, RSA, Homomorphic computation, ElGamal, Schnorr, ECDSA, BLS, ...
 - [strongdm/comply](https://github.com/strongdm/comply) - Compliance automation framework, focused on SOC2
-- [tiagorlampert/CHAOS](https://github.com/tiagorlampert/CHAOS) - :fire: CHAOS is a Remote Administration Tool that allow generate binaries to control remote operating systems.
+- [tiagorlampert/CHAOS](https://github.com/tiagorlampert/CHAOS) - :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.
 - [assafmo/xioc](https://github.com/assafmo/xioc) - Extract indicators of compromise from text, including "escaped" ones.
 - [x1sec/commit-stream](https://github.com/x1sec/commit-stream) - #OSINT tool for finding Github repositories by extracting commit logs in real time from the Github event API
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
@@ -5577,6 +5579,10 @@
 
 ## Others 
 
+- [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
+- [cncf/glossary](https://github.com/cncf/glossary) - Cloud Native Glossary
+- [learn-anything/chrome-extensions](https://github.com/learn-anything/chrome-extensions) - Awesome Chrome Extensions
+- [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
 - [ryan-wendel/wordlists](https://github.com/ryan-wendel/wordlists) - A collection of wordlists
 - [Torbet/Dot-It-Up](https://github.com/Torbet/Dot-It-Up) - A collection of dotfile scripts, plugins, and clever hacks so that you can become the master of your own OS! 🚀
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.
@@ -8710,6 +8716,7 @@
 
 ## Python 
 
+- [cs1707/tldr-alfred](https://github.com/cs1707/tldr-alfred) - tldr alfred workflow
 - [teknotus/verify-email](https://github.com/teknotus/verify-email) - Tool to check DKIM-Signature of many emails and report results in a spreadsheet
 - [home-assistant-ecosystem/home-assistant-cli](https://github.com/home-assistant-ecosystem/home-assistant-cli) - :computer: Command-line tool for Home Assistant
 - [bashexplode/cs2webconfig](https://github.com/bashexplode/cs2webconfig) - Convert Cobalt Strike profiles to IIS web.config files
