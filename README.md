@@ -2383,6 +2383,8 @@
 
 ## Go 
 
+- [nikitavoloboev/alfred-web-searches](https://github.com/nikitavoloboev/alfred-web-searches) - Alfred workflow to search through any website (easily extendable list)
+- [Antonito/gfile](https://github.com/Antonito/gfile) - Direct file transfer over WebRTC
 - [docuowl/docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
 - [konoui/alfred-tldr](https://github.com/konoui/alfred-tldr) - tldr with alfred workflow written in Go
 - [yehgdotnet/attack](https://github.com/yehgdotnet/attack) - Utilities/scripts/files to assist emulation of MITRE ATT&CK / PRE-ATT&CK prepared by Myo Soe
@@ -3937,6 +3939,7 @@
 - [intezer/linux-explorer](https://github.com/intezer/linux-explorer) - Easy-to-use live forensics toolbox for Linux endpoints
 - [sp1d3r/swf_json_csrf](https://github.com/sp1d3r/swf_json_csrf) - 
 - [bevacqua/hget](https://github.com/bevacqua/hget) - :clap: Render websites in plain text from your terminal
+- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [h-yde/ReconDashboard](https://github.com/h-yde/ReconDashboard) - Dashboard containing various recon tools
 - [deanishe/alfred-searchio](https://github.com/deanishe/alfred-searchio) - Alfred workflow to auto-suggest search results from multiple search engines and languages.
@@ -5458,7 +5461,7 @@
 - [HuskyHacks/ShadowSteal](https://github.com/HuskyHacks/ShadowSteal) - Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation
 - [d4rckh/vaf](https://github.com/d4rckh/vaf) - very advanced (web) fuzzer
 - [khchen/winim](https://github.com/khchen/winim) - Nim's Windows API and COM Library
-- [th3void/zynim](https://github.com/th3void/zynim) - 
+- [th3void/zynix-fusion](https://github.com/th3void/zynix-fusion) - 
 - [byt3bl33d3r/OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim) - My experiments in weaponizing Nim (https://nim-lang.org/)
 
 ## Nunjucks 
@@ -8716,6 +8719,7 @@
 
 ## Python 
 
+- [dorkerdevil/CVE-2021-26084](https://github.com/dorkerdevil/CVE-2021-26084) - Confluence OGNL injection
 - [cs1707/tldr-alfred](https://github.com/cs1707/tldr-alfred) - tldr alfred workflow
 - [teknotus/verify-email](https://github.com/teknotus/verify-email) - Tool to check DKIM-Signature of many emails and report results in a spreadsheet
 - [home-assistant-ecosystem/home-assistant-cli](https://github.com/home-assistant-ecosystem/home-assistant-cli) - :computer: Command-line tool for Home Assistant
@@ -8736,7 +8740,7 @@
 - [undergroundwires/Azure-in-bullet-points](https://github.com/undergroundwires/Azure-in-bullet-points) - ☁️ Azure summary in bullet points
 - [smokeme/payloadGenerator](https://github.com/smokeme/payloadGenerator) - Generate obfuscated meterpreter shells
 - [JayaKumar-pypro/redli](https://github.com/JayaKumar-pypro/redli) - Have you ever wondered: Where does this link go? The REDLI Tool follows the path of the URL. It allows you to see the complete path a redirected URL goes  through. It will show you the full redirection path of URLs, shortened links, or tiny URLs.
-- [STMSolutions/boobsnail](https://github.com/STMSolutions/boobsnail) - BoobSnail allows generating Excel 4.0 XLM macro. Its purpose is to support the RedTeam and BlueTeam in XLM macro generation.
+- [STMCyber/boobsnail](https://github.com/STMCyber/boobsnail) - BoobSnail allows generating Excel 4.0 XLM macro. Its purpose is to support the RedTeam and BlueTeam in XLM macro generation.
 - [fortbridge/Joomla](https://github.com/fortbridge/Joomla) - A chain of vulnerabilities to compromise Joomla &lt;3.9.27
 - [cr0hn/dockerfile-security](https://github.com/cr0hn/dockerfile-security) - Static security checker for Dockerfiles
 - [crsftw/oscp](https://github.com/crsftw/oscp) - 
@@ -10571,7 +10575,6 @@
 - [rajivraj/Admin-Finder](https://github.com/rajivraj/Admin-Finder) - Admin Finder
 - [IQTLabs/poseidon](https://github.com/IQTLabs/poseidon) - Poseidon is a python-based application that leverages software defined networks (SDN) to acquire and then feed network traffic to a number of machine learning techniques.  The machine learning algorithms classify and predict the type of device.
 - [shirosaidev/sharesniffer](https://github.com/shirosaidev/sharesniffer) - Network share sniffer and auto-mounter for crawling remote file systems
-- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework
 - [r0oth3x49/Yv-dl](https://github.com/r0oth3x49/Yv-dl) - Yv-dl is python based Youtube video,audio,playlist downloader and live streamer for Youtube audio and video and also downloads vimeo.com videos
 - [r0oth3x49/acloud-dl](https://github.com/r0oth3x49/acloud-dl) - A cross-platform python based utility to download courses from acloud.guru for personal offline use.
 - [r0oth3x49/cbtnuggets-dl](https://github.com/r0oth3x49/cbtnuggets-dl) - A cross-platform python based utility to download courses from cbtnuggets for personal offline use.
@@ -14430,7 +14433,7 @@
 - [staz0t/hashcatch](https://github.com/staz0t/hashcatch) - Capture handshakes of nearby WiFi networks automatically
 - [wuseman/EMAGNET](https://github.com/wuseman/EMAGNET) - Automated hacking tool that will find leaked databases with 97.1% accurate to grab mail + password together from recent uploads from https://pastebin.com. Bruteforce support for spotify accounts, instagram accounts, ssh servers, microsoft rdp clients and gmail accounts
 - [ptb/mac-setup](https://github.com/ptb/mac-setup) - 
-- [hanchos/shadowsocks-docker](https://github.com/hanchos/shadowsocks-docker) - A docker image of breakwa11/shadowsocks, based on Ubuntu 14.04
+- [verdurex/shadowsocks-docker](https://github.com/verdurex/shadowsocks-docker) - A docker image of breakwa11/shadowsocks, based on Ubuntu 14.04
 - [MartinIngesen/blocklistbuilder](https://github.com/MartinIngesen/blocklistbuilder) - DNS blocklist builder
 - [andli/wipeusb](https://github.com/andli/wipeusb) - A headless Raspberry Pi install for auto-formatting usb drives.
 - [andreanidouglas/dns_response_time](https://github.com/andreanidouglas/dns_response_time) - Measure response time between different DNS providers against several domains
