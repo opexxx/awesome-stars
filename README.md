@@ -5461,7 +5461,6 @@
 - [HuskyHacks/ShadowSteal](https://github.com/HuskyHacks/ShadowSteal) - Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation
 - [d4rckh/vaf](https://github.com/d4rckh/vaf) - very advanced (web) fuzzer
 - [khchen/winim](https://github.com/khchen/winim) - Nim's Windows API and COM Library
-- [th3void/zynix-fusion](https://github.com/th3void/zynix-fusion) - 
 - [byt3bl33d3r/OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim) - My experiments in weaponizing Nim (https://nim-lang.org/)
 
 ## Nunjucks 
@@ -6487,6 +6486,7 @@
 - [tunz/js-vuln-db](https://github.com/tunz/js-vuln-db) - A collection of JavaScript engine CVEs with PoCs
 - [abhishekgoenka/tools-and-utilities](https://github.com/abhishekgoenka/tools-and-utilities) - This repository contains tools and utilities used for developer
 - [vagnerpilar/windbgtree](https://github.com/vagnerpilar/windbgtree) - A command tree based on commands and extensions for Windows Kernel Debugging.
+- [PolishFiltersTeam/KADhosts](https://github.com/PolishFiltersTeam/KADhosts) - Wersja hosts filtrów KAD
 - [AdguardTeam/AdguardForWindows](https://github.com/AdguardTeam/AdguardForWindows) - AdGuard for Windows open bug tracker
 - [slacka/WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [mitchellkrogza/Fail2Ban-Blacklist-JAIL-for-Repeat-Offenders-with-Perma-Extended-Banning](https://github.com/mitchellkrogza/Fail2Ban-Blacklist-JAIL-for-Repeat-Offenders-with-Perma-Extended-Banning) - A customised jail with action and filter file for Fail2Ban. This jail is based on the recidive jail but makes use of a simple text file to enable extended and permanent bans.
@@ -8719,6 +8719,8 @@
 
 ## Python 
 
+- [wolfg1969/oh-my-stars](https://github.com/wolfg1969/oh-my-stars) - An offline CLI tool to search your GitHub Stars.
+- [dolevf/graphw00f](https://github.com/dolevf/graphw00f) - graphw00f is GraphQL Server Engine Fingerprinting utility for software security professionals looking to learn more about what technology is behind a given GraphQL endpoint.
 - [dorkerdevil/CVE-2021-26084](https://github.com/dorkerdevil/CVE-2021-26084) - Confluence OGNL injection
 - [cs1707/tldr-alfred](https://github.com/cs1707/tldr-alfred) - tldr alfred workflow
 - [teknotus/verify-email](https://github.com/teknotus/verify-email) - Tool to check DKIM-Signature of many emails and report results in a spreadsheet
@@ -13545,6 +13547,7 @@
 - [Orange-Cyberdefense/ctf-party](https://github.com/Orange-Cyberdefense/ctf-party) - :flags: A library to enhance and speed up script/exploit writing for CTF players
 - [darkbitio/k8s-mirror](https://github.com/darkbitio/k8s-mirror) - Creates a local mirror of a Kubernetes cluster in a docker container to support offline reviewing
 - [w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet) - Web CTF CheatSheet 🐈
+- [th3void/zynix-fusion](https://github.com/th3void/zynix-fusion) - 
 - [Parallels/vagrant-parallels](https://github.com/Parallels/vagrant-parallels) - Vagrant Parallels Provider
 - [FishermansEnemy/bucket_finder](https://github.com/FishermansEnemy/bucket_finder) - Amazon bucket brute force tool
 - [Shopify/bugbounty-resources](https://github.com/Shopify/bugbounty-resources) - 
@@ -14714,7 +14717,6 @@
 - [jlesage/docker-jdownloader-2](https://github.com/jlesage/docker-jdownloader-2) - Docker container for JDownloader 2
 - [jlesage/docker-makemkv](https://github.com/jlesage/docker-makemkv) - Docker container for MakeMKV
 - [funilrys/dead-hosts](https://github.com/funilrys/dead-hosts) - Moved to https://github.com/dead-hosts.
-- [PolishFiltersTeam/KADhosts](https://github.com/PolishFiltersTeam/KADhosts) - Wersja hosts filtrów KAD
 - [mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites) - This repository contains a list of all web sites I come across that are either hacked with or purposefully hosting malware, ransomware, viruses or trojans.
 - [mitchellkrogza/linux-server-administration-scripts](https://github.com/mitchellkrogza/linux-server-administration-scripts) - Simple bash administration scripts for Linux to make your life easier.
 - [mitchellkrogza/fail2ban-useful-scripts](https://github.com/mitchellkrogza/fail2ban-useful-scripts) - A collection of useful scripts for automation of & easing maintenance of Fail2Ban
