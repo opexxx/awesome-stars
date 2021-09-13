@@ -3542,7 +3542,7 @@
 - [oleksandr/bonjour](https://github.com/oleksandr/bonjour) - mDNS/DNS-SD (also known as Apple Bonjour) library for Go (in pure Go)
 - [ryhanson/checkpot](https://github.com/ryhanson/checkpot) - A tool for checking a hash:pass pot file for hashes from a user:hash file
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-- [kashav/fsql](https://github.com/kashav/fsql) - Find files with SQL
+- [kashav/fsql](https://github.com/kashav/fsql) - Find files with SQL.
 - [deckarep/EasyCert](https://github.com/deckarep/EasyCert) - EasyCert quickly generates web server TLS certificates that have been self-signed by a private certificate authority that it also creates.
 - [square/certigo](https://github.com/square/certigo) - A utility to examine and validate certificates in a variety of formats
 - [SSLMate/certspotter](https://github.com/SSLMate/certspotter) - Certificate Transparency Log Monitor
@@ -5581,6 +5581,7 @@
 
 ## Others 
 
+- [KingOfBugbounty/KingRecon_DOD](https://github.com/KingOfBugbounty/KingRecon_DOD) - 
 - [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 - [cncf/glossary](https://github.com/cncf/glossary) - Cloud Native Glossary
 - [learn-anything/chrome-extensions](https://github.com/learn-anything/chrome-extensions) - Awesome Chrome Extensions
@@ -13541,6 +13542,8 @@
 
 ## Ruby 
 
+- [swdyh/gisty](https://github.com/swdyh/gisty) - yet another command line client for gist
+- [porthunter/gosploit](https://github.com/porthunter/gosploit) - Exploit framework written in Go
 - [unixorn/tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh) - Tumult is a collection of macOS-specific functions and scripts for your shell environment. It is packaged as a ZSH plugin, but can be used in bash/fish as well.
 - [knazarov/homebrew-qemu-virgl](https://github.com/knazarov/homebrew-qemu-virgl) - A homebrew tap for qemu with support for 3d accelerated guests
 - [noraj/vrt-cli](https://github.com/noraj/vrt-cli) - A simple tool to visualize VRT (Vulnerability Rating Taxonomy) from the CLI.
