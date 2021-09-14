@@ -4504,7 +4504,7 @@
 - [ghostwords/chameleon](https://github.com/ghostwords/chameleon) - Browser fingerprinting protection for everybody.
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [bettercap/caplets](https://github.com/bettercap/caplets) - caplets and proxy modules.
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Local JSON database for small projects (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database (supports Node, Electron and the browser)
 - [DFIRKuiper/Kuiper](https://github.com/DFIRKuiper/Kuiper) - Digital Forensics Investigation Platform
 - [EnKrypt/Doppler](https://github.com/EnKrypt/Doppler) - :chart_with_upwards_trend: A zero configuration remote monitoring tool designed to be better than nothing
 - [OfficeDev/office-js](https://github.com/OfficeDev/office-js) - A repo and NPM package for Office.js, corresponding to a copy of what gets published to the official "evergreen" Office.js CDN, at https://appsforoffice.microsoft.com/lib/1/hosted/office.js.
@@ -4512,7 +4512,7 @@
 - [fcavallarin/domdig](https://github.com/fcavallarin/domdig) - DOM XSS scanner for Single Page Applications
 - [hoodoer/WP-XSS-Admin-Funcs](https://github.com/hoodoer/WP-XSS-Admin-Funcs) - JavaScript functions intended to be used as an XSS payload against a WordPress admin account.
 - [balena-io-modules/resin-corvus](https://github.com/balena-io-modules/resin-corvus) - A wrapper around Sentry and Mixpanel that works in the browser, Node and Electron.
-- [itconnects/faker-cli](https://github.com/itconnects/faker-cli) - cli wrapper for fakerjs
+- [lestoni/faker-cli](https://github.com/lestoni/faker-cli) - cli wrapper for fakerjs
 - [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
