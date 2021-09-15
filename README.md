@@ -3768,6 +3768,7 @@
 - [mantvydasb/Red-Team-Infrastructure-Automation](https://github.com/mantvydasb/Red-Team-Infrastructure-Automation) - Disposable and resilient red team infrastructure with Terraform
 - [cloudposse/terraform-aws-jenkins](https://github.com/cloudposse/terraform-aws-jenkins) - Terraform module to build Docker image with Jenkins, save it to an ECR repo, and deploy to Elastic Beanstalk running Docker stack
 - [TomJanetscheck/AzureSecurity](https://github.com/TomJanetscheck/AzureSecurity) - This repository contains code snippets for secure deployments of Azure resources.
+- [rgl/windows-vagrant](https://github.com/rgl/windows-vagrant) - Windows 2012R2/10/2016/2019/2022 Base Vagrant Box (https://app.vagrantup.com/rgl)
 - [apparentlymart/terraform-aws-tf-registry](https://github.com/apparentlymart/terraform-aws-tf-registry) - Terraform module for creating a simple private Terraform registry in AWS with DynamoDB
 - [nozaq/terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline) - Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations and AWS Foundational Security Best Practices.
 - [lbernail/dockeroverlays](https://github.com/lbernail/dockeroverlays) - 
@@ -4417,7 +4418,7 @@
 - [OWASP/cwe-tool](https://github.com/OWASP/cwe-tool) - A command line CWE discovery tool based on OWASP / CAPSEC database of Common Weakness Enumeration.
 - [NexClipper/exporterhub.io](https://github.com/NexClipper/exporterhub.io) - A Curated List of Prometheus Exporters
 - [awslabs/aws-perspective](https://github.com/awslabs/aws-perspective) - AWS Perspective is a solution to visualize AWS Cloud workloads. Using Perspective you can build, customize, and share detailed architecture diagrams of your workloads based on live data from AWS. Perspective works by maintaining an inventory of the AWS resources across your accounts and regions, mapping relationships between them and displaying them in the Web User Interface (Web UI). When you need to make changes to a resource, Perspective saves time by providing a link to the resource in the AWS Console.
-- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is a reconnaissance engine(framework) that does end-to-end reconnaissance with the help of highly configurable scan engines and does information gathering about the target web application. reNgine makes use of various open-source tools and makes a configurable pipeline of reconnaissance.
+- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance with minimal configuration and with the help of reNgine's correlation, it just makes recon effortless.
 - [reimertz/curse-words](https://github.com/reimertz/curse-words) - 
 - [gwen001/github-search](https://github.com/gwen001/github-search) - Tools to perform basic search on GitHub.
 - [fransr/postMessage-tracker](https://github.com/fransr/postMessage-tracker) - A Chrome Extension to track postMessage usage (url, domain and stack) both by logging using CORS and also visually as an extension-icon
@@ -7881,7 +7882,6 @@
 - [dylanmei/packer-windows-templates](https://github.com/dylanmei/packer-windows-templates) - Templates to go with packer-community/packer-windows-plugins
 - [matt9ucci/DockerCompletion](https://github.com/matt9ucci/DockerCompletion) - Docker command completion for PowerShell.
 - [ferventcoder/chocolatey-packages](https://github.com/ferventcoder/chocolatey-packages) - The packages...all about the packages.
-- [rgl/windows-vagrant](https://github.com/rgl/windows-vagrant) - Windows 2012R2/10/2016/2019/2022 Base Vagrant Box (https://app.vagrantup.com/rgl)
 - [linuxkit/lcow](https://github.com/linuxkit/lcow) - Linux containers on Windows built with LinuxKit
 - [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
 - [Flangvik/bashbunny-payloads](https://github.com/Flangvik/bashbunny-payloads) - Payloads for the Hak5 Bash Bunny
@@ -8720,6 +8720,7 @@
 
 ## Python 
 
+- [carnal0wnage/pentesty_scripts](https://github.com/carnal0wnage/pentesty_scripts) - scripts for pentesting
 - [wolfg1969/oh-my-stars](https://github.com/wolfg1969/oh-my-stars) - An offline CLI tool to search your GitHub Stars.
 - [dolevf/graphw00f](https://github.com/dolevf/graphw00f) - graphw00f is GraphQL Server Engine Fingerprinting utility for software security professionals looking to learn more about what technology is behind a given GraphQL endpoint.
 - [dorkerdevil/CVE-2021-26084](https://github.com/dorkerdevil/CVE-2021-26084) - Confluence OGNL injection
