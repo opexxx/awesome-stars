@@ -27,6 +27,7 @@
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Common Lisp](#common-lisp)
+  - [Cython](#cython)
   - [D](#d)
   - [DIGITAL Command Language](#digital-command-language)
   - [Dockerfile](#dockerfile)
@@ -2260,6 +2261,10 @@
 
 - [asciimoo/feedme](https://github.com/asciimoo/feedme) - Lightweight, single-user feed reader
 
+## Cython 
+
+- [gescheit/fastsnmp](https://github.com/gescheit/fastsnmp) - Fast SNMP poller
+
 ## D 
 
 - [MindMac/HideAndroidEmulator](https://github.com/MindMac/HideAndroidEmulator) - Slides and demo resources presented at HITCON 2014 & XCON 2014-"Guess Where I am-Android模拟器躲避的检测与应对"
@@ -2287,7 +2292,6 @@
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes
 - [dukebarman/ghidra-builder](https://github.com/dukebarman/ghidra-builder) - Docker image for building ghidra RE framework from source
 - [robcowart/influx_snmp](https://github.com/robcowart/influx_snmp) - SNMP Data Collection and Analytics with the TICK Stack (Telegraf, InfluxDB, Chronograf and Kapacitor)
-- [veloxyty/elk](https://github.com/veloxyty/elk) - Elasticsearch, Logstash, Kibana and Filebeat
 - [GelosSnake/CyberChefDocker](https://github.com/GelosSnake/CyberChefDocker) - A simple docker for CyberChef Dev environment
 - [jgamblin/NMap-Action](https://github.com/jgamblin/NMap-Action) - A Github Action That Launches an NMap Scan Vulners Scan & Opens A Github Issue With The Findings
 - [obscuritylabs/RAI](https://github.com/obscuritylabs/RAI) - Rapid Attack Infrastructure (RAI)
@@ -2482,7 +2486,7 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [sandstorm/sku](https://github.com/sandstorm/sku) - Sandstorm Kubernetes Client - Convenience tools to interact with Kubernetes
 - [k8gege/LadonGo](https://github.com/k8gege/LadonGo) - Ladon Pentest Scanner framework  全平台Go开源内网渗透扫描器框架,Windows/Linux/Mac内网渗透，使用它可轻松一键批量探测C段、B段、A段存活主机、高危漏洞检测MS17010、SmbGhost，远程执行SSH/Winrm，密码爆破SMB/SSH/FTP/Mysql/Mssql/Oracle/Winrm/HttpBasic/Redis，端口扫描服务识别PortScan指纹识别/HttpBanner/HttpTitle/TcpBanner/Weblogic/Oxid多网卡主机，端口扫描服务识别PortScan。
-- [kotakanbe/go-cve-dictionary](https://github.com/kotakanbe/go-cve-dictionary) - Build a local copy of CVE (NVD and Japanese JVN). Server mode for easy querying.
+- [vulsio/go-cve-dictionary](https://github.com/vulsio/go-cve-dictionary) - Build a local copy of CVE (NVD and Japanese JVN). Server mode for easy querying.
 - [zmap/zgrab2](https://github.com/zmap/zgrab2) - Fast Go Application Scanner
 - [dsopas/rfd-checker](https://github.com/dsopas/rfd-checker) - RFD Checker - security CLI tool to test Reflected File Download issues
 - [policy-hub/policy-hub-cli](https://github.com/policy-hub/policy-hub-cli) - CLI for searching Rego policies
@@ -4438,7 +4442,7 @@
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [ruyadorno/ipt](https://github.com/ruyadorno/ipt) - Interactive Pipe To: The Node.js cli interactive workflow
 - [salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
-- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
+- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [remy/jqterm](https://github.com/remy/jqterm) - A jq as a service (a different take on the the existing playground)
 - [SantiagoTorres/yubikey-webusb](https://github.com/SantiagoTorres/yubikey-webusb) - An example website of Yubikeys and HOTP using webusb
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
@@ -6795,7 +6799,7 @@
 - [espy/Screenlapse](https://github.com/espy/Screenlapse) - A bash script for os x that makes a timelapse video of your screen with ffmpg
 - [secmobi/wiki.secmobi.com](https://github.com/secmobi/wiki.secmobi.com) - SecMobi Wiki is a collection of mobile security resources.
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
-- [fireeye/iocs](https://github.com/fireeye/iocs) - FireEye Publicly Shared Indicators of Compromise (IOCs)
+- [mandiant/iocs](https://github.com/mandiant/iocs) - FireEye Publicly Shared Indicators of Compromise (IOCs)
 - [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police.
 - [shadowbq/Cheat-Sheets](https://github.com/shadowbq/Cheat-Sheets) - Cheat Sheets for Networking, and Programming.
 - [jeanphorn/wordlist](https://github.com/jeanphorn/wordlist) - Collection of some common wordlists such as RDP password, user name list, ssh password wordlist for brute force. IP Cameras Default Passwords.
@@ -6864,7 +6868,6 @@
 - [bhoflack/togaf-template](https://github.com/bhoflack/togaf-template) - Org-mode template for togaf adm document
 - [coreos/coreos-vagrant](https://github.com/coreos/coreos-vagrant) - Minimal Vagrantfile for Container Linux
 - [NARKOZ/guides](https://github.com/NARKOZ/guides) - Design and development guides
-- [nvie/furl](https://github.com/nvie/furl) - URL manipulation made simple.
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [superponible/presentations](https://github.com/superponible/presentations) - 
@@ -10780,7 +10783,7 @@
 - [dungtv543/Dutas](https://github.com/dungtv543/Dutas) - Analysis PE file or Shellcode
 - [polymorf/findcrypt-yara](https://github.com/polymorf/findcrypt-yara) - IDA pro plugin to find crypto constants (and more)
 - [mdsecactivebreach/PowerDNS](https://github.com/mdsecactivebreach/PowerDNS) - PowerDNS: Powershell DNS Delivery
-- [fireeye/rvmi-rekall](https://github.com/fireeye/rvmi-rekall) - Rekall Forensics and Incident Response Framework with rVMI extensions
+- [mandiant/rvmi-rekall](https://github.com/mandiant/rvmi-rekall) - Rekall Forensics and Incident Response Framework with rVMI extensions
 - [pchaigno/dga-collection](https://github.com/pchaigno/dga-collection) - A collection of known Domain Generation Algorithms
 - [arbor/urlzone](https://github.com/arbor/urlzone) - 
 - [mtivadar/qiew](https://github.com/mtivadar/qiew) - Home of Qiew - Reverse engineering tool
@@ -11769,7 +11772,7 @@
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [stamparm/tsusen](https://github.com/stamparm/tsusen) - Network traffic sensor
 - [bez0r/pDNS2](https://github.com/bez0r/pDNS2) - Passive DNS V2
-- [fireeye/flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - [Suspended] FakeNet-NG - Next Generation Dynamic Network Analysis Tool
+- [mandiant/flare-fakenet-ng](https://github.com/mandiant/flare-fakenet-ng) - [Suspended] FakeNet-NG - Next Generation Dynamic Network Analysis Tool
 - [galkan/flashlight](https://github.com/galkan/flashlight) - Pentesters spend too much time during information gathering phase. Flashlight (Fener) provides services to scan network/ports and gather information rapidly on target networks. So Flashlight should be the choice to automate discovery step during a penetration test. In this article, usage of Flashligh application will be explained.
 - [galkan/crowbar](https://github.com/galkan/crowbar) - Crowbar is brute forcing tool that can be used during penetration tests. It is developed to support protocols that are not currently supported by thc-hydra and other popular brute forcing tools.
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
@@ -12318,7 +12321,6 @@
 - [greyshell/exploit_dev](https://github.com/greyshell/exploit_dev) - Helper scripts to assist penetration testing and exploit development
 - [greyshell/python_programming](https://github.com/greyshell/python_programming) - Learning Python
 - [fabianbuechler/analog](https://github.com/fabianbuechler/analog) - Analog is a weblog analysis utility.
-- [gescheit/fastsnmp](https://github.com/gescheit/fastsnmp) - Fast SNMP poller
 - [dropbox/trapperkeeper](https://github.com/dropbox/trapperkeeper) - A suite of tools for ingesting and displaying SNMP traps.
 - [xme/mime2vt](https://github.com/xme/mime2vt) - Unpack MIME attachments from a file and check them against virustotal.com
 - [level12/secretstorage-setup](https://github.com/level12/secretstorage-setup) - Ease setup of SecretStorage in virtualenvs.
@@ -13124,7 +13126,7 @@
 - [martinrusev/imbox](https://github.com/martinrusev/imbox) - Python IMAP for Human beings
 - [sloria/TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
 - [hgn/captcp](https://github.com/hgn/captcp) - A open source program for TCP analysis of PCAP files
-- [fireeye/chopshop](https://github.com/fireeye/chopshop) - Protocol Analysis/Decoder Framework
+- [mandiant/chopshop](https://github.com/mandiant/chopshop) - Protocol Analysis/Decoder Framework
 - [krmaxwell/dns-exfiltration](https://github.com/krmaxwell/dns-exfiltration) - Exfiltrate files via DNS
 - [tecknicaltom/sslyze](https://github.com/tecknicaltom/sslyze) - Fast and Full-Featured SSL Scanner
 - [jmcnamara/XlsxWriter](https://github.com/jmcnamara/XlsxWriter) - A Python module for creating Excel XLSX files.
@@ -14307,7 +14309,7 @@
 - [arudyk/kick.sh](https://github.com/arudyk/kick.sh) - Kicks a host from a wireless network by sending de-authenticating packet.
 - [Cesar-Hack-Gray/infectador-framework](https://github.com/Cesar-Hack-Gray/infectador-framework) - 
 - [peterjenkins1/ipmi-wrapper](https://github.com/peterjenkins1/ipmi-wrapper) - Time saver for ipmitool when pxe booting servers
-- [fireeye/ioc-scanner-CVE-2019-19781](https://github.com/fireeye/ioc-scanner-CVE-2019-19781) - Indicator of Compromise Scanner for CVE-2019-19781
+- [mandiant/ioc-scanner-CVE-2019-19781](https://github.com/mandiant/ioc-scanner-CVE-2019-19781) - Indicator of Compromise Scanner for CVE-2019-19781
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [aress31/smbaudit](https://github.com/aress31/smbaudit) - Perform various SMB-related attacks, particularly useful for testing large Active Directory environments.
 - [ianxtianxt/CVE-2019-19781](https://github.com/ianxtianxt/CVE-2019-19781) - Remote Code Execution Exploit for Citrix Application Delivery Controller and Citrix Gateway [ CVE-2019-19781 ]
@@ -14424,6 +14426,7 @@
 - [awslabs/amazon-guardduty-tester](https://github.com/awslabs/amazon-guardduty-tester) - This script is used to generate some basic detections of the GuardDuty service
 - [awslabs/aws-akka-firehose](https://github.com/awslabs/aws-akka-firehose) - An Akka actor that writes JSON data into Amazon Kinesis Firehose.
 - [aws/amazon-ecs-logs-collector](https://github.com/aws/amazon-ecs-logs-collector) - The script will be used to collect general os logs as well as Docker and ecs-agent logs, it also support to enable debug mode for docker and ecs-agent in Amazon Linux.
+- [awslabs/rds-support-tools](https://github.com/awslabs/rds-support-tools) - Amazon RDS Support Tools contains utilities, sql, scripts and views which are useful in a RDS environment
 - [pi-hole/PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
 - [timsutton/docker-psscriptanalyzer](https://github.com/timsutton/docker-psscriptanalyzer) - 
 - [tweag/terraform-provider-secret](https://github.com/tweag/terraform-provider-secret) - Terraform secret provider
@@ -15562,7 +15565,6 @@
 - [PacktWorkshops/The-SQL-Workshop](https://github.com/PacktWorkshops/The-SQL-Workshop) - A Practical, No-Nonsense Introduction to SQL
 - [runcode-ninja/DerpCon-CTF-2020](https://github.com/runcode-ninja/DerpCon-CTF-2020) - 
 - [cisagov/cset](https://github.com/cisagov/cset) - Cybersecurity Evaluation Tool
-- [awslabs/rds-support-tools](https://github.com/awslabs/rds-support-tools) - Amazon RDS Support Tools contains utilities, sql, scripts and views which are useful in a RDS environment
 
 ## Tcl 
 
