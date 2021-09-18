@@ -1204,6 +1204,7 @@
 
 ## C# # 
 
+- [secdev-01/AllTheThingsExec](https://github.com/secdev-01/AllTheThingsExec) - Executes Blended Managed/Unmanged Exports
 - [SharpC2/SharpC2](https://github.com/SharpC2/SharpC2) - Command and Control Framework written in C#.
 - [CCob/BeaconEye](https://github.com/CCob/BeaconEye) - Hunts out CobaltStrike beacons and logs operator command output
 - [connormcgarr/LittleCorporal](https://github.com/connormcgarr/LittleCorporal) - LittleCorporal: A C# Automated Maldoc Generator
