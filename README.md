@@ -14005,7 +14005,7 @@
 - [mephux/ruby-nessus](https://github.com/mephux/ruby-nessus) - Ruby-Nessus is a ruby interface for the popular Nessus vulnerability scanner.
 - [twitter/twurl](https://github.com/twitter/twurl) - OAuth-enabled curl for the Twitter API
 - [soffes/markdownr.com](https://github.com/soffes/markdownr.com) - A nifty markdown notepad
-- [postmodern/wordlist](https://github.com/postmodern/wordlist) - A Ruby library for generating and working with wordlists.
+- [postmodern/wordlist.rb](https://github.com/postmodern/wordlist.rb) - A Ruby library for generating and working with wordlists.
 - [whymirror/parkplace](https://github.com/whymirror/parkplace) - an amazon s3 clone and bittorrent service (in ruby)
 - [glejeune/Ruby-Graphviz](https://github.com/glejeune/Ruby-Graphviz) - [MIRROR] Ruby interface to the GraphViz graphing tool
 - [tobi/clarity](https://github.com/tobi/clarity) - Web interface for the grep and tail -f unix tools. Useful for real-time log analysis. Remotely related to splunk
