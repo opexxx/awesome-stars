@@ -3971,7 +3971,7 @@
 - [microsoft/TechnicalCommunityContent](https://github.com/microsoft/TechnicalCommunityContent) - includes technical content about Cloud and other technologies, optimized for use within Technical Community Events
 - [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
 - [alexdglover/AWSCodeDeployCourseMaterials](https://github.com/alexdglover/AWSCodeDeployCourseMaterials) - Templates, scripts, revisions, etc that are used in the AWS CodeDeploy course on Udemy and ACloudGuru
-- [droope/droopescan](https://github.com/droope/droopescan) - A plugin-based scanner that aids security researchers in identifying issues with several CMSs, mainly Drupal & Silverstripe.
+- [SamJoan/droopescan](https://github.com/SamJoan/droopescan) - A plugin-based scanner that aids security researchers in identifying issues with several CMSs, mainly Drupal & Silverstripe.
 - [moloch--/RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager)
 - [rapid7/hackazon](https://github.com/rapid7/hackazon) - A modern vulnerable web app
 - [sectalks/sectalks](https://github.com/sectalks/sectalks) - CTFs, solutions and presentations
@@ -11367,7 +11367,7 @@
 - [doomedraven/VirusTotalApi](https://github.com/doomedraven/VirusTotalApi) - VirusTotal Full api
 - [govolution/virtualception](https://github.com/govolution/virtualception) - 
 - [rajeshmajumdar/BruteXSS](https://github.com/rajeshmajumdar/BruteXSS) - BruteXSS is a tool written in python simply to find XSS vulnerabilities in web application. This tool was originally developed by Shawar Khan in CLI. I just redesigned it and made it GUI for more convienience.
-- [droope/pwlist](https://github.com/droope/pwlist) - Password lists obtained from strangers attempting to log in to my server.
+- [SamJoan/pwlist](https://github.com/SamJoan/pwlist) - Password lists obtained from strangers attempting to log in to my server.
 - [PayloadSecurity/VxAPI](https://github.com/PayloadSecurity/VxAPI) - A generic interface and CLI for all endpoints of the Falcon Sandbox API
 - [certsocietegenerale/fame](https://github.com/certsocietegenerale/fame) - FAME Automates Malware Evaluation
 - [indigo-dc/udocker](https://github.com/indigo-dc/udocker) - A basic user tool to execute simple docker containers in batch or interactive systems without root privileges.
