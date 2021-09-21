@@ -2505,7 +2505,7 @@
 - [chenjiandongx/kubectl-images](https://github.com/chenjiandongx/kubectl-images) - 🕸  Show container images used in the cluster.
 - [tilt-dev/ctlptl](https://github.com/tilt-dev/ctlptl) - Making local Kubernetes clusters fun and easy to set up
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
-- [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability.
+- [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh/
 - [slyd0g/WhiteChocolateMacademiaNut](https://github.com/slyd0g/WhiteChocolateMacademiaNut) - Interact with Chromium-based browsers' debug port to view open tabs, installed extensions, and cookies
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Kubernetes Marketplace
@@ -15185,7 +15185,7 @@
 - [JosiahKerley/DockProx](https://github.com/JosiahKerley/DockProx) - An SSL Proxy Handler for Docker hosts
 - [yadutaf/docker-tty.js](https://github.com/yadutaf/docker-tty.js) - Simple tty.js Docker image that  "just works"
 - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
-- [deadmanwalking74/node-startup](https://github.com/deadmanwalking74/node-startup) - Startup script for Linux-based systems for running node app when rebooting using an /etc/init.d script.
+- [ralyodio/node-startup](https://github.com/ralyodio/node-startup) - Startup script for Linux-based systems for running node app when rebooting using an /etc/init.d script.
 - [sexibytes/sexilog](https://github.com/sexibytes/sexilog) - SexiLog is a specific ELK virtual appliance designed for vSphere environment
 - [pyotr777/dockerIaaSTools](https://github.com/pyotr777/dockerIaaSTools) - Tools for creating basic IaaS on Docker containers
 - [l3nz/whaleware](https://github.com/l3nz/whaleware) - A standard startup template for Docker images
@@ -15707,7 +15707,7 @@
 - [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [bkimminich/juice-shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
+- [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [borfast/arrispwgen](https://github.com/borfast/arrispwgen) - A "password of the day" generator for Arris cable modems.
