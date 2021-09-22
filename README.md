@@ -1204,6 +1204,7 @@
 
 ## C# # 
 
+- [arsium/EagleMonitor](https://github.com/arsium/EagleMonitor) - Remote Access Tool Written In C#
 - [secdev-01/AllTheThingsExec](https://github.com/secdev-01/AllTheThingsExec) - Executes Blended Managed/Unmanged Exports
 - [SharpC2/SharpC2](https://github.com/SharpC2/SharpC2) - Command and Control Framework written in C#.
 - [CCob/BeaconEye](https://github.com/CCob/BeaconEye) - Hunts out CobaltStrike beacons and logs operator command output
@@ -1390,7 +1391,7 @@
 - [rtcrowley/StormlightDinosaur](https://github.com/rtcrowley/StormlightDinosaur) - Intrusion Detection C# app for standlone Windows workstations
 - [XenocodeRCE/neo-ConfuserEx](https://github.com/XenocodeRCE/neo-ConfuserEx) - Updated ConfuserEX, an open-source, free obfuscator for .NET applications
 - [djhohnstein/SharpShares](https://github.com/djhohnstein/SharpShares) - Enumerate all network shares in the current domain. Also, can resolve names to IP addresses.
-- [fireeye/DueDLLigence](https://github.com/fireeye/DueDLLigence) - 
+- [mandiant/DueDLLigence](https://github.com/mandiant/DueDLLigence) - 
 - [malcomvetter/CSExec](https://github.com/malcomvetter/CSExec) - An implementation of PSExec in C#
 - [n1xbyte/donutCS](https://github.com/n1xbyte/donutCS) - dem sharp donuts
 - [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org
@@ -1421,7 +1422,7 @@
 - [woanware/wmi-parser](https://github.com/woanware/wmi-parser) - Parses the WMI object database....looking for persistence
 - [djhohnstein/WireTap](https://github.com/djhohnstein/WireTap) - .NET 4.0 Project to interact with video, audio and keyboard hardware.
 - [rvrsh3ll/Sharp-Suite](https://github.com/rvrsh3ll/Sharp-Suite) - My musings with C#
-- [fireeye/SharPersist](https://github.com/fireeye/SharPersist) - 
+- [mandiant/SharPersist](https://github.com/mandiant/SharPersist) - 
 - [GoogleCloudPlatform/iap-desktop](https://github.com/GoogleCloudPlatform/iap-desktop) - IAP Desktop is a Windows application that provides zero-trust Remote Desktop and SSH access to Linux and Windows VMs on Google Cloud.
 - [rvrsh3ll/SharpExcel4-DCOM](https://github.com/rvrsh3ll/SharpExcel4-DCOM) - Port of Invoke-Excel4DCOM
 - [infosecn1nja/SharpDoor](https://github.com/infosecn1nja/SharpDoor) - SharpDoor is alternative RDPWrap written in C# to allowed multiple RDP (Remote Desktop) sessions by patching termsrv.dll file.
@@ -1482,13 +1483,13 @@
 - [malcomvetter/ManagedInjection](https://github.com/malcomvetter/ManagedInjection) - A proof of concept for dynamically loading .net assemblies at runtime with only a minimal convention pre-knowledge
 - [matterpreter/DefenderCheck](https://github.com/matterpreter/DefenderCheck) - Identifies the bytes that Microsoft Defender flags on.
 - [outflanknl/EvilClippy](https://github.com/outflanknl/EvilClippy) - A cross-platform assistant for creating malicious MS Office documents. Can hide VBA macros, stomp VBA code (via P-Code) and confuse macro analysis tools. Runs on Linux, OSX and Windows.
-- [fireeye/SilkETW](https://github.com/fireeye/SilkETW) - 
+- [mandiant/SilkETW](https://github.com/mandiant/SilkETW) - 
 - [falahati/NetworkAdapterSelector](https://github.com/falahati/NetworkAdapterSelector) - A simple solution to let you force bind a program to a specific network adapter
 - [zodiacon/ProcMonX](https://github.com/zodiacon/ProcMonX) - Extended Process Monitor-like tool based on Event Tracing for Windows
 - [anthemtotheego/SharpExec](https://github.com/anthemtotheego/SharpExec) - 
 - [FSecureLABS/SharpGPOAbuse](https://github.com/FSecureLABS/SharpGPOAbuse) - SharpGPOAbuse is a .NET application written in C# that can be used to take advantage of a user's edit rights on a Group Policy Object (GPO) in order to compromise the objects that are controlled by that GPO.
 - [certsocietegenerale/NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity) - Outlook add-in companion to report suspicious mail easily
-- [fireeye/ADFSDump](https://github.com/fireeye/ADFSDump) - 
+- [mandiant/ADFSDump](https://github.com/mandiant/ADFSDump) - 
 - [cobbr/Covenant](https://github.com/cobbr/Covenant) - Covenant is a collaborative .NET C2 framework for red teamers.
 - [samk1/IISPowershellModule](https://github.com/samk1/IISPowershellModule) - IIS Handler for *.ps1 files
 - [rasta-mouse/EWSToolkit](https://github.com/rasta-mouse/EWSToolkit) - Abusing Exchange via EWS
@@ -1864,7 +1865,7 @@
 - [leechristensen/GetNTLMChallenge](https://github.com/leechristensen/GetNTLMChallenge) - Obtains a crackable hash for the current user account
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [maestron/botnets](https://github.com/maestron/botnets) - This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
-- [fireeye/SimplifyGraph](https://github.com/fireeye/SimplifyGraph) - IDA Pro plugin to assist with complex graphs
+- [mandiant/SimplifyGraph](https://github.com/mandiant/SimplifyGraph) - IDA Pro plugin to assist with complex graphs
 - [illera88/Ponce](https://github.com/illera88/Ponce) - IDA 2016 plugin contest winner! Symbolic Execution just one-click away!
 - [oxfemale/XorVarsMacros](https://github.com/oxfemale/XorVarsMacros) - Xor var before compile binary and decrypt var after run binary by decrypt function
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -1940,7 +1941,7 @@
 - [USBGuard/usbguard](https://github.com/USBGuard/usbguard) - USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the system)
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [silentbreaksec/Throwback](https://github.com/silentbreaksec/Throwback) - HTTP/S Beaconing Implant
-- [fireeye/flare-wmi](https://github.com/fireeye/flare-wmi) - 
+- [mandiant/flare-wmi](https://github.com/mandiant/flare-wmi) - 
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [cbucher/console](https://github.com/cbucher/console) - This is a modified version of Console 2 for a better experience under Windows Vista/7/8/10 and a better visual rendering.
 - [sensepost/rattler](https://github.com/sensepost/rattler) - Automated DLL Enumerator
@@ -3159,7 +3160,7 @@
 - [marpie/nmap2json](https://github.com/marpie/nmap2json) - nmap2json converts a NMap XML file to a JSON file.
 - [0x4D31/honeybits](https://github.com/0x4D31/honeybits) - A PoC tool designed to enhance the effectiveness of your traps by spreading breadcrumbs & honeytokens across your systems to lure the attacker toward your honeypots
 - [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
-- [fireeye/gocrack](https://github.com/fireeye/gocrack) - GoCrack is a management frontend for password cracking tools written in Go
+- [mandiant/gocrack](https://github.com/mandiant/gocrack) - GoCrack is a management frontend for password cracking tools written in Go
 - [Ice3man543/SubOver](https://github.com/Ice3man543/SubOver) - A Powerful Subdomain Takeover Tool
 - [auth0/go-jwt-middleware](https://github.com/auth0/go-jwt-middleware) - A Middleware for Go Programming Language to check for JWTs on HTTP requests
 - [bitly/oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
@@ -4486,7 +4487,6 @@
 - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting diagram will be created.
 - [developit/karmatic](https://github.com/developit/karmatic) - 🦑 Easy automatic (headless) browser testing with Jest's API, but powered by Karma & Webpack.
 - [LoranKloeze/WhatsAllApp](https://github.com/LoranKloeze/WhatsAllApp) - Chrome Extension that creates a UI overlay for WhatsApp Web to enumerate phone numbers, profile pics and about texts
-- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [pownjs/pown](https://github.com/pownjs/pown) - Pown.js is a security testing an exploitation toolkit built on top of Node.js and NPM.
 - [google/vsaq](https://github.com/google/vsaq) - VSAQ is an interactive questionnaire application to assess the security programs of third parties.
 - [CaliDog/certstream-js](https://github.com/CaliDog/certstream-js) - Javascript library for connecting to the CertStream network.
@@ -6562,7 +6562,7 @@
 - [jonasjacek/lpic-1-anki-flashcards](https://github.com/jonasjacek/lpic-1-anki-flashcards) - Deck of Anki flashcards for the LPIC-1 (Linux System Administrator) exams 101 and 102 of the Linux Professional Institute (LPI).
 - [v-p-b/avpwn](https://github.com/v-p-b/avpwn) - List of real-world threats against endpoint protection software
 - [pfranusic/why-RSA-works](https://github.com/pfranusic/why-RSA-works) - This paper explains why the Rivest-Shamir-Adleman algorithm (RSA) works.
-- [pstadler/keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and use it with Git and GitHub.
+- [pstadler/keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and using it with Git and GitHub.
 - [sauce-archives/mac-osx-on-kvm](https://github.com/sauce-archives/mac-osx-on-kvm) - Patches to QEMU and KVM so you can virtualize Mac OS X with qemu-kvm
 - [lastcoolnameleft/Conference-Notes](https://github.com/lastcoolnameleft/Conference-Notes) - Notes from various conferences I've attended
 - [RamblingCookieMonster/Git-Presentation](https://github.com/RamblingCookieMonster/Git-Presentation) - Presentation materials for Git and GitHub TechSession
@@ -7488,7 +7488,7 @@
 - [d4rksystem/VBoxCloak](https://github.com/d4rksystem/VBoxCloak) - A PowerShell script that attempts to help malware analysts hide their Windows VirtualBox Windows VM's from malware that may be trying to evade analysis. Guaranteed to bring down your pafish ratings by at least a few points ;)
 - [OSDeploy/OSDBuilder](https://github.com/OSDeploy/OSDBuilder) - PowerShell Module
 - [EvotecIT/GPOZaurr](https://github.com/EvotecIT/GPOZaurr) - Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them.
-- [fireeye/Mandiant-Azure-AD-Investigator](https://github.com/fireeye/Mandiant-Azure-AD-Investigator) - 
+- [mandiant/Mandiant-Azure-AD-Investigator](https://github.com/mandiant/Mandiant-Azure-AD-Investigator) - 
 - [richardhicks/aovpn](https://github.com/richardhicks/aovpn) - PowerShell scripts and sample ProfileXML files for configuring Windows 10 Always On VPN
 - [drewhjelm/iis-hardening](https://github.com/drewhjelm/iis-hardening) - Powershell Script to Harden IIS SSL and TLS
 - [adamdriscoll/PSSecretStore](https://github.com/adamdriscoll/PSSecretStore) - PowerShell wrapper around SecretStore
@@ -7827,7 +7827,7 @@
 - [MichiMunich/Windows10-Privacy](https://github.com/MichiMunich/Windows10-Privacy) - PowerShell script for Windows 10 privacy settings
 - [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 - [nettitude/PoshC2](https://github.com/nettitude/PoshC2) - A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement.
-- [fireeye/commando-vm](https://github.com/fireeye/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com
+- [mandiant/commando-vm](https://github.com/mandiant/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com
 - [DeploymentResearch/DRFiles](https://github.com/DeploymentResearch/DRFiles) - Sample files for the Deployment Research Blog
 - [fugawi/mate](https://github.com/fugawi/mate) - Mitre Att&ck Technique Emulation
 - [0xdea/PowerSploit](https://github.com/0xdea/PowerSploit) - PowerSploit - A PowerShell Post-Exploitation Framework
@@ -8111,7 +8111,7 @@
 - [A-mIn3/WINspect](https://github.com/A-mIn3/WINspect) - Powershell-based Windows Security Auditing Toolbox
 - [JavelinNetworks/HoneypotBuster](https://github.com/JavelinNetworks/HoneypotBuster) - 
 - [EddyErkel/Powershell_updateHostsFile](https://github.com/EddyErkel/Powershell_updateHostsFile) - PowerShell script for @StevenBlack 's hosts project
-- [fireeye/flare-vm](https://github.com/fireeye/flare-vm) - 
+- [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - 
 - [joshuanasiatka/Scripts](https://github.com/joshuanasiatka/Scripts) - Miscellaneous Scripts & Tools
 - [dendory/PowerShell-PDF](https://github.com/dendory/PowerShell-PDF) - Creating PDF reports in PowerShell
 - [danielbohannon/Out-FINcodedCommand](https://github.com/danielbohannon/Out-FINcodedCommand) - POC Highlighting Obfuscation Techniques used by FIN threat actors based on cmd.exe's replace functionality and cmd.exe/powershell.exe's stdin command invocation capabilities
@@ -8888,7 +8888,7 @@
 - [laconicwolf/subdomain-searcher](https://github.com/laconicwolf/subdomain-searcher) - Accepts a domain name and queries multiple sources to return subdomains. Includes option to scan the returned subdomains to check connectivity.
 - [pwndizzle/pybuster](https://github.com/pwndizzle/pybuster) - A multi-target URL bruteforcer
 - [deepseagirl/degoogle](https://github.com/deepseagirl/degoogle) - search Google and extract results directly. skip all the click-through links and other sketchiness
-- [fireeye/GeoLogonalyzer](https://github.com/fireeye/GeoLogonalyzer) - GeoLogonalyzer is a utility to analyze remote access logs for anomalies such as travel feasibility and data center sources.
+- [mandiant/GeoLogonalyzer](https://github.com/mandiant/GeoLogonalyzer) - GeoLogonalyzer is a utility to analyze remote access logs for anomalies such as travel feasibility and data center sources.
 - [TheDen/netmon](https://github.com/TheDen/netmon) - ▁▃▆▇ Network monitor for linux
 - [aniketpanjwani/chomper](https://github.com/aniketpanjwani/chomper) - Internet blocker for the Linux desktop.
 - [rootVIII/git_clones](https://github.com/rootVIII/git_clones) - Git clone all of a Github user's public repositories (download all repositories)
@@ -9426,6 +9426,7 @@
 - [den4uk/andriller](https://github.com/den4uk/andriller) - 📱 Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.
 - [A3M4/YouTube-Report](https://github.com/A3M4/YouTube-Report) - :bar_chart: Generate a personal YouTube report from your Google Takeout data
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [wish-i-was/femida](https://github.com/wish-i-was/femida) - Automated blind-xss search for Burp Suite
 - [cve-search/git-vuln-finder](https://github.com/cve-search/git-vuln-finder) - Finding potential software vulnerabilities from git commit messages
 - [avishayil/caponeme](https://github.com/avishayil/caponeme) - Repository demonstrating the Capital One breach on your AWS account
@@ -9687,7 +9688,7 @@
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [CHEF-KOCH/NSABlocklist](https://github.com/CHEF-KOCH/NSABlocklist) - HOSTS file and research project to block all known NSA / GCHQ / C.I.A. / F.B.I. spying server
 - [lanmaster53/recon-ng-marketplace](https://github.com/lanmaster53/recon-ng-marketplace) - Official module repository for the Recon-ng Framework.
-- [fireeye/stringsifter](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
+- [mandiant/stringsifter](https://github.com/mandiant/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
 - [pyauth/pyotp](https://github.com/pyauth/pyotp) - Python One-Time Password Library
 - [tadeck/onetimepass](https://github.com/tadeck/onetimepass) - One-time password library for HMAC-based (HOTP) and time-based (TOTP) passwords
 - [scivision/findssh](https://github.com/scivision/findssh) - Asyncio concurrent Python finds SSH servers (or other services with open ports) on an IPv4 subnet, WITHOUT NMAP
@@ -9731,7 +9732,7 @@
 - [delvelabs/htcap](https://github.com/delvelabs/htcap) - htcap is a web application scanner able to crawl single page application (SPA) in a recursive manner by intercepting ajax calls and DOM changes.
 - [delvelabs/tachyon](https://github.com/delvelabs/tachyon) - Fast http dead file finder.
 - [arthastang/Router-Exploit-Shovel](https://github.com/arthastang/Router-Exploit-Shovel) - Automated Application Generation for Stack Overflow Types on Wireless Routers
-- [fireeye/flare-emu](https://github.com/fireeye/flare-emu) - 
+- [mandiant/flare-emu](https://github.com/mandiant/flare-emu) - 
 - [Josue87/pwndbTorCredentials](https://github.com/Josue87/pwndbTorCredentials) - 
 - [Josue87/GiveMeSecrets](https://github.com/Josue87/GiveMeSecrets) - Use regular expressions to get sensitive information from a given repository (GitHub, pip or npm).
 - [sandialabs/dr_robot](https://github.com/sandialabs/dr_robot) - This tool can be used to enumerate the subdomains associated with a company by aggregating the results of multiple OSINT (Open Source Intelligence) tools.
@@ -9988,7 +9989,7 @@
 - [mitre/caldera](https://github.com/mitre/caldera) - Scalable Automated Adversary Emulation Platform
 - [mdsecactivebreach/Chameleon](https://github.com/mdsecactivebreach/Chameleon) - Chameleon: A tool for evading Proxy categorisation
 - [infosecn1nja/MaliciousMacroMSBuild](https://github.com/infosecn1nja/MaliciousMacroMSBuild) - Generates Malicious Macro and Execute Powershell or Shellcode via MSBuild Application Whitelisting Bypass.
-- [fireeye/ReelPhish](https://github.com/fireeye/ReelPhish) - 
+- [mandiant/ReelPhish](https://github.com/mandiant/ReelPhish) - 
 - [infosecn1nja/e2modrewrite](https://github.com/infosecn1nja/e2modrewrite) - Convert Empire profiles to Apache mod_rewrite scripts
 - [MindPointGroup/cloudfrunt](https://github.com/MindPointGroup/cloudfrunt) - A tool for identifying misconfigured CloudFront domains
 - [preempt/credssp](https://github.com/preempt/credssp) - A code demonstrating CVE-2018-0886
@@ -10073,7 +10074,7 @@
 - [CrowdStrike/automactc](https://github.com/CrowdStrike/automactc) - AutoMacTC: Automated Mac Forensic Triage Collector
 - [BloodHoundAD/BloodHound-Tools](https://github.com/BloodHoundAD/BloodHound-Tools) - Miscellaneous tools for BloodHound
 - [laincode/shodan-seeker](https://github.com/laincode/shodan-seeker) - Command-line tool using Shodan API. Generates and downloads CSV results, diffing of historic scanning results, alerts and monitoring of specific ports/IPs, etc.
-- [fireeye/ADFSpoof](https://github.com/fireeye/ADFSpoof) - 
+- [mandiant/ADFSpoof](https://github.com/mandiant/ADFSpoof) - 
 - [dowjones/hammer](https://github.com/dowjones/hammer) - Dow Jones Hammer : Protect the cloud with the power of the cloud(AWS)
 - [paranoidninja/CarbonCopy](https://github.com/paranoidninja/CarbonCopy) - A tool which creates a spoofed certificate of any online website and signs an Executable for AV Evasion. Works for both Windows and Linux
 - [wustho/epr](https://github.com/wustho/epr) - CLI Epub Reader
@@ -15903,8 +15904,8 @@
 ## YARA 
 
 - [StrangerealIntel/DailyIOC](https://github.com/StrangerealIntel/DailyIOC) - IOC from articles, tweets for archives
-- [fireeye/sunburst_countermeasures](https://github.com/fireeye/sunburst_countermeasures) - 
-- [fireeye/red_team_tool_countermeasures](https://github.com/fireeye/red_team_tool_countermeasures) - 
+- [mandiant/sunburst_countermeasures](https://github.com/mandiant/sunburst_countermeasures) - 
+- [mandiant/red_team_tool_countermeasures](https://github.com/mandiant/red_team_tool_countermeasures) - 
 - [sbousseaden/YaraHunts](https://github.com/sbousseaden/YaraHunts) - Random hunting ordiented yara rules
 - [advanced-threat-research/Yara-Rules](https://github.com/advanced-threat-research/Yara-Rules) - Repository of YARA rules made by McAfee Enterprise ATR Team
 - [nsacyber/Mitigating-Web-Shells](https://github.com/nsacyber/Mitigating-Web-Shells) - Guidance for mitigation web shells. #nsacyber
