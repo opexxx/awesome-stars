@@ -1842,7 +1842,7 @@
 - [JLospinoso/gargoyle](https://github.com/JLospinoso/gargoyle) - A memory scanning evasion technique
 - [b4rtik/metasploit-execute-assembly](https://github.com/b4rtik/metasploit-execute-assembly) - Custom Metasploit post module to executing a .NET Assembly from Meterpreter session
 - [LordNoteworthy/al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
-- [wangyu-/udp2raw-tunnel](https://github.com/wangyu-/udp2raw-tunnel) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
+- [wangyu-/udp2raw](https://github.com/wangyu-/udp2raw) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
 - [ChadSki/SharpNeedle](https://github.com/ChadSki/SharpNeedle) - Inject C# code into a running process
 - [hlldz/APC-PPID](https://github.com/hlldz/APC-PPID) - Adds a user-mode asynchronous procedure call (APC) object to the APC queue of the specified thread and spoof the Parent Process.
 - [ifding/learning-notes](https://github.com/ifding/learning-notes) - Always Keep Learning
@@ -4487,6 +4487,7 @@
 - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting diagram will be created.
 - [developit/karmatic](https://github.com/developit/karmatic) - 🦑 Easy automatic (headless) browser testing with Jest's API, but powered by Karma & Webpack.
 - [LoranKloeze/WhatsAllApp](https://github.com/LoranKloeze/WhatsAllApp) - Chrome Extension that creates a UI overlay for WhatsApp Web to enumerate phone numbers, profile pics and about texts
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [pownjs/pown](https://github.com/pownjs/pown) - Pown.js is a security testing an exploitation toolkit built on top of Node.js and NPM.
 - [google/vsaq](https://github.com/google/vsaq) - VSAQ is an interactive questionnaire application to assess the security programs of third parties.
 - [CaliDog/certstream-js](https://github.com/CaliDog/certstream-js) - Javascript library for connecting to the CertStream network.
@@ -8999,7 +9000,7 @@
 - [Telefonica/ATTPwn](https://github.com/Telefonica/ATTPwn) - ATTPwn
 - [fO-000/bluescan](https://github.com/fO-000/bluescan) - A powerful Bluetooth scanner
 - [DanMcInerney/dnsspoof](https://github.com/DanMcInerney/dnsspoof) - DNS spoofer. Drops DNS responses from the router and replaces it with the spoofed DNS response
-- [fox-it/mitm6](https://github.com/fox-it/mitm6) - pwning IPv4 via IPv6
+- [dirkjanm/mitm6](https://github.com/dirkjanm/mitm6) - pwning IPv4 via IPv6
 - [DanMcInerney/SMB-reverse-brute](https://github.com/DanMcInerney/SMB-reverse-brute) - Async'ly gather unique usernames thru null SMB sessions and bruteforce them with 2 passwords
 - [DanMcInerney/smb-autopwn](https://github.com/DanMcInerney/smb-autopwn) - Discovers and exploits hosts vulnerable to MS08-067/MS17-010
 - [EnableSecurity/sipvicious](https://github.com/EnableSecurity/sipvicious) - SIPVicious OSS is a set of security tools that can be used to audit SIP based VoIP systems.
@@ -9014,7 +9015,7 @@
 - [Tib3rius/AutoRecon](https://github.com/Tib3rius/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
 - [mnemonic-no/SNIcat](https://github.com/mnemonic-no/SNIcat) - SNIcat
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale
-- [Verizon/redshell](https://github.com/Verizon/redshell) - 
+- [Verizon/redshell](https://github.com/Verizon/redshell) - An interactive command prompt for red teaming and pentesting. Pushes commands through proxychains via Cobalt Strike beacon socks proxies or custom proxies. Automatically logs activities on a Cobalt Strike teamserver and/or local files.
 - [JettChenT/scan-for-webcams](https://github.com/JettChenT/scan-for-webcams) - scan for webcams on the internet
 - [s0md3v/Zen](https://github.com/s0md3v/Zen) - Find emails of Github users
 - [adnane-X-tebbaa/Katana](https://github.com/adnane-X-tebbaa/Katana) - A Python Tool For google Hacking
@@ -9426,7 +9427,6 @@
 - [den4uk/andriller](https://github.com/den4uk/andriller) - 📱 Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.
 - [A3M4/YouTube-Report](https://github.com/A3M4/YouTube-Report) - :bar_chart: Generate a personal YouTube report from your Google Takeout data
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
-- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [wish-i-was/femida](https://github.com/wish-i-was/femida) - Automated blind-xss search for Burp Suite
 - [cve-search/git-vuln-finder](https://github.com/cve-search/git-vuln-finder) - Finding potential software vulnerabilities from git commit messages
 - [avishayil/caponeme](https://github.com/avishayil/caponeme) - Repository demonstrating the Capital One breach on your AWS account
@@ -11710,7 +11710,7 @@
 - [mkorman90/VolatilityBot](https://github.com/mkorman90/VolatilityBot) - VolatilityBot – An automated memory analyzer for malware samples and memory dumps
 - [karttoon/dnsQmon](https://github.com/karttoon/dnsQmon) - dnsQmon - Linux Python DNS Query Monitor
 - [karttoon/shellbug](https://github.com/karttoon/shellbug) - Basic command line, text-based, shellcode debugger.
-- [fireeye/flare-floss](https://github.com/fireeye/flare-floss) - FireEye Labs Obfuscated String Solver - Automatically extract obfuscated strings from malware.
+- [mandiant/flare-floss](https://github.com/mandiant/flare-floss) - FireEye Labs Obfuscated String Solver - Automatically extract obfuscated strings from malware.
 - [Grazfather/GrayHatPython](https://github.com/Grazfather/GrayHatPython) - _Working_ examples from Grayhat Python
 - [Grazfather/PracticalMalwareLabs](https://github.com/Grazfather/PracticalMalwareLabs) - Keep track of the labs from the book "Practical Malware Analysis"
 - [JeffreyMFarley/aws-flash](https://github.com/JeffreyMFarley/aws-flash) - Study guide for AWS Certification
