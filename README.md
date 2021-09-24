@@ -354,7 +354,7 @@
 - [itm4n/PPLdump](https://github.com/itm4n/PPLdump) - Dump the memory of a PPL with a userland exploit
 - [jsecu/CredManBOF](https://github.com/jsecu/CredManBOF) - 
 - [Mr-Un1k0d3r/EDRs](https://github.com/Mr-Un1k0d3r/EDRs) - 
-- [ADD-SP/ngx_waf](https://github.com/ADD-SP/ngx_waf) - Handy, High performance Nginx firewall module & 方便且高性能的 Nginx 防火墙模块
+- [ADD-SP/ngx_waf](https://github.com/ADD-SP/ngx_waf) - Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块
 - [antonioCoco/RemotePotato0](https://github.com/antonioCoco/RemotePotato0) - Just another "Won't Fix" Windows Privilege Escalation from User to Domain Admin.
 - [Leask/Mac-OS-X-Internals](https://github.com/Leask/Mac-OS-X-Internals) - Mac OS X Internals - Amit Singh ( from http://osxbook.com )
 - [hackerschoice/gsocket](https://github.com/hackerschoice/gsocket) - Connect like there is no firewall. Securely.
@@ -3973,7 +3973,6 @@
 - [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
 - [alexdglover/AWSCodeDeployCourseMaterials](https://github.com/alexdglover/AWSCodeDeployCourseMaterials) - Templates, scripts, revisions, etc that are used in the AWS CodeDeploy course on Udemy and ACloudGuru
 - [SamJoan/droopescan](https://github.com/SamJoan/droopescan) - A plugin-based scanner that aids security researchers in identifying issues with several CMSs, mainly Drupal & Silverstripe.
-- [moloch--/RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager)
 - [rapid7/hackazon](https://github.com/rapid7/hackazon) - A modern vulnerable web app
 - [sectalks/sectalks](https://github.com/sectalks/sectalks) - CTFs, solutions and presentations
 - [dxa4481/windowHijacking](https://github.com/dxa4481/windowHijacking) - A demo of altering an opened tab after a timer
@@ -4487,7 +4486,6 @@
 - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting diagram will be created.
 - [developit/karmatic](https://github.com/developit/karmatic) - 🦑 Easy automatic (headless) browser testing with Jest's API, but powered by Karma & Webpack.
 - [LoranKloeze/WhatsAllApp](https://github.com/LoranKloeze/WhatsAllApp) - Chrome Extension that creates a UI overlay for WhatsApp Web to enumerate phone numbers, profile pics and about texts
-- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [pownjs/pown](https://github.com/pownjs/pown) - Pown.js is a security testing an exploitation toolkit built on top of Node.js and NPM.
 - [google/vsaq](https://github.com/google/vsaq) - VSAQ is an interactive questionnaire application to assess the security programs of third parties.
 - [CaliDog/certstream-js](https://github.com/CaliDog/certstream-js) - Javascript library for connecting to the CertStream network.
@@ -6411,7 +6409,7 @@
 - [shariati/OS-Folder-Icons](https://github.com/shariati/OS-Folder-Icons) - A collection of custom folder icons for (Mac, Linux and Windows)
 - [watson/awesome-computer-history](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore
 - [0xAlexei/Publications](https://github.com/0xAlexei/Publications) - My conference presentations and publications
-- [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - A collection of open source and commercial tools that aid in red team operations.
+- [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for red teamer.
 - [ivbeg/awesome-forensicstools](https://github.com/ivbeg/awesome-forensicstools) - Awesome list of digital forensic tools
 - [ksluckow/awesome-symbolic-execution](https://github.com/ksluckow/awesome-symbolic-execution) - A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.
 - [kevthehermit/YaraRules](https://github.com/kevthehermit/YaraRules) - My Yara Rules Collection
@@ -7633,7 +7631,7 @@
 - [S3cur3Th1sSh1t/Invoke-SharpLoader](https://github.com/S3cur3Th1sSh1t/Invoke-SharpLoader) - 
 - [tedhardyMSFT/EventLogUtilities](https://github.com/tedhardyMSFT/EventLogUtilities) - Set of utilities for getting information about Windows Events
 - [dumpsterfirevip/Cloakify-Powershell](https://github.com/dumpsterfirevip/Cloakify-Powershell) - Cloak files using text based steganography output to obsfucate what data they contain. Coded in Powershell.   This is a port of TryCatchHCF's Cloakify written in python
-- [mantvydasb/RedTeam-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques) - Red Teaming Tactics and Techniques
+- [mantvydasb/RedTeaming-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques) - Red Teaming Tactics and Techniques
 - [dfkt/win10-unfuck](https://github.com/dfkt/win10-unfuck) - Remove anti-privacy, anti-security, and general nuisance "features" from Windows 10.
 - [gtworek/PSBits](https://github.com/gtworek/PSBits) - Simple (relatively) things allowing you to dig a bit deeper than usual.
 - [jepayneMSFT/WEFFLES](https://github.com/jepayneMSFT/WEFFLES) - Build a fast, free, and effective Threat Hunting/Incident Response Console with Windows Event Forwarding and PowerBI
@@ -9040,7 +9038,7 @@
 - [initstring/cloud_enum](https://github.com/initstring/cloud_enum) - Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
 - [calebstewart/pwncat](https://github.com/calebstewart/pwncat) - Fancy reverse and bind shell handler
 - [r0075h3ll/Oralyzer](https://github.com/r0075h3ll/Oralyzer) - Open Redirection Analyzer
-- [fireeye/capa](https://github.com/fireeye/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
+- [mandiant/capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
 - [dtmsecurity/bof_helper](https://github.com/dtmsecurity/bof_helper) - Beacon Object File (BOF) Creation Helper
 - [maxpl0it/CVE-2020-1350-DoS](https://github.com/maxpl0it/CVE-2020-1350-DoS) - A denial-of-service proof-of-concept for CVE-2020-1350
 - [theserverlessway/awsie](https://github.com/theserverlessway/awsie) - CloudFormation aware wrapper for the AWSCLI
@@ -9427,6 +9425,7 @@
 - [den4uk/andriller](https://github.com/den4uk/andriller) - 📱 Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.
 - [A3M4/YouTube-Report](https://github.com/A3M4/YouTube-Report) - :bar_chart: Generate a personal YouTube report from your Google Takeout data
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [wish-i-was/femida](https://github.com/wish-i-was/femida) - Automated blind-xss search for Burp Suite
 - [cve-search/git-vuln-finder](https://github.com/cve-search/git-vuln-finder) - Finding potential software vulnerabilities from git commit messages
 - [avishayil/caponeme](https://github.com/avishayil/caponeme) - Repository demonstrating the Capital One breach on your AWS account
@@ -10030,8 +10029,7 @@
 - [Ekultek/WhatBreach](https://github.com/Ekultek/WhatBreach) - OSINT tool to find breached emails, databases, pastes, and relevant information
 - [yassineaboukir/sublert](https://github.com/yassineaboukir/sublert) - Sublert is a security and reconnaissance tool which leverages certificate transparency to automatically monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate.
 - [mvelazc0/PurpleSpray](https://github.com/mvelazc0/PurpleSpray) - PurpleSpray is an adversary simulation tool that executes password spray behavior under different scenarios and conditions with the purpose of generating attack telemetry in properly monitored Windows enterprise environments
-- [blueudp/MetaSeal](https://github.com/blueudp/MetaSeal) - MetaSeal is a tool designed to extract metadata from the files of a web page, obtaining sensitive information and classifying it
-- [blueudp/Deep-Explorer](https://github.com/blueudp/Deep-Explorer) - Deep Explorer is a tool developed in python which purpose is the search of hidden services in tor network, using Ahmia Browser and crawling the links obtained
+- [blueudp/Deep-Explorer](https://github.com/blueudp/Deep-Explorer) - Deep Explorer is a ( 1 day developed ) tool made in python which purpose is the search of hidden services in tor network, using Ahmia Browser and crawling the links obtained
 - [abdulgaphy/r3con1z3r](https://github.com/abdulgaphy/r3con1z3r) - R3con1z3r is a lightweight Web information gathering tool with an intuitive features written in python. it provides a powerful environment in which open source intelligence (OSINT) web-based footprinting can be conducted quickly and thoroughly.
 - [musafir-py/Hidden-Friends-Finder](https://github.com/musafir-py/Hidden-Friends-Finder) - Hidden Friends Finder (HFF) for Facebook
 - [Sjord/jwtcrack](https://github.com/Sjord/jwtcrack) - Crack the shared secret of a HS256-signed JWT
@@ -11285,6 +11283,7 @@
 - [pbiernat/BlackBox](https://github.com/pbiernat/BlackBox) - A Wargame based on the Matasano Crypto Challenges
 - [sturlamolden/cython-cpp-test](https://github.com/sturlamolden/cython-cpp-test) - This shows how to use Cython to wrap C++
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
+- [moloch--/RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager)
 - [awhitehatter/mailoney](https://github.com/awhitehatter/mailoney) - An SMTP Honeypot
 - [newsapps/beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
 - [mkbrutusproject/MKBRUTUS](https://github.com/mkbrutusproject/MKBRUTUS) - Password bruteforcer for MikroTik devices or boxes running RouterOS
