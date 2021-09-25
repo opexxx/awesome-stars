@@ -3270,7 +3270,7 @@
 - [tomnomnom/gf](https://github.com/tomnomnom/gf) - A wrapper around grep, to help you grep for things
 - [phishdetect/phishdetect](https://github.com/phishdetect/phishdetect) - PhishDetect is a library to help identify phishing pages
 - [tomsteele/pen-utils](https://github.com/tomsteele/pen-utils) - Trivial unixey pentest utilities
-- [mhmdiaa/waybackunifier](https://github.com/mhmdiaa/waybackunifier) - See the history of a file from above
+- [mhmdiaa/chronos](https://github.com/mhmdiaa/chronos) - See the history of a file from above
 - [vsergeev/tinytaptunnel](https://github.com/vsergeev/tinytaptunnel) - a point-to-point layer 2 tap interface tunnel over UDP/IP with HMAC-SHA256 authentication, written in Go.
 - [bsi-group/autorun-logger-server](https://github.com/bsi-group/autorun-logger-server) - Server for receiving autorun data from the clients
 - [Numbers11/rvprxmx](https://github.com/Numbers11/rvprxmx) - A reverse socks5 proxy server and client
@@ -4853,7 +4853,7 @@
 - [megmage/chrome-export-passwords](https://github.com/megmage/chrome-export-passwords) - Show all your chromium passwords in format ready to import in other browser like FireFox
 - [nodemailer/mailparser](https://github.com/nodemailer/mailparser) - Decode mime formatted e-mails
 - [hrbrmstr/pewpew](https://github.com/hrbrmstr/pewpew) - :star: :star: :star: Build your own IP Attack Maps with SOUND!
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech.
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [OWASP/Maturity-Models](https://github.com/OWASP/Maturity-Models) - Node application to help managing Maturity Models like the ones created by BSIMM and OpenSAMM
 - [davidgatti/How-to-Understand-Sockets-Using-IoT](https://github.com/davidgatti/How-to-Understand-Sockets-Using-IoT) - 🙉 A repo to show how to use Sockets with IoT devices
 - [attackercan/js-sniffer](https://github.com/attackercan/js-sniffer) - 
