@@ -3270,7 +3270,7 @@
 - [tomnomnom/gf](https://github.com/tomnomnom/gf) - A wrapper around grep, to help you grep for things
 - [phishdetect/phishdetect](https://github.com/phishdetect/phishdetect) - PhishDetect is a library to help identify phishing pages
 - [tomsteele/pen-utils](https://github.com/tomsteele/pen-utils) - Trivial unixey pentest utilities
-- [mhmdiaa/chronos](https://github.com/mhmdiaa/chronos) - See the history of a file from above
+- [mhmdiaa/chronos](https://github.com/mhmdiaa/chronos) - Extract pieces of info from a web page's Wayback Machine history
 - [vsergeev/tinytaptunnel](https://github.com/vsergeev/tinytaptunnel) - a point-to-point layer 2 tap interface tunnel over UDP/IP with HMAC-SHA256 authentication, written in Go.
 - [bsi-group/autorun-logger-server](https://github.com/bsi-group/autorun-logger-server) - Server for receiving autorun data from the clients
 - [Numbers11/rvprxmx](https://github.com/Numbers11/rvprxmx) - A reverse socks5 proxy server and client
@@ -6409,7 +6409,7 @@
 - [shariati/OS-Folder-Icons](https://github.com/shariati/OS-Folder-Icons) - A collection of custom folder icons for (Mac, Linux and Windows)
 - [watson/awesome-computer-history](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore
 - [0xAlexei/Publications](https://github.com/0xAlexei/Publications) - My conference presentations and publications
-- [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for red teamer.
+- [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
 - [ivbeg/awesome-forensicstools](https://github.com/ivbeg/awesome-forensicstools) - Awesome list of digital forensic tools
 - [ksluckow/awesome-symbolic-execution](https://github.com/ksluckow/awesome-symbolic-execution) - A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.
 - [kevthehermit/YaraRules](https://github.com/kevthehermit/YaraRules) - My Yara Rules Collection
@@ -10340,7 +10340,6 @@
 - [dfirtrack/dfirtrack](https://github.com/dfirtrack/dfirtrack) - DFIRTrack - The Incident Response Tracking Application
 - [kylemcdonald/FreeWifi](https://github.com/kylemcdonald/FreeWifi) - How to get free wifi.
 - [firstlookmedia/gpgsync](https://github.com/firstlookmedia/gpgsync) - :lock: GPG Sync is designed to let users always have up-to-date public keys for other members of their organization
-- [jakeogh/kcl](https://github.com/jakeogh/kcl) - Common functions that I got tried of copying and pasting between apps.
 - [pmaupin/pdfrw](https://github.com/pmaupin/pdfrw) - pdfrw is a pure Python library that reads and writes PDFs
 - [jakeogh/gpgmda-client](https://github.com/jakeogh/gpgmda-client) - gpgmda-client - Client tools for gpgmda
 - [csu/export-saved-reddit](https://github.com/csu/export-saved-reddit) - Export saved Reddit posts into a HTML file for import into Google Chrome.
@@ -12087,7 +12086,6 @@
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [pazz/alot](https://github.com/pazz/alot) - Terminal-based Mail User Agent
 - [jakeogh/dnsgate](https://github.com/jakeogh/dnsgate) - Combine and deduplicate popular /etc/hosts blocking lists.
-- [jakeogh/youtube-dl-wrapper](https://github.com/jakeogh/youtube-dl-wrapper) - Wrapper for youtube-dl to download and play videos.
 - [allfro/pymiproxy](https://github.com/allfro/pymiproxy) - A small and sweet man-in-the-middle proxy capable of doing HTTP and HTTP over SSL.
 - [ahhh/Reverse_DNS_Shell](https://github.com/ahhh/Reverse_DNS_Shell) - A python reverse shell that uses DNS as the c2 channel
 - [nccgroup/Scout2](https://github.com/nccgroup/Scout2) - Security auditing tool for AWS environments
