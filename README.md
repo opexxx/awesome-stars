@@ -4183,7 +4183,7 @@
 - [blobcity/db](https://github.com/blobcity/db) - A blazing fast ACID compliant NoSQL DataLake with support for storing 17 formats of data. Full SQL and DML capabilities along with Java stored procedures for advanced data processing.
 - [slopjong/Erwiz](https://github.com/slopjong/Erwiz) - A tool for text-based entity-relationship diagrams.
 - [square/keywhiz](https://github.com/square/keywhiz) - A system for distributing and managing secrets
-- [limboemu/limbo](https://github.com/limboemu/limbo) - Limbo is a QEMU-based emulator for Android. It currently supports x86, ARM, PowerPC, and Sparc emulation  for Intel x86 and ARM android devices. See wiki https://github.com/limboemu/limbo/wiki for APK download and Instructions.
+- [limboemu/limbo](https://github.com/limboemu/limbo) - Limbo is a QEMU-based emulator for Android. It currently supports x86, ARM, PowerPC, and Sparc emulation  for Intel x86 and ARM android devices. See wiki https://virtualmachinery.weebly.com for APK download and Instructions.
 - [Kr0n0-Android/lazycom](https://github.com/Kr0n0-Android/lazycom) - LazyCom
 - [torakiki/pdfsam](https://github.com/torakiki/pdfsam) - PDFsam, a desktop application to extract pages, split, merge, mix and rotate PDF files
 - [jenkinsci/hashicorp-vault-plugin](https://github.com/jenkinsci/hashicorp-vault-plugin) - Jenkins plugin to populate environment variables from secrets stored in HashiCorp's Vault.
