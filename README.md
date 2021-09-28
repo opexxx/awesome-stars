@@ -17,6 +17,7 @@
   - [Awk](#awk)
   - [Batchfile](#batchfile)
   - [BitBake](#bitbake)
+  - [BlitzBasic](#blitzbasic)
   - [Boo](#boo)
   - [Bro](#bro)
   - [C](#c)
@@ -304,6 +305,9 @@
 ## BitBake 
 
 - [xer0days/BugBounty](https://github.com/xer0days/BugBounty) - Bug Bounty stuffs, payloads, scripts, profiles, tips and tricks, ...
+
+## BlitzBasic 
+
 - [1N3/IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
 
 ## Boo 
@@ -1811,7 +1815,6 @@
 - [AlicanAkyol/sems](https://github.com/AlicanAkyol/sems) - Virtualbox, VirtualMachine, Cuckoo, Anubis, ThreatExpert, Sandboxie, QEMU, Analysis Tools Detection Tools
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [0x09AL/RdpThief](https://github.com/0x09AL/RdpThief) - Extracting Clear Text Passwords from mstsc.exe using API Hooking.
-- [rek7/ddoor](https://github.com/rek7/ddoor) - DDoor - cross platform backdoor using dns txt records
 - [DarthTon/Blackbone](https://github.com/DarthTon/Blackbone) - Windows memory hacking library
 - [broken-e/DragDropConfirm](https://github.com/broken-e/DragDropConfirm) - A simple shell extension for Windows to stop accidental drag and drop moves of folders.
 - [apt69/COMahawk](https://github.com/apt69/COMahawk) - Privilege Escalation: Weaponizing CVE-2019-1405 and CVE-2019-1322
@@ -2675,7 +2678,7 @@
 - [KeizerDev/domainchecker](https://github.com/KeizerDev/domainchecker) - :globe_with_meridians: Check/buy domains from the terminal at your favorite supplier.
 - [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [AutoSpotting/AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances.
+- [cloudutil/AutoSpotting](https://github.com/cloudutil/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances.
 - [tismayil/fockcache](https://github.com/tismayil/fockcache) - FockCache  - Minimalized Test Cache Poisoning
 - [jaeles-project/gospider](https://github.com/jaeles-project/gospider) - Gospider - Fast web spider written in Go
 - [koenrh/s3enum](https://github.com/koenrh/s3enum) - Fast Amazon S3 bucket enumeration tool for pentesters.
@@ -3946,7 +3949,7 @@
 - [intezer/linux-explorer](https://github.com/intezer/linux-explorer) - Easy-to-use live forensics toolbox for Linux endpoints
 - [sp1d3r/swf_json_csrf](https://github.com/sp1d3r/swf_json_csrf) - 
 - [bevacqua/hget](https://github.com/bevacqua/hget) - :clap: Render websites in plain text from your terminal
-- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework
+- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [h-yde/ReconDashboard](https://github.com/h-yde/ReconDashboard) - Dashboard containing various recon tools
 - [deanishe/alfred-searchio](https://github.com/deanishe/alfred-searchio) - Alfred workflow to auto-suggest search results from multiple search engines and languages.
@@ -9805,7 +9808,6 @@
 - [r3vn/badKarma](https://github.com/r3vn/badKarma) - network reconnaissance toolkit
 - [swisskyrepo/DamnWebScanner](https://github.com/swisskyrepo/DamnWebScanner) - Another web vulnerabilities scanner, this extension works on Chrome and Opera
 - [s0md3v/Locky](https://github.com/s0md3v/Locky) - Locky generates "really" strong yet easy to remember passwords.
-- [weaveworks/kubediff](https://github.com/weaveworks/kubediff) - Kubediff: a tool for Kubernetes to show differences between running state and version controlled configuration.
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [willc/RC4-40-brute-office](https://github.com/willc/RC4-40-brute-office) - Guaranteed cracking of M$ Office files using RC4 40-bit encryption
 - [willc/OSCP-stuff](https://github.com/willc/OSCP-stuff) - Where I'll be posting my scripts, guides, cheatsheets, and notes for for my OSCP journey.
@@ -14048,7 +14050,7 @@
 - [Sh1Yo/x8](https://github.com/Sh1Yo/x8) - Hidden parameters discovery suite
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
-- [eloypgz/arplayer](https://github.com/eloypgz/arplayer) - A tool to attack ARP
+- [zer1t0/arplayer](https://github.com/zer1t0/arplayer) - A tool to attack ARP
 - [Lifars/gargamel](https://github.com/Lifars/gargamel) - A forensic evidence acquirer
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
 - [TheBinitGhimire/NtHiM](https://github.com/TheBinitGhimire/NtHiM) - Now, the Host is Mine! - Super Fast Sub-domain Takeover Detection!
@@ -14420,6 +14422,7 @@
 - [bboehmke/docker-rssh](https://github.com/bboehmke/docker-rssh) - Restricted secure shell for SFTP, SCP and RSYNC
 - [matterpreter/getDA.sh](https://github.com/matterpreter/getDA.sh) - Identify common attack paths to get Domain Administrator
 - [avi7611/HTB-writeup-download](https://github.com/avi7611/HTB-writeup-download) - HTB writeup downloader
+- [weaveworks/kubediff](https://github.com/weaveworks/kubediff) - Kubediff: a tool for Kubernetes to show differences between running state and version controlled configuration.
 - [avlis/pxe_coreos](https://github.com/avlis/pxe_coreos) - Dockerfile to build a PXE server of coreOSes in a Docker container
 - [awasilyev/jenkins-container](https://github.com/awasilyev/jenkins-container) - 
 - [awslabs/amazon-guardduty-tester](https://github.com/awslabs/amazon-guardduty-tester) - This script is used to generate some basic detections of the GuardDuty service
@@ -15616,7 +15619,7 @@
 - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex](https://github.com/spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex) - Write Beautiful Curriculum Vitae in LaTex, that ensures twenty seconds reading.
-- [willard-yuan/my-cv-and-resume](https://github.com/willard-yuan/my-cv-and-resume) - :coffee:My resume for a job
+- [willard-yuan/cv-and-resume](https://github.com/willard-yuan/cv-and-resume) - :coffee:My resume for a job
 - [IT-Syndikat/guide-win7clean](https://github.com/IT-Syndikat/guide-win7clean) - a manual guiding you to a clean Windows 7 installation
 - [cies/resume](https://github.com/cies/resume) - My resume as a PDF including the well commented LaTeX source and build instructions.
 - [zellux/resume](https://github.com/zellux/resume) - My resume, generated with moderncv
