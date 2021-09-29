@@ -3691,6 +3691,7 @@
 - [mwgg/passera](https://github.com/mwgg/passera) - [UNSUPPORTED] A small tool to turn any entered passphrase into a strong secure password, allowing you to easily use different strong passwords for different websites without storing them
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [mozilla/tls-observatory](https://github.com/mozilla/tls-observatory) - An observatory for TLS configurations, X509 certificates, and more.
+- [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - [getlantern/enproxy](https://github.com/getlantern/enproxy) - Chained HTTP proxy that supports arbitrary TCP traffic tunneled over HTTP proxies using encapsulated HTTP requests
 - [getlantern/sitescanner](https://github.com/getlantern/sitescanner) - Tunnel scanner
@@ -6148,7 +6149,7 @@
 - [unixorn/sysadmin-reading-list](https://github.com/unixorn/sysadmin-reading-list) - A reading and viewing list for larval stage sysadmins and SREs
 - [fkie-cad/awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) - A curated list of awesome embedded and IoT security resources.
 - [opt9/UZBL-Cheat-Sheet](https://github.com/opt9/UZBL-Cheat-Sheet) - UZBL Cheat Sheet
-- [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into https://shodan.io/ 👩‍💻
+- [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
 - [krmaxwell/coding-entertainment](https://github.com/krmaxwell/coding-entertainment) - Puzzles, challenges, games, CTFs, and other entertainment via coding
 - [OsandaMalith/Exe2Image](https://github.com/OsandaMalith/Exe2Image) - A simple utility to convert EXE files to JPEG images and vice versa.
 - [teterkin/Agile-manifesto-in-ArchiMate](https://github.com/teterkin/Agile-manifesto-in-ArchiMate) - Agile Manifesto in ArchiMate
@@ -12631,7 +12632,6 @@
 - [eurecom-s3/hdd_firmware_tools](https://github.com/eurecom-s3/hdd_firmware_tools) - Tools for viewing and extracting HDD firmware files
 - [PirateBox-Dev/PirateBoxScripts_Webserver](https://github.com/PirateBox-Dev/PirateBoxScripts_Webserver) - PirateBox Scriptcollection for running in Webserver
 - [sqall01/alertR](https://github.com/sqall01/alertR) - A client/server based multi-purpose alarm and monitoring system
-- [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [Kozea/pygal](https://github.com/Kozea/pygal) - PYthon svg GrAph plotting Library
 - [ojilles/data_hacks](https://github.com/ojilles/data_hacks) - Command line utilities for data analysis
 - [OpenSecurityResearch/upek](https://github.com/OpenSecurityResearch/upek) - Various stuff for playing with upek USB fingerprint readers
@@ -14096,7 +14096,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [ANSSI-FR/Binacle](https://github.com/ANSSI-FR/Binacle) - Full-bin indexation of binary files
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
 - [jasonish/evebox](https://github.com/jasonish/evebox) - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [dbohdan/csv2html](https://github.com/dbohdan/csv2html) - Convert CSV files to HTML tables
@@ -15732,6 +15732,7 @@
 ## VBScript 
 
 - [sailay1996/awesome_windows_logical_bugs](https://github.com/sailay1996/awesome_windows_logical_bugs) - collect for learning cases
+- [mgeeky/RobustPentestMacro](https://github.com/mgeeky/RobustPentestMacro) - This is a rich-featured Visual Basic macro code for use during Penetration Testing assignments, implementing various advanced post-exploitation techniques.
 - [rafaelfoster/server-scripts](https://github.com/rafaelfoster/server-scripts) - Some server scripts
 
 ## VCL 
@@ -15838,7 +15839,6 @@
 - [sulealothman/MysteryLegacyPenetrationTools](https://github.com/sulealothman/MysteryLegacyPenetrationTools) - Mystery Legacy Repo is for advanced penetration tools
 - [AlfredoAbarca/FilelessS-C](https://github.com/AlfredoAbarca/FilelessS-C) - This tool helps to Find and Clean a fileless malware based on Powershell execution
 - [Mr-Un1k0d3r/MaliciousMacroGenerator](https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator) - Malicious Macro Generator
-- [mgeeky/RobustPentestMacro](https://github.com/mgeeky/RobustPentestMacro) - This is a rich-featured Visual Basic macro code for use during Penetration Testing assignments, implementing various advanced post-exploitation techniques.
 - [vysecurity/CACTUSTORCH](https://github.com/vysecurity/CACTUSTORCH) - CACTUSTORCH: Payload Generation for Adversary Simulations
 - [mdsecactivebreach/CACTUSTORCH](https://github.com/mdsecactivebreach/CACTUSTORCH) - CACTUSTORCH: Payload Generation for Adversary Simulations
 - [mdsecactivebreach/SharpShooter](https://github.com/mdsecactivebreach/SharpShooter) - Payload Generation Framework
