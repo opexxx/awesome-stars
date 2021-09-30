@@ -1086,7 +1086,7 @@
 - [darkk/redsocks](https://github.com/darkk/redsocks) - transparent TCP-to-proxy redirector
 - [ckolivas/cgminer](https://github.com/ckolivas/cgminer) - ASIC and FPGA miner in c for bitcoin
 - [Hexxeh/rpi-firmware](https://github.com/Hexxeh/rpi-firmware) - Firmware files for the Raspberry Pi
-- [mossmann/hackrf](https://github.com/mossmann/hackrf) - low cost software radio platform
+- [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform
 - [luke-jr/bfgminer](https://github.com/luke-jr/bfgminer) - Modular ASIC/FPGA miner written in C, featuring overclocking, monitoring, fan speed control and remote interface capabilities.
 - [ganglia/monitor-core](https://github.com/ganglia/monitor-core) - Ganglia Monitoring core
 - [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum
@@ -1534,7 +1534,7 @@
 - [Starli0n/TLArchiver](https://github.com/Starli0n/TLArchiver) - Archive media of a Telegram talk (http://telegram.org)
 - [mkropat/MlkPwgen](https://github.com/mkropat/MlkPwgen) - Secure random password generator for .NET and PowerShell
 - [rzander/ruckzuck](https://github.com/rzander/ruckzuck) - software package manager for windows
-- [mwiora/hashPwd](https://github.com/mwiora/hashPwd) - passphrase generator
+- [mrwiora/hashPwd](https://github.com/mrwiora/hashPwd) - passphrase generator
 - [vletoux/ADSecrets](https://github.com/vletoux/ADSecrets) - Set of ultra technical notes about AD
 - [vletoux/pingcastle](https://github.com/vletoux/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
 - [leechristensen/SpoolSample](https://github.com/leechristensen/SpoolSample) - PoC tool to coerce Windows hosts authenticate to other machines via the MS-RPRN RPC interface.  This is possible via other protocols as well.
@@ -2509,7 +2509,7 @@
 - [chenjiandongx/kubectl-images](https://github.com/chenjiandongx/kubectl-images) - 🕸  Show container images used in the cluster.
 - [tilt-dev/ctlptl](https://github.com/tilt-dev/ctlptl) - Making local Kubernetes clusters fun and easy to set up
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
-- [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh/
+- [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh
 - [slyd0g/WhiteChocolateMacademiaNut](https://github.com/slyd0g/WhiteChocolateMacademiaNut) - Interact with Chromium-based browsers' debug port to view open tabs, installed extensions, and cookies
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Kubernetes Marketplace
@@ -3230,7 +3230,7 @@
 - [chrisDeFouRire/tlsproxy](https://github.com/chrisDeFouRire/tlsproxy) - Let's encrypt automatic Docker HTTP and TCP proxy
 - [chrisDeFouRire/CertPump](https://github.com/chrisDeFouRire/CertPump) - go cert pump
 - [kbinani/screenshot](https://github.com/kbinani/screenshot) - Go library to capture desktop to image
-- [mwiora/NAMEinator](https://github.com/mwiora/NAMEinator) - NAMEinator DNS Benchmark tool (namebench successor)
+- [mrwiora/NAMEinator](https://github.com/mrwiora/NAMEinator) - NAMEinator DNS Benchmark tool (namebench successor)
 - [ns3777k/go-shodan](https://github.com/ns3777k/go-shodan) - Shodan API client
 - [alash3al/httpsify](https://github.com/alash3al/httpsify) - a transparent HTTPS termination proxy using letsencrypt with auto certification renewal
 - [UKHomeOffice/repo-security-scanner](https://github.com/UKHomeOffice/repo-security-scanner) - CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
@@ -3786,6 +3786,7 @@
 
 ## HTML 
 
+- [cncf/glossary](https://github.com/cncf/glossary) - Cloud Native Glossary
 - [anki-geo/ultimate-geography](https://github.com/anki-geo/ultimate-geography) - Geography flashcard deck for Anki
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [Woile/gopass-cheat-sheet](https://github.com/Woile/gopass-cheat-sheet) - Cheat Sheet for the awesome gopass
@@ -5592,7 +5593,6 @@
 
 - [KingOfBugbounty/KingRecon_DOD](https://github.com/KingOfBugbounty/KingRecon_DOD) - 
 - [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
-- [cncf/glossary](https://github.com/cncf/glossary) - Cloud Native Glossary
 - [learn-anything/chrome-extensions](https://github.com/learn-anything/chrome-extensions) - Awesome Chrome Extensions
 - [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
 - [ryan-wendel/wordlists](https://github.com/ryan-wendel/wordlists) - A collection of wordlists
@@ -15094,7 +15094,7 @@
 - [Khan/style-guides](https://github.com/Khan/style-guides) - Docs for the Organization
 - [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx (with PHP5 and PHP7)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
-- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Discover the attack surface and prioritize risks with our continuous Attack Surface Management (ASM) platform - Sn1per Professional #pentest #redteam #bugbounty
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Solutions | Sn1perSecurity LLC
 - [dsanson/termpdf](https://github.com/dsanson/termpdf) - barebones graphical pdf/djvu/cbr/image viewer that works inside iTerm2 2.9+ and Kitty
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [firehol/firehol](https://github.com/firehol/firehol) - A firewall for humans...
@@ -15342,7 +15342,7 @@
 - [simonclausen/dnscrypt-autoinstall](https://github.com/simonclausen/dnscrypt-autoinstall) - Automatic installation and configuration of DNSCrypt (on Debian + Redhat like systems). This script will install DNSCrypt and configure it to start on boot and use an optional dnscrypt service.
 - [nccgroup/metasploitavevasion](https://github.com/nccgroup/metasploitavevasion) - Metasploit AV Evasion Tool
 - [sleuthkit/scalpel](https://github.com/sleuthkit/scalpel) - Scalpel is an open source data carving tool. It is not being actively maintained.
-- [StamusNetworks/SELKS](https://github.com/StamusNetworks/SELKS) - A Suricata based IDS/IPS distro
+- [StamusNetworks/SELKS](https://github.com/StamusNetworks/SELKS) - A Suricata based IDS/IPS/NSM distro
 - [jacksoncage/mongo-docker](https://github.com/jacksoncage/mongo-docker) - Instant MongoDB Cluster Environment based on docker
 - [rogaha/docker-desktop](https://github.com/rogaha/docker-desktop) - Docker Desktop enables you to create virtual desktops that can be accessed remotely. It comes with Firefox and Libreoffice already installed!
 - [mirorin/CloudStack_on_Docker](https://github.com/mirorin/CloudStack_on_Docker) - Dockerfile for CloudStack installation
