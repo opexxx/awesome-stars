@@ -15330,7 +15330,7 @@
 - [ktneely/forensics](https://github.com/ktneely/forensics) - shell script to create an image and perform initial examination on a drive
 - [SilverFoxx/Yamas](https://github.com/SilverFoxx/Yamas) - ComaX' Yamas running Spoofa instead of Arpspoof
 - [SilverFoxx/PwnSTAR](https://github.com/SilverFoxx/PwnSTAR) - PwnSTAR (Pwn SofT-Ap scRipt) - for all your fake-AP needs!
-- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments. [Author @ken-reitz]
+- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments
 - [babun/babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!
 - [verisign/dnstop](https://github.com/verisign/dnstop) - dnstop git repo
 - [ikoniaris/dionaea-vagrant](https://github.com/ikoniaris/dionaea-vagrant) - Vagrant configuration to setup a Dionaea honeypot VM
