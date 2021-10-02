@@ -6744,7 +6744,6 @@
 - [kjw0612/awesome-rnn](https://github.com/kjw0612/awesome-rnn) - Recurrent Neural Network - A curated list of resources dedicated to RNN
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 - [Invoke-IR/ForensicPosters](https://github.com/Invoke-IR/ForensicPosters) - 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
 - [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
@@ -8161,8 +8160,8 @@
 - [jamesweakley/TreeSizeHtml](https://github.com/jamesweakley/TreeSizeHtml) - A Powershell clone of the classic TreeSize administrators tool
 - [artisticcheese/IISadmin](https://github.com/artisticcheese/IISadmin) - Base IIS image with IISAdmin and management console
 - [mdsecresearch/LyncSniper](https://github.com/mdsecresearch/LyncSniper) - LyncSniper: A tool for penetration testing Skype for Business and Lync deployments
-- [BleepSec/Check-Service-Paths](https://github.com/BleepSec/Check-Service-Paths) - Powershell script to check for unquoted service paths and insecure service permissions
-- [BleepSec/Get-MS14-068](https://github.com/BleepSec/Get-MS14-068) - Quick and simple powershell script to scan event logs for possible indicators of MS14-068 exploitation
+- [BlueTeamSteve/Check-Service-Paths](https://github.com/BlueTeamSteve/Check-Service-Paths) - Powershell script to check for unquoted service paths and insecure service permissions
+- [BlueTeamSteve/Get-MS14-068](https://github.com/BlueTeamSteve/Get-MS14-068) - Quick and simple powershell script to scan event logs for possible indicators of MS14-068 exploitation
 - [oneoffdallas/check_ioc](https://github.com/oneoffdallas/check_ioc) - Check_ioc is a script to check for various, selectable indicators of compromise on Windows systems via PowerShell and Event Logs. It was primarily written to be run on a schedule from a monitoring engine such as Nagios, however, it may also be run from a command-line (for incident response). For more information on the script and the logic behind it, check out https://www.linuxincluded.com/uncovering-indicators-of-compromise.
 - [dwj7738/PowershellModules](https://github.com/dwj7738/PowershellModules) - My Powershell Modules
 - [Arvanaghi/SessionGopher](https://github.com/Arvanaghi/SessionGopher) - SessionGopher is a PowerShell tool that uses WMI to extract saved session information for remote access tools such as WinSCP, PuTTY, SuperPuTTY, FileZilla, and Microsoft Remote Desktop. It can be run remotely or locally.
@@ -8727,6 +8726,7 @@
 
 ## Python 
 
+- [nyxgeek/AzureAD_Autologon_Brute](https://github.com/nyxgeek/AzureAD_Autologon_Brute) - Brute force attack tool for Azure AD Autologon/Seamless SSO - Source: https://arstechnica.com/information-technology/2021/09/new-azure-active-directory-password-brute-forcing-flaw-has-no-fix/
 - [carnal0wnage/pentesty_scripts](https://github.com/carnal0wnage/pentesty_scripts) - scripts for pentesting
 - [wolfg1969/oh-my-stars](https://github.com/wolfg1969/oh-my-stars) - An offline CLI tool to search your GitHub Stars.
 - [dolevf/graphw00f](https://github.com/dolevf/graphw00f) - graphw00f is GraphQL Server Engine Fingerprinting utility for software security professionals looking to learn more about what technology is behind a given GraphQL endpoint.
@@ -8831,7 +8831,7 @@
 - [Netflix/consoleme](https://github.com/Netflix/consoleme) - A Central Control Plane for AWS Permissions and Access
 - [et0x/xcoder](https://github.com/et0x/xcoder) - A tool for encoding and decoding data in various formats
 - [chipik/SAP_EEM_CVE-2020-6207](https://github.com/chipik/SAP_EEM_CVE-2020-6207) - PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager)
-- [nyxgeek/onedrive_user_enum](https://github.com/nyxgeek/onedrive_user_enum) - pentest tool to enumerate valid onedrive users
+- [nyxgeek/onedrive_user_enum](https://github.com/nyxgeek/onedrive_user_enum) - onedrive user enumeration - pentest tool to enumerate valid onedrive users
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [vagnes/pyparazzi](https://github.com/vagnes/pyparazzi) - Pyparazzi is an scanner that searches websites for links.
 - [mufeedvh/basecrack](https://github.com/mufeedvh/basecrack) - Decode All Bases - Base Scheme Decoder
@@ -15095,6 +15095,7 @@
 - [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx (with PHP5 and PHP7)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Solutions | Sn1perSecurity LLC
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [dsanson/termpdf](https://github.com/dsanson/termpdf) - barebones graphical pdf/djvu/cbr/image viewer that works inside iTerm2 2.9+ and Kitty
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [firehol/firehol](https://github.com/firehol/firehol) - A firewall for humans...
