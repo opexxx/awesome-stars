@@ -4105,7 +4105,7 @@
 
 ## Handlebars 
 
-- [rsapkf/42](https://github.com/rsapkf/42) - @rsapkf's linkroll. Built using mdBook.
+- [rsapkf/42](https://github.com/rsapkf/42) - @rsapkf's linkroll. Built with mdBook.
 
 ## Haskell 
 
@@ -5869,7 +5869,7 @@
 - [nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - A list of resources for those interested in getting started in bug bounties
 - [randorisec/MobileHackingCheatSheet](https://github.com/randorisec/MobileHackingCheatSheet) - Basics on commands/tools/info on how to assess the security of mobile applications
 - [cloudfoundry-tutorials/what-is-cf](https://github.com/cloudfoundry-tutorials/what-is-cf) - Tutorial explaining what is Cloud Foundry, the foundation, etc.
-- [ladyleet/tech-community-slacks](https://github.com/ladyleet/tech-community-slacks) - Here is a list of all the tech community slacks!
+- [thisdot/tech-community-slacks](https://github.com/thisdot/tech-community-slacks) - Here is a list of all the tech community slacks!
 - [pyslackers/learning-resources](https://github.com/pyslackers/learning-resources) - Collection of resources recommended by community members for learning various python programming topics.
 - [chaoseng/wg-chaoseng](https://github.com/chaoseng/wg-chaoseng) - Chaos Engineering Working Group
 - [S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
@@ -9857,7 +9857,7 @@
 - [sham00n/buster](https://github.com/sham00n/buster) - An advanced tool for email reconnaissance
 - [mubix/osx-wificleaner](https://github.com/mubix/osx-wificleaner) - Cleans out "open" wireless connections from OSX machine
 - [paulgb/runipy](https://github.com/paulgb/runipy) - Run IPython notebooks as command-line scripts, generate HTML reports
-- [pastpages/savepagenow](https://github.com/pastpages/savepagenow) - A simple Python wrapper for archive.org's "Save Page Now" capturing service
+- [palewire/savepagenow](https://github.com/palewire/savepagenow) - A simple Python wrapper for archive.org's "Save Page Now" capturing service
 - [alexwebr/sshflow](https://github.com/alexwebr/sshflow) - Proof-of-concept that makes a guess at what applications are being tunneled through an SSH session. It works primarily by analyzing packet sizes and inter-packet timing.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [WebBreacher/WhatsMyName](https://github.com/WebBreacher/WhatsMyName) - This repository has the unified data required to perform user enumeration on various websites. Content is in a JSON file and can easily be used in other projects.
@@ -10492,7 +10492,7 @@
 - [threatlead/opendns](https://github.com/threatlead/opendns) - OpenDNS TLD/Domain Lists.
 - [mahyarnajibi/SNIPER](https://github.com/mahyarnajibi/SNIPER) - SNIPER / AutoFocus is an efficient multi-scale object detection training / inference algorithm
 - [pantsbuild/pex](https://github.com/pantsbuild/pex) - A library and tool for generating .pex (Python EXecutable) files
-- [pastpages/archiveis](https://github.com/pastpages/archiveis) - A simple Python wrapper for the archive.is capturing service
+- [palewire/archiveis](https://github.com/palewire/archiveis) - A simple Python wrapper for the archive.is capturing service
 - [motherboardgithub/mass_archive](https://github.com/motherboardgithub/mass_archive) - A basic tool for pushing a web page to multiple archiving services at once.
 - [botherder/mass_archive](https://github.com/botherder/mass_archive) - A basic tool for pushing a web page to multiple archiving services at once.
 - [s0md3v/Hash-Buster](https://github.com/s0md3v/Hash-Buster) - Crack hashes in seconds.
@@ -14143,7 +14143,7 @@
 
 - [gwen001/icmp-send-file](https://github.com/gwen001/icmp-send-file) - send file with ping
 - [chiraag-nataraj/firejail-profiles](https://github.com/chiraag-nataraj/firejail-profiles) - Tight Firejail profiles
-- [Dheerajmadhukar/karma_v2](https://github.com/Dheerajmadhukar/karma_v2) - ⡷⠂𝚔𝚊𝚛𝚖𝚊 𝚟𝟸⠐⢾ is a Passive Open Source Intelligence (OSINT) Automated Rconnaissance (framework)
+- [Dheerajmadhukar/karma_v2](https://github.com/Dheerajmadhukar/karma_v2) - ⡷⠂𝚔𝚊𝚛𝚖𝚊 𝚟𝟸⠐⢾ is a Passive Open Source Intelligence (OSINT) Automated Reconnaissance (framework)
 - [GetAmbush/deepx-zsh-plugin](https://github.com/GetAmbush/deepx-zsh-plugin) - 
 - [unixorn/Bash-Snippets](https://github.com/unixorn/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [allingeek/nmap-sd](https://github.com/allingeek/nmap-sd) - NMAP powered service discovery for passive service registration.
@@ -14445,7 +14445,7 @@
 - [staz0t/hashcatch](https://github.com/staz0t/hashcatch) - Capture handshakes of nearby WiFi networks automatically
 - [wuseman/EMAGNET](https://github.com/wuseman/EMAGNET) - Automated hacking tool that will find leaked databases with 97.1% accurate to grab mail + password together from recent uploads from https://pastebin.com. Bruteforce support for spotify accounts, instagram accounts, ssh servers, microsoft rdp clients and gmail accounts
 - [ptb/mac-setup](https://github.com/ptb/mac-setup) - 
-- [verdurex/shadowsocks-docker](https://github.com/verdurex/shadowsocks-docker) - A docker image of breakwa11/shadowsocks, based on Ubuntu 14.04
+- [pinelliar/shadowsocks-docker](https://github.com/pinelliar/shadowsocks-docker) - A docker image of breakwa11/shadowsocks, based on Ubuntu 14.04
 - [MartinIngesen/blocklistbuilder](https://github.com/MartinIngesen/blocklistbuilder) - DNS blocklist builder
 - [andli/wipeusb](https://github.com/andli/wipeusb) - A headless Raspberry Pi install for auto-formatting usb drives.
 - [andreanidouglas/dns_response_time](https://github.com/andreanidouglas/dns_response_time) - Measure response time between different DNS providers against several domains
