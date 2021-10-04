@@ -7948,8 +7948,8 @@
 - [dannymas/dannymas](https://github.com/dannymas/dannymas) - pruebas
 - [phroxvs/SysmonElevator](https://github.com/phroxvs/SysmonElevator) - 
 - [salu90/PSFPT](https://github.com/salu90/PSFPT) - Scripts for powershell for pentesters exam
-- [unassassinable/NTLMHashCorrelator](https://github.com/unassassinable/NTLMHashCorrelator) - 
-- [unassassinable/PAW](https://github.com/unassassinable/PAW) - 
+- [utsecnet/NTLMHashCorrelator](https://github.com/utsecnet/NTLMHashCorrelator) - 
+- [utsecnet/PAW](https://github.com/utsecnet/PAW) - 
 - [brwilkinson/GetTier0](https://github.com/brwilkinson/GetTier0) - Tier0 (Tier Zero) Account discovery for ActiveDirectory Security
 - [homjxi0e/PowerAvails](https://github.com/homjxi0e/PowerAvails) - PowerAvails  is a unit of collection of Powershell modules that help you get done many things
 - [scipag/PowerShellUtilities](https://github.com/scipag/PowerShellUtilities) - PowerShellUtilities provides various utility commandlets.
