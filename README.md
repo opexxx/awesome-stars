@@ -10618,7 +10618,7 @@
 - [kurobeats/fimap](https://github.com/kurobeats/fimap) - fimap is a little python tool which can find, prepare, audit, exploit and even google automatically for local and remote file inclusion bugs in webapps.
 - [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems
 - [roglew/pappy-proxy](https://github.com/roglew/pappy-proxy) - An intercepting proxy for web application testing
-- [tijme/angularjs-csti-scanner](https://github.com/tijme/angularjs-csti-scanner) - Automated client-side template injection (sandbox escape/bypass) detection for AngularJS.
+- [tijme/angularjs-csti-scanner](https://github.com/tijme/angularjs-csti-scanner) - Automated client-side template injection (sandbox escape/bypass) detection for AngularJS v1.x.
 - [marvinthepa/mutt-ical](https://github.com/marvinthepa/mutt-ical) - Script to support answering ical invitations from mutt
 - [moloch--/CSP-Bypass](https://github.com/moloch--/CSP-Bypass) - A Burp Plugin for Detecting Weaknesses in Content Security Policies
 - [TheRook/nsshell](https://github.com/TheRook/nsshell) - A DNS connectback shell executed by strings in payloads.txt
@@ -11711,7 +11711,7 @@
 - [mkorman90/VolatilityBot](https://github.com/mkorman90/VolatilityBot) - VolatilityBot – An automated memory analyzer for malware samples and memory dumps
 - [karttoon/dnsQmon](https://github.com/karttoon/dnsQmon) - dnsQmon - Linux Python DNS Query Monitor
 - [karttoon/shellbug](https://github.com/karttoon/shellbug) - Basic command line, text-based, shellcode debugger.
-- [mandiant/flare-floss](https://github.com/mandiant/flare-floss) - FireEye Labs Obfuscated String Solver - Automatically extract obfuscated strings from malware.
+- [mandiant/flare-floss](https://github.com/mandiant/flare-floss) - FLARE Obfuscated String Solver - Automatically extract obfuscated strings from malware.
 - [Grazfather/GrayHatPython](https://github.com/Grazfather/GrayHatPython) - _Working_ examples from Grayhat Python
 - [Grazfather/PracticalMalwareLabs](https://github.com/Grazfather/PracticalMalwareLabs) - Keep track of the labs from the book "Practical Malware Analysis"
 - [JeffreyMFarley/aws-flash](https://github.com/JeffreyMFarley/aws-flash) - Study guide for AWS Certification
@@ -15094,7 +15094,7 @@
 - [Khan/style-guides](https://github.com/Khan/style-guides) - Docs for the Organization
 - [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx (with PHP5 and PHP7)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
-- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Solutions | Sn1perSecurity LLC
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform | Sn1perSecurity LLC
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [dsanson/termpdf](https://github.com/dsanson/termpdf) - barebones graphical pdf/djvu/cbr/image viewer that works inside iTerm2 2.9+ and Kitty
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
