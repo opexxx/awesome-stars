@@ -5578,7 +5578,7 @@
 ## Open Policy Agent 
 
 - [Checkmarx/kics](https://github.com/Checkmarx/kics) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.
-- [fugue/regula](https://github.com/fugue/regula) - Regula checks infrastructure as code templates (Terraform, CloudFormation) for AWS, Azure and Google Cloud security and compliance using Open Policy Agent/Rego
+- [fugue/regula](https://github.com/fugue/regula) - Regula checks infrastructure as code templates (Terraform, CloudFormation, k8s manifests) for AWS, Azure, Google Cloud, and Kubernetes security and compliance using Open Policy Agent/Rego
 
 ## OpenEdge ABL 
 
@@ -9809,6 +9809,7 @@
 - [r3vn/badKarma](https://github.com/r3vn/badKarma) - network reconnaissance toolkit
 - [swisskyrepo/DamnWebScanner](https://github.com/swisskyrepo/DamnWebScanner) - Another web vulnerabilities scanner, this extension works on Chrome and Opera
 - [s0md3v/Locky](https://github.com/s0md3v/Locky) - Locky generates "really" strong yet easy to remember passwords.
+- [weaveworks/kubediff](https://github.com/weaveworks/kubediff) - Kubediff: a tool for Kubernetes to show differences between running state and version controlled configuration.
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [willc/RC4-40-brute-office](https://github.com/willc/RC4-40-brute-office) - Guaranteed cracking of M$ Office files using RC4 40-bit encryption
 - [willc/OSCP-stuff](https://github.com/willc/OSCP-stuff) - Where I'll be posting my scripts, guides, cheatsheets, and notes for for my OSCP journey.
@@ -14422,7 +14423,6 @@
 - [bboehmke/docker-rssh](https://github.com/bboehmke/docker-rssh) - Restricted secure shell for SFTP, SCP and RSYNC
 - [matterpreter/getDA.sh](https://github.com/matterpreter/getDA.sh) - Identify common attack paths to get Domain Administrator
 - [avi7611/HTB-writeup-download](https://github.com/avi7611/HTB-writeup-download) - HTB writeup downloader
-- [weaveworks/kubediff](https://github.com/weaveworks/kubediff) - Kubediff: a tool for Kubernetes to show differences between running state and version controlled configuration.
 - [avlis/pxe_coreos](https://github.com/avlis/pxe_coreos) - Dockerfile to build a PXE server of coreOSes in a Docker container
 - [awasilyev/jenkins-container](https://github.com/awasilyev/jenkins-container) - 
 - [awslabs/amazon-guardduty-tester](https://github.com/awslabs/amazon-guardduty-tester) - This script is used to generate some basic detections of the GuardDuty service
@@ -15497,7 +15497,7 @@
 - [nvie/scripts](https://github.com/nvie/scripts) - A collection of simple and small but useful UNIX shell scripts.
 - [mattheworiordan/Mac-OS-X-Useful-Scripts](https://github.com/mattheworiordan/Mac-OS-X-Useful-Scripts) - Some useful scripts and profile settings that I have built using Mac OS X
 - [sontek/dotfiles](https://github.com/sontek/dotfiles) - My configuration files (.screenrc, .vimrc, .weechat, .bashrc, .gitconfig, etc)
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [mlogic/suspend-usb-device](https://github.com/mlogic/suspend-usb-device) - An easy-to-use script to properly put an USB device into suspend mode that can then be unplugged safely
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [mprovost/rated](https://github.com/mprovost/rated) - A high performance SNMP poller (fork of RTG)
