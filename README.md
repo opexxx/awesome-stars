@@ -4530,7 +4530,7 @@
 - [mitchmoser/sputnik](https://github.com/mitchmoser/sputnik) - Open Source Intelligence Browser Extension
 - [HASH1da1/Gotanda](https://github.com/HASH1da1/Gotanda) - Gotanda is browser Web Extension for OSINT.
 - [lelinhtinh/de4js](https://github.com/lelinhtinh/de4js) - JavaScript Deobfuscator and Unpacker
-- [NickCarneiro/curlconverter](https://github.com/NickCarneiro/curlconverter) - convert curl commands to Python, JavaScript, PHP, R, Go, Rust, Dart, JSON, Ansible, Elixir
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - convert curl commands to Python, JavaScript, PHP, R, Go, Rust, Dart, JSON, Ansible, Elixir
 - [alephdata/aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for.
 - [teamdfir/sift-cli](https://github.com/teamdfir/sift-cli) - CLI tool to manage a SIFT Install
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
@@ -8093,7 +8093,7 @@
 - [merrillmatt011/GmailPersist](https://github.com/merrillmatt011/GmailPersist) - Gmail Knocker
 - [enigma0x3/OutlookPersistence](https://github.com/enigma0x3/OutlookPersistence) - 
 - [xorrior/RemoteRecon](https://github.com/xorrior/RemoteRecon) - Remote Recon and Collection
-- [nyxgeek/o365recon](https://github.com/nyxgeek/o365recon) - retrieve information via O365 with a valid cred
+- [nyxgeek/o365recon](https://github.com/nyxgeek/o365recon) - retrieve information via O365 and AzureAD with a valid cred
 - [LogRhythm-Labs/Endpoint-Lockdown](https://github.com/LogRhythm-Labs/Endpoint-Lockdown) - :lock: Isolate a host from the network using PowerShell
 - [SadProcessor/SomeStuff](https://github.com/SadProcessor/SomeStuff) - Some PowerShell Stuff
 - [vysecurity/ANGRYPUPPY](https://github.com/vysecurity/ANGRYPUPPY) - Bloodhound Attack Path Automation in CobaltStrike
@@ -9601,7 +9601,7 @@
 - [Keramas/Blowhole](https://github.com/Keramas/Blowhole) - Docker auditing and enumeration script.
 - [gfek/Hunting-New-Registered-Domains](https://github.com/gfek/Hunting-New-Registered-Domains) - Hunting Newly Registered Domains
 - [Samsung/cotopaxi](https://github.com/Samsung/cotopaxi) - Set of tools for security testing of Internet of Things devices using specific network IoT protocols
-- [devploit/XORpass](https://github.com/devploit/XORpass) - Encoder to bypass WAF filters using XOR operations
+- [devploit/XORpass](https://github.com/devploit/XORpass) - Encoder to bypass WAF filters using XOR operations.
 - [cy4nguy/Python-Ransomware](https://github.com/cy4nguy/Python-Ransomware) - Complete Python RansomeWare Source Code With Full Decoumetions.
 - [michoo/pci](https://github.com/michoo/pci) - Packet communication investigator
 - [allyomalley/LiveTargetsFinder](https://github.com/allyomalley/LiveTargetsFinder) - Generates lists of live hosts and URLs for targeting, automating the usage of MassDNS, Masscan and nmap to filter out unreachable hosts and gather service information
