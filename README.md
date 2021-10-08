@@ -788,7 +788,6 @@
 - [Cr4sh/WindowsRegistryRootkit](https://github.com/Cr4sh/WindowsRegistryRootkit) - Kernel rootkit, that lives inside the Windows registry values data
 - [GNS3/vpcs](https://github.com/GNS3/vpcs) - Simple Virtual PC Simulator
 - [hfiref0x/DSEFix](https://github.com/hfiref0x/DSEFix) - Windows x64 Driver Signature Enforcement Overrider
-- [yosqueoy/ditsnap](https://github.com/yosqueoy/ditsnap) - An inspection tool for Active Directory database
 - [hdm/juniper-cve-2015-7755](https://github.com/hdm/juniper-cve-2015-7755) - Notes, binaries, and related information from analysis of the CVE-2015-7755 & CVE-2015-7756 issues within Juniper ScreenOS
 - [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
 - [REhints/Publications](https://github.com/REhints/Publications) - Conference slides and White-papers
@@ -5159,7 +5158,6 @@
 - [antono/shelr.tv](https://github.com/antono/shelr.tv) - Shelr.tv - record your shell and publish it
 - [erhardt/Attention-Plotter](https://github.com/erhardt/Attention-Plotter) - d3.js based library for comparing volumes of content from multiple media sources
 - [deck/graphy](https://github.com/deck/graphy) - JavaScript canvas graphing library for drawing line and bar charts as well as scatter plots.
-- [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing
 - [agendav/agendav](https://github.com/agendav/agendav) - A CalDAV web client similar to Google Calendar
 - [1mentat/trustlist](https://github.com/1mentat/trustlist) - Deriving TrustNets from Twitter lists.
 - [adulau/pdns-toolkit](https://github.com/adulau/pdns-toolkit) - Passive DNS visualization and Passive DNS server toolkit
@@ -6380,7 +6378,7 @@
 - [phylaxis/safe-download-version](https://github.com/phylaxis/safe-download-version) - An AppleScript application to check if you are running the current version of Apple's Xprotect definitions and if not, update them.
 - [dns-violations/dns-violations](https://github.com/dns-violations/dns-violations) - List of DNS violations by implementations, software and/or systems
 - [GovReady/NIST-800-53r4-Standards](https://github.com/GovReady/NIST-800-53r4-Standards) - NIST SP 800-53r4 in OpenControl Standard format
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [kennymkchan/interview-questions-in-javascript](https://github.com/kennymkchan/interview-questions-in-javascript) - A mostly reasonable collection of technical software development interview questions solved in Javascript
 - [forter/security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups) - security tips for startups
@@ -8726,6 +8724,7 @@
 
 ## Python 
 
+- [p0dalirius/FindUncommonShares](https://github.com/p0dalirius/FindUncommonShares) - FindUncommonShares.py is a Python equivalent of PowerView's Invoke-ShareFinder.ps1 allowing to quickly find uncommon shares in vast Windows Domains.
 - [nyxgeek/AzureAD_Autologon_Brute](https://github.com/nyxgeek/AzureAD_Autologon_Brute) - Brute force attack tool for Azure AD Autologon/Seamless SSO - Source: https://arstechnica.com/information-technology/2021/09/new-azure-active-directory-password-brute-forcing-flaw-has-no-fix/
 - [carnal0wnage/pentesty_scripts](https://github.com/carnal0wnage/pentesty_scripts) - scripts for pentesting
 - [wolfg1969/oh-my-stars](https://github.com/wolfg1969/oh-my-stars) - An offline CLI tool to search your GitHub Stars.
@@ -12338,7 +12337,6 @@
 - [Maleus/Enumerator](https://github.com/Maleus/Enumerator) - 
 - [jvanasco/metadata_parser](https://github.com/jvanasco/metadata_parser) - python library for getting metadata
 - [brennerm/PyTricks](https://github.com/brennerm/PyTricks) - Collection of less popular features and tricks for the Python programming language
-- [sdimi/datatrends.py](https://github.com/sdimi/datatrends.py) - Reporting tool to detect trends in big datasets
 - [B3nac/Viper-CMD](https://github.com/B3nac/Viper-CMD) - Python shell and netsec tool
 - [jaysw/ipydb](https://github.com/jaysw/ipydb) - Turn your IPython console into a cross-database SQL client
 - [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & interesting talks about programming
@@ -15721,6 +15719,7 @@
 - [tuxracer/simple-storage](https://github.com/tuxracer/simple-storage) - Simple localStorage / sessionStorage supporting objects and arrays
 - [NarrativeScience/log.io](https://github.com/NarrativeScience/log.io) - Real-time log monitoring in your browser
 - [ukyo/mp4.js](https://github.com/ukyo/mp4.js) - mp4 parser
+- [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing
 - [seth-brown/formd](https://github.com/seth-brown/formd) - A Markdown formatting tool
 
 ## VBA 
