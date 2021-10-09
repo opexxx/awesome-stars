@@ -2391,6 +2391,7 @@
 
 ## Go 
 
+- [neex/ghostinthepdf](https://github.com/neex/ghostinthepdf) - 
 - [nikitavoloboev/alfred-web-searches](https://github.com/nikitavoloboev/alfred-web-searches) - Alfred workflow to search through any website (easily extendable list)
 - [Antonito/gfile](https://github.com/Antonito/gfile) - Direct file transfer over WebRTC
 - [docuowl/docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
@@ -4490,6 +4491,7 @@
 - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting diagram will be created.
 - [developit/karmatic](https://github.com/developit/karmatic) - 🦑 Easy automatic (headless) browser testing with Jest's API, but powered by Karma & Webpack.
 - [LoranKloeze/WhatsAllApp](https://github.com/LoranKloeze/WhatsAllApp) - Chrome Extension that creates a UI overlay for WhatsApp Web to enumerate phone numbers, profile pics and about texts
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [pownjs/pown](https://github.com/pownjs/pown) - Pown.js is a security testing an exploitation toolkit built on top of Node.js and NPM.
 - [google/vsaq](https://github.com/google/vsaq) - VSAQ is an interactive questionnaire application to assess the security programs of third parties.
 - [CaliDog/certstream-js](https://github.com/CaliDog/certstream-js) - Javascript library for connecting to the CertStream network.
@@ -5589,6 +5591,7 @@
 
 ## Others 
 
+- [Double2Sky/OffenOsint](https://github.com/Double2Sky/OffenOsint) - Beta release
 - [KingOfBugbounty/KingRecon_DOD](https://github.com/KingOfBugbounty/KingRecon_DOD) - 
 - [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 - [learn-anything/chrome-extensions](https://github.com/learn-anything/chrome-extensions) - Awesome Chrome Extensions
@@ -5810,7 +5813,6 @@
 - [zer0yu/Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike) - cobaltstrike的相关资源汇总 / List of Awesome CobaltStrike Resources
 - [brave/adblock-lists](https://github.com/brave/adblock-lists) - Maintains adblock lists that Brave uses
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
-- [pandasec888/taowu-cobalt-strike](https://github.com/pandasec888/taowu-cobalt-strike) - 
 - [DefensiveOrigins/AtomicPurpleTeam](https://github.com/DefensiveOrigins/AtomicPurpleTeam) - Atomic Purple Team Framework and Lifecycle
 - [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and cheap DIY IP-KVM based on Raspberry Pi
 - [ellerbrock/docker-security-images](https://github.com/ellerbrock/docker-security-images) - :closed_lock_with_key: Docker Container for Penetration Testing & Security
@@ -7439,6 +7441,7 @@
 
 ## PowerShell 
 
+- [peasead/windows-10-sandbox-to-elastic](https://github.com/peasead/windows-10-sandbox-to-elastic) - Rapidly building a Windows 10 system to use for dynamic malware analysis (sandbox), sending data to Elastic Cloud.
 - [r-darwish/powershell-config](https://github.com/r-darwish/powershell-config) - Powershell Configuration
 - [ha3ks/AD_Permissions_ReportGEN](https://github.com/ha3ks/AD_Permissions_ReportGEN) - a PowerShell script that *should* give you a list of users and permissions in a .csv that didn't cost $1B
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
@@ -7577,6 +7580,7 @@
 - [ScorpionesLabs/DVS](https://github.com/ScorpionesLabs/DVS) - D(COM) V(ulnerability) S(canner) AKA Devious swiss army knife - Lateral movement using DCOM Objects
 - [DGG-IT/Match-ADHashes](https://github.com/DGG-IT/Match-ADHashes) - Builds a hashmap of AD NTLM hashes/usernames and iterates through a second list of hashes checking for the existence of each entry in the AD NTLM hashmap
 - [MScholtes/TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - Copies of my 'Script Center' and 'Technet Gallery' publications
+- [pandasec888/taowu-cobalt-strike](https://github.com/pandasec888/taowu-cobalt-strike) - 
 - [swimlane/PSAttck](https://github.com/swimlane/PSAttck) - PSAttck is a light-weight framework for the MITRE ATT&CK Framework.
 - [jimtin/BasicWindowsForensicData](https://github.com/jimtin/BasicWindowsForensicData) - Gets basic windows forensic data
 - [jimtin/HostHunterCore0.1](https://github.com/jimtin/HostHunterCore0.1) - HostHunterCore Public Branch
@@ -9428,7 +9432,6 @@
 - [den4uk/andriller](https://github.com/den4uk/andriller) - 📱 Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.
 - [A3M4/YouTube-Report](https://github.com/A3M4/YouTube-Report) - :bar_chart: Generate a personal YouTube report from your Google Takeout data
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
-- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [wish-i-was/femida](https://github.com/wish-i-was/femida) - Automated blind-xss search for Burp Suite
 - [cve-search/git-vuln-finder](https://github.com/cve-search/git-vuln-finder) - Finding potential software vulnerabilities from git commit messages
 - [avishayil/caponeme](https://github.com/avishayil/caponeme) - Repository demonstrating the Capital One breach on your AWS account
