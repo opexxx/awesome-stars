@@ -7167,7 +7167,7 @@
 - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
 - [riramar/headers](https://github.com/riramar/headers) - Python script to get all response headers from Alexa top sites file and store in a MySQL database.
 - [sandeepl337/FatCat-SQL-Injector-](https://github.com/sandeepl337/FatCat-SQL-Injector-) - This is an automatic SQL Injection tool called as FatCat , Use of FatCat for testing your web application and exploit your application more deeper.  FatCat Features that help you to extract the Database information, Table information, and Column information from web application. Only If it is vulnerable to SQL Injection Vulnerability.
-- [andyyoung/Selective-Tweets](https://github.com/andyyoung/Selective-Tweets) - The Selective Tweets Facebook app for selectively posting tweets to your Facebook profile and/or page(s)
+- [andyjy/Selective-Tweets](https://github.com/andyjy/Selective-Tweets) - The Selective Tweets Facebook app for selectively posting tweets to your Facebook profile and/or page(s)
 - [mnmnc/medved](https://github.com/mnmnc/medved) - web-based DNS zone transfer automation
 - [curlyboi/hashtopus](https://github.com/curlyboi/hashtopus) - Distributed wrapper around oclHashcat
 - [sciguy14/Remote-Wake-Sleep-On-LAN-Server](https://github.com/sciguy14/Remote-Wake-Sleep-On-LAN-Server) - Use a low-power server (such as a Raspberry Pi) to create a remote interface for easily waking up more power-hungry computers
@@ -13281,7 +13281,7 @@
 - [jakxx/Scripts](https://github.com/jakxx/Scripts) - Various scripts
 - [McrCoderDojo/python-intro](https://github.com/McrCoderDojo/python-intro) - A few Python exercises led by hints in comments - for beginners / intermediate
 - [not-kennethreitz/osx-gcc-installer](https://github.com/not-kennethreitz/osx-gcc-installer) - GCC Installer for OSX! Without Xcode!
-- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
+- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [nicolargo/ubuntupostinstall](https://github.com/nicolargo/ubuntupostinstall) - Mon script de post installation d'Ubuntu Desktop
 - [shang-lin/reddit-saved](https://github.com/shang-lin/reddit-saved) - Manage reddit saved links in mongodb
 - [lukasz-s/pakman](https://github.com/lukasz-s/pakman) - Packet Mangler in Python
