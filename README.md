@@ -1264,8 +1264,6 @@
 - [S3cur3Th1sSh1t/Sharp-HackBrowserData](https://github.com/S3cur3Th1sSh1t/Sharp-HackBrowserData) - C# binary with embeded golang hack-browser-data
 - [nccgroup/Carnivore](https://github.com/nccgroup/Carnivore) - Tool for assessing on-premises Microsoft servers authentication such as ADFS, Skype, Exchange, and RDWeb
 - [cube0x0/SharpMapExec](https://github.com/cube0x0/SharpMapExec) - 
-- [ZeroPointSecurity/SharpGPOAbuse](https://github.com/ZeroPointSecurity/SharpGPOAbuse) - SharpGPOAbuse is a .NET application written in C# that can be used to take advantage of a user's edit rights on a Group Policy Object (GPO) in order to compromise the objects that are controlled by that GPO.
-- [ZeroPointSecurity/GoldenTicket](https://github.com/ZeroPointSecurity/GoldenTicket) - 
 - [MicrosoftLearning/AZ500-AzureSecurityTechnologies](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies) - Microsoft Azure Security Technologies
 - [thehlopster/SignHackTool](https://github.com/thehlopster/SignHackTool) - Sign your file with expired certificates
 - [PwnDexter/SharpEDRChecker](https://github.com/PwnDexter/SharpEDRChecker) - Checks running processes, process metadata, Dlls loaded into your current process and the each DLLs metadata, common install directories, installed services and each service binaries metadata, installed drivers and each drivers metadata, all for the presence of known defensive products such as AV's, EDR's and logging tools.
@@ -1967,7 +1965,6 @@
 - [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings.
 - [comaeio/SwishDbgExt](https://github.com/comaeio/SwishDbgExt) - Incident Response & Digital Forensics Debugging Extension
 - [swwwolf/wdbgark](https://github.com/swwwolf/wdbgark) - WinDBG Anti-RootKit Extension
-- [trendmicro/tlsh](https://github.com/trendmicro/tlsh) - 
 - [securesocketfunneling/ssf](https://github.com/securesocketfunneling/ssf) - Secure Socket Funneling - Network tool and toolkit - TCP and UDP port forwarding, SOCKS proxy, remote shell, standalone and cross platform
 - [iSECPartners/jailbreak](https://github.com/iSECPartners/jailbreak) - Jailbreak
 - [keystone-engine/keystone](https://github.com/keystone-engine/keystone) - Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bindings
@@ -3969,7 +3966,7 @@
 - [CipherShed/CipherShedBuilds](https://github.com/CipherShed/CipherShedBuilds) - Contains the generated and built documentation, data, debug information and executables.
 - [rougier/python-visualization-landscape](https://github.com/rougier/python-visualization-landscape) - Adaptation of Jake VanderPlas graphic about python visualization landscape
 - [SkyLined/LocalNetworkScanner](https://github.com/SkyLined/LocalNetworkScanner) - PoC Javascript that scans your local network when you open a webpage
-- [awhitehatter/Dockerfiles](https://github.com/awhitehatter/Dockerfiles) - My collection of dockerfiles
+- [phin3has/Dockerfiles](https://github.com/phin3has/Dockerfiles) - My collection of dockerfiles
 - [braimee/bpatty](https://github.com/braimee/bpatty) - Brian's Pentesting and Technical Tips for You
 - [r00t-3xp10it/morpheus](https://github.com/r00t-3xp10it/morpheus) - Morpheus - Automating Ettercap TCP/IP (MITM-hijacking Tool)
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
@@ -5451,6 +5448,7 @@
 ## Max 
 
 - [Maktm/FLIRTDB](https://github.com/Maktm/FLIRTDB) - A community driven collection of IDA FLIRT signature files
+- [trendmicro/tlsh](https://github.com/trendmicro/tlsh) - 
 
 ## Mustache 
 
@@ -6496,7 +6494,7 @@
 - [tunz/js-vuln-db](https://github.com/tunz/js-vuln-db) - A collection of JavaScript engine CVEs with PoCs
 - [abhishekgoenka/tools-and-utilities](https://github.com/abhishekgoenka/tools-and-utilities) - This repository contains tools and utilities used for developer
 - [vagnerpilar/windbgtree](https://github.com/vagnerpilar/windbgtree) - A command tree based on commands and extensions for Windows Kernel Debugging.
-- [PolishFiltersTeam/KADhosts](https://github.com/PolishFiltersTeam/KADhosts) - Wersja hosts filtrów KAD
+- [FiltersHeroes/KADhosts](https://github.com/FiltersHeroes/KADhosts) - Wersja hosts filtrów KAD
 - [AdguardTeam/AdguardForWindows](https://github.com/AdguardTeam/AdguardForWindows) - AdGuard for Windows open bug tracker
 - [slacka/WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [mitchellkrogza/Fail2Ban-Blacklist-JAIL-for-Repeat-Offenders-with-Perma-Extended-Banning](https://github.com/mitchellkrogza/Fail2Ban-Blacklist-JAIL-for-Repeat-Offenders-with-Perma-Extended-Banning) - A customised jail with action and filter file for Fail2Ban. This jail is based on the recidive jail but makes use of a simple text file to enable extended and permanent bans.
@@ -6518,7 +6516,7 @@
 - [3gstudent/bitsadminexec](https://github.com/3gstudent/bitsadminexec) - Use bitsadmin to maintain persistence and bypass Autoruns
 - [msuhanov/regf](https://github.com/msuhanov/regf) - Windows registry file format specification
 - [l3m0n/pentest_study](https://github.com/l3m0n/pentest_study) - 从零开始内网渗透学习
-- [awhitehatter/docker-pentest-lists](https://github.com/awhitehatter/docker-pentest-lists) - Docker Pentest Lists are collection of Dockerfiles or Links to Dockerfiles for containers used in Penetration Tests
+- [phin3has/docker-pentest-lists](https://github.com/phin3has/docker-pentest-lists) - Docker Pentest Lists are collection of Dockerfiles or Links to Dockerfiles for containers used in Penetration Tests
 - [fabrimagic72/malware-samples](https://github.com/fabrimagic72/malware-samples) - A collection of malware samples caught by several honeypots i manage
 - [jivoi/offsec_pdfs](https://github.com/jivoi/offsec_pdfs) - :heavy_check_mark: your offsec knowledge
 - [offensive-security/nethunter-utils](https://github.com/offensive-security/nethunter-utils) - Kali Linux NetHunter utils package
@@ -10994,7 +10992,7 @@
 - [rickey-g/fancybear](https://github.com/rickey-g/fancybear) - Fancy Bear Source Code
 - [Meatballs1/burp_jsbeautifier](https://github.com/Meatballs1/burp_jsbeautifier) - js-beautifier extension for Burp Suite
 - [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Generic Signature Format for SIEM Systems
-- [awhitehatter/lowhangingbrute](https://github.com/awhitehatter/lowhangingbrute) - Auto detect and brute force SSH, SMB, and MSSQL logins
+- [phin3has/lowhangingbrute](https://github.com/phin3has/lowhangingbrute) - Auto detect and brute force SSH, SMB, and MSSQL logins
 - [mannkind/imap_encrypt](https://github.com/mannkind/imap_encrypt) - Utilizing IMAP IDLE, automatically encrypt your email...
 - [darkquasar/WMI_Persistence](https://github.com/darkquasar/WMI_Persistence) - A repo to hold some scripts pertaining WMI (Windows implementation of WBEM) forensics
 - [lgandx/Responder-Windows](https://github.com/lgandx/Responder-Windows) - Responder Windows Version Beta
@@ -11289,7 +11287,7 @@
 - [sturlamolden/cython-cpp-test](https://github.com/sturlamolden/cython-cpp-test) - This shows how to use Cython to wrap C++
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 - [moloch--/RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager)
-- [awhitehatter/mailoney](https://github.com/awhitehatter/mailoney) - An SMTP Honeypot
+- [phin3has/mailoney](https://github.com/phin3has/mailoney) - An SMTP Honeypot
 - [newsapps/beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
 - [mkbrutusproject/MKBRUTUS](https://github.com/mkbrutusproject/MKBRUTUS) - Password bruteforcer for MikroTik devices or boxes running RouterOS
 - [pentestmonkey/unix-security-file-parser](https://github.com/pentestmonkey/unix-security-file-parser) - Automatically exported from code.google.com/p/unix-security-file-parser
@@ -12602,7 +12600,7 @@
 - [nsupdate-info/nsupdate.info](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS service
 - [google/nogotofail](https://github.com/google/nogotofail) - An on-path blackbox network traffic security testing tool
 - [xmendez/wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer
-- [awhitehatter/fake-ap3.py](https://github.com/awhitehatter/fake-ap3.py) - Simple Python Script, stands up a fake wifi AP using dnsmasq and airbase.
+- [phin3has/fake-ap3.py](https://github.com/phin3has/fake-ap3.py) - Simple Python Script, stands up a fake wifi AP using dnsmasq and airbase.
 - [yymax/x509test](https://github.com/yymax/x509test) - A Python3 software that validates a client's side SSL/TLS application's X509 verification process
 - [wummel/linkchecker](https://github.com/wummel/linkchecker) - check links in web documents or full websites
 - [gaubert/gmvault](https://github.com/gaubert/gmvault) - gmail backup software
@@ -14156,14 +14154,13 @@
 - [FINCTIVE/download-videos](https://github.com/FINCTIVE/download-videos) - 视频下载脚本，附带自动重启功能，以及常用参数。
 - [0xdekster/deksterecon](https://github.com/0xdekster/deksterecon) - Web Application recon automation
 - [janmoesen/tilde](https://github.com/janmoesen/tilde) - ~ is where the ♥ is — my dotfiles
-- [e-m-b-a/emba](https://github.com/e-m-b-a/emba) - emba - The security analyzer for embedded device firmware.
+- [e-m-b-a/emba](https://github.com/e-m-b-a/emba) - EMBA - The security analyzer for embedded device firmware.
 - [sarthaksavvy/100DaysOfAWS](https://github.com/sarthaksavvy/100DaysOfAWS) - 
 - [shilch/macchanger](https://github.com/shilch/macchanger) -  Change your mac address, for macOS
 - [wynioux/macOS-GateKeeper-Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) - Simple macOS GateKeeper script.
 - [rauchg/wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the wifi you're on (bash)
 - [koutto/pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap) - Homemade Pwnbox :rocket: / Rogue AP :satellite: based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap :bulb:
 - [zeroc00I/AllVideoPocsFromHackerOne](https://github.com/zeroc00I/AllVideoPocsFromHackerOne) - This script grab public report from hacker one and make some folders with poc videos
-- [ZeroPointSecurity/RTOVMSetup](https://github.com/ZeroPointSecurity/RTOVMSetup) - 
 - [karek314/macOS-home-call-drop](https://github.com/karek314/macOS-home-call-drop) - Simple shell script to fix macOS privacy issues and remove mostly useless macOS calls to cupertino
 - [Rasukarusan/fzf-bluetooth-connect](https://github.com/Rasukarusan/fzf-bluetooth-connect) - :penguin: Fuzzy search and connect bluetooth devices via the terminal
 - [amaya382/zsh-fzf-widgets](https://github.com/amaya382/zsh-fzf-widgets) - :nut_and_bolt: Well-unified zsh widgets for fzf
@@ -14379,7 +14376,7 @@
 - [pentester-io/commonspeak](https://github.com/pentester-io/commonspeak) - Content discovery wordlists generated using BigQuery
 - [daverstephens/The-SOC-Shop](https://github.com/daverstephens/The-SOC-Shop) - Repository of scripts/tools that may be useful in Security Operations Centres (SOC)
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
-- [PolishFiltersTeam/ScriptsPlayground](https://github.com/PolishFiltersTeam/ScriptsPlayground) - A place for testing and developing our scripts.
+- [FiltersHeroes/ScriptsPlayground](https://github.com/FiltersHeroes/ScriptsPlayground) - A place for testing and developing our scripts.
 - [angela-d/autohosts](https://github.com/angela-d/autohosts) - Automate hosts file updates on Linux and MacOS.  Block Firefox telemetry, Google snooping and web trackers at the root.
 - [MatthewPierson/1033-OTA-Downgrader](https://github.com/MatthewPierson/1033-OTA-Downgrader) - First ever tool to downgrade ANY iPhone 5s, ANY iPad Air and (almost any) iPad Mini 2 to 10.3.3 with OTA blobs + checkm8!
 - [neoFelhz/neohosts](https://github.com/neoFelhz/neohosts) - 自由·负责·克制 去广告 Hosts 项目
