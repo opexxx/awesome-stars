@@ -3109,7 +3109,6 @@
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [superfly/wormhole](https://github.com/superfly/wormhole) - Fly.io secure tunnel
 - [crtsh/go-certlint](https://github.com/crtsh/go-certlint) - Go wrapper for awslabs/certlint
-- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel, now inlets PRO
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
 - [evanj/sftpsync](https://github.com/evanj/sftpsync) - Synchronizes an SFTP server with a cloud storage bucket. Go Cloud experiment.
 - [jgrahamc/h2scan](https://github.com/jgrahamc/h2scan) - Scan a list of sites to see which support HTTPS, SPDY/3.1 and HTTP/2
@@ -4944,7 +4943,7 @@
 - [danvk/boxedit](https://github.com/danvk/boxedit) - A web-based editor for Tesseract box files
 - [lstratman/PasswordHasherUltimate](https://github.com/lstratman/PasswordHasherUltimate) - Password Hasher Ultimate is an automatic password extension for Chrome.  It's an enhancement of Password Hasher Plus (https://chrome.google.com/webstore/detail/glopbmohkffbnplcjbbbfmmimfhfnhgd), which is itself a port of a Firefox extension (https://addons.mozilla.org/en-US/firefox/addon/password-hasher/).  It makes the UI of the extension as minimalist as possible while allowing the user to set the hashing parameters per site to accommodate different password requirements.
 - [asciidoctor/asciidoctor-firefox-addon](https://github.com/asciidoctor/asciidoctor-firefox-addon) - :wolf: An add-on for Mozilla Firefox that converts AsciiDoc files to HTML directly in the browser using Asciidoctor.js.
-- [jslint-org/jslint](https://github.com/jslint-org/jslint) - The JavaScript Code Quality Tool
+- [jslint-org/jslint](https://github.com/jslint-org/jslint) - JSLint, The JavaScript Code Quality and Coverage Tool
 - [KyleKorndoerfer/BracketsUML](https://github.com/KyleKorndoerfer/BracketsUML) - A Brackets extension that allows you to create PlantUML diagrams from within the editor
 - [goinnn/jquery.graphviz](https://github.com/goinnn/jquery.graphviz) - Animate a svg generated with graphviz
 - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
@@ -6283,6 +6282,7 @@
 - [v1ado/HIPS_LIPS](https://github.com/v1ado/HIPS_LIPS) - Community maintained list of most popular HIPS service and process names on a Windows Platform.
 - [Snowming04/The-Hacker-Playbook-3-Translation](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation) - 对 The Hacker Playbook 3 的翻译。
 - [security-cheatsheet/reverse-shell-cheatsheet](https://github.com/security-cheatsheet/reverse-shell-cheatsheet) - 🙃 Reverse Shell Cheat Sheet 🙃
+- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel, now inlets PRO
 - [woj-ciech/LeakLooker](https://github.com/woj-ciech/LeakLooker) - Find open databases - Powered by Binaryedge.io
 - [guardrailsio/awesome-php-security](https://github.com/guardrailsio/awesome-php-security) - Awesome PHP Security Resources 🕶🐘🔐
 - [001SPARTaN/csfm](https://github.com/001SPARTaN/csfm) - Cobalt Strike Field Manual - A quick reference for Windows commands that can be accessed in a beacon console.
@@ -7439,6 +7439,7 @@
 
 ## PowerShell 
 
+- [tihanyin/PSSW100AVB](https://github.com/tihanyin/PSSW100AVB) - A list of useful Powershell scripts with 100% AV bypass (At the time of publication).
 - [peasead/windows-10-sandbox-to-elastic](https://github.com/peasead/windows-10-sandbox-to-elastic) - Rapidly building a Windows 10 system to use for dynamic malware analysis (sandbox), sending data to Elastic Cloud.
 - [r-darwish/powershell-config](https://github.com/r-darwish/powershell-config) - Powershell Configuration
 - [ha3ks/AD_Permissions_ReportGEN](https://github.com/ha3ks/AD_Permissions_ReportGEN) - a PowerShell script that *should* give you a list of users and permissions in a .csv that didn't cost $1B
@@ -8885,7 +8886,7 @@
 - [NoDataFound/RiskIQ.SunBurst.Hunter](https://github.com/NoDataFound/RiskIQ.SunBurst.Hunter) - The Purpose of this research tool is to provide a Python client into RiskIQ API services.
 - [zeronetworks/BloodHound-Tools](https://github.com/zeronetworks/BloodHound-Tools) - Collection of tools that reflect the network dimension into Bloodhound's data
 - [Dump-GUY/Malware-analysis-and-Reverse-engineering](https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering) - Some of my publicly available Malware analysis and Reverse engineering.
-- [adnane-X-tebbaa/GRecon](https://github.com/adnane-X-tebbaa/GRecon) - Your Google Recon is Now Automated
+- [TebbaaX/GRecon](https://github.com/TebbaaX/GRecon) - Your Google Recon is Now Automated
 - [sodle/keymaster](https://github.com/sodle/keymaster) - Public key installer for Github and Bitbucket.
 - [laconicwolf/Dirscover](https://github.com/laconicwolf/Dirscover) - A multi-processed, multi-threaded scanner to discover web directories on multiple URLs.
 - [tauh33dkhan/lookback](https://github.com/tauh33dkhan/lookback) - lookback requests to cdx endpoint of wayback web archive with the specified domain to get archived urls:
@@ -9021,7 +9022,7 @@
 - [Verizon/redshell](https://github.com/Verizon/redshell) - An interactive command prompt for red teaming and pentesting. Pushes commands through proxychains via Cobalt Strike beacon socks proxies or custom proxies. Automatically logs activities on a Cobalt Strike teamserver and/or local files.
 - [JettChenT/scan-for-webcams](https://github.com/JettChenT/scan-for-webcams) - scan for webcams on the internet
 - [s0md3v/Zen](https://github.com/s0md3v/Zen) - Find emails of Github users
-- [adnane-X-tebbaa/Katana](https://github.com/adnane-X-tebbaa/Katana) - A Python Tool For google Hacking
+- [TebbaaX/Katana](https://github.com/TebbaaX/Katana) - A Python Tool For google Hacking
 - [m4ll0k/SecretFinder](https://github.com/m4ll0k/SecretFinder) - SecretFinder - A python script for find sensitive data (apikeys, accesstoken,jwt,..) and search anything on javascript files
 - [defparam/tiscripts](https://github.com/defparam/tiscripts) - Turbo Intruder Scripts
 - [m8r0wn/CrossLinked](https://github.com/m8r0wn/CrossLinked) - LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping
