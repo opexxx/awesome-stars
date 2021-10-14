@@ -1088,7 +1088,7 @@
 - [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform
 - [luke-jr/bfgminer](https://github.com/luke-jr/bfgminer) - Modular ASIC/FPGA miner written in C, featuring overclocking, monitoring, fan speed control and remote interface capabilities.
 - [ganglia/monitor-core](https://github.com/ganglia/monitor-core) - Ganglia Monitoring core
-- [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum
+- [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
 - [sarfata/pi-blaster](https://github.com/sarfata/pi-blaster) - PWM on the Raspberry pi - done properly (in hardware, stable)
 - [ajaiantilal/i7z](https://github.com/ajaiantilal/i7z) - i7z tool
 - [dorimanx/exfat-nofuse](https://github.com/dorimanx/exfat-nofuse) - Android ARM Linux non-fuse read/write kernel driver for exFat and VFat Android file systems
@@ -2654,6 +2654,7 @@
 - [tiagorlampert/CHAOS](https://github.com/tiagorlampert/CHAOS) - :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.
 - [assafmo/xioc](https://github.com/assafmo/xioc) - Extract indicators of compromise from text, including "escaped" ones.
 - [x1sec/commit-stream](https://github.com/x1sec/commit-stream) - #OSINT tool for finding Github repositories by extracting commit logs in real time from the Github event API
+- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities in running containers, images, hosts and repositories
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [panther-labs/panther](https://github.com/panther-labs/panther) - [DEPRECATED] Detect threats with log data and improve cloud security posture
 - [CCob/gookies](https://github.com/CCob/gookies) - A Chrome cookie dumping utility
@@ -3760,7 +3761,6 @@
 - [christophetd/Adaz](https://github.com/christophetd/Adaz) - :wrench: Automatically deploy customizable Active Directory labs in Azure
 - [sozercan/OpenShift-Azure-Terraform](https://github.com/sozercan/OpenShift-Azure-Terraform) - ⛑ Deploy OpenShift Origin on Azure using Terraform and Ansible
 - [cloudposse/terraform-aws-iam-user](https://github.com/cloudposse/terraform-aws-iam-user) - Terraform Module to provision a basic IAM user suitable for humans.
-- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities in running containers, images, hosts and repositories
 - [xFreed0m/Disruption](https://github.com/xFreed0m/Disruption) - Terraform script to deploy AD-based environment on Azure
 - [secdevops-cuse/CyberRange](https://github.com/secdevops-cuse/CyberRange) - The Open-Source AWS Cyber Range
 - [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
@@ -9743,7 +9743,7 @@
 - [hukkelas/DeepPrivacy](https://github.com/hukkelas/DeepPrivacy) - DeepPrivacy: A Generative Adversarial Network for Face Anonymization
 - [0xPrateek/Stardox](https://github.com/0xPrateek/Stardox) - Github stargazers information gathering tool
 - [hisxo/gitGraber](https://github.com/hisxo/gitGraber) - gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...
-- [thehackingsage/hacktronian](https://github.com/thehackingsage/hacktronian) - Tools for Hacking
+- [thehackingsage/hacktronian](https://github.com/thehackingsage/hacktronian) - TOOLS FOR PENTESTING
 - [BishopFox/zigdiggity](https://github.com/BishopFox/zigdiggity) - A ZigBee hacking toolkit by Bishop Fox
 - [nightwatchcybersecurity/truegaze](https://github.com/nightwatchcybersecurity/truegaze) - Static analysis tool for Android/iOS apps focusing on security issues outside the source code
 - [ChrisTheCoolHut/Firmware_Slap](https://github.com/ChrisTheCoolHut/Firmware_Slap) - Discovering vulnerabilities in firmware through concolic analysis and function clustering.
