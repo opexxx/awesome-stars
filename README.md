@@ -4521,7 +4521,6 @@
 - [balena-io-modules/resin-corvus](https://github.com/balena-io-modules/resin-corvus) - A wrapper around Sentry and Mixpanel that works in the browser, Node and Electron.
 - [lestoni/faker-cli](https://github.com/lestoni/faker-cli) - cli wrapper for fakerjs
 - [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
-- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [ghostinthewires/Azure-Readiness-Checklist](https://github.com/ghostinthewires/Azure-Readiness-Checklist) - This checklist is your guide to the best practices for deploying secure, scalable, and highly available infrastructure in Azure. Before you go live, go through each item, and make sure you haven't missed anything important!
 - [mitchmoser/sputnik](https://github.com/mitchmoser/sputnik) - Open Source Intelligence Browser Extension
@@ -6018,7 +6017,7 @@
 - [b4bay/threat_mining_in_namecoin](https://github.com/b4bay/threat_mining_in_namecoin) - IOC from the research on botnet assets in Namecoin
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [RedDrip7/APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) - Indicators of compromise (IOCs) collected from public resources and categorized by Qi-AnXin.
-- [fr0gger/awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) - A curated list of IDA x64DBG and OllyDBG plugins.
+- [fr0gger/awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) - A curated list of IDA x64DBG, Ghidra and OllyDBG plugins.
 - [zbetcheckin/PDF_analysis](https://github.com/zbetcheckin/PDF_analysis) - Several PDF analysis reassembled with additional tips and tools
 - [numirias/security](https://github.com/numirias/security) - Some of my security stuff and vulnerabilities. Nothing advanced. More to come.
 - [MHaggis/CBR-Queries](https://github.com/MHaggis/CBR-Queries) - Collection of useful, up to date, Carbon Black Response Queries
@@ -15672,6 +15671,7 @@
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
 - [shroudedcode/apk-mitm](https://github.com/shroudedcode/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
+- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
 - [devopsprodigy/kubegraf](https://github.com/devopsprodigy/kubegraf) - Grafana-plugin for k8s' monitoring
 - [phra/nodebuster](https://github.com/phra/nodebuster) - DirBuster for Node.js
