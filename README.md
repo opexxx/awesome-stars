@@ -2135,6 +2135,7 @@
 
 ## CSS 
 
+- [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [johnpaulada/pandoc-markdown-book-template](https://github.com/johnpaulada/pandoc-markdown-book-template) - A template for creating epub books from markdown using pandoc.
 - [TROUBLE-1/Hacking-Sunday](https://github.com/TROUBLE-1/Hacking-Sunday) - 
 - [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV)
@@ -4374,6 +4375,7 @@
 
 ## JavaScript 
 
+- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [apnex/vmw-cli](https://github.com/apnex/vmw-cli) - CLI and API for programmatic access to my.vmware.com
 - [sindresorhus/open-cli](https://github.com/sindresorhus/open-cli) - Open stuff like URLs, files, executables. Cross-platform.
 - [itszero/kgcat](https://github.com/itszero/kgcat) - Tap into Google's knowledge right from your console.
@@ -4990,7 +4992,7 @@
 - [CamHenlin/imessageclient](https://github.com/CamHenlin/imessageclient) - send and receive iMessages in a terminal or over ssh
 - [CamHenlin/iMessageWebClient](https://github.com/CamHenlin/iMessageWebClient) - send and receive iMessages on anything with a web browser
 - [regebro/hovercraft](https://github.com/regebro/hovercraft) - Make dynamic impressive presentations from text files!
-- [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. Supported by the Handsontable team ⚡
+- [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [icecrime/docker-mon](https://github.com/icecrime/docker-mon) - Console-based Docker monitoring
 - [bitwiseshiftleft/sjcl](https://github.com/bitwiseshiftleft/sjcl) - Stanford Javascript Crypto Library
 - [Lekensteyn/noscript-nsa](https://github.com/Lekensteyn/noscript-nsa) - NSA - NoScript Anywhere (Firefox Mobile add-on)
@@ -7932,7 +7934,6 @@
 - [p3nt4/Invoke-Piper](https://github.com/p3nt4/Invoke-Piper) - Forward local or remote tcp ports through SMB pipes.
 - [GavinEke/TronNG](https://github.com/GavinEke/TronNG) - Tron Next Generation for Windows 10
 - [kilasuit/PoshFunctions](https://github.com/kilasuit/PoshFunctions) - Collection of Scripts & Modules that I am happy to share
-- [mgeeky/Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) - A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements.
 - [noma4i/windows-openstack-imaging-tools](https://github.com/noma4i/windows-openstack-imaging-tools) - Tools to automate the creation of a Windows image for OpenStack, supporting KVM, Hyper-V, ESXi and more.
 - [noma4i/puppet-windows_updates](https://github.com/noma4i/puppet-windows_updates) - Manage Windows Updates from puppet
 - [offsecginger/AggressorScripts](https://github.com/offsecginger/AggressorScripts) - Various Aggressor Scripts I've Created.
@@ -9079,7 +9080,7 @@
 - [Telefonica/HomePWN](https://github.com/Telefonica/HomePWN) - HomePwn - Swiss Army Knife for Pentesting of IoT Devices
 - [shelld3v/JSshell](https://github.com/shelld3v/JSshell) - JSshell - JavaScript reverse/remote shell
 - [chompie1337/SMBGhost_RCE_PoC](https://github.com/chompie1337/SMBGhost_RCE_PoC) - 
-- [ollypwn/SMBGhost](https://github.com/ollypwn/SMBGhost) - Scanner for CVE-2020-0796 - SMBv3 RCE
+- [ly4k/SMBGhost](https://github.com/ly4k/SMBGhost) - Scanner for CVE-2020-0796 - SMBv3 RCE
 - [CERTCC/PoC-Exploits](https://github.com/CERTCC/PoC-Exploits) - Select proof-of-concept exploits for software vulnerabilities to aid in identifying and testing vulnerable systems.
 - [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server.
 - [sinistergeek/Pdf-to-audio-Converter](https://github.com/sinistergeek/Pdf-to-audio-Converter) - 
@@ -9329,7 +9330,7 @@
 - [kabachook/ecc](https://github.com/kabachook/ecc) - Elliptic Curve Cryptography for CTFers
 - [MalwareTech/RDGScanner](https://github.com/MalwareTech/RDGScanner) - A proof-of-concept scanner to check an RDG Gateway Server for vulnerabilities CVE-2020-0609 & CVE-2020-0610.
 - [skelsec/minikerberos](https://github.com/skelsec/minikerberos) - Kerberos manipulation library in pure Python
-- [ollypwn/BlueGate](https://github.com/ollypwn/BlueGate) - PoC (DoS + scanner) for CVE-2020-0609 & CVE-2020-0610 - RD Gateway RCE
+- [ly4k/BlueGate](https://github.com/ly4k/BlueGate) - PoC (DoS + scanner) for CVE-2020-0609 & CVE-2020-0610 - RD Gateway RCE
 - [mac4n6/APOLLO](https://github.com/mac4n6/APOLLO) - Apple Pattern of Life Lazy Output'er
 - [ustayready/pyslite](https://github.com/ustayready/pyslite) - Script for performing SQLite database to Excel workbook conversions
 - [adipinto/yet-another-nessus-parser](https://github.com/adipinto/yet-another-nessus-parser) - A parser to extract information from .nessus file format
@@ -10218,6 +10219,7 @@
 - [649/Crashcast-Exploit](https://github.com/649/Crashcast-Exploit) - This tool allows you mass play any YouTube video, terminate apps and rename Chromecast device(s) obtained from Shodan.io
 - [securitystreak/security-scripts](https://github.com/securitystreak/security-scripts) - A collection of public offensive and defensive security related scripts for InfoSec students.
 - [rudSarkar/crlf-injector](https://github.com/rudSarkar/crlf-injector) - A CRLF ( Carriage Return Line Feed ) Injection attack occurs when a user manages to submit a CRLF into an application. This is most commonly done by modifying an HTTP parameter or URL.
+- [mgeeky/Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) - A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements.
 - [shodansploit/shodansploit](https://github.com/shodansploit/shodansploit) - 🔎 shodansploit &gt; v1.3.0
 - [BusesCanFly/PRETty](https://github.com/BusesCanFly/PRETty) - "PRinter Exploitation Toolkit" LAN automation tool
 - [asmw/andOTP-decrypt](https://github.com/asmw/andOTP-decrypt) - 
@@ -10521,7 +10523,6 @@
 - [phage-nz/ph0neutria](https://github.com/phage-nz/ph0neutria) - ph0neutria is a malware zoo builder that sources samples straight from the wild. Everything is stored in Viper for ease of access and manageability.
 - [tcgoetz/GarminDB](https://github.com/tcgoetz/GarminDB) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases.
 - [matplotlib/mpl-finance](https://github.com/matplotlib/mpl-finance) - This package is DEPRECATED, replaced by https://github.com/matplotlib/mplfinance
-- [micheloosterhof/cowrie-dev](https://github.com/micheloosterhof/cowrie-dev) - This is a development branch. For project code see http://github.com/cowrie/cowrie
 - [jgamblin/unicodecrash](https://github.com/jgamblin/unicodecrash) - Crashes terminal In OSX using the evil unicode string.
 - [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [iambus/xunlei-lixian](https://github.com/iambus/xunlei-lixian) - 迅雷离线下载脚本
@@ -13571,7 +13572,7 @@
 - [f-secure-foundry/usbarmory](https://github.com/f-secure-foundry/usbarmory) - USB armory - open source flash-drive-sized computer
 - [FuzzySecurity/AdventuresWithChef](https://github.com/FuzzySecurity/AdventuresWithChef) - A collection of Chef recipes, for learning and infrastructure automation.
 - [navisecdelta/Aware](https://github.com/navisecdelta/Aware) - Aware.rb is a little utility for parsing & building data around a CSV of hostnames (like that from aiodnsbrute)
-- [ollypwn/CurveBall](https://github.com/ollypwn/CurveBall) - PoC for CVE-2020-0601- Windows CryptoAPI (Crypt32.dll)
+- [ly4k/CurveBall](https://github.com/ly4k/CurveBall) - PoC for CVE-2020-0601- Windows CryptoAPI (Crypt32.dll)
 - [buo/homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade) - A command line tool for upgrading every outdated app installed by Homebrew Cask
 - [mcpa-stlouis/hack-the-arch](https://github.com/mcpa-stlouis/hack-the-arch) - Welcome to HackTheArch!  A free open source scoring server for cyber Capture the Flag competitions!
 - [sw-jung/logstash-filter-memoize](https://github.com/sw-jung/logstash-filter-memoize) - This filter-plugin provides memoization to any filter you want.
