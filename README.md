@@ -5274,6 +5274,7 @@
 - [k-vitali/Malware-Misc-RE](https://github.com/k-vitali/Malware-Misc-RE) - Miscellaneous Malware RE
 - [jeffmli/TinderAutomation](https://github.com/jeffmli/TinderAutomation) - 
 - [OpenSecuritySummit/oss2019](https://github.com/OpenSecuritySummit/oss2019) - Open Security Summit 2019
+- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 - [TomAugspurger/effective-pandas](https://github.com/TomAugspurger/effective-pandas) - Source code for my collection of articles on using pandas.
 - [eclarson/DataMiningNotebooks](https://github.com/eclarson/DataMiningNotebooks) - This is a collection of iPython notebooks from my course on data mining. Data used in the notebooks can be downloaded from the given links in the notebooks.
 - [bjherger/public-talks](https://github.com/bjherger/public-talks) - A repo for talk materials
@@ -8727,6 +8728,7 @@
 
 ## Python 
 
+- [p0dalirius/LDAPmonitor](https://github.com/p0dalirius/LDAPmonitor) - Monitor creation, deletion and changes to LDAP objects live during your pentest or system administration!
 - [p0dalirius/FindUncommonShares](https://github.com/p0dalirius/FindUncommonShares) - FindUncommonShares.py is a Python equivalent of PowerView's Invoke-ShareFinder.ps1 allowing to quickly find uncommon shares in vast Windows Domains.
 - [nyxgeek/AzureAD_Autologon_Brute](https://github.com/nyxgeek/AzureAD_Autologon_Brute) - Brute force attack tool for Azure AD Autologon/Seamless SSO - Source: https://arstechnica.com/information-technology/2021/09/new-azure-active-directory-password-brute-forcing-flaw-has-no-fix/
 - [carnal0wnage/pentesty_scripts](https://github.com/carnal0wnage/pentesty_scripts) - scripts for pentesting
@@ -8950,7 +8952,7 @@
 - [vr00n/Amazon-Web-Shenanigans](https://github.com/vr00n/Amazon-Web-Shenanigans) - A lambda function that checks your account for Public buckets and emails you whenever a new public s3 bucket is created
 - [abhn/S3Scan](https://github.com/abhn/S3Scan) - Script to spider a website and find publicly open S3 buckets
 - [Parasimpaticki/sandcastle](https://github.com/Parasimpaticki/sandcastle) - 🏰 A Python script for AWS S3 bucket enumeration.
-- [Skyscanner/whispers](https://github.com/Skyscanner/whispers) - Identify hardcoded secrets and dangerous behaviours
+- [Skyscanner/whispers](https://github.com/Skyscanner/whispers) - Identify hardcoded secrets in static structured text
 - [disruptops/IncidentResponseGenerator](https://github.com/disruptops/IncidentResponseGenerator) - Updated incident response generator for training classes
 - [Atticuss/bucketcat](https://github.com/Atticuss/bucketcat) - Brute-forces objects within a given bucket using Hashcat mask-like syntax
 - [Ucnt/aws-s3-data-finder](https://github.com/Ucnt/aws-s3-data-finder) - AWS S3 Sensitive Data Search
@@ -9990,7 +9992,7 @@
 - [mitre/cascade-server](https://github.com/mitre/cascade-server) - CASCADE Server
 - [n00py/NorkNork](https://github.com/n00py/NorkNork) - Powershell Empire Persistence finder
 - [Und3rf10w/external_c2_framework](https://github.com/Und3rf10w/external_c2_framework) - Python api for usage with cobalt strike's External C2 specification
-- [mitre/caldera](https://github.com/mitre/caldera) - Scalable Automated Adversary Emulation Platform
+- [mitre/caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
 - [mdsecactivebreach/Chameleon](https://github.com/mdsecactivebreach/Chameleon) - Chameleon: A tool for evading Proxy categorisation
 - [infosecn1nja/MaliciousMacroMSBuild](https://github.com/infosecn1nja/MaliciousMacroMSBuild) - Generates Malicious Macro and Execute Powershell or Shellcode via MSBuild Application Whitelisting Bypass.
 - [mandiant/ReelPhish](https://github.com/mandiant/ReelPhish) - 
@@ -10236,7 +10238,6 @@
 - [Codepoints/unidump](https://github.com/Codepoints/unidump) - hexdump(1) for Unicode data
 - [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
 - [orlikoski/VariousParsers](https://github.com/orlikoski/VariousParsers) - Various Parsers for log files
-- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 - [nurdtechie98/drive-cli](https://github.com/nurdtechie98/drive-cli) - A command line interface for accessing google drive
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [patois/IDACyber](https://github.com/patois/IDACyber) - Data Visualization Plugin for IDA Pro
