@@ -1412,7 +1412,7 @@
 - [ElevenPaths/FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 - [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 - [jwallet/spy-spotify](https://github.com/jwallet/spy-spotify) - 🎤 Records Spotify to mp3 without ads and adds media tags to the files 🎵
-- [Marusyk/grok.net](https://github.com/Marusyk/grok.net) - .net implementation of the grok 📝
+- [Marusyk/grok.net](https://github.com/Marusyk/grok.net) - .NET implementation of the grok 📝
 - [Hackplayers/Salsa-tools](https://github.com/Hackplayers/Salsa-tools) - Salsa Tools - ShellReverse TCP/UDP/ICMP/DNS/SSL/BINDTCP/Shellcode/SILENTTRINITY and AV bypass, AMSI patched
 - [ohjeongwook/PowerShellRunBox](https://github.com/ohjeongwook/PowerShellRunBox) - Dynamic PowerShell Analysis Framework Based Upon PowerShell Debugging Functionality
 - [Fody/Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
@@ -7096,7 +7096,7 @@
 - [gwen001/s3-buckets-finder](https://github.com/gwen001/s3-buckets-finder) - Find aws s3 buckets and extract datas.
 - [l3m0n/pentest_tools](https://github.com/l3m0n/pentest_tools) - 收集一些小型实用的工具
 - [radenvodka/Recsech](https://github.com/radenvodka/Recsech) - Recsech is a tool for doing Footprinting and Reconnaissance on the target web. Recsech collects information such as DNS Information, Sub Domains, HoneySpot Detected, Subdomain takeovers, Reconnaissance On Github and much more you can see in Features in tools .
-- [cerebrate-project/cerebrate](https://github.com/cerebrate-project/cerebrate) - The Cerebrate Sync Platform core software
+- [cerebrate-project/cerebrate](https://github.com/cerebrate-project/cerebrate) - Cerebrate is an open-source platform meant to act as a trusted contact information provider and interconnection orchestrator for other security tools.
 - [googleinurl/SCANNER-INURLBR](https://github.com/googleinurl/SCANNER-INURLBR) - Advanced search in search engines, enables analysis provided to exploit GET / POST capturing emails & urls, with an internal custom validation junction for each target / url found.
 - [immrr/csp-report](https://github.com/immrr/csp-report) - Content Security Policy Violation Report Parser
 - [curtbraz/PhishAPI](https://github.com/curtbraz/PhishAPI) - Comprehensive Web Based Phishing Suite for Rapid Deployment and Real-Time Alerting!
@@ -7154,7 +7154,6 @@
 - [redteamsecuritytraining/PlugBot-Plug](https://github.com/redteamsecuritytraining/PlugBot-Plug) - The "bot" component of the PlugBot project
 - [redteamsecuritytraining/PlugBot-C2C](https://github.com/redteamsecuritytraining/PlugBot-C2C) - This is the Command & Control component of the PlugBot project
 - [pentestgeek/phishing-frenzy](https://github.com/pentestgeek/phishing-frenzy) - Ruby on Rails Phishing Framework
-- [quidsup/notrack](https://github.com/quidsup/notrack) - NoTrack is a network-wide DNS server which blocks Tracking sites
 - [incredibleindishell/sqlite-lab](https://github.com/incredibleindishell/sqlite-lab) - This code is vulnerable to SQL Injection and having SQLite database. For SQLite database, SQL Injection payloads are different so it is for fun. Just enjoy it \m/
 - [interference-security/DVWS](https://github.com/interference-security/DVWS) - OWSAP Damn Vulnerable Web Sockets (DVWS) is a vulnerable web application which works on web sockets for client-server communication.
 - [Raikia/FiercePhish](https://github.com/Raikia/FiercePhish) - FiercePhish is a full-fledged phishing framework to manage all phishing engagements.  It allows you to track separate phishing campaigns, schedule sending of emails, and much more.
@@ -7271,7 +7270,6 @@
 - [tobie/ua-parser](https://github.com/tobie/ua-parser) - A multi-language port of Browserscope's user agent parser.
 - [mvz/email-outlook-message-perl](https://github.com/mvz/email-outlook-message-perl) - Email::Outlook::Message Perl module for reading Outlook .msg files
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
-- [m8r0wn/pymeta](https://github.com/m8r0wn/pymeta) - Pymeta will search the web for files on a domain to download and extract metadata. This technique can be used to identify: domains, usernames, software/version numbers and naming conventions.
 - [dankwartrustow/Raspberry-Pi-Splunk-Forwarder-ARM](https://github.com/dankwartrustow/Raspberry-Pi-Splunk-Forwarder-ARM) - This will allow you to configure your Raspberry Pi to be a Splunk Forwarder.
 - [AonCyberLabs/PadBuster](https://github.com/AonCyberLabs/PadBuster) - Automated script for performing Padding Oracle attacks
 - [schweikert/postgrey](https://github.com/schweikert/postgrey) - Postfix Greylisting Policy-Daemon
@@ -7474,7 +7472,7 @@
 - [PwnDefend/Active_Directory_ADSI_Audit_Powershell](https://github.com/PwnDefend/Active_Directory_ADSI_Audit_Powershell) - blame Huy
 - [PwC-IR/Office-365-Extractor](https://github.com/PwC-IR/Office-365-Extractor) - The Office 365 Extractor is a tool that allows for complete and reliable extraction of the Unified Audit Log (UAL)
 - [gpduck/QrCodes](https://github.com/gpduck/QrCodes) - Powershell Module to create QRCodes
-- [ZephrFish/CVE-2020-1350](https://github.com/ZephrFish/CVE-2020-1350) - HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019.
+- [ZephrFish/CVE-2020-1350_HoneyPoC](https://github.com/ZephrFish/CVE-2020-1350_HoneyPoC) - HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019.
 - [sophoslabs/metasploit_gather_exchange](https://github.com/sophoslabs/metasploit_gather_exchange) - Metasploit Post-Exploitation Gather module for Exchange Server
 - [SentineLabs/SentinelLabs_RevCore_Tools](https://github.com/SentineLabs/SentinelLabs_RevCore_Tools) - The Windows Malware Analysis Reversing Core Tools
 - [f0wl/MalwareLab_VM-Setup](https://github.com/f0wl/MalwareLab_VM-Setup) - Setup scripts for my Malware Analysis VMs
@@ -9657,6 +9655,7 @@
 - [Aerolab/setup](https://github.com/Aerolab/setup) - Make your Mac Aerowesome
 - [m8r0wn/subscraper](https://github.com/m8r0wn/subscraper) - Perform subdomain enumeration through various techniques and retrieve detailed output to aid in further testing.
 - [m8r0wn/ActiveReign](https://github.com/m8r0wn/ActiveReign) - A Network Enumeration and Attack Toolset for Windows Active Directory Environments.
+- [m8r0wn/pymeta](https://github.com/m8r0wn/pymeta) - Pymeta will search the web for files on a domain to download and extract metadata. This technique can be used to identify: domains, usernames, software/version numbers and naming conventions.
 - [t4d/PhishingKitHunter](https://github.com/t4d/PhishingKitHunter) - Find phishing kits which use your brand/organization's files and image.
 - [citizenlab/badtraffic](https://github.com/citizenlab/badtraffic) - Supporting data for BAD TRAFFIC Citizen Lab report.
 - [clouedoc/AutoSQLi](https://github.com/clouedoc/AutoSQLi) - An automatic SQL Injection tool which takes advantage of ~DorkNet~ Googler, Ddgr, WhatWaf and sqlmap.
@@ -15497,7 +15496,7 @@
 - [nvie/scripts](https://github.com/nvie/scripts) - A collection of simple and small but useful UNIX shell scripts.
 - [mattheworiordan/Mac-OS-X-Useful-Scripts](https://github.com/mattheworiordan/Mac-OS-X-Useful-Scripts) - Some useful scripts and profile settings that I have built using Mac OS X
 - [sontek/dotfiles](https://github.com/sontek/dotfiles) - My configuration files (.screenrc, .vimrc, .weechat, .bashrc, .gitconfig, etc)
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [mlogic/suspend-usb-device](https://github.com/mlogic/suspend-usb-device) - An easy-to-use script to properly put an USB device into suspend mode that can then be unplugged safely
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [mprovost/rated](https://github.com/mprovost/rated) - A high performance SNMP poller (fork of RTG)
