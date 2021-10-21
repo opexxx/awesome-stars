@@ -3403,7 +3403,6 @@
 - [renatoathaydes/go-hash](https://github.com/renatoathaydes/go-hash) - Small utility to store secret information like passwords.
 - [yvesago/shodan-cli](https://github.com/yvesago/shodan-cli) - Simple golang shodan cli
 - [TheHackerDev/race-the-web](https://github.com/TheHackerDev/race-the-web) - Tests for race conditions in web applications. Includes a RESTful API to integrate into a continuous integration pipeline.
-- [spencerdodd/cuttlefish](https://github.com/spencerdodd/cuttlefish) - dynamic parallelized host enumeration in golang
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [greenboxal/dns-heaven](https://github.com/greenboxal/dns-heaven) - Fixes stupid macOS DNS stack (/etc/resolv.conf)
@@ -7242,7 +7241,6 @@
 ## PLSQL 
 
 - [crtsh/certwatch_db](https://github.com/crtsh/certwatch_db) - Database schema
-- [nologic/idaref](https://github.com/nologic/idaref) - IDA Pro Instruction Reference Plugin
 
 ## Pascal 
 
@@ -8261,7 +8259,7 @@
 - [Sw4mpf0x/PowerLurk](https://github.com/Sw4mpf0x/PowerLurk) - Malicious WMI Events using PowerShell
 - [edemilliere/BasicADReport](https://github.com/edemilliere/BasicADReport) - 
 - [MicksITBlogs/PowerShell](https://github.com/MicksITBlogs/PowerShell) - PowerShell scripts for Mick's IT Blogs
-- [duckingtoniii/Powershell-Domain-User-Enumeration](https://github.com/duckingtoniii/Powershell-Domain-User-Enumeration) - 
+- [ZoomerHulkHogan/Powershell-Domain-User-Enumeration](https://github.com/ZoomerHulkHogan/Powershell-Domain-User-Enumeration) - 
 - [camalot/psievm](https://github.com/camalot/psievm) - Get IE Virtual Box VMs from powershell
 - [dlwyatt/PolicyFileEditor](https://github.com/dlwyatt/PolicyFileEditor) - PowerShell functions and DSC resource wrappers around the TJX.PolFileEditor.PolFile .NET class.
 - [lazywinadmin/LazyWinAdmin_GUI](https://github.com/lazywinadmin/LazyWinAdmin_GUI) - PowerShell Script that generates a GUI/WinForms loaded with tons of functions
@@ -8726,6 +8724,7 @@
 
 ## Python 
 
+- [lucasg/msdn-docset](https://github.com/lucasg/msdn-docset) - MSDN in a zeal docset
 - [p0dalirius/LDAPmonitor](https://github.com/p0dalirius/LDAPmonitor) - Monitor creation, deletion and changes to LDAP objects live during your pentest or system administration!
 - [p0dalirius/FindUncommonShares](https://github.com/p0dalirius/FindUncommonShares) - FindUncommonShares.py is a Python equivalent of PowerView's Invoke-ShareFinder.ps1 allowing to quickly find uncommon shares in vast Windows Domains.
 - [nyxgeek/AzureAD_Autologon_Brute](https://github.com/nyxgeek/AzureAD_Autologon_Brute) - Brute force attack tool for Azure AD Autologon/Seamless SSO - Source: https://arstechnica.com/information-technology/2021/09/new-azure-active-directory-password-brute-forcing-flaw-has-no-fix/
@@ -12242,6 +12241,7 @@
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢
 - [0vercl0k/z3-playground](https://github.com/0vercl0k/z3-playground) - A repository to store Z3-python scripts you can use as examples, reminders, whatever.
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
+- [nologic/idaref](https://github.com/nologic/idaref) - IDA Pro Instruction Reference Plugin
 - [AnimeshShaw/Hash-Algorithm-Identifier](https://github.com/AnimeshShaw/Hash-Algorithm-Identifier) - A python tool to identify different Hash Function Algorithms
 - [globocom/m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions
 - [SpamExperts/pyzor](https://github.com/SpamExperts/pyzor) - Pyzor is a Python implementation of a spam-blocking networked system that use spam signatures to identify them.
@@ -13310,7 +13310,7 @@
 - [williballenthin/shellbags](https://github.com/williballenthin/shellbags) - Cross-platform, open-source shellbag parser
 - [mushorg/glastopf](https://github.com/mushorg/glastopf) - Web Application Honeypot
 - [hpfeeds/hpfeeds](https://github.com/hpfeeds/hpfeeds) - Honeynet Project generic authenticated datafeed protocol
-- [gabrielfalcao/HTTPretty](https://github.com/gabrielfalcao/HTTPretty) - HTTP client mocking tool for Python - inspired by Fakeweb for Ruby
+- [gabrielfalcao/HTTPretty](https://github.com/gabrielfalcao/HTTPretty) - Intercept HTTP requests at the Python socket level. Fakes the whole socket module
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 - [ManiacTwister/dionaea](https://github.com/ManiacTwister/dionaea) - Dionaea Honeypot
 - [tantalor/pretty_timedelta](https://github.com/tantalor/pretty_timedelta) - Turn python timedelta objects into pretty strings like "10 minutes ago".
@@ -15721,7 +15721,7 @@
 - [tuxracer/simple-storage](https://github.com/tuxracer/simple-storage) - Simple localStorage / sessionStorage supporting objects and arrays
 - [NarrativeScience/log.io](https://github.com/NarrativeScience/log.io) - Real-time log monitoring in your browser
 - [ukyo/mp4.js](https://github.com/ukyo/mp4.js) - mp4 parser
-- [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing
+- [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
 - [seth-brown/formd](https://github.com/seth-brown/formd) - A Markdown formatting tool
 
 ## VBA 
@@ -15919,7 +15919,7 @@
 - [insystemsco/IRCollect](https://github.com/insystemsco/IRCollect) - Windows Incident Respose Script
 - [rootkiter/Binary-files](https://github.com/rootkiter/Binary-files) - EarthWorm/Termite 停止更新
 - [techhelplist/rules](https://github.com/techhelplist/rules) - Repository of yara rules
-- [unixfreaxjp/rules](https://github.com/unixfreaxjp/rules) - My fork of/from Repository of yara rules
+- [unixfreaxjp/Yara_rules_forked](https://github.com/unixfreaxjp/Yara_rules_forked) - My fork of/from Repository of yara rules
 - [DidierStevens/DidierStevensSuite](https://github.com/DidierStevens/DidierStevensSuite) - Please no pull requests for this repository. Thanks!
 - [tjnel/yara_repo](https://github.com/tjnel/yara_repo) - Repository of Yara Rules created by TjNel
 - [Xumeiquer/yara-forensics](https://github.com/Xumeiquer/yara-forensics) - Set of Yara rules for finding files using magics headers
