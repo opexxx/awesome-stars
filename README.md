@@ -2389,6 +2389,7 @@
 
 ## Go 
 
+- [Tylous/ZipExec](https://github.com/Tylous/ZipExec) - A unique technique to execute binaries from a password protected zip
 - [neex/ghostinthepdf](https://github.com/neex/ghostinthepdf) - 
 - [nikitavoloboev/alfred-web-searches](https://github.com/nikitavoloboev/alfred-web-searches) - Alfred workflow to search through any website (easily extendable list)
 - [Antonito/gfile](https://github.com/Antonito/gfile) - Direct file transfer over WebRTC
@@ -3804,7 +3805,7 @@
 - [prinsharma1999/bug_bounty_tweets](https://github.com/prinsharma1999/bug_bounty_tweets) - 
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat 🐐  is a "Vulnerable by Design" Kubernetes Cluster. Designed to be an intentionally vulnerable cluster environment to learn and practice Kubernetes security 🔐
 - [AaronDinnage/Licensing](https://github.com/AaronDinnage/Licensing) - Microsoft 365 licensing diagrams
-- [WADComs/WADComs.github.io](https://github.com/WADComs/WADComs.github.io) - WADComs is an interactive cheat sheet, containing a curated list of Unix/Windows offensive tools and their respective commands.
+- [WADComs/WADComs.github.io](https://github.com/WADComs/WADComs.github.io) - WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [ibrahimjelliti/CKSS-Certified-Kubernetes-Security-Specialist](https://github.com/ibrahimjelliti/CKSS-Certified-Kubernetes-Security-Specialist) - This repository is a collection of resources to prepare for the Certified Kubernetes Security Specialist (CKSS) exam.
 - [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Kubernetes - Beginners | Intermediate | Advanced
@@ -10332,7 +10333,7 @@
 - [amarlearning/github-sectory](https://github.com/amarlearning/github-sectory) - CLI for downloading sub-directory of any GitHub repository
 - [ElevenPaths/neto](https://github.com/ElevenPaths/neto) - Neto | A tool to analyse browser extensions
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
-- [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 📦 CLI providing unifying interface to all package managers
+- [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 📦 one CLI for all package managers
 - [ctil/zargparse](https://github.com/ctil/zargparse) - A tool for generating zsh completion files for python command line tools that use argparse
 - [guardian/athena-cli](https://github.com/guardian/athena-cli) - Presto-like CLI tool for AWS Athena
 - [akme/lsofgraph-python](https://github.com/akme/lsofgraph-python) - python version of lsof to graphviz parser
@@ -13999,7 +14000,6 @@
 - [hobodave/nagios-probe](https://github.com/hobodave/nagios-probe) - A very simple tool to assist with creating custom nagios probes in Ruby
 - [opexxx/mkepub](https://github.com/opexxx/mkepub) - Grab a text from Project Gutenberg DE and convert it to epub
 - [opexxx/chemr](https://github.com/opexxx/chemr) - CHM viewer for MacOS X, Forked from original SVN repository
-- [opexxx/chm2pdf](https://github.com/opexxx/chm2pdf) - Convert CHM to PDF files
 - [derailed/rackamole](https://github.com/derailed/rackamole) - Observe and learn how your users are interacting with your web applications.
 - [sophsec/ruby-nmap](https://github.com/sophsec/ruby-nmap) - A Ruby interface to nmap, the exploration tool and security / port scanner. Allows automating nmap and parsing nmap XML files.
 - [lava/mkepub](https://github.com/lava/mkepub) - Grab a text from Project Gutenberg DE and convert it to epub
@@ -14346,7 +14346,7 @@
 - [zdharma/history-search-multi-word](https://github.com/zdharma/history-search-multi-word) - Multi-word, syntax highlighted history searching for Zsh
 - [T0xst/linux](https://github.com/T0xst/linux) - linux安全检查
 - [lis912/Evaluation_tools](https://github.com/lis912/Evaluation_tools) - 测评工具
-- [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck) - linux系统自动化应急响应工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程检查等12类70项检查
+- [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck) - Linux应急处置/信息搜集/漏洞检测工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程/供应链/服务器风险等13类70+项检查
 - [Cloudxtreme/ansible-aws_cli](https://github.com/Cloudxtreme/ansible-aws_cli) - Ansible role to install and configure AWS Command Line Interface
 - [chris-rock/vesper](https://github.com/chris-rock/vesper) - 🍸Vesper - HTTP Framework for Bash Shell
 - [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool to identify and exploit sudo rules' misconfigurations and vulnerabilities within sudo for linux privilege escalation.
