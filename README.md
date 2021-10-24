@@ -3775,7 +3775,7 @@
 - [mantvydasb/Red-Team-Infrastructure-Automation](https://github.com/mantvydasb/Red-Team-Infrastructure-Automation) - Disposable and resilient red team infrastructure with Terraform
 - [cloudposse/terraform-aws-jenkins](https://github.com/cloudposse/terraform-aws-jenkins) - Terraform module to build Docker image with Jenkins, save it to an ECR repo, and deploy to Elastic Beanstalk running Docker stack
 - [TomJanetscheck/AzureSecurity](https://github.com/TomJanetscheck/AzureSecurity) - This repository contains code snippets for secure deployments of Azure resources.
-- [rgl/windows-vagrant](https://github.com/rgl/windows-vagrant) - Windows 2012R2/10/2016/2019/2022 Base Vagrant Box (https://app.vagrantup.com/rgl)
+- [rgl/windows-vagrant](https://github.com/rgl/windows-vagrant) - Windows 2012R2/10/11/2016/2019/2022 Base Vagrant Box (https://app.vagrantup.com/rgl)
 - [apparentlymart/terraform-aws-tf-registry](https://github.com/apparentlymart/terraform-aws-tf-registry) - Terraform module for creating a simple private Terraform registry in AWS with DynamoDB
 - [nozaq/terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline) - Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations and AWS Foundational Security Best Practices.
 - [lbernail/dockeroverlays](https://github.com/lbernail/dockeroverlays) - 
@@ -4528,7 +4528,7 @@
 - [mitchmoser/sputnik](https://github.com/mitchmoser/sputnik) - Open Source Intelligence Browser Extension
 - [HASH1da1/Gotanda](https://github.com/HASH1da1/Gotanda) - Gotanda is browser Web Extension for OSINT.
 - [lelinhtinh/de4js](https://github.com/lelinhtinh/de4js) - JavaScript Deobfuscator and Unpacker
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - convert curl commands to Python, JavaScript, PHP, R, Go, Rust, Dart, JSON, Ansible, Elixir
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - convert curl commands to Python, JavaScript, Go, PHP, R, Dart, Java, MATLAB, Rust, Elixir and more
 - [alephdata/aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for.
 - [teamdfir/sift-cli](https://github.com/teamdfir/sift-cli) - CLI tool to manage a SIFT Install
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
@@ -10213,7 +10213,7 @@
 - [MayaraCloud/apt-transport-s3](https://github.com/MayaraCloud/apt-transport-s3) - S3 transport for APT
 - [saaramar/35C3_Modern_Windows_Userspace_Exploitation](https://github.com/saaramar/35C3_Modern_Windows_Userspace_Exploitation) - 
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
-- [UndeadSec/EvilURL](https://github.com/UndeadSec/EvilURL) - Generate unicode evil domains for IDN Homograph Attack and detect them.
+- [UndeadSec/EvilURL](https://github.com/UndeadSec/EvilURL) - Generate unicode domains for IDN Homograph Attack and detect them.
 - [DarkSecDevelopers/Absorber](https://github.com/DarkSecDevelopers/Absorber) - An advance keylogger that takes screenshots and also logs special keys including uppercase letters as well.
 - [DarkSecDevelopers/Pyshot](https://github.com/DarkSecDevelopers/Pyshot) - Send screenshots to given email address
 - [DarkSecDevelopers/HiddenEye-Legacy](https://github.com/DarkSecDevelopers/HiddenEye-Legacy) - Modern Phishing Tool With Advanced Functionality And Multiple Tunnelling Services  [ Android-Support-Available ]
