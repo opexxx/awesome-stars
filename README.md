@@ -8637,7 +8637,7 @@
 - [NetSPI/PS_Reflector](https://github.com/NetSPI/PS_Reflector) - 
 - [NetSPI/Powershell-Modules](https://github.com/NetSPI/Powershell-Modules) - 
 - [lukesampson/pshazz](https://github.com/lukesampson/pshazz) - Give your powershell some pizazz.
-- [lukesampson/scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
+- [ScoopInstaller/scoop](https://github.com/ScoopInstaller/scoop) - A command-line installer for Windows.
 - [leebaird/discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit.
 - [enigma0x3/Generate-Macro](https://github.com/enigma0x3/Generate-Macro) - This Powershell script will generate a malicious Microsoft Office document with a specified payload and persistence method.
 - [darkoperator/Posh-Shodan](https://github.com/darkoperator/Posh-Shodan) - PowerShell Module to interact with the Shodan service
