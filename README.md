@@ -2499,6 +2499,7 @@
 - [0xjbb/scyllago](https://github.com/0xjbb/scyllago) - Simple Go Module for the scylla.sh API
 - [dandare100/agentstub](https://github.com/dandare100/agentstub) - SSH Agent Forwarding
 - [mhmdiaa/second-order](https://github.com/mhmdiaa/second-order) - Second-order subdomain takeover scanner
+- [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [sw33tLie/bbscope](https://github.com/sw33tLie/bbscope) - Scope gathering tool for HackerOne, Bugcrowd, and Intigriti!
 - [busterb/msmailprobe](https://github.com/busterb/msmailprobe) - Office 365 and Exchange Enumeration
 - [Shivangx01b/BountyIt](https://github.com/Shivangx01b/BountyIt) - A fuzzer made in golang for finding issues like xss, lfi, rce, ssti...that detects issues using change in content length and verify it using signatures
@@ -2999,7 +3000,7 @@
 - [s32x/ipdata](https://github.com/s32x/ipdata) - :globe_with_meridians: An IP lookup system utilizing open datasets
 - [devanshbatham/Golookup](https://github.com/devanshbatham/Golookup) - GoLookup is a simple tool written in GoLang, which looks for CNAME(s) ,A and AAAA Records , TXT Records , NameServer(s) / MX Record of any domain
 - [artooro/drivebackup](https://github.com/artooro/drivebackup) - Backup a Google Drive account to a local device such as QNAP or a computer.
-- [KeeleyDonovan/omniscience](https://github.com/KeeleyDonovan/omniscience) - Search Everything 👀
+- [keelerh/omniscience](https://github.com/keelerh/omniscience) - Search Everything 👀
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [ihciah/tg_channel_bot](https://github.com/ihciah/tg_channel_bot) - Fetch and push to telegram channel/user/group !
 - [devanshbatham/Gorecon](https://github.com/devanshbatham/Gorecon) - Gorecon is a All in one Reconnaissance Tool , a.k.a swiss knife for Reconnaissance  , A tool that every pentester/bughunter might wanna consider into their arsenal
@@ -8864,7 +8865,6 @@
 - [f0cker/crackq](https://github.com/f0cker/crackq) - CrackQ: A Python Hashcat cracking queue system
 - [Charmve/BLE-Security-Attack-Defence](https://github.com/Charmve/BLE-Security-Attack-Defence) - ✨ Purpose only! The dangers of Bluetooth Low Energy（BLE）implementations: Unveiling zero day vulnerabilities and security flaws in modern Bluetooth LE stacks.
 - [embedded-sec/halucinator](https://github.com/embedded-sec/halucinator) - 
-- [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [Mostafayahia-hunter/Virustotal-python-API-Domains-IPs-and-URLs-](https://github.com/Mostafayahia-hunter/Virustotal-python-API-Domains-IPs-and-URLs-) - 
 - [DreyAnd/DeadDNS](https://github.com/DreyAnd/DeadDNS) - DNS hijacking via dead records automation tool
 - [center-for-threat-informed-defense/attack-control-framework-mappings](https://github.com/center-for-threat-informed-defense/attack-control-framework-mappings) - Security control framework mappings to MITRE ATT&CK provide a critically important resource for organizations to assess their security control coverage against real-world threats and provide a bridge for integrating ATT&CK-based threat information into the risk management process.
@@ -11106,7 +11106,6 @@
 - [Ekultek/Dagon](https://github.com/Ekultek/Dagon) - Advanced Hash Manipulation
 - [wanjunzh/ssct](https://github.com/wanjunzh/ssct) - A wrapper tool for shadowsocks to consistently bypass firewalls.
 - [claudioviviani/ms17-010-m4ss-sc4nn3r](https://github.com/claudioviviani/ms17-010-m4ss-sc4nn3r) - MS17-010 multithreading scanner written in python.
-- [cyphonmdr/cyphon](https://github.com/cyphonmdr/cyphon) - Open source incident management and response platform.
 - [lbarman/kali-tools](https://github.com/lbarman/kali-tools) - Run Kali tools on all distributions. Offline search, including in package descriptions.
 - [MisterBianco/BoopSuite](https://github.com/MisterBianco/BoopSuite) - A Suite of Tools written in Python for wireless auditing and security testing.
 - [xapax/oscp](https://github.com/xapax/oscp) - 
