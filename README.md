@@ -2462,7 +2462,7 @@
 - [evilsocket/ditto](https://github.com/evilsocket/ditto) - A tool for IDN homograph attacks and detection.
 - [RumbleDiscovery/jarm-go](https://github.com/RumbleDiscovery/jarm-go) - A Go implementation of JARM
 - [ReddyyZ/urlbrute](https://github.com/ReddyyZ/urlbrute) - Directory/Subdomain scanner developed in GoLang.
-- [root4loot/rescope](https://github.com/root4loot/rescope) - Rescope is a tool geared towards pentesters and bugbounty researchers, that aims to make life easier when defining scopes for Burp Suite and OWASP ZAP.
+- [root4loot/rescope](https://github.com/root4loot/rescope) - A scope-generator-tool for Burp Suite and ZAP
 - [S4R1N/Tritium](https://github.com/S4R1N/Tritium) - Password Spraying Framework
 - [roerohan/bird](https://github.com/roerohan/bird) - A simple website directory enumeration tool built with Golang.
 - [buptczq/WinCryptSSHAgent](https://github.com/buptczq/WinCryptSSHAgent) - Using a Yubikey for SSH Authentication on Windows Seamlessly
@@ -3125,7 +3125,7 @@
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [wille/cry](https://github.com/wille/cry) - Cross platform PoC ransomware written in Go
 - [gocaio/goca](https://github.com/gocaio/goca) - Goca Scanner
-- [alphasoc/flightsim](https://github.com/alphasoc/flightsim) - A utility to generate malicious network traffic and evaluate controls
+- [alphasoc/flightsim](https://github.com/alphasoc/flightsim) - A utility to safely generate malicious network traffic patterns and evaluate controls.
 - [sysdream/chashell](https://github.com/sysdream/chashell) - Chashell is a Go reverse shell that communicates over DNS. It can be used to bypass firewalls or tightly restricted networks.
 - [koenbollen/jl](https://github.com/koenbollen/jl) - jl — JSON Logs, a development tool for working with structured JSON logging.
 - [Frichetten/CVE-2019-5736-PoC](https://github.com/Frichetten/CVE-2019-5736-PoC) - PoC for CVE-2019-5736
@@ -7087,7 +7087,7 @@
 - [antonioribeiro/google2fa-qrcode](https://github.com/antonioribeiro/google2fa-qrcode) - QRCode for Google2FA
 - [sh377c0d3/Payloads](https://github.com/sh377c0d3/Payloads) - Payload Arsenal for Pentration Tester and Bug Bounty Hunters
 - [incredibleindishell/CORS_vulnerable_Lab-Without_Database](https://github.com/incredibleindishell/CORS_vulnerable_Lab-Without_Database) - 
-- [Hi-Folks/gh-actions-yaml-generator](https://github.com/Hi-Folks/gh-actions-yaml-generator) - Ghygen is a GitHub Actions configurator for your Laravel Application.
+- [Hi-Folks/gh-actions-yaml-generator](https://github.com/Hi-Folks/gh-actions-yaml-generator) - Ghygen is a GitHub Actions configurator for your PHP / Laravel project.
 - [TROUBLE-1/Type-juggling](https://github.com/TROUBLE-1/Type-juggling) - Lab that will help you to understand how type juggling vulnerability works.
 - [TROUBLE-1/White-box-pentesting](https://github.com/TROUBLE-1/White-box-pentesting) - This lab is created to demonstrate pass-the-hash, blind sql and SSTI vulnerabilities
 - [LordWolfer/webshells](https://github.com/LordWolfer/webshells) - This is a compilation of various shells that I had found in the wild.
@@ -8638,7 +8638,7 @@
 - [NetSPI/PS_Reflector](https://github.com/NetSPI/PS_Reflector) - 
 - [NetSPI/Powershell-Modules](https://github.com/NetSPI/Powershell-Modules) - 
 - [lukesampson/pshazz](https://github.com/lukesampson/pshazz) - Give your powershell some pizazz.
-- [ScoopInstaller/scoop](https://github.com/ScoopInstaller/scoop) - A command-line installer for Windows.
+- [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [leebaird/discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit.
 - [enigma0x3/Generate-Macro](https://github.com/enigma0x3/Generate-Macro) - This Powershell script will generate a malicious Microsoft Office document with a specified payload and persistence method.
 - [darkoperator/Posh-Shodan](https://github.com/darkoperator/Posh-Shodan) - PowerShell Module to interact with the Shodan service
