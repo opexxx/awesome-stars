@@ -11731,7 +11731,7 @@
 - [rschwass/SCRIPTS](https://github.com/rschwass/SCRIPTS) - One off Scripts repo
 - [forensicmatt/PancakeViewer](https://github.com/forensicmatt/PancakeViewer) - A DFVFS Backed Forensic Viewer
 - [pbeck/whatsbook](https://github.com/pbeck/whatsbook) - Create books from WhatsApp group chats with Python and LaTeX
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available now to avoid spammy issues.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues.
 - [RiskSense-Ops/CVE-2016-6366](https://github.com/RiskSense-Ops/CVE-2016-6366) - Public repository for improvements to the EXTRABACON exploit
 - [kanzure/python-wmi-client-wrapper](https://github.com/kanzure/python-wmi-client-wrapper) - Linux-only wrapper around wmi-client for WMI (Windows)
 - [slacker007/NodeHunter](https://github.com/slacker007/NodeHunter) - Python Module that uses the NMAP api to enumerate a network and its hosts.
