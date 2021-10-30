@@ -2432,6 +2432,7 @@
 - [GoogleCloudPlatform/security-response-automation](https://github.com/GoogleCloudPlatform/security-response-automation) - Take automated actions against threats and vulnerabilities.
 - [projectdiscovery/simplehttpserver](https://github.com/projectdiscovery/simplehttpserver) - Go alternative of python SimpleHTTPServer
 - [dundee/gdu](https://github.com/dundee/gdu) - Disk usage analyzer with console interface written in Go
+- [azimjohn/jprq](https://github.com/azimjohn/jprq) - Get Your Localhost Online - Ngrok Alternative
 - [niocs/csvsql](https://github.com/niocs/csvsql) - Golang project to run sql queries on any csv file using embedded sqlite database. Has interactive and non-interactive modes.
 - [senthilrch/kube-fledged](https://github.com/senthilrch/kube-fledged) - A kubernetes operator for creating and managing a cache of container images directly on the cluster worker nodes, so application pods start almost instantly
 - [cdk-team/CDK](https://github.com/cdk-team/CDK) - CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily.
@@ -4551,7 +4552,7 @@
 - [ivolo/disposable-email-domains](https://github.com/ivolo/disposable-email-domains) - A list of disposable email domains
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [google/certificate-maker](https://github.com/google/certificate-maker) - An experimental tool for turning HTML templates into PDF files.
-- [contra/captchagen](https://github.com/contra/captchagen) - Captcha generation for NodeJS
+- [yocontra/captchagen](https://github.com/yocontra/captchagen) - Captcha generation for NodeJS
 - [trekjs/captcha](https://github.com/trekjs/captcha) - A Lightweight Pure JavaScript Captcha for Node.js. No C/C++, No ImageMagick, No Canvas.
 - [ZYSzys/awesome-captcha](https://github.com/ZYSzys/awesome-captcha) - :key: Curated list of awesome captcha libraries and crack tools.
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
@@ -7933,6 +7934,7 @@
 - [p3nt4/Invoke-Piper](https://github.com/p3nt4/Invoke-Piper) - Forward local or remote tcp ports through SMB pipes.
 - [GavinEke/TronNG](https://github.com/GavinEke/TronNG) - Tron Next Generation for Windows 10
 - [kilasuit/PoshFunctions](https://github.com/kilasuit/PoshFunctions) - Collection of Scripts & Modules that I am happy to share
+- [mgeeky/Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) - A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements.
 - [noma4i/windows-openstack-imaging-tools](https://github.com/noma4i/windows-openstack-imaging-tools) - Tools to automate the creation of a Windows image for OpenStack, supporting KVM, Hyper-V, ESXi and more.
 - [noma4i/puppet-windows_updates](https://github.com/noma4i/puppet-windows_updates) - Manage Windows Updates from puppet
 - [offsecginger/AggressorScripts](https://github.com/offsecginger/AggressorScripts) - Various Aggressor Scripts I've Created.
@@ -8769,7 +8771,6 @@
 - [3ndG4me/spraygen](https://github.com/3ndG4me/spraygen) - Password list generator for password spraying - prebaked with goodies
 - [Taha-Firoz/DDL2Excel](https://github.com/Taha-Firoz/DDL2Excel) - This is a simple python script that converts DDL for Oracle SQL to excel headings to make creating datasets in excel faster
 - [securisec/chepy](https://github.com/securisec/chepy) - Chepy is a python lib/cli equivalent of the awesome CyberChef tool.
-- [azimjohn/jprq](https://github.com/azimjohn/jprq) - Get Your Localhost Online - Ngrok Alternative
 - [karneliuk-com/hawk](https://github.com/karneliuk-com/hawk) - Collection of the tools for the efficient network analysis and modelling.
 - [gquere/bloodhound_linux](https://github.com/gquere/bloodhound_linux) - Ingest openldap data into bloodhound
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
@@ -10220,7 +10221,6 @@
 - [649/Crashcast-Exploit](https://github.com/649/Crashcast-Exploit) - This tool allows you mass play any YouTube video, terminate apps and rename Chromecast device(s) obtained from Shodan.io
 - [securitystreak/security-scripts](https://github.com/securitystreak/security-scripts) - A collection of public offensive and defensive security related scripts for InfoSec students.
 - [rudSarkar/crlf-injector](https://github.com/rudSarkar/crlf-injector) - A CRLF ( Carriage Return Line Feed ) Injection attack occurs when a user manages to submit a CRLF into an application. This is most commonly done by modifying an HTTP parameter or URL.
-- [mgeeky/Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) - A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements.
 - [shodansploit/shodansploit](https://github.com/shodansploit/shodansploit) - 🔎 shodansploit &gt; v1.3.0
 - [BusesCanFly/PRETty](https://github.com/BusesCanFly/PRETty) - "PRinter Exploitation Toolkit" LAN automation tool
 - [asmw/andOTP-decrypt](https://github.com/asmw/andOTP-decrypt) - 
@@ -14342,7 +14342,6 @@
 - [unixorn/bash-my-aws](https://github.com/unixorn/bash-my-aws) - Bash functions for managing AWS resources simply and easily
 - [unixorn/autoupdate-zgen](https://github.com/unixorn/autoupdate-zgen) - Autoupdate plugin for zgen
 - [Kitsun3Sec/Pentest-Cheat-Sheets](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets) - A collection of snippets of codes and commands to make your life easier!
-- [zdharma/history-search-multi-word](https://github.com/zdharma/history-search-multi-word) - Multi-word, syntax highlighted history searching for Zsh
 - [T0xst/linux](https://github.com/T0xst/linux) - linux安全检查
 - [lis912/Evaluation_tools](https://github.com/lis912/Evaluation_tools) - 测评工具
 - [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck) - Linux应急处置/信息搜集/漏洞检测工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程/供应链/服务器风险等13类70+项检查
