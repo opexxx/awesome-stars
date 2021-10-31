@@ -844,7 +844,7 @@
 - [libimobiledevice/libirecovery](https://github.com/libimobiledevice/libirecovery) - Library and utility to talk to iBoot/iBSS via USB on Mac OS X, Windows, and Linux
 - [h2o/h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
 - [jessfraz/tor](https://github.com/jessfraz/tor) - Development fork of https://git.torproject.org/tor.git
-- [David-Reguera-Garcia-Dreg/anticuckoo](https://github.com/David-Reguera-Garcia-Dreg/anticuckoo) - A tool to detect and crash Cuckoo Sandbox
+- [therealdreg/anticuckoo](https://github.com/therealdreg/anticuckoo) - A tool to detect and crash Cuckoo Sandbox
 - [andreafabrizi/DNSProxy](https://github.com/andreafabrizi/DNSProxy) - DNS proxy listens for incoming DNS requests on the local interface and resolves the hosts using an external PHP script, through http proxy requests.
 - [hugsy/proxenet](https://github.com/hugsy/proxenet) - The ONLY hacker friendly proxy for webapp pentests.
 - [kost/nanomet](https://github.com/kost/nanomet) - Nano meterpreter shell based on TinyMet
@@ -1745,7 +1745,7 @@
 - [facebookincubator/oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer
 - [hoangprod/AndrewSpecial](https://github.com/hoangprod/AndrewSpecial) - AndrewSpecial, dumping lsass' memory stealthily and bypassing "Cilence" since 2019.
 - [slaeryan/AQUARMOURY](https://github.com/slaeryan/AQUARMOURY) - My musings in C and offensive tooling
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [microsoft/Detours](https://github.com/microsoft/Detours) - Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distributed in source code form.
 - [hzqst/FuckCertVerifyTimeValidity](https://github.com/hzqst/FuckCertVerifyTimeValidity) - This tiny project prevents the signtool from verifing cert time validity and let you sign your bin with outdated cert without changing system time manually
 - [ComodoSecurity/openedr](https://github.com/ComodoSecurity/openedr) - Open EDR public repository
@@ -3922,7 +3922,6 @@
 - [clr2of8/ChromeShot](https://github.com/clr2of8/ChromeShot) - Capture web screenshots using Chrome. No other dependencies required. Works cross platform.
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [garethflowers/postgresql-portable](https://github.com/garethflowers/postgresql-portable) - Portable version of the PostgreSQL Database Server, for Windows
-- [David-Reguera-Garcia-Dreg/Precompiled-OpenSSL-Windows](https://github.com/David-Reguera-Garcia-Dreg/Precompiled-OpenSSL-Windows) - Precompiled OpenSSL (Include Static and Dynamic Library)
 - [praetorian-inc/DVRF](https://github.com/praetorian-inc/DVRF) - The Damn Vulnerable Router Firmware Project
 - [cyc10n3/WPSpider](https://github.com/cyc10n3/WPSpider) - A centralized dashboard for running and scheduling WordPress scans powered by wpscan utility.
 - [madhur/PortableJekyll](https://github.com/madhur/PortableJekyll) - Portable Jekyll for Windows
@@ -13411,7 +13410,7 @@
 - [sch3m4/pyadb](https://github.com/sch3m4/pyadb) - Simple python module to interact with Android Debug Bridge (ADB) tool
 - [packetloop/packetpig](https://github.com/packetloop/packetpig) - Packetpig - Open Source Big Data Security Analytics
 - [thomhastings/bt5-scripts](https://github.com/thomhastings/bt5-scripts) - Scratching my own itches on BackTrack 5 (deprecated :: bt6 -&gt; kali dot org)
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 As easy as /aitch-tee-tee-pie/. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [davehull/Exif2GeoRSS](https://github.com/davehull/Exif2GeoRSS) - Takes GPS Exif metadata from image files (or whatever) and creates a GeoRSS file suitable for import into Bing Maps. See http://trustedsignal.blogspot.com/2012/02/plotting-photo-location-data-with-bing.html.
 - [lruppert/bro-scripts](https://github.com/lruppert/bro-scripts) - Utilities and scripts for bro-ids
 - [nvie/SimpleAES](https://github.com/nvie/SimpleAES) - AES-256 encryption and decryption in Python for mere mortals.
