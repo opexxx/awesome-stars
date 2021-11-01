@@ -5475,6 +5475,7 @@
 
 ## Nunjucks 
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
 ## OCaml 
@@ -7112,7 +7113,6 @@
 - [endbehavi0r/cam0uflage](https://github.com/endbehavi0r/cam0uflage) - Minimal and efficient port of popular phishing tool HiddenEye
 - [osirislab/Giraffe](https://github.com/osirislab/Giraffe) - 
 - [damianofalcioni/IP-Biter](https://github.com/damianofalcioni/IP-Biter) - IP-Biter: The Hacker-friendly E-Mail (but not only) Tracking Framework
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [smowtion/urlchecker](https://github.com/smowtion/urlchecker) - Urlchecker.org API Document ( Check 1000 files hosts,ziplink,encoded links and ads link. example: rapidgator,mefiafire,mega.nz,adf.ly and extract files hosting from website....)
 - [fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
 - [terrylinooo/shieldon](https://github.com/terrylinooo/shieldon) - Web Application Firewall (WAF) for PHP.
@@ -8991,7 +8991,7 @@
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [SomeKirill/wordlist_generator](https://github.com/SomeKirill/wordlist_generator) - Unique wordlist generator of unique wordlists.
 - [n0fate/mac-osx-forensics](https://github.com/n0fate/mac-osx-forensics) - Mac osx forensics tools
-- [dhondta/webgrep](https://github.com/dhondta/webgrep) - Web page Grep-like easy-to-extend tool with extra features like JS deobfuscation and OCR
+- [dhondta/webgrep](https://github.com/dhondta/webgrep) - Grep for a Web page with extra features like JS deobfuscation and OCR
 - [x90skysn3k/brutespray](https://github.com/x90skysn3k/brutespray) - Brute-Forcing from Nmap output - Automatically attempts default creds on found services.
 - [m4ll0k/BBTz](https://github.com/m4ll0k/BBTz) - BBT - Bug Bounty Tools
 - [emtunc/SlackPirate](https://github.com/emtunc/SlackPirate) - Slack Enumeration and Extraction Tool - extract sensitive information from a Slack Workspace
