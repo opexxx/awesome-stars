@@ -180,7 +180,6 @@
 
 - [klezVirus/inceptor](https://github.com/klezVirus/inceptor) - Template-Driven AV/EDR Evasion Framework
 - [jthuraisamy/SysWhispers2](https://github.com/jthuraisamy/SysWhispers2) - AV/EDR evasion via direct system calls.
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [antonioCoco/Mapping-Injection](https://github.com/antonioCoco/Mapping-Injection) - Just another Windows Process Injection
 - [jthuraisamy/SysWhispers](https://github.com/jthuraisamy/SysWhispers) - AV/EDR evasion via direct system calls.
@@ -383,6 +382,7 @@
 - [ssdeep-project/ssdeep](https://github.com/ssdeep-project/ssdeep) - Fuzzy hashing API and fuzzy hashing tool
 - [ifding/iot-malware](https://github.com/ifding/iot-malware) - Malware source code samples leaked online uploaded to GitHub for those who want to analyze the code
 - [ant4g0nist/Vulnerable-Kext](https://github.com/ant4g0nist/Vulnerable-Kext) - A WIP "Vulnerable by Design" kext for iOS/macOS to play & learn *OS kernel exploitation
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [brannondorsey/naive-hashcat](https://github.com/brannondorsey/naive-hashcat) - Crack password hashes without the fuss :cat2:
 - [slaeryan/DetectCobaltStomp](https://github.com/slaeryan/DetectCobaltStomp) - Detects Module Stomping as implemented by Cobalt Strike
 - [hardik05/Damn_Vulnerable_C_Program](https://github.com/hardik05/Damn_Vulnerable_C_Program) - a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts.
@@ -2176,7 +2176,7 @@
 - [c0bra/markdown-resume-js](https://github.com/c0bra/markdown-resume-js) - Turn a simple markdown document into a resume in HTML and PDF
 - [posativ/blog.posativ.org](https://github.com/posativ/blog.posativ.org) - Source files of my personal blog using Acrylamid as static blog engine.
 - [OWASP/owasp-summit-2017](https://github.com/OWASP/owasp-summit-2017) - Content for OWASP Summit 2017 site
-- [gepeto42/evilplumbing](https://github.com/gepeto42/evilplumbing) - Evil.Plumbing
+- [GuillaumeRoss/evilplumbing](https://github.com/GuillaumeRoss/evilplumbing) - Evil.Plumbing
 - [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme now lives on at https://github.com/chriskempson/base16
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [httphacker/gethead](https://github.com/httphacker/gethead) - HTTP Header Analysis Vulnerability Tool
@@ -2675,7 +2675,7 @@
 - [jondlm/trapper](https://github.com/jondlm/trapper) - A small HTTP server for inspecting payloads
 - [joneskoo/http2-keylog](https://github.com/joneskoo/http2-keylog) - Example: debugging TLS with Go crypto/tls KeyLogWriter
 - [JustinAzoff/ssh-auth-logger](https://github.com/JustinAzoff/ssh-auth-logger) - A low/zero interaction ssh authentication logging honeypot
-- [jzelinskie/faq](https://github.com/jzelinskie/faq) - Format Agnostic jQ
+- [jzelinskie/faq](https://github.com/jzelinskie/faq) - Format Agnostic jQ -- process various formats with libjq
 - [kalafut/imohash](https://github.com/kalafut/imohash) - Fast hashing for large files
 - [KeizerDev/domainchecker](https://github.com/KeizerDev/domainchecker) - :globe_with_meridians: Check/buy domains from the terminal at your favorite supplier.
 - [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
@@ -4486,6 +4486,7 @@
 - [spaceB0x/cider](https://github.com/spaceB0x/cider) - Continuous Integration and Development ExploiteR
 - [4auvar/VulnNodeApp](https://github.com/4auvar/VulnNodeApp) - A vulnerable node.js application
 - [StrangerealIntel/CyberThreatIntel](https://github.com/StrangerealIntel/CyberThreatIntel) - Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups
+- [offensive-security/exploitdb-papers](https://github.com/offensive-security/exploitdb-papers) - exploit-database-papers
 - [amazon-archives/aws-mobile-react-native-starter](https://github.com/amazon-archives/aws-mobile-react-native-starter) - AWS Mobile React Native Starter App     https://aws.amazon.com/mobile
 - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting diagram will be created.
 - [developit/karmatic](https://github.com/developit/karmatic) - 🦑 Easy automatic (headless) browser testing with Jest's API, but powered by Karma & Webpack.
@@ -5963,7 +5964,6 @@
 - [chryzsh/awesome-bloodhound](https://github.com/chryzsh/awesome-bloodhound) - A curated list of awesome BloodhoundAD resources
 - [YossiSassi/Get-UserSession](https://github.com/YossiSassi/Get-UserSession) - Query user sessions for the entire domain (Interactive/RDP etc), allowing you to query a Username and see all their logged on sessions, whether Active or Disconnected
 - [SecurityRiskAdvisors/VECTR](https://github.com/SecurityRiskAdvisors/VECTR) - VECTR is a tool that facilitates tracking of your red and blue team testing activities to measure detection and prevention capabilities across different attack scenarios
-- [offensive-security/exploitdb-papers](https://github.com/offensive-security/exploitdb-papers) - exploit-database-papers
 - [SentineLabs/TrickBot-Anchor](https://github.com/SentineLabs/TrickBot-Anchor) - This is a repository for the public blog with Labs indicators of compromise.
 - [stamparm/ipsum](https://github.com/stamparm/ipsum) - Daily feed of bad IPs (with blacklist hit scores)
 - [stamparm/blackbook](https://github.com/stamparm/blackbook) - Blackbook of malware domains
@@ -6367,6 +6367,7 @@
 - [beahunt3r/Windows-Hunting](https://github.com/beahunt3r/Windows-Hunting) - 
 - [jaegeral/security-apis](https://github.com/jaegeral/security-apis) - A collective list of public APIs for use in security. Contributions welcome
 - [teamdfir/concordance](https://github.com/teamdfir/concordance) - Term concordances for each course in the SANS DFIR curriculum.  Used for automated index generation.
+- [olafhartong/ThreatHunting](https://github.com/olafhartong/ThreatHunting) - A Splunk app mapped to MITRE ATT&CK to guide your threat hunts
 - [xairy/vmware-exploitation](https://github.com/xairy/vmware-exploitation) - A collection of links related to VMware escape exploits
 - [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
 - [datasciencemasters/go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
@@ -9007,7 +9008,7 @@
 - [dirkjanm/mitm6](https://github.com/dirkjanm/mitm6) - pwning IPv4 via IPv6
 - [DanMcInerney/SMB-reverse-brute](https://github.com/DanMcInerney/SMB-reverse-brute) - Async'ly gather unique usernames thru null SMB sessions and bruteforce them with 2 passwords
 - [DanMcInerney/smb-autopwn](https://github.com/DanMcInerney/smb-autopwn) - Discovers and exploits hosts vulnerable to MS08-067/MS17-010
-- [EnableSecurity/sipvicious](https://github.com/EnableSecurity/sipvicious) - SIPVicious OSS is a set of security tools that can be used to audit SIP based VoIP systems.
+- [EnableSecurity/sipvicious](https://github.com/EnableSecurity/sipvicious) - SIPVicious OSS has been around since 2007 and is actively updated to help security teams, QA and developers test SIP-based VoIP systems and applications.
 - [sevro/security-utilities](https://github.com/sevro/security-utilities) - Offensive Security Certified Profesional (OSCP) course scripts, some have been generalized
 - [Pythonity/icon-font-to-png](https://github.com/Pythonity/icon-font-to-png) - Python script (and library) for exporting icons from icon fonts (e.g. Font Awesome, Octicons) as PNG images
 - [giuliano108/font-awesome-to-png](https://github.com/giuliano108/font-awesome-to-png) - Exports Font Awesome icons as PNG images
@@ -10277,7 +10278,6 @@
 - [MISP/MISP-maltego](https://github.com/MISP/MISP-maltego) - Set of Maltego transforms to inferface with a MISP Threat Sharing instance, and also to explore the whole MITRE ATT&CK dataset.
 - [trustedsec/hate_crack](https://github.com/trustedsec/hate_crack) - A tool for automating cracking methodologies through Hashcat from the TrustedSec team.
 - [edeca/rtfraptor](https://github.com/edeca/rtfraptor) - Extract OLEv1 objects from RTF files by instrumenting Word
-- [olafhartong/ThreatHunting](https://github.com/olafhartong/ThreatHunting) - A Splunk app mapped to MITRE ATT&CK to guide your threat hunts
 - [evict/poc_CVE-2018-1002105](https://github.com/evict/poc_CVE-2018-1002105) - PoC for CVE-2018-1002105.
 - [ulrichw/Finance](https://github.com/ulrichw/Finance) - Python, IDL, and R codes to perform simple analysis of financial markets and portfolios
 - [scikit-learn-contrib/sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Pandas integration with sklearn
