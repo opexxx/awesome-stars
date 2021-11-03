@@ -1767,7 +1767,7 @@
 - [antonioCoco/RogueWinRM](https://github.com/antonioCoco/RogueWinRM) - Windows Local Privilege Escalation from Service Account to System
 - [vovkos/protolesshooks](https://github.com/vovkos/protolesshooks) - API monitoring via return-hijacking thunks; works without information about target function prototypes.
 - [guidovranken/cryptofuzz](https://github.com/guidovranken/cryptofuzz) - Fuzzing cryptographic libraries. Magic bug printer go brrrr.
-- [jafarlihi/revp](https://github.com/jafarlihi/revp) - Reverse HTTP proxy that works on Linux, Windows, and macOS. Made with C++ and Boost.
+- [jafarlihi/revp](https://github.com/jafarlihi/revp) - (This shit doesn't even work properly) Reverse HTTP proxy that works on Linux, Windows, and macOS. Made with C++ and Boost.
 - [slaeryan/FALCONSTRIKE](https://github.com/slaeryan/FALCONSTRIKE) - A stealthy, targeted Windows Loader for delivering second-stage payloads(shellcode) from Github to the host machine undetected
 - [google/fuzzing](https://github.com/google/fuzzing) - Tutorials, examples, discussions, research proposals, and other resources related to fuzzing
 - [hasherezade/paramkit](https://github.com/hasherezade/paramkit) - A small library helping to parse commandline parameters (for C/C++)
@@ -5709,7 +5709,7 @@
 - [ashwin-patil/blue-teaming-with-kql](https://github.com/ashwin-patil/blue-teaming-with-kql) - Repository with Sample KQL Query examples for Threat Hunting
 - [MichaelKoczwara/Awesome-CobaltStrike-Defence](https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence) - Defences against Cobalt Strike
 - [jstrosch/malware-samples](https://github.com/jstrosch/malware-samples) - Malware samples, analysis exercises and other interesting resources.
-- [D3VI5H4/Antivirus-Artifacts](https://github.com/D3VI5H4/Antivirus-Artifacts) - Anti-virus artifacts. Listing APIs hooked by: Avira, BitDefender, F-Secure, MalwareBytes, Norton, TrendMicro, and WebRoot.
+- [ethereal-vx/Antivirus-Artifacts](https://github.com/ethereal-vx/Antivirus-Artifacts) - Anti-virus artifacts. Listing APIs hooked by: Avira, BitDefender, F-Secure, MalwareBytes, Norton, TrendMicro, and WebRoot.
 - [StefanKelm/yara-rules](https://github.com/StefanKelm/yara-rules) - Links to malware-related YARA rules
 - [mildlytested/Wild-West---SOC-Core-Skills---Notes](https://github.com/mildlytested/Wild-West---SOC-Core-Skills---Notes) - links collected from SOC Core Skills class
 - [santosomar/virtualseccons](https://github.com/santosomar/virtualseccons) - An ongoing list of virtual cybersecurity conferences.
@@ -8150,7 +8150,7 @@
 - [alanrenouf/Windows-Workstation-and-Server-Audit](https://github.com/alanrenouf/Windows-Workstation-and-Server-Audit) - A PowerShell Script which audits your Windows Workstation or Server either as a singe machine or en-mass
 - [ProgrammerAndHacker/PasswordchangeNotify](https://github.com/ProgrammerAndHacker/PasswordchangeNotify) - when pass change ,send the pass to remote host
 - [cloudbase/WindowsUpdateCLI](https://github.com/cloudbase/WindowsUpdateCLI) - Windows Update PowerShell tools
-- [cloudbase/windows-openstack-imaging-tools](https://github.com/cloudbase/windows-openstack-imaging-tools) - Tools to automate the creation of a Windows image for OpenStack, supporting KVM, Hyper-V, ESXi and more.
+- [cloudbase/windows-imaging-tools](https://github.com/cloudbase/windows-imaging-tools) - Tools to automate the creation of a Windows image for OpenStack, supporting KVM, Hyper-V, ESXi and more.
 - [docker-archive/communitytools-image2docker-win](https://github.com/docker-archive/communitytools-image2docker-win) - 
 - [joonro/ConEmu-Color-Themes](https://github.com/joonro/ConEmu-Color-Themes) - Manually ported color themes for ConEmu
 - [LabtechConsulting/LabTech-Powershell-Module](https://github.com/LabtechConsulting/LabTech-Powershell-Module) - This is an attempt to create a comprehensive LT PoSH module.
@@ -12688,7 +12688,7 @@
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [ohmu/poni](https://github.com/ohmu/poni) - poni - a systems configuration software
 - [F-Secure/mittn](https://github.com/F-Secure/mittn) - Mittn: Security test tool runner for test automation in CI
-- [mozilla/MozDef](https://github.com/mozilla/MozDef) - MozDef: Mozilla Enterprise Defense Platform
+- [mozilla/MozDef](https://github.com/mozilla/MozDef) - DEPRECATED - MozDef: Mozilla Enterprise Defense Platform
 - [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
 - [CIRCL/AIL-framework](https://github.com/CIRCL/AIL-framework) - AIL framework - Analysis Information Leak framework. Project moved to https://github.com/ail-project
 - [toofishes/python-pgpdump](https://github.com/toofishes/python-pgpdump) - PGP packet parser library
@@ -13410,7 +13410,7 @@
 - [sch3m4/pyadb](https://github.com/sch3m4/pyadb) - Simple python module to interact with Android Debug Bridge (ADB) tool
 - [packetloop/packetpig](https://github.com/packetloop/packetpig) - Packetpig - Open Source Big Data Security Analytics
 - [thomhastings/bt5-scripts](https://github.com/thomhastings/bt5-scripts) - Scratching my own itches on BackTrack 5 (deprecated :: bt6 -&gt; kali dot org)
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 As easy as /aitch-tee-tee-pie/. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [davehull/Exif2GeoRSS](https://github.com/davehull/Exif2GeoRSS) - Takes GPS Exif metadata from image files (or whatever) and creates a GeoRSS file suitable for import into Bing Maps. See http://trustedsignal.blogspot.com/2012/02/plotting-photo-location-data-with-bing.html.
 - [lruppert/bro-scripts](https://github.com/lruppert/bro-scripts) - Utilities and scripts for bro-ids
 - [nvie/SimpleAES](https://github.com/nvie/SimpleAES) - AES-256 encryption and decryption in Python for mere mortals.
@@ -15488,7 +15488,6 @@
 - [huyng/bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 - [decklin/curlicue](https://github.com/decklin/curlicue) - OAuth wrapper for cURL on the command line
 - [rossja/pentools](https://github.com/rossja/pentools) - miscellaneous handy pentesting tools
-- [rainerkohlberger/Helpers](https://github.com/rainerkohlberger/Helpers) - Little Automator / Shell Script / AppleScript Helpers for Mac OS X
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [nvie/scripts](https://github.com/nvie/scripts) - A collection of simple and small but useful UNIX shell scripts.
 - [mattheworiordan/Mac-OS-X-Useful-Scripts](https://github.com/mattheworiordan/Mac-OS-X-Useful-Scripts) - Some useful scripts and profile settings that I have built using Mac OS X
