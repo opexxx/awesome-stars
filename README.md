@@ -391,6 +391,7 @@
 - [giuseppe/crun](https://github.com/giuseppe/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 - [CoolerVoid/HiddenWall](https://github.com/CoolerVoid/HiddenWall) - Tool to generate a Linux kernel module for custom rules with Netfilter hooking. (block ports, Hidden mode, functions to protect, etc.)
 - [einyx/beehive](https://github.com/einyx/beehive) - Very much a WIP - A complete refactor of Tpot-CE - A full stack honeypot ecoystem running on k8s
+- [kubernetes-sigs/security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator) - The Kubernetes Security Profiles Operator
 - [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
 - [JemmyLoveJenny/HookSigntool](https://github.com/JemmyLoveJenny/HookSigntool) - 
 - [Markus-Go/bonesi](https://github.com/Markus-Go/bonesi) - BoNeSi - the DDoS Botnet Simulator
@@ -2541,7 +2542,6 @@
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [Shopify/kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls
-- [kubernetes-sigs/security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator) - The Kubernetes Security Profiles Operator
 - [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [moncho/dry](https://github.com/moncho/dry) - dry - A Docker manager for the terminal @
@@ -5080,7 +5080,7 @@
 - [neo4j-contrib/graphgist](https://github.com/neo4j-contrib/graphgist) - Easy publishing with graph data included
 - [pentestify/wasp](https://github.com/pentestify/wasp) - spider hunting for fun & profit!
 - [mathiasbynens/esrever](https://github.com/mathiasbynens/esrever) - A Unicode-aware string reverser written in JavaScript.
-- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
+- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [limodou/parm](https://github.com/limodou/parm) - Convert par favorit markdown syntax to html document, supports semantic-ui and bootstrap css framework.
 - [mozilla/scanjs](https://github.com/mozilla/scanjs) - [DEPRECATED] Static analysis tool for javascript code.
 - [dorneanu/netgrafio](https://github.com/dorneanu/netgrafio) - netgrafio - Visualize your network
@@ -5144,7 +5144,7 @@
 - [adriancooney/console.image](https://github.com/adriancooney/console.image) - The one thing Chrome Dev Tools didn't need.
 - [zaidka/cliget](https://github.com/zaidka/cliget) - A Firefox addon to download login-protected files from the command line
 - [evilsocket/pycryptocat](https://github.com/evilsocket/pycryptocat) - pyCryptoCat - A CryptoCat standalone python client.
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM tool for Node.js
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js
 - [eviltik/evilscan](https://github.com/eviltik/evilscan) - NodeJS Simple Network Scanner
 - [ExactTarget/fuelux](https://github.com/ExactTarget/fuelux) - As of March 2019, this repository is read-only as Salesforce has archived the FuelUX open-source UI framework and will no longer be supported.
 - [mustpax/sortmybox](https://github.com/mustpax/sortmybox) - Like e-mail filters, for your Dropbox.
@@ -5842,6 +5842,7 @@
 - [splunk/cloud-datamodel-security-research](https://github.com/splunk/cloud-datamodel-security-research) - A data model for cloud providers (AWS, GCP, Azure) based on security use cases
 - [allanlw/svg-cheatsheet](https://github.com/allanlw/svg-cheatsheet) - A cheatsheet for exploiting server-side SVG processors.
 - [chip-red-pill/glm-ucode](https://github.com/chip-red-pill/glm-ucode) - GLM uCode dumps
+- [enotspe/fortinet-2-elasticsearch](https://github.com/enotspe/fortinet-2-elasticsearch) - Fortinet products logs to Elasticsearch
 - [IdealDreamLast/CVE-2020-9484](https://github.com/IdealDreamLast/CVE-2020-9484) - 用Kali 2.0复现Apache Tomcat Session反序列化代码执行漏洞
 - [Laxa/HackingTools](https://github.com/Laxa/HackingTools) - Exhaustive list of hacking tools
 - [wavestone-cdt/AD-security-workshop](https://github.com/wavestone-cdt/AD-security-workshop) - Resources for our Active Directory security workshops
@@ -5962,7 +5963,6 @@
 - [gquere/WindowsPentestCommands](https://github.com/gquere/WindowsPentestCommands) - Commands used in Windows penetration tests
 - [awsmhacks/awsmBloodhoundCustomQueries](https://github.com/awsmhacks/awsmBloodhoundCustomQueries) - Collection of cyphers for bloodhound
 - [chryzsh/awesome-bloodhound](https://github.com/chryzsh/awesome-bloodhound) - A curated list of awesome BloodhoundAD resources
-- [YossiSassi/Get-UserSession](https://github.com/YossiSassi/Get-UserSession) - Query user sessions for the entire domain (Interactive/RDP etc), allowing you to query a Username and see all their logged on sessions, whether Active or Disconnected
 - [SecurityRiskAdvisors/VECTR](https://github.com/SecurityRiskAdvisors/VECTR) - VECTR is a tool that facilitates tracking of your red and blue team testing activities to measure detection and prevention capabilities across different attack scenarios
 - [SentineLabs/TrickBot-Anchor](https://github.com/SentineLabs/TrickBot-Anchor) - This is a repository for the public blog with Labs indicators of compromise.
 - [stamparm/ipsum](https://github.com/stamparm/ipsum) - Daily feed of bad IPs (with blacklist hit scores)
@@ -7692,6 +7692,7 @@
 - [YossiSassi/SecurityWeekly_Cover-Tracks-Evade-Detection](https://github.com/YossiSassi/SecurityWeekly_Cover-Tracks-Evade-Detection) - Code from the Security Weekly session on Covering Tracks & Evading Detection
 - [YossiSassi/Get-LoggedOnUser](https://github.com/YossiSassi/Get-LoggedOnUser) - Gets currently logged-on users on domain computers, to see if they are local admins or not.
 - [YossiSassi/PowerShell-Hacking-BSidesTLV](https://github.com/YossiSassi/PowerShell-Hacking-BSidesTLV) - Code from my talk @ BSidesTLV 2019 on PowerShell as a Hacking Tool
+- [YossiSassi/Get-UserSession](https://github.com/YossiSassi/Get-UserSession) - Query user sessions for the entire domain (Interactive/RDP etc), allowing you to query a Username and see all their logged on sessions, whether Active or Disconnected
 - [YossiSassi/Get-DomainNLAStatus](https://github.com/YossiSassi/Get-DomainNLAStatus) - Checks for domain-wide computers Network Level Authentication settings in light of RDP Vulns, e.g BlueKeep, DejaBlue
 - [SentineLabs/PowerTrick](https://github.com/SentineLabs/PowerTrick) - This is a repository for the public blog with Labs indicators of compromise and code
 - [BankSecurity/Red_Team](https://github.com/BankSecurity/Red_Team) - Some scripts useful for red team activities
@@ -13535,7 +13536,6 @@
 
 ## Roff 
 
-- [enotspe/fortinet-2-elasticsearch](https://github.com/enotspe/fortinet-2-elasticsearch) - Fortinet products logs to Elasticsearch
 - [Kirtar22/Litmus_Test](https://github.com/Kirtar22/Litmus_Test) - Detecting ATT&CK techniques & tactics for Linux
 - [ttmo-O/x86-manpages](https://github.com/ttmo-O/x86-manpages) - x86 and amd64 instruction reference manual pages
 - [yous/YousList](https://github.com/yous/YousList) - Block filter for advertisements, mainly on Korean sites
@@ -15284,7 +15284,7 @@
 - [john-babio/snort](https://github.com/john-babio/snort) - Snort IDS/IPS scripts/rules/etc
 - [RaymiiOrg/nagios](https://github.com/RaymiiOrg/nagios) - My Nagios scripts and configs
 - [jvehent/tlsnames](https://github.com/jvehent/tlsnames) - Build a correspondance table in mediawiki format between TLS IANA names, OpenSSL, GnuTLS and NSS
-- [mozilla-b2g/B2G](https://github.com/mozilla-b2g/B2G) - Boot to Gecko aims to create a complete, standalone operating system for the open web.
+- [mozilla-b2g/B2G](https://github.com/mozilla-b2g/B2G) - DEPRECATED - Boot to Gecko aims to create a complete, standalone operating system for the open web.
 - [ioerror/crlwatch](https://github.com/ioerror/crlwatch) - Collect, watch, and analyze SSL/TLS CRL data
 - [secviz/davix](https://github.com/secviz/davix) - Data Analysis and Visualization Linux Toolset
 - [krebs/autowifi](https://github.com/krebs/autowifi) - auto all the wifi
