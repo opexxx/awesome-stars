@@ -595,7 +595,6 @@
 - [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
 - [mptre/yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [dbro/csvquote](https://github.com/dbro/csvquote) - Enables common unix utlities like cut, awk, wc, head to work correctly with csv data containing delimiters and newlines
 - [rgov/Thunderbolt3Unblocker](https://github.com/rgov/Thunderbolt3Unblocker) - Enable unsupported Thunderbolt 3 peripherals on macOS
 - [DNS-OARC/dnsperf](https://github.com/DNS-OARC/dnsperf) - DNS Performance Testing Tools
@@ -3426,6 +3425,7 @@
 - [essentialkaos/sslscan](https://github.com/essentialkaos/sslscan) - Go package for working with SSLLabs API
 - [QAX-A-Team/NtlmSocks](https://github.com/QAX-A-Team/NtlmSocks) - a pass-the-hash tool
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [sgreben/jp](https://github.com/sgreben/jp) - dead simple terminal plots from JSON data. single binary, no dependencies. linux, osx, windows.
 - [turbobytes/certmon](https://github.com/turbobytes/certmon) - Monitor and track TLS endpoints for certificate expiry
 - [CoderCookE/osx-thumbnails](https://github.com/CoderCookE/osx-thumbnails) - Reassemble thumbnails from osx quicklook thumbnail cache
@@ -8729,6 +8729,7 @@
 
 ## Python 
 
+- [js-on/CVE-2021-42694](https://github.com/js-on/CVE-2021-42694) - Generate malicious files using recently published homoglyphic-attack (CVE-2021-42694)
 - [lucasg/msdn-docset](https://github.com/lucasg/msdn-docset) - MSDN in a zeal docset
 - [p0dalirius/LDAPmonitor](https://github.com/p0dalirius/LDAPmonitor) - Monitor creation, deletion and changes to LDAP objects live during your pentest or system administration!
 - [p0dalirius/FindUncommonShares](https://github.com/p0dalirius/FindUncommonShares) - FindUncommonShares.py is a Python equivalent of PowerView's Invoke-ShareFinder.ps1 allowing to quickly find uncommon shares in vast Windows Domains.
@@ -10327,7 +10328,7 @@
 - [doloopwhile/pyjq](https://github.com/doloopwhile/pyjq) - A Python binding for ./jq
 - [milo-minderbinder/AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
 - [jayshah19949596/CodingInterviews](https://github.com/jayshah19949596/CodingInterviews) - This repository contains coding interviews that I have encountered in company interviews
-- [aws-quickstart/taskcat](https://github.com/aws-quickstart/taskcat) - Test all the CloudFormation things! (with TaskCat)
+- [aws-ia/taskcat](https://github.com/aws-ia/taskcat) - Test all the CloudFormation things! (with TaskCat)
 - [abdullahselek/authenticatorpy](https://github.com/abdullahselek/authenticatorpy) - A Python library that provide unique keys for 2FA with given secret.
 - [achillesrasquinha/pipupgrade](https://github.com/achillesrasquinha/pipupgrade) - 🗽 Like yarn outdated/upgrade, but for pip. Upgrade all your pip packages and automate your Python Dependency Management.
 - [amarlearning/github-sectory](https://github.com/amarlearning/github-sectory) - CLI for downloading sub-directory of any GitHub repository
@@ -12483,7 +12484,6 @@
 - [aerkalov/ebooklib](https://github.com/aerkalov/ebooklib) - Python E-book library for handling books in EPUB2/EPUB3  format -
 - [JonathanRaiman/epub_conversion](https://github.com/JonathanRaiman/epub_conversion) - Python package for converting xml and epubs to text files
 - [timClicks/prequel](https://github.com/timClicks/prequel) - Get your data into a database
-- [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) - Security automation content in SCAP, OSCAL, Bash, Ansible, and other formats
 - [Wilfred/nmap-service](https://github.com/Wilfred/nmap-service) - A service for telling clients what ports they have open
 - [filipecifali/Flask-Ping-Site](https://github.com/filipecifali/Flask-Ping-Site) - Trying to learn some cool stuff
 - [timClicks/slate](https://github.com/timClicks/slate) - The simplest way to extract text from PDFs in Python
@@ -15254,6 +15254,7 @@
 - [ikrukov/epub](https://github.com/ikrukov/epub) - Free books in epub format
 - [ftao/vpn-deploy-playbook](https://github.com/ftao/vpn-deploy-playbook) - A Collection of Ansible Playbook for deploy vpn services
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
+- [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) - Security automation content in SCAP, OSCAL, Bash, Ansible, and other formats
 - [compoterhacker/onion-manager](https://github.com/compoterhacker/onion-manager) - Manage individual onions for a Tor based UnrealIRCd network.
 - [coldhakca/tor-relay-bootstrap](https://github.com/coldhakca/tor-relay-bootstrap) - Script to bootstrap a Debian server to be a set-and-forget Tor relay
 - [NSAKEY/tor-bridge-bootstrap](https://github.com/NSAKEY/tor-bridge-bootstrap) - Script to bootstrap a debian server to be a set-and-forget Tor bridge
