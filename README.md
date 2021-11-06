@@ -1721,7 +1721,7 @@
 
 - [googleprojectzero/Jackalope](https://github.com/googleprojectzero/Jackalope) - Binary, coverage-guided fuzzer for Windows and macOS
 - [2igosha/parse_evtx](https://github.com/2igosha/parse_evtx) - Tools for DFIR
-- [xinbailu/DripLoader](https://github.com/xinbailu/DripLoader) - Evasive shellcode loader for bypassing event-based injection detection (PoC)
+- [xuanxuan0/DripLoader](https://github.com/xuanxuan0/DripLoader) - Evasive shellcode loader for bypassing event-based injection detection (PoC)
 - [BSI-Bund/RdpCacheStitcher](https://github.com/BSI-Bund/RdpCacheStitcher) - RdpCacheStitcher is a tool that supports forensic analysts in reconstructing useful images out of RDP cache bitmaps.
 - [RedCursorSecurityConsulting/PPLKiller](https://github.com/RedCursorSecurityConsulting/PPLKiller) - Tool to bypass LSA Protection (aka Protected Process Light)
 - [google/security-research-pocs](https://github.com/google/security-research-pocs) - Proof-of-concept codes created as part of security research done by Google Security Team.
@@ -8994,7 +8994,7 @@
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [SomeKirill/wordlist_generator](https://github.com/SomeKirill/wordlist_generator) - Unique wordlist generator of unique wordlists.
 - [n0fate/mac-osx-forensics](https://github.com/n0fate/mac-osx-forensics) - Mac osx forensics tools
-- [dhondta/webgrep](https://github.com/dhondta/webgrep) - Grep for a Web page with extra features like JS deobfuscation and OCR
+- [dhondta/webgrep](https://github.com/dhondta/webgrep) - Grep Web pages with extra features like JS deobfuscation and OCR
 - [x90skysn3k/brutespray](https://github.com/x90skysn3k/brutespray) - Brute-Forcing from Nmap output - Automatically attempts default creds on found services.
 - [m4ll0k/BBTz](https://github.com/m4ll0k/BBTz) - BBT - Bug Bounty Tools
 - [emtunc/SlackPirate](https://github.com/emtunc/SlackPirate) - Slack Enumeration and Extraction Tool - extract sensitive information from a Slack Workspace
