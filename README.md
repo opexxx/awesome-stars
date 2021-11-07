@@ -2923,7 +2923,7 @@
 - [mpage/onepassword](https://github.com/mpage/onepassword) - Golang interface to 1Password sqlite databases
 - [DimitarPetrov/stegify](https://github.com/DimitarPetrov/stegify) - 🔍 Go tool for LSB steganography, capable of hiding any file within an image.
 - [BishopFox/sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
+- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [mdsecactivebreach/o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit) - A toolkit to attack Office365
 - [elastic/go-structform](https://github.com/elastic/go-structform) - Go Encoding, Decoding, Transcoding
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
@@ -8729,6 +8729,7 @@
 
 ## Python 
 
+- [mgeeky/decode-spam-headers](https://github.com/mgeeky/decode-spam-headers) - A script that helps you understand why your E-Mail ended up in Spam
 - [js-on/CVE-2021-42694](https://github.com/js-on/CVE-2021-42694) - Generate malicious files using recently published homoglyphic-attack (CVE-2021-42694)
 - [lucasg/msdn-docset](https://github.com/lucasg/msdn-docset) - MSDN in a zeal docset
 - [p0dalirius/LDAPmonitor](https://github.com/p0dalirius/LDAPmonitor) - Monitor creation, deletion and changes to LDAP objects live during your pentest or system administration!
@@ -15802,7 +15803,7 @@
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
-- [mutewinter/dot_vim](https://github.com/mutewinter/dot_vim) - 🐉 The Vim Configuration of Champions. Uses Plug to manage roughly four thousand plugins. The dragon symbolizes complexity.
+- [mutewinter/dot_vim](https://github.com/mutewinter/dot_vim) - My 10 Year-Old (Neo)Vim Configuration
 - [tpope/vim-vinegar](https://github.com/tpope/vim-vinegar) - vinegar.vim: Combine with netrw to create a delicious salad dressing
 - [preservim/tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
 - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
