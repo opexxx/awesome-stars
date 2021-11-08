@@ -2544,7 +2544,7 @@
 - [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [moncho/dry](https://github.com/moncho/dry) - dry - A Docker manager for the terminal @
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - cloudquery transforms your cloud infrastructure into SQL database for easy monitoring, governance and security.
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open-source cloud asset inventory backed by PostgreSQL.
 - [optiv/Talon](https://github.com/optiv/Talon) - A password guessing tool that targets the Kerberos and LDAP services within the Windows Active Directory environment.
 - [kitabisa/teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection
 - [heroku/terrier](https://github.com/heroku/terrier) - Terrier is a Image and Container analysis tool that can be used to scan Images and Containers to identify and verify the presence of specific files according to their hashes.
@@ -8890,7 +8890,7 @@
 - [NoDataFound/RiskIQ.SunBurst.Hunter](https://github.com/NoDataFound/RiskIQ.SunBurst.Hunter) - The Purpose of this research tool is to provide a Python client into RiskIQ API services.
 - [zeronetworks/BloodHound-Tools](https://github.com/zeronetworks/BloodHound-Tools) - Collection of tools that reflect the network dimension into Bloodhound's data
 - [Dump-GUY/Malware-analysis-and-Reverse-engineering](https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering) - Some of my publicly available Malware analysis and Reverse engineering.
-- [TebbaaX/GRecon](https://github.com/TebbaaX/GRecon) - Your Google Recon is Now Automated
+- [TebbaaX/GRecon](https://github.com/TebbaaX/GRecon) - Automated Google Search
 - [sodle/keymaster](https://github.com/sodle/keymaster) - Public key installer for Github and Bitbucket.
 - [laconicwolf/Dirscover](https://github.com/laconicwolf/Dirscover) - A multi-processed, multi-threaded scanner to discover web directories on multiple URLs.
 - [tauh33dkhan/lookback](https://github.com/tauh33dkhan/lookback) - lookback requests to cdx endpoint of wayback web archive with the specified domain to get archived urls:
@@ -9026,7 +9026,7 @@
 - [Verizon/redshell](https://github.com/Verizon/redshell) - An interactive command prompt for red teaming and pentesting. Pushes commands through proxychains via Cobalt Strike beacon socks proxies or custom proxies. Automatically logs activities on a Cobalt Strike teamserver and/or local files.
 - [JettChenT/scan-for-webcams](https://github.com/JettChenT/scan-for-webcams) - scan for webcams on the internet
 - [s0md3v/Zen](https://github.com/s0md3v/Zen) - Find emails of Github users
-- [TebbaaX/Katana](https://github.com/TebbaaX/Katana) - A Python Tool For google Hacking
+- [TebbaaX/Katana](https://github.com/TebbaaX/Katana) - python script for Google Dorking
 - [m4ll0k/SecretFinder](https://github.com/m4ll0k/SecretFinder) - SecretFinder - A python script for find sensitive data (apikeys, accesstoken,jwt,..) and search anything on javascript files
 - [defparam/tiscripts](https://github.com/defparam/tiscripts) - Turbo Intruder Scripts
 - [m8r0wn/CrossLinked](https://github.com/m8r0wn/CrossLinked) - LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping
