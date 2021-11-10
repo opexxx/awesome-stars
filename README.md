@@ -180,6 +180,7 @@
 
 - [klezVirus/inceptor](https://github.com/klezVirus/inceptor) - Template-Driven AV/EDR Evasion Framework
 - [jthuraisamy/SysWhispers2](https://github.com/jthuraisamy/SysWhispers2) - AV/EDR evasion via direct system calls.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [antonioCoco/Mapping-Injection](https://github.com/antonioCoco/Mapping-Injection) - Just another Windows Process Injection
 - [jthuraisamy/SysWhispers](https://github.com/jthuraisamy/SysWhispers) - AV/EDR evasion via direct system calls.
@@ -382,7 +383,6 @@
 - [ssdeep-project/ssdeep](https://github.com/ssdeep-project/ssdeep) - Fuzzy hashing API and fuzzy hashing tool
 - [ifding/iot-malware](https://github.com/ifding/iot-malware) - Malware source code samples leaked online uploaded to GitHub for those who want to analyze the code
 - [ant4g0nist/Vulnerable-Kext](https://github.com/ant4g0nist/Vulnerable-Kext) - A WIP "Vulnerable by Design" kext for iOS/macOS to play & learn *OS kernel exploitation
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [brannondorsey/naive-hashcat](https://github.com/brannondorsey/naive-hashcat) - Crack password hashes without the fuss :cat2:
 - [slaeryan/DetectCobaltStomp](https://github.com/slaeryan/DetectCobaltStomp) - Detects Module Stomping as implemented by Cobalt Strike
 - [hardik05/Damn_Vulnerable_C_Program](https://github.com/hardik05/Damn_Vulnerable_C_Program) - a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts.
@@ -656,7 +656,6 @@
 - [ethanwilloner/DNS-Amplification-Attack](https://github.com/ethanwilloner/DNS-Amplification-Attack) - 
 - [djpnewton/vmulti](https://github.com/djpnewton/vmulti) - Virtual Multiple HID Driver (multitouch, mouse, digitizer, keyboard, joystick)
 - [armadito/armadito-mod-pdf](https://github.com/armadito/armadito-mod-pdf) - Armadito module for PDF document analysis.
-- [zeffy/wufuc](https://github.com/zeffy/wufuc) - Disables the "Unsupported Hardware" message in Windows Update, and allows you to continue installing updates on Windows 7 and 8.1 systems with Intel Kaby Lake, AMD Ryzen, or other unsupported processors.
 - [newsoft/adduser](https://github.com/newsoft/adduser) - Programmatically create an administrative user under Windows
 - [michael-dev/ebtables-dhcpsnooping](https://github.com/michael-dev/ebtables-dhcpsnooping) - Linux generic dhcp snooping daemon using nflog and ebtables or nftables
 - [Ettercap/ettercap](https://github.com/Ettercap/ettercap) - Ettercap Project
@@ -1128,7 +1127,7 @@
 - [CERT-Polska/hsn2-razorback](https://github.com/CERT-Polska/hsn2-razorback) - 
 - [kbandla/pydeep](https://github.com/kbandla/pydeep) - Python bindings for ssdeep
 - [cuckoosandbox/cuckoomon](https://github.com/cuckoosandbox/cuckoomon) - DEPRECATED - replaced with "monitor"
-- [a0rtega/pafish](https://github.com/a0rtega/pafish) - Pafish is a demonstration tool that employs several techniques to detect sandboxes and analysis environments in the same way as malware families do.
+- [a0rtega/pafish](https://github.com/a0rtega/pafish) - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
 - [neuroo/runtime-tracer](https://github.com/neuroo/runtime-tracer) - Dynamic tracing for binary applications (using PIN), IDA plugin to visualize and interact with the traces
 - [pakt/ropc](https://github.com/pakt/ropc) - A Turing complete ROP compiler
 - [CTSRD-SOAAP/taintgrind](https://github.com/CTSRD-SOAAP/taintgrind) - 
