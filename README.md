@@ -3854,7 +3854,6 @@
 - [Azure/SONiC](https://github.com/Azure/SONiC) - Landing page for Software for Open Networking in the Cloud (SONiC) - http://azure.github.io/SONiC/
 - [RomanEmelyanov/CobaltStrikeForensic](https://github.com/RomanEmelyanov/CobaltStrikeForensic) - Toolset for research malware and Cobalt Strike beacons
 - [MohitDabas/malwinx](https://github.com/MohitDabas/malwinx) - Just a normal flask web app to understand win32api with code snippets and references.
-- [florianutz/Ubuntu1804-CIS](https://github.com/florianutz/Ubuntu1804-CIS) - Ubuntu CIS Hardening Ansible Role
 - [gnebbia/nmap_tutorial](https://github.com/gnebbia/nmap_tutorial) - Some collected notes about nmap
 - [coinbase/salus](https://github.com/coinbase/salus) - Security scanner coordinator
 - [davidtavarez/passwords](https://github.com/davidtavarez/passwords) - Online password generator
@@ -4102,7 +4101,7 @@
 
 ## Handlebars 
 
-- [rsapkf/42](https://github.com/rsapkf/42) - @rsapkf's linkroll. Built with mdBook.
+- [rsapkf/42](https://github.com/rsapkf/42) - @rsapkf's linkroll.
 
 ## Haskell 
 
@@ -5222,6 +5221,7 @@
 - [rocky-linux/infrastructure](https://github.com/rocky-linux/infrastructure) - The infrastructure monorepo for the Rocky Linux project
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion 2 - Linux distro for threat hunting, enterprise security monitoring, and log management
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
+- [florianutz/Ubuntu1804-CIS](https://github.com/florianutz/Ubuntu1804-CIS) - Ubuntu CIS Hardening Ansible Role
 - [splunk/attack_range](https://github.com/splunk/attack_range) - A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk
 - [geerlingguy/ansible-role-kubernetes](https://github.com/geerlingguy/ansible-role-kubernetes) - Ansible Role - Kubernetes
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
@@ -14642,7 +14642,7 @@
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [jaymoulin/docker-jdownloader](https://github.com/jaymoulin/docker-jdownloader) - JDownloader 2 Docker Image (Multiarch) - Passed 40M Downloads
 - [fredleger/easy-photos](https://github.com/fredleger/easy-photos) - Management of a photos collections based on EXIF timestamps
-- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - Statusbar configuration for tmux that looks like vim-powerline and consist of dynamic segments.
+- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - Statusbar configuration for tmux that looks like vim-powerline and consist of dynamic segments, written purely in bash.
 - [wfxr/tmux-power](https://github.com/wfxr/tmux-power) - 🎨 Tmux powerline theme
 - [wfxr/tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
 - [junegunn/tmux-fzf-url](https://github.com/junegunn/tmux-fzf-url) - :rocket: Quickly open urls on screen from your browser!
@@ -15089,7 +15089,7 @@
 - [Death259/PiAssist](https://github.com/Death259/PiAssist) - This is a project to make working with the command line interface (CLI) super easy on the Raspberry Pi by providing a more GUI like interface for those less familiar with Linux.
 - [Khan/style-guides](https://github.com/Khan/style-guides) - Docs for the Organization
 - [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx (with PHP5 and PHP7)
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside containers.
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform | Sn1perSecurity LLC
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [dsanson/termpdf](https://github.com/dsanson/termpdf) - barebones graphical pdf/djvu/cbr/image viewer that works inside iTerm2 2.9+ and Kitty
