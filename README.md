@@ -8728,6 +8728,7 @@
 
 ## Python 
 
+- [swimlane/pyattck-data](https://github.com/swimlane/pyattck-data) - This repository contains generated contextual data utilized by pyattck.
 - [mgeeky/decode-spam-headers](https://github.com/mgeeky/decode-spam-headers) - A script that helps you understand why your E-Mail ended up in Spam
 - [js-on/CVE-2021-42694](https://github.com/js-on/CVE-2021-42694) - Generate malicious files using recently published homoglyphic-attack (CVE-2021-42694)
 - [lucasg/msdn-docset](https://github.com/lucasg/msdn-docset) - MSDN in a zeal docset
@@ -8743,6 +8744,7 @@
 - [home-assistant-ecosystem/home-assistant-cli](https://github.com/home-assistant-ecosystem/home-assistant-cli) - :computer: Command-line tool for Home Assistant
 - [bashexplode/cs2webconfig](https://github.com/bashexplode/cs2webconfig) - Convert Cobalt Strike profiles to IIS web.config files
 - [mandiant/apooxml](https://github.com/mandiant/apooxml) - Generate YARA rules for OOXML documents.
+- [felipecaon/BugBountyStuff](https://github.com/felipecaon/BugBountyStuff) - Stuff for bug bounty
 - [MShahine/Bug-Bounty-Recon](https://github.com/MShahine/Bug-Bounty-Recon) - All The Notes And Tips I FOund In Github And Twitter I Put Them Here
 - [Hackndo/WebclientServiceScanner](https://github.com/Hackndo/WebclientServiceScanner) - Python tool to Check running WebClient services on multiple targets based on @leechristensen
 - [BehzaDMagzer/p.maker](https://github.com/BehzaDMagzer/p.maker) - PassWord List Maker
@@ -14146,7 +14148,6 @@
 - [GetAmbush/deepx-zsh-plugin](https://github.com/GetAmbush/deepx-zsh-plugin) - 
 - [unixorn/Bash-Snippets](https://github.com/unixorn/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [allingeek/nmap-sd](https://github.com/allingeek/nmap-sd) - NMAP powered service discovery for passive service registration.
-- [felipecaon/BugBountyStuff](https://github.com/felipecaon/BugBountyStuff) - Stuff for bug bounty
 - [poolpog/bash-otp](https://github.com/poolpog/bash-otp) - One-time Password generator for CLI using bash, oathtool
 - [ajrosen/Alfred](https://github.com/ajrosen/Alfred) - Alfred workflows
 - [leevigraham/dotfiles](https://github.com/leevigraham/dotfiles) - OS X dotfiles: bash, git, vim, etc.
