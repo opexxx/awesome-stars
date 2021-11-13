@@ -219,7 +219,6 @@
 
 - [AJMartel/IRTriage](https://github.com/AJMartel/IRTriage) - Incident Response Triage - Windows Evidence Collection for Forensic Analysis
 - [jschicht/UsnJrnl2Csv](https://github.com/jschicht/UsnJrnl2Csv) - Parser for $UsnJrnl on NTFS
-- [AndyFul/Hard_Configurator](https://github.com/AndyFul/Hard_Configurator) - GUI to Manage Software Restriction Policies and harden Windows Home OS
 - [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer.
 - [acalcutt/Vistumbler](https://github.com/acalcutt/Vistumbler) - A wireless network scanner written in AutoIT for Windows 10, 8, 7, and vista. VistumblerMDB is the current version of Vistumbler.
 - [bhdresh/taskhash](https://github.com/bhdresh/taskhash) - This tool is developed to assist forensic investigators and auditors to remotely collect the md5sum of running processes on the target windows machine.
@@ -367,7 +366,7 @@
 - [xforcered/CredBandit](https://github.com/xforcered/CredBandit) - Proof of concept Beacon Object File (BOF) that uses static x64 syscalls to perform a complete in memory dump of a process and send that back through your already existing Beacon communication channel
 - [wheybags/wcp](https://github.com/wheybags/wcp) - 
 - [uf0o/rootkit-arsenal-guacamole](https://github.com/uf0o/rootkit-arsenal-guacamole) - An attempt to restore and adapt to modern Win10 version the 'Rootkit Arsenal' original code samples
-- [vxunderground/WinAPI-Tricks](https://github.com/vxunderground/WinAPI-Tricks) - Collection of various WINAPI tricks / features used or abused by Malware
+- [vxunderground/VX-API](https://github.com/vxunderground/VX-API) - Collection of various WINAPI tricks / features used or abused by Malware
 - [outflanknl/Ps-Tools](https://github.com/outflanknl/Ps-Tools) - Ps-Tools, an advanced process monitoring toolkit for offensive operations
 - [ducatinat/tehm](https://github.com/ducatinat/tehm) - 
 - [maaaaz/mimicertz](https://github.com/maaaaz/mimicertz) - A minimal safe version of mimikatz to only allow the export of non-exportable Windows certificates
@@ -3094,7 +3093,6 @@
 - [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
 - [crtsh/crl_monitor](https://github.com/crtsh/crl_monitor) - Certificate Revocation List monitor
 - [VirusTotal/vt-cli](https://github.com/VirusTotal/vt-cli) - VirusTotal Command Line Interface
-- [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
 - [honeytrap/honeytrap](https://github.com/honeytrap/honeytrap) - Advanced Honeypot framework.
 - [itchyny/bed](https://github.com/itchyny/bed) - Binary editor written in Go
 - [controlplaneio/kubectl-kubesec](https://github.com/controlplaneio/kubectl-kubesec) - Security risk analysis for Kubernetes resources
@@ -3925,6 +3923,7 @@
 - [madhur/PortableJekyll](https://github.com/madhur/PortableJekyll) - Portable Jekyll for Windows
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
+- [AndyFul/Hard_Configurator](https://github.com/AndyFul/Hard_Configurator) - GUI to Manage Software Restriction Policies and harden Windows Home OS
 - [clr2of8/CookieCrimesJS](https://github.com/clr2of8/CookieCrimesJS) - A cross-platform one-liner to steal a user's cookies from Chrome  &lt;- cool
 - [wisec/domxsswiki](https://github.com/wisec/domxsswiki) - Automatically exported from code.google.com/p/domxsswiki
 - [usnistgov/mobile-threat-catalogue](https://github.com/usnistgov/mobile-threat-catalogue) - NIST/NCCoE Mobile Threat Catalogue
@@ -4109,6 +4108,7 @@
 - [baig/pandoc-csv2table](https://github.com/baig/pandoc-csv2table) - A Pandoc filter that renders CSV as Pandoc Markdown Tables.
 - [tweag/asterius](https://github.com/tweag/asterius) - A Haskell to WebAssembly compiler
 - [2mol/pboy](https://github.com/2mol/pboy) - a small .pdf management tool with a command-line UI
+- [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [essandess/adblock2privoxy](https://github.com/essandess/adblock2privoxy) - Convert adblock config files to privoxy format
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -4129,7 +4129,7 @@
 ## Java 
 
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
-- [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate UML diagram from textual description
+- [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [AthenZ/athenz](https://github.com/AthenZ/athenz) - Open source platform for X.509 certificate based service authentication and fine grained access control in dynamic infrastructures. Athenz supports provisioning and configuration (centralized authorization) use cases as well as serving/runtime (decentralized authorization) use cases.
 - [zxing/zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 - [ethicalhackingplayground/ssrf-king](https://github.com/ethicalhackingplayground/ssrf-king) - SSRF plugin for burp Automates SSRF Detection in all of the Request
@@ -5683,7 +5683,6 @@
 - [DebugPrivilege/Azure-Sentinel](https://github.com/DebugPrivilege/Azure-Sentinel) - 
 - [empty-jack/YAWR](https://github.com/empty-jack/YAWR) - Yet Another Wordlists Repo
 - [MSAdministrator/osx-outlook-recovery](https://github.com/MSAdministrator/osx-outlook-recovery) - A Python tool to recover and retrieve data from macOS Outlook olk15 message profile
-- [SEKOIA-IO/Community](https://github.com/SEKOIA-IO/Community) - Welcome to the SEKOIA.IO Community repository!
 - [dwisiswant0/awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty) - A collection of awesome one-liner scripts especially for bug bounty tips.
 - [Gelob/azure-cdn-ips](https://github.com/Gelob/azure-cdn-ips) - List of Azure CDN IP Addresses
 - [vvsevolodovich/architecture-knowledge-transfer-checklist](https://github.com/vvsevolodovich/architecture-knowledge-transfer-checklist) - Checklist on what should be done during Knowledge Transfer for Solution Architectures
@@ -15905,6 +15904,7 @@
 
 - [StrangerealIntel/DailyIOC](https://github.com/StrangerealIntel/DailyIOC) - IOC from articles, tweets for archives
 - [mandiant/sunburst_countermeasures](https://github.com/mandiant/sunburst_countermeasures) - 
+- [SEKOIA-IO/Community](https://github.com/SEKOIA-IO/Community) - Welcome to the SEKOIA.IO Community repository!
 - [mandiant/red_team_tool_countermeasures](https://github.com/mandiant/red_team_tool_countermeasures) - 
 - [sbousseaden/YaraHunts](https://github.com/sbousseaden/YaraHunts) - Random hunting ordiented yara rules
 - [advanced-threat-research/Yara-Rules](https://github.com/advanced-threat-research/Yara-Rules) - Repository of YARA rules made by McAfee Enterprise ATR Team
