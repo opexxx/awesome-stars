@@ -6143,7 +6143,7 @@
 - [balgan/ratemyip-openframework](https://github.com/balgan/ratemyip-openframework) - An Open framework to rate the exposure of ip addresses with services exposed to the internet
 - [binaryedge/ratemyip-openframework](https://github.com/binaryedge/ratemyip-openframework) - An Open framework to rate the exposure of ip addresses with services exposed to the internet
 - [OWASP/API-Security](https://github.com/OWASP/API-Security) - OWASP API Security Project
-- [yellowbyte/analysis-of-anti-analysis](https://github.com/yellowbyte/analysis-of-anti-analysis) - writings on anti-reverse engineering. New site: https://yellowbyte.github.io/
+- [yellowbyte/analysis-of-anti-analysis](https://github.com/yellowbyte/analysis-of-anti-analysis) - writings on anti-reverse engineering.
 - [michael-kehoe/sre-interview](https://github.com/michael-kehoe/sre-interview) - A collection of questions to practice with for SRE interviews
 - [unixorn/sysadmin-reading-list](https://github.com/unixorn/sysadmin-reading-list) - A reading and viewing list for larval stage sysadmins and SREs
 - [fkie-cad/awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) - A curated list of awesome embedded and IoT security resources.
@@ -8450,8 +8450,6 @@
 - [StartAutomating/PingMe](https://github.com/StartAutomating/PingMe) - PingMe is a PowerShell module to simplify different types of network checks on a machine
 - [StartAutomating/Discovery](https://github.com/StartAutomating/Discovery) - Discovery is a powerful PowerShell module that lets you probe the inner depths of the operating system.
 - [drmohundro/PowerShellEnv](https://github.com/drmohundro/PowerShellEnv) - My PowerShell profile, configuration, and other scripts.
-- [mgreenegit/WSManTrust](https://github.com/mgreenegit/WSManTrust) - PowerShell Module to manage WSMan trust settings
-- [mgreenegit/NanoVHD](https://github.com/mgreenegit/NanoVHD) - Scripts to build and test a virtual machine image using the Nano Server installation option of Windows Server 2016
 - [ntwb/posh-monokai](https://github.com/ntwb/posh-monokai) - Windows PowerShell Monokai Console Color Scheme
 - [psconfeu/2016](https://github.com/psconfeu/2016) - PowerShell Conference EU 2016 Slides and Demo Scripts
 - [dsccommunity/xWinEventLog](https://github.com/dsccommunity/xWinEventLog) - THIS MODULE HAS BEEN DEPRECATED Please use ComputerManagementDsc instead: https://github.com/PowerShell/ComputerManagementDsc
