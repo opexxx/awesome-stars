@@ -8714,7 +8714,7 @@
 - [autostructure/secure_windows](https://github.com/autostructure/secure_windows) - Puppet module that hardens Windows Server to DoD STIG compliance
 - [arildjensen/cis-puppet](https://github.com/arildjensen/cis-puppet) - Center for Internet Security Linux Benchmark implementation for PuppetLabs
 - [dev-sec/puppet-os-hardening](https://github.com/dev-sec/puppet-os-hardening) - This puppet module provides numerous security-related configurations, providing all-round base protection.
-- [mozilla/opsec-puppet](https://github.com/mozilla/opsec-puppet) - OpSec Puppet - $ git clone --recursive git@github.com:mozilla/opsec-puppet.git
+- [mozilla/opsec-puppet](https://github.com/mozilla/opsec-puppet) - DEPRECATED - OpSec Puppet - $ git clone --recursive git@github.com:mozilla/opsec-puppet.git
 - [belimor/puppet.rattic](https://github.com/belimor/puppet.rattic) - Puppet script to setup Rattic password manager (https://github.com/tildaslash/RatticWeb) on Ubuntu server.
 - [solarkennedy/puppet-btsync](https://github.com/solarkennedy/puppet-btsync) - Puppet module for managing synchronized folders via BitTorrent's SyncApp (btsync)
 - [invernizzi/tor-sandboxed-user](https://github.com/invernizzi/tor-sandboxed-user) - Creates a user that can only reach the Tor network
