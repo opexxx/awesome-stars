@@ -1322,7 +1322,7 @@
 - [rasta-mouse/Watson](https://github.com/rasta-mouse/Watson) - Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities
 - [djhohnstein/EventLogParser](https://github.com/djhohnstein/EventLogParser) - Parse PowerShell and Security event logs for sensitive information.
 - [GhostPack/Seatbelt](https://github.com/GhostPack/Seatbelt) - Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.
-- [3CORESec/S2AN](https://github.com/3CORESec/S2AN) - S2AN - Mapper of Sigma Rules ➡️ MITRE ATT&CK
+- [3CORESec/S2AN](https://github.com/3CORESec/S2AN) - S2AN - Mapper of Sigma/Suricata Rules/Signatures ➡️ MITRE ATT&CK Navigator
 - [dev-2null/ADCollector](https://github.com/dev-2null/ADCollector) - A lightweight tool to quickly extract valuable information from the Active Directory environment for both attacking and defending.
 - [amitwaisel/Malproxy](https://github.com/amitwaisel/Malproxy) - Proxy system calls over an RPC channel
 - [0xthirteen/SharpMove](https://github.com/0xthirteen/SharpMove) - .NET Project for performing Authenticated Remote Execution
@@ -1717,6 +1717,8 @@
 
 ## C++ 
 
+- [lab52io/StopDefender](https://github.com/lab52io/StopDefender) - Stop Windows Defender programmatically
+- [lab52io/StealAllTokens](https://github.com/lab52io/StealAllTokens) - This PoC uses two diferent technics for stealing  the primary token from all running processes, showing that is possible to impersonate and use whatever token present at any process
 - [googleprojectzero/Jackalope](https://github.com/googleprojectzero/Jackalope) - Binary, coverage-guided fuzzer for Windows and macOS
 - [2igosha/parse_evtx](https://github.com/2igosha/parse_evtx) - Tools for DFIR
 - [xuanxuan0/DripLoader](https://github.com/xuanxuan0/DripLoader) - Evasive shellcode loader for bypassing event-based injection detection (PoC)
@@ -2933,7 +2935,7 @@
 - [pda/cidrinfo](https://github.com/pda/cidrinfo) - Given an IP CIDR (e.g. 10.20.30.40/20), explain and illustrate the address, network, masks, and host address range.
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [ekalinin/awsping](https://github.com/ekalinin/awsping) - Console tool to check the latency to each Amazon EC2 region
-- [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) - ICMP流量伪装转发工具 ping tunnel is a tool that advertises tcp/udp/socks5 traffic as icmp traffic for forwarding.
+- [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) - ping tunnel is a tool that advertises tcp/udp/socks5 traffic as icmp traffic for forwarding.
 - [jflyup/ifinder](https://github.com/jflyup/ifinder) - discover bonjour services, particularly Apple related.
 - [Gandem/bonjour-reflector](https://github.com/Gandem/bonjour-reflector) - A reflector that forwards mdns packets between VLANs - like avahi-reflector but with fine-grained control !
 - [mlaccetti/ipd2](https://github.com/mlaccetti/ipd2) - IP address lookup service
@@ -5592,6 +5594,9 @@
 
 ## Others 
 
+- [themarkib/google-acquisitions](https://github.com/themarkib/google-acquisitions) - Most of the Google Acquisitions for Bug Bounty Hunter.
+- [3CORESec/MAL-CL](https://github.com/3CORESec/MAL-CL) - MAL-CL (Malicious Command-Line)
+- [blackberry/threat-research-and-intelligence](https://github.com/blackberry/threat-research-and-intelligence) - BlackBerry Threat Research & Intelligence
 - [Double2Sky/OffenOsint](https://github.com/Double2Sky/OffenOsint) - Beta release
 - [KingOfBugbounty/KingRecon_DOD](https://github.com/KingOfBugbounty/KingRecon_DOD) - 
 - [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
@@ -8065,7 +8070,7 @@
 - [api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) - The goal of this repository is to document the most common techniques to bypass AppLocker.
 - [darkoperator/Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal) - PowerShell Module to interact with VirusTotal
 - [dstaulcu/PowerOps](https://github.com/dstaulcu/PowerOps) - Execute powershell scripts on endpoints in parallel and collate results.
-- [StefanScherer/packer-windows](https://github.com/StefanScherer/packer-windows) - Windows Templates for Packer: Windows 10, Windows Server 2022, 2016, 1709, 1803, 1809, 2019, 1903, 1909, 2004, Insider with Docker
+- [StefanScherer/packer-windows](https://github.com/StefanScherer/packer-windows) - Windows Templates for Packer: Windows 11, Windows 10, Windows Server 2022, 2019, 2016, also with Docker
 - [outflanknl/Invoke-ADLabDeployer](https://github.com/outflanknl/Invoke-ADLabDeployer) - Automated deployment of Windows and Active Directory test lab networks. Useful for red and blue teams.
 - [RootUp/RedTeam](https://github.com/RootUp/RedTeam) - One line PS scripts that may come handy during your network assesment
 - [gobiasinfosec/Wireless_Query](https://github.com/gobiasinfosec/Wireless_Query) - Query Active Directory for Workstations and then pull their Wireless Network Passwords
@@ -8962,7 +8967,6 @@
 - [bridgecrewio/cdkgoat](https://github.com/bridgecrewio/cdkgoat) - CdkGoat is Bridgecrew's "Vulnerable by Design" AWS CDK repository. CdkGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.
 - [epi052/cve-2018-15473](https://github.com/epi052/cve-2018-15473) - Multi-threaded, IPv6 aware, wordlists/single-user username enumeration via CVE-2018-15473
 - [epi052/recursive-gobuster](https://github.com/epi052/recursive-gobuster) - DEPRECATED - A wrapper around gobuster that automatically scans newly discovered directories.
-- [Inquiris/RPR-Run-Pause-Resume](https://github.com/Inquiris/RPR-Run-Pause-Resume) - Credential-guessing enhancement to BurpSuite/Turbo-Intruder which implements pauses during attack runs
 - [aress31/jwtcat](https://github.com/aress31/jwtcat) - A CPU-based JSON Web Token (JWT) cracker and - to some extent - scanner.
 - [ihack4falafel/OSCP](https://github.com/ihack4falafel/OSCP) - Collection of things made during my OSCP journey
 - [Re4son/mix-recon](https://github.com/Re4son/mix-recon) - Reconnaissance scripts for penetration testing
@@ -15087,7 +15091,7 @@
 - [Death259/PiAssist](https://github.com/Death259/PiAssist) - This is a project to make working with the command line interface (CLI) super easy on the Raspberry Pi by providing a more GUI like interface for those less familiar with Linux.
 - [Khan/style-guides](https://github.com/Khan/style-guides) - Docs for the Organization
 - [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx (with PHP5 and PHP7)
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside containers.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform | Sn1perSecurity LLC
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [dsanson/termpdf](https://github.com/dsanson/termpdf) - barebones graphical pdf/djvu/cbr/image viewer that works inside iTerm2 2.9+ and Kitty
