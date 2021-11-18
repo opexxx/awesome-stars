@@ -323,7 +323,6 @@
 - [LiamRandall/BroTraining-2013-12](https://github.com/LiamRandall/BroTraining-2013-12) - 
 - [aboutsecurity/Bro-samples](https://github.com/aboutsecurity/Bro-samples) - Network Forensics Bro scripts & pcap samples
 - [john-babio/bro-intel-scripts](https://github.com/john-babio/bro-intel-scripts) - Bro network security monitor intelligence framework scripts
-- [criticalstack/bro-scripts](https://github.com/criticalstack/bro-scripts) - 
 - [justbeck/bro-xorpe](https://github.com/justbeck/bro-xorpe) - Bro IDS script to detect XOR'd binaries
 - [sethhall/bro-apt1](https://github.com/sethhall/bro-apt1) - This is a script module for Bro that encapsulates and detects activity related to the Mandiant APT1 report.
 - [sooshie/bro-scripts](https://github.com/sooshie/bro-scripts) - Various Bro scripts
@@ -2414,7 +2413,7 @@
 - [benjojo/totp-ssh-fluxer](https://github.com/benjojo/totp-ssh-fluxer) - Take security by obscurity to the next level (this is a bad idea, don't really use this please)
 - [FINCTIVE/video-download-bot](https://github.com/FINCTIVE/video-download-bot) - download online videos with telegram bot. (built for raspberry pi 👏)
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
-- [grines/scour](https://github.com/grines/scour) - 
+- [juniper-love/scour](https://github.com/juniper-love/scour) - 
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
 - [jetstack/jetstack-secure](https://github.com/jetstack/jetstack-secure) - Open source components of Jetstack Secure
@@ -15943,6 +15942,7 @@
 - [corelight/log-add-vlan-everywhere](https://github.com/corelight/log-add-vlan-everywhere) - Add VLAN tags to all Bro logs
 - [tylabs/dovehawk](https://github.com/tylabs/dovehawk) - Dovehawk is a Zeek module that automatically imports MISP indicators and reports Sightings
 - [rocknsm/rock-scripts](https://github.com/rocknsm/rock-scripts) - Bro scripts for the ROCK platform. http://rocknsm.io
+- [criticalstack/bro-scripts](https://github.com/criticalstack/bro-scripts) - 
 - [blacktop/docker-bro](https://github.com/blacktop/docker-bro) - Bro IDS Dockerfile
 
 ## Zig 
