@@ -2136,6 +2136,7 @@
 
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [johnpaulada/pandoc-markdown-book-template](https://github.com/johnpaulada/pandoc-markdown-book-template) - A template for creating epub books from markdown using pandoc.
+- [FuzzySecurity/Fermion](https://github.com/FuzzySecurity/Fermion) - Fermion, an electron wrapper for Frida & Monaco.
 - [TROUBLE-1/Hacking-Sunday](https://github.com/TROUBLE-1/Hacking-Sunday) - 
 - [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV)
 - [ethanhs/WSL-Programs](https://github.com/ethanhs/WSL-Programs) - A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux
@@ -2413,7 +2414,7 @@
 - [benjojo/totp-ssh-fluxer](https://github.com/benjojo/totp-ssh-fluxer) - Take security by obscurity to the next level (this is a bad idea, don't really use this please)
 - [FINCTIVE/video-download-bot](https://github.com/FINCTIVE/video-download-bot) - download online videos with telegram bot. (built for raspberry pi 👏)
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
-- [juniper-love/scour](https://github.com/juniper-love/scour) - 
+- [grines/scour](https://github.com/grines/scour) - 
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
 - [jetstack/jetstack-secure](https://github.com/jetstack/jetstack-secure) - Open source components of Jetstack Secure
@@ -4393,7 +4394,6 @@
 - [davtur19/DotGit](https://github.com/davtur19/DotGit) - An extension for checking if .git is exposed in visited websites
 - [r3curs1v3-pr0xy/vajra](https://github.com/r3curs1v3-pr0xy/vajra) - Vajra is a highly customizable target and scope based automated web hacking framework to automate boring recon tasks and same scans for multiple target during web applications penetration testing.
 - [pownjs/git](https://github.com/pownjs/git) - Assorted tools for security-related task for git repositories
-- [FuzzySecurity/Fermion](https://github.com/FuzzySecurity/Fermion) - Fermion, an electron wrapper for Frida & Monaco.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [RenwaX23/XSSTRON](https://github.com/RenwaX23/XSSTRON) - Electron JS Browser To Find XSS Vulnerabilities Automatically
 - [0140454/hackbar](https://github.com/0140454/hackbar) - A Chrome Extension for Penetration Testing
@@ -5593,6 +5593,7 @@
 
 ## Others 
 
+- [ShutdownRepo/The-Hacker-Recipes](https://github.com/ShutdownRepo/The-Hacker-Recipes) - This project is aimed at freely providing technical guides on various hacking topics: Active Directory services, web services, servers, intelligence gathering, physical intrusion, phishing, mobile apps, iot, social engineering, etc.
 - [themarkib/google-acquisitions](https://github.com/themarkib/google-acquisitions) - Most of the Google Acquisitions for Bug Bounty Hunter.
 - [3CORESec/MAL-CL](https://github.com/3CORESec/MAL-CL) - MAL-CL (Malicious Command-Line)
 - [blackberry/threat-research-and-intelligence](https://github.com/blackberry/threat-research-and-intelligence) - BlackBerry Threat Research & Intelligence
