@@ -3880,7 +3880,6 @@
 - [JohnLaTwC/MSRC](https://github.com/JohnLaTwC/MSRC) - Scripts for interacting with MSRC portal data
 - [posquit0/hugo-awesome-identity](https://github.com/posquit0/hugo-awesome-identity) - 😤 Awesome Identity is a single-page Hugo theme to introduce yourself.
 - [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
-- [skahwah/DetectionLab](https://github.com/skahwah/DetectionLab) - Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
 - [skahwah/wordsmith_parsers](https://github.com/skahwah/wordsmith_parsers) - This repository contains a collection of parsers that were written to collect and collate data for Wordsmith v2
 - [threatland/TL-FRAUD](https://github.com/threatland/TL-FRAUD) - A collection of fraud related tools for research.
 - [sbousseaden/EVTX-ATTACK-SAMPLES](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Windows Events Attack Samples
@@ -6553,7 +6552,7 @@
 - [maldevel/RootKits-List-Download](https://github.com/maldevel/RootKits-List-Download) - A curated list of rootkits found on Github and other sites.
 - [PrateekKumarSingh/CheatSheets](https://github.com/PrateekKumarSingh/CheatSheets) - CheatSheets for Powershell, Exchange, Sharepoint, Lync, RegEx, VSCode and more
 - [nfarrar/malgate](https://github.com/nfarrar/malgate) - ABANDONED: A customized OpenWRT VMWare VM for providing virtual networks, useful for Malware Analysis.
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn!
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2021.
 - [openstack-archive/bandit](https://github.com/openstack-archive/bandit) - Python AST-based static analyzer from OpenStack Security Group
 - [sooshie/Security-Data-Analysis](https://github.com/sooshie/Security-Data-Analysis) - A series of labs that will help users apply various data science techniques to security related data.
 - [mubix/cfdb](https://github.com/mubix/cfdb) - Common Findings Database
@@ -11996,7 +11995,7 @@
 - [mellowdrifter/interface-checker](https://github.com/mellowdrifter/interface-checker) - Backend to check interface admin and operation status via SNMP
 - [AnimeshShaw/faidds](https://github.com/AnimeshShaw/faidds) - Forensic Acquisition Information and Drive Data Script (faidds).
 - [libyal/winreg-kb](https://github.com/libyal/winreg-kb) - Windows Registry Knowledge Base
-- [mozilla/OpenWPM](https://github.com/mozilla/OpenWPM) - A web privacy measurement framework
+- [openwpm/OpenWPM](https://github.com/openwpm/OpenWPM) - A web privacy measurement framework
 - [Googulator/TeslaCrack](https://github.com/Googulator/TeslaCrack) - Decryptor for the TeslaCrypt malware
 - [leonjza/dnsfilexfer](https://github.com/leonjza/dnsfilexfer) - File transfer via DNS
 - [ruped24/killchain](https://github.com/ruped24/killchain) - A unified console to perform the "kill chain" stages of attacks.
