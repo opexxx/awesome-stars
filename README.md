@@ -1535,7 +1535,6 @@
 - [valsov/BackNet](https://github.com/valsov/BackNet) - Remote Administration Tool with botnet capability, Windows
 - [jfabry-noc/Base64Coder](https://github.com/jfabry-noc/Base64Coder) - Simple console-based application to encode and decode to and from base 64, with both command line switches and an interactive mode.
 - [mitm-dev/GPP-Automatic](https://github.com/mitm-dev/GPP-Automatic) - Fully Automated Tool to Extract and Decrypt Passwords from Miscrosoft Group Policy Preferences
-- [jaredhaight/SharpAttack](https://github.com/jaredhaight/SharpAttack) - A simple wrapper for C# tools
 - [0xbadjuju/Tokenvator](https://github.com/0xbadjuju/Tokenvator) - A tool to elevate privilege with Windows Tokens
 - [Mr-Un1k0d3r/MaliciousClickOnceGenerator](https://github.com/Mr-Un1k0d3r/MaliciousClickOnceGenerator) - Quick Malicious ClickOnceGenerator for Red Team
 - [jephthai/OpenPasswordFilter](https://github.com/jephthai/OpenPasswordFilter) - An open source custom password filter DLL and userspace service to better protect / control Active Directory domain passwords.
@@ -1631,7 +1630,6 @@
 - [guyoung/GySurface](https://github.com/guyoung/GySurface) - .NET WPF Framework
 - [davotronic5000/PowerShell_Credential_Manager](https://github.com/davotronic5000/PowerShell_Credential_Manager) - PowerShell Module to Read and Write Credentials from the Windows Credential Manager
 - [foxglovesec/Potato](https://github.com/foxglovesec/Potato) - 
-- [jaredhaight/PSAttackBuildTool](https://github.com/jaredhaight/PSAttackBuildTool) - A tool for building PS&gt;Attack, an offensive PowerShell console that makes it easy for pentesters to use PowerShell.
 - [Cn33liz/p0wnedLoader](https://github.com/Cn33liz/p0wnedLoader) - 
 - [Cn33liz/p0wnedShell](https://github.com/Cn33liz/p0wnedShell) - PowerShell Runspace Post Exploitation Toolkit
 - [Invoke-IR/PowerForensics](https://github.com/Invoke-IR/PowerForensics) - PowerForensics provides an all in one platform for live disk forensic analysis
@@ -6552,7 +6550,7 @@
 - [maldevel/RootKits-List-Download](https://github.com/maldevel/RootKits-List-Download) - A curated list of rootkits found on Github and other sites.
 - [PrateekKumarSingh/CheatSheets](https://github.com/PrateekKumarSingh/CheatSheets) - CheatSheets for Powershell, Exchange, Sharepoint, Lync, RegEx, VSCode and more
 - [nfarrar/malgate](https://github.com/nfarrar/malgate) - ABANDONED: A customized OpenWRT VMWare VM for providing virtual networks, useful for Malware Analysis.
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2021.
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2021. Pull requests welcome.
 - [openstack-archive/bandit](https://github.com/openstack-archive/bandit) - Python AST-based static analyzer from OpenStack Security Group
 - [sooshie/Security-Data-Analysis](https://github.com/sooshie/Security-Data-Analysis) - A series of labs that will help users apply various data science techniques to security related data.
 - [mubix/cfdb](https://github.com/mubix/cfdb) - Common Findings Database
@@ -8089,7 +8087,6 @@
 - [SpiderLabs/portia](https://github.com/SpiderLabs/portia) - Portia aims to automate a number of techniques commonly performed on internal network penetration tests after a low privileged account has been compromised.
 - [xtr4nge/FruityC2](https://github.com/xtr4nge/FruityC2) - FruityC2 is a post-exploitation (and open source) framework based on the deployment of agents on compromised machines. Agents are managed from a web interface under the control of an operator.
 - [clong/MakeWindows10GreatAgain](https://github.com/clong/MakeWindows10GreatAgain) - Tweaks to make Windows 10 less annoying and more usable
-- [jaredhaight/PowerPunch](https://github.com/jaredhaight/PowerPunch) - A collection of PowerScripts for Pentesting
 - [r4gnix/privesc](https://github.com/r4gnix/privesc) - 
 - [AlsidOfficial/WSUSpendu](https://github.com/AlsidOfficial/WSUSpendu) - Implement WSUSpendu attack
 - [Arno0x/DBC2](https://github.com/Arno0x/DBC2) - DBC2 (DropboxC2) is a modular post-exploitation tool, composed of an agent running on the victim's machine, a controler, running on any machine, powershell modules, and Dropbox servers as a means of communication.
@@ -8557,7 +8554,6 @@
 - [proxb/PoshWSUS](https://github.com/proxb/PoshWSUS) - PowerShell module to manage Windows Server Update Services (WSUS)
 - [hahndorf/Set-Privacy](https://github.com/hahndorf/Set-Privacy) - PowerShell script to batch-change privacy settings in Windows 10
 - [gfoss/keybase-mail](https://github.com/gfoss/keybase-mail) - :lock: Keybase-Mail.ps1 is a basic wrapper for the windows command-line version of keybase.io
-- [jaredhaight/Invoke-MetasploitPayload](https://github.com/jaredhaight/Invoke-MetasploitPayload) - Powershell script to download and kick off Metasploit payloads. Relies on the exploit/multi/scripts/web_delivery metasploit module.
 - [NetSPI/PowerShell](https://github.com/NetSPI/PowerShell) - NetSPI PowerShell Scripts
 - [mikefrobbins/ActiveDirectory](https://github.com/mikefrobbins/ActiveDirectory) - PowerShell Scripts, Functions, and Modules for managing Active Directory
 - [maaaaz/CrackMapExecWin](https://github.com/maaaaz/CrackMapExecWin) - The great CrackMapExec tool compiled for Windows
@@ -14077,7 +14073,6 @@
 - [blechschmidt/masswhois](https://github.com/blechschmidt/masswhois) - Single-threaded epoll-based concurrent bulk whois client
 - [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server) - An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
 - [alex/ct-tools](https://github.com/alex/ct-tools) - Some Rust code for submitting a cert to all of Chrome's trusted CT logs and getting back the SCTs
-- [jaredhaight/scout-rs](https://github.com/jaredhaight/scout-rs) - A host recon tool written in Rust
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [Findomain/Findomain](https://github.com/Findomain/Findomain) - The complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more.
@@ -14698,7 +14693,7 @@
 - [EdOverflow/contact.sh](https://github.com/EdOverflow/contact.sh) - An OSINT tool to find contacts in order to report security vulnerabilities.
 - [bugbaba/ssTaker](https://github.com/bugbaba/ssTaker) - Bash Script that takes Screenshot of a list of urls using cutycapt
 - [binorassocies/brostash](https://github.com/binorassocies/brostash) - brostash: Linux distribution based on Debian and focusing on network security events collection
-- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.
+- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
 - [Greenwolf/Spray](https://github.com/Greenwolf/Spray) - A Password Spraying tool for Active Directory Credentials by Jacob Wilkin(Greenwolf)
 - [xme/misp-docker](https://github.com/xme/misp-docker) - Docker container for MISP
 - [b3rito/yotter](https://github.com/b3rito/yotter) - yotter - bash script that performs recon and then uses dirb to discover directories that might lead to information leakage
