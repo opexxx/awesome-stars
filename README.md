@@ -1204,7 +1204,7 @@
 
 ## C# # 
 
-- [arsium/EagleMonitor](https://github.com/arsium/EagleMonitor) - Remote Access Tool Written In C#
+- [arsium/EagleMonitorRAT](https://github.com/arsium/EagleMonitorRAT) - Remote Access Tool Written In C#
 - [secdev-01/AllTheThingsExec](https://github.com/secdev-01/AllTheThingsExec) - Executes Blended Managed/Unmanged Exports
 - [SharpC2/SharpC2](https://github.com/SharpC2/SharpC2) - Command and Control Framework written in C#.
 - [CCob/BeaconEye](https://github.com/CCob/BeaconEye) - Hunts out CobaltStrike beacons and logs operator command output
@@ -2198,6 +2198,7 @@
 - [houqp/asciidoc-deckjs](https://github.com/houqp/asciidoc-deckjs) - A deck.js backend for asciidoc
 - [RaReNet/DFAK](https://github.com/RaReNet/DFAK) - The Digital First Aid Kit has moved to Gitlab:
 - [Shellntel/vcr](https://github.com/Shellntel/vcr) - Vulnerability Compliance Report Tool used to parse Nessus files into html reports created by SynerComm, Inc.
+- [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [hoodsec/hoodsec.github.io](https://github.com/hoodsec/hoodsec.github.io) - hoodsec page
 - [kencochrane/docker-guidebook](https://github.com/kencochrane/docker-guidebook) - Docker Guidebook
 - [travs/MacPass](https://github.com/travs/MacPass) - A native OS X KeePass client
@@ -6817,7 +6818,6 @@
 - [remoe/docker-fluentd-kibana](https://github.com/remoe/docker-fluentd-kibana) - Docker image for log analytics using Fluentd, Elasticsearch and Kibana
 - [akhepcat/bridgeap](https://github.com/akhepcat/bridgeap) - Automagically bridge any live interface to any idle interface using NATS, DHCP, and HostAP where applicable
 - [d630/gist-bin-pub](https://github.com/d630/gist-bin-pub) - [Discontinued] Dotfiles
-- [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [Security-Onion-Solutions/security-onion](https://github.com/Security-Onion-Solutions/security-onion) - Security Onion 16.04 - Linux distro for threat hunting, enterprise security monitoring, and log management
 - [wireservice/ffs](https://github.com/wireservice/ffs) - Schemas to convert common fixed-width file formats into CSV using in2csv.
 - [securitytube/wifiscanvisualizer](https://github.com/securitytube/wifiscanvisualizer) - Wi-Fi Scan Visualizer by Pentester Academy
@@ -7815,7 +7815,7 @@
 - [ANSSI-FR/ADTimeline](https://github.com/ANSSI-FR/ADTimeline) - Timeline of Active Directory changes with replication metadata
 - [leeberg/BlueCommand](https://github.com/leeberg/BlueCommand) - Dashboarding and Tooling front-end for PowerShell Empire using PowerShell Universal Dashboard
 - [OTRF/Security-Datasets](https://github.com/OTRF/Security-Datasets) - Re-play Security Events
-- [HackLikeAPornstar/LeoStrike](https://github.com/HackLikeAPornstar/LeoStrike) - Scripts used during the investigation of LeoStrike (How to Hack Like a Rockstar)
+- [sparcflow/LeoStrike](https://github.com/sparcflow/LeoStrike) - Scripts used during the investigation of LeoStrike (How to Hack Like a Rockstar)
 - [Cyb3rWard0g/CyberWardogLab](https://github.com/Cyb3rWard0g/CyberWardogLab) - A few scripts I put together for testing purposes and to automate a few capabilities while doing IR. These scripts are also part of my blog https://cyberwardog.blogspot.com/
 - [Sikkandar-Sha/SEC-AUDIT](https://github.com/Sikkandar-Sha/SEC-AUDIT) - PowerShell Script for Windows Server Compliance / Security Configuration Audit
 - [techthoughts2/PoshGram](https://github.com/techthoughts2/PoshGram) - Send messages via the Telegram Bot API using PowerShell
