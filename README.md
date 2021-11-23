@@ -5218,7 +5218,6 @@
 ## Jinja 
 
 - [rocky-linux/infrastructure](https://github.com/rocky-linux/infrastructure) - The infrastructure monorepo for the Rocky Linux project
-- [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion 2 - Linux distro for threat hunting, enterprise security monitoring, and log management
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [florianutz/Ubuntu1804-CIS](https://github.com/florianutz/Ubuntu1804-CIS) - Ubuntu CIS Hardening Ansible Role
 - [splunk/attack_range](https://github.com/splunk/attack_range) - A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk
@@ -7487,7 +7486,6 @@
 - [EvotecIT/PSWriteColor](https://github.com/EvotecIT/PSWriteColor) - Write-Color is a wrapper around Write-Host allowing you to create nice looking scripts, with colorized output.
 - [jdhitsolutions/PSBackup](https://github.com/jdhitsolutions/PSBackup) - A collection of PowerShell scripts and functions that I use to backup key files and folders.
 - [AutomatedLab/AutomatedLab.Common](https://github.com/AutomatedLab/AutomatedLab.Common) - PowerShell module for daily administrative tasks and general helper functions
-- [browninfosecguy/ADLab](https://github.com/browninfosecguy/ADLab) - Active Directory Lab for Penetration Testing
 - [d4rksystem/VBoxCloak](https://github.com/d4rksystem/VBoxCloak) - A PowerShell script that attempts to help malware analysts hide their Windows VirtualBox Windows VM's from malware that may be trying to evade analysis. Guaranteed to bring down your pafish ratings by at least a few points ;)
 - [OSDeploy/OSDBuilder](https://github.com/OSDeploy/OSDBuilder) - PowerShell Module
 - [EvotecIT/GPOZaurr](https://github.com/EvotecIT/GPOZaurr) - Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them.
@@ -14261,6 +14259,7 @@
 - [mitchellharper12/folding-scripts](https://github.com/mitchellharper12/folding-scripts) - Helper scripts used to optimize Folding@Home and Rosetta@Home cores
 - [activecm/pi_project_installer](https://github.com/activecm/pi_project_installer) - A support library and set of scripts to simplify installing software on the Raspberry Pi/Raspbian
 - [activecm/BeaKer](https://github.com/activecm/BeaKer) - Beacon Kibana Executable Report. Aggregates Sysmon Network Events With Elasticsearch and Kibana
+- [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion 2 - Linux distro for threat hunting, enterprise security monitoring, and log management
 - [wazuh/wazuh-kubernetes](https://github.com/wazuh/wazuh-kubernetes) - Wazuh - Wazuh Kubernetes
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [urbainvaes/fzf-marks](https://github.com/urbainvaes/fzf-marks) - Plugin to manage bookmarks in bash and zsh
