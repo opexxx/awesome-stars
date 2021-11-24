@@ -2295,6 +2295,7 @@
 - [robcowart/influx_snmp](https://github.com/robcowart/influx_snmp) - SNMP Data Collection and Analytics with the TICK Stack (Telegraf, InfluxDB, Chronograf and Kapacitor)
 - [GelosSnake/CyberChefDocker](https://github.com/GelosSnake/CyberChefDocker) - A simple docker for CyberChef Dev environment
 - [jgamblin/NMap-Action](https://github.com/jgamblin/NMap-Action) - A Github Action That Launches an NMap Scan Vulners Scan & Opens A Github Issue With The Findings
+- [sneakerhax/TTPs](https://github.com/sneakerhax/TTPs) - Tactics, Techniques, and Procedures
 - [obscuritylabs/RAI](https://github.com/obscuritylabs/RAI) - Rapid Attack Infrastructure (RAI)
 - [PagerDuty/incident-response-docs](https://github.com/PagerDuty/incident-response-docs) - PagerDuty's Incident Response Documentation.
 - [TheSecureTux/redteam-k8spwn](https://github.com/TheSecureTux/redteam-k8spwn) - Reverse shell container for k8s deployments
@@ -2388,6 +2389,7 @@
 
 ## Go 
 
+- [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) - 🤒   A modern alternative network traffic sniffer.
 - [Tylous/ZipExec](https://github.com/Tylous/ZipExec) - A unique technique to execute binaries from a password protected zip
 - [neex/ghostinthepdf](https://github.com/neex/ghostinthepdf) - 
 - [nikitavoloboev/alfred-web-searches](https://github.com/nikitavoloboev/alfred-web-searches) - Alfred workflow to search through any website (easily extendable list)
@@ -5590,6 +5592,7 @@
 
 ## Others 
 
+- [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
 - [ShutdownRepo/The-Hacker-Recipes](https://github.com/ShutdownRepo/The-Hacker-Recipes) - This project is aimed at freely providing technical guides on various hacking topics: Active Directory services, web services, servers, intelligence gathering, physical intrusion, phishing, mobile apps, iot, social engineering, etc.
 - [themarkib/google-acquisitions](https://github.com/themarkib/google-acquisitions) - Most of the Google Acquisitions for Bug Bounty Hunter.
 - [3CORESec/MAL-CL](https://github.com/3CORESec/MAL-CL) - MAL-CL (Malicious Command-Line)
@@ -6240,7 +6243,6 @@
 - [virajkulkarni14/WebDeveloperSecurityChecklist](https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist) - A checklist of important security issues you should consider when creating a web application.
 - [qazbnm456/awesome-cve-poc](https://github.com/qazbnm456/awesome-cve-poc) - ✍️ A curated list of CVE PoCs.
 - [zbetcheckin/IPv6](https://github.com/zbetcheckin/IPv6) - Playing with IPv6 for fun and profit
-- [sneakerhax/TTPs](https://github.com/sneakerhax/TTPs) - Tactics, Techniques, and Procedures
 - [FuzzySecurity/DefCon25](https://github.com/FuzzySecurity/DefCon25) - UAC 0day, all day!
 - [vysecurity/DomainFrontingLists](https://github.com/vysecurity/DomainFrontingLists) - A list of Domain Frontable Domains by CDN
 - [magoo/redteam-plan](https://github.com/magoo/redteam-plan) - Issues to consider when planning a red team exercise.
@@ -14033,6 +14035,8 @@
 
 ## Rust 
 
+- [Edu4rdSHL/fhc](https://github.com/Edu4rdSHL/fhc) - Fast HTTP Checker.
+- [Edu4rdSHL/unimap](https://github.com/Edu4rdSHL/unimap) - Scan only once by IP address and reduce scan times with Nmap for large amounts of data.
 - [n2kia4/bkm](https://github.com/n2kia4/bkm) - Bookmark manager written in Rust
 - [rabite0/hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy!
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
@@ -14650,7 +14654,7 @@
 - [nahamsec/lazyrecon](https://github.com/nahamsec/lazyrecon) - This script is intended to automate your reconnaissance process in an organized fashion
 - [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 - [changyuheng/fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
-- [toniblyx/prowler](https://github.com/toniblyx/prowler) - Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains all CIS controls and many more additional checks that help on GDPR, HIPAA and other security frameworks.
+- [toniblyx/prowler](https://github.com/toniblyx/prowler) - Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, ISO27001, GDPR, HIPAA, SOC2, ENS and other security frameworks.
 - [danhper/asdf-python](https://github.com/danhper/asdf-python) - 
 - [asdf-vm/asdf-plugins](https://github.com/asdf-vm/asdf-plugins) - Central plugin repository for asdf
 - [x1mdev/ReconPi](https://github.com/x1mdev/ReconPi) - ReconPi - A lightweight recon tool that performs extensive scanning with the latest tools.
