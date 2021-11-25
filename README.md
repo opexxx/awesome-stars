@@ -2511,7 +2511,7 @@
 - [chenjiandongx/kubectl-images](https://github.com/chenjiandongx/kubectl-images) - 🕸  Show container images used in the cluster.
 - [tilt-dev/ctlptl](https://github.com/tilt-dev/ctlptl) - Making local Kubernetes clusters fun and easy to set up
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
-- [awslabs/karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh
+- [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh
 - [slyd0g/WhiteChocolateMacademiaNut](https://github.com/slyd0g/WhiteChocolateMacademiaNut) - Interact with Chromium-based browsers' debug port to view open tabs, installed extensions, and cookies
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Kubernetes Marketplace
@@ -2660,7 +2660,6 @@
 - [x1sec/commit-stream](https://github.com/x1sec/commit-stream) - #OSINT tool for finding Github repositories by extracting commit logs in real time from the Github event API
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities in running containers, images, hosts and repositories
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
-- [panther-labs/panther](https://github.com/panther-labs/panther) - [DEPRECATED] Detect threats with log data and improve cloud security posture
 - [CCob/gookies](https://github.com/CCob/gookies) - A Chrome cookie dumping utility
 - [hotnops/gtunnel](https://github.com/hotnops/gtunnel) - A robust tunelling solution written in golang
 - [theblackturtle/fprobe](https://github.com/theblackturtle/fprobe) - Take a list of domains/subdomains and probe for working http/https server.
@@ -9745,7 +9744,7 @@
 - [hukkelas/DeepPrivacy](https://github.com/hukkelas/DeepPrivacy) - DeepPrivacy: A Generative Adversarial Network for Face Anonymization
 - [0xPrateek/Stardox](https://github.com/0xPrateek/Stardox) - Github stargazers information gathering tool
 - [hisxo/gitGraber](https://github.com/hisxo/gitGraber) - gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...
-- [thehackingsage/hacktronian](https://github.com/thehackingsage/hacktronian) - TOOLS FOR PENTESTING
+- [thehackingsage/hacktronian](https://github.com/thehackingsage/hacktronian) - Tools for Pentesting
 - [BishopFox/zigdiggity](https://github.com/BishopFox/zigdiggity) - A ZigBee hacking toolkit by Bishop Fox
 - [nightwatchcybersecurity/truegaze](https://github.com/nightwatchcybersecurity/truegaze) - Static analysis tool for Android/iOS apps focusing on security issues outside the source code
 - [ChrisTheCoolHut/Firmware_Slap](https://github.com/ChrisTheCoolHut/Firmware_Slap) - Discovering vulnerabilities in firmware through concolic analysis and function clustering.
