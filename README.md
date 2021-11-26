@@ -3804,6 +3804,7 @@
 - [JPCERTCC/ToolAnalysisResultSheet](https://github.com/JPCERTCC/ToolAnalysisResultSheet) - Tool Analysis Result Sheet
 - [elestio/ws-monitoring](https://github.com/elestio/ws-monitoring) - A simple & lightweight realtime monitoring web UI + server in Node.js
 - [prinsharma1999/bug_bounty_tweets](https://github.com/prinsharma1999/bug_bounty_tweets) - 
+- [jstrosch/malware-samples](https://github.com/jstrosch/malware-samples) - Malware samples, analysis exercises and other interesting resources.
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat 🐐  is a "Vulnerable by Design" Kubernetes Cluster. Designed to be an intentionally vulnerable cluster environment to learn and practice Kubernetes security 🔐
 - [AaronDinnage/Licensing](https://github.com/AaronDinnage/Licensing) - Microsoft 365 licensing diagrams
 - [WADComs/WADComs.github.io](https://github.com/WADComs/WADComs.github.io) - WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.
@@ -4401,7 +4402,6 @@
 - [MehediH/winstall](https://github.com/MehediH/winstall) - A web app for browsing and installing Windows Package Manager apps.
 - [alx-xlx/goindex](https://github.com/alx-xlx/goindex) - Index your Google Drive
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [CeoFred/log-stripper](https://github.com/CeoFred/log-stripper) - Removes all instances of console.log
 - [Seytonic/malduino](https://github.com/Seytonic/malduino) - All the Malduinos!
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
@@ -5710,7 +5710,6 @@
 - [spaze/hashes](https://github.com/spaze/hashes) - Magic hashes – PHP hash "collisions"
 - [ashwin-patil/blue-teaming-with-kql](https://github.com/ashwin-patil/blue-teaming-with-kql) - Repository with Sample KQL Query examples for Threat Hunting
 - [MichaelKoczwara/Awesome-CobaltStrike-Defence](https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence) - Defences against Cobalt Strike
-- [jstrosch/malware-samples](https://github.com/jstrosch/malware-samples) - Malware samples, analysis exercises and other interesting resources.
 - [ethereal-vx/Antivirus-Artifacts](https://github.com/ethereal-vx/Antivirus-Artifacts) - Anti-virus artifacts. Listing APIs hooked by: Avira, BitDefender, F-Secure, MalwareBytes, Norton, TrendMicro, and WebRoot.
 - [StefanKelm/yara-rules](https://github.com/StefanKelm/yara-rules) - Links to malware-related YARA rules
 - [mildlytested/Wild-West---SOC-Core-Skills---Notes](https://github.com/mildlytested/Wild-West---SOC-Core-Skills---Notes) - links collected from SOC Core Skills class
@@ -14194,6 +14193,7 @@
 - [DP-3T/documents](https://github.com/DP-3T/documents) - Decentralized Privacy-Preserving Proximity Tracing -- Documents
 - [RackunSec/ntdsdit-analyzer](https://github.com/RackunSec/ntdsdit-analyzer) - Coorelate Hashcat pot with ntds.dit secretsdump.py output file
 - [leoanggal1/P-SAK](https://github.com/leoanggal1/P-SAK) - Pentester Swiss Army Knife is a Docker Image with a suite of the most used tools for Hacking and Pentesting.
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [maxogden/HyperOS](https://github.com/maxogden/HyperOS) - A 50MB linux distribution that has dat-container for booting live containers on mac OS
 - [kris-anderson/remove-zoom-macos](https://github.com/kris-anderson/remove-zoom-macos) - A bash script for macOS that will completely uninstall the Zoom Desktop Client and all of the additional cruft it installs.
