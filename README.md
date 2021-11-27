@@ -2479,7 +2479,7 @@
 - [timescale/tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with a CLI tool or Helm charts.
 - [hahwul/urlgrab](https://github.com/hahwul/urlgrab) - A golang utility to spider through a website searching for additional links.
 - [riza/medusa](https://github.com/riza/medusa) - Fastest recursive HTTP fuzzer, like a Ferrari.
-- [Shadow26Wolf/quickbrute](https://github.com/Shadow26Wolf/quickbrute) - An automated bruteforce tool
+- [Jake0x48/quickbrute](https://github.com/Jake0x48/quickbrute) - An automated bruteforce tool
 - [hahwul/backbomb](https://github.com/hahwul/backbomb) - 💣 Dockerized penetration-testing/bugbounty/app-sec testing environment
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [cloudskiff/driftctl](https://github.com/cloudskiff/driftctl) - Detect, track and alert on infrastructure drift
@@ -5267,7 +5267,7 @@
 - [Jigsaw-Code/net-analysis](https://github.com/Jigsaw-Code/net-analysis) - Tools, libraries and applications to analyze network measurements and detect interference.
 - [JohnLaTwC/Shared](https://github.com/JohnLaTwC/Shared) - Shared Blogs and Notebooks
 - [microsoft/c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
-- [ghostery/whotracks.me](https://github.com/ghostery/whotracks.me) - Data from the largest and longest measurement of online tracking.
+- [whotracksme/whotracks.me](https://github.com/whotracksme/whotracks.me) - Data from the largest and longest measurement of online tracking.
 - [glimow/docker_image_analysis](https://github.com/glimow/docker_image_analysis) - Docker Image Analysis script used to create a docker images dataset out of dockerhub
 - [microsoft/Microsoft-365-Defender-Hunting-Queries](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries) - Sample queries for Advanced hunting in Microsoft 365 Defender
 - [vz-risk/VCDB](https://github.com/vz-risk/VCDB) - VERIS Community Database
@@ -9049,7 +9049,6 @@
 - [theserverlessway/awsie](https://github.com/theserverlessway/awsie) - CloudFormation aware wrapper for the AWSCLI
 - [fpietka/rds-pgbadger](https://github.com/fpietka/rds-pgbadger) - Fetch logs from RDS instance, and process them with pgBadger
 - [fr31/spotifylyrics](https://github.com/fr31/spotifylyrics) - Fetches and displays lyrics to currently playing song in Spotify.
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [jas502n/CVE-2020-8193](https://github.com/jas502n/CVE-2020-8193) - Citrix ADC Vulns
 - [qilingframework/qiling](https://github.com/qilingframework/qiling) - Qiling Advanced Binary Emulation Framework
 - [Enriqu3Exposit0/tordetect](https://github.com/Enriqu3Exposit0/tordetect) - TOR connection detection tool
@@ -14137,6 +14136,7 @@
 
 ## Shell 
 
+- [evanRubinsteinIT/BugBounty-Oneliners](https://github.com/evanRubinsteinIT/BugBounty-Oneliners) - A compilation of quick bash scripts I wrote to make life easier while bug bounty hunting
 - [gwen001/icmp-send-file](https://github.com/gwen001/icmp-send-file) - send file with ping
 - [chiraag-nataraj/firejail-profiles](https://github.com/chiraag-nataraj/firejail-profiles) - Tight Firejail profiles
 - [Dheerajmadhukar/karma_v2](https://github.com/Dheerajmadhukar/karma_v2) - ⡷⠂𝚔𝚊𝚛𝚖𝚊 𝚟𝟸⠐⢾ is a Passive Open Source Intelligence (OSINT) Automated Reconnaissance (framework)
@@ -15653,6 +15653,7 @@
 - [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker) - A library to display an interactive editor for any graph-like data.
 - [softrams/bulwark](https://github.com/softrams/bulwark) - An organizational asset and vulnerability management tool, with Jira integration, designed for generating application security reports.
 - [luisfontes19/xxexploiter](https://github.com/luisfontes19/xxexploiter) - Tool to help exploit XXE vulnerabilities
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [aletheia/iam-policy-generator](https://github.com/aletheia/iam-policy-generator) - A simple library to generate IAM policy statements with no need to remember all the actions APIs
 - [brimdata/brim](https://github.com/brimdata/brim) - Desktop application to efficiently search and analyze semi-structured/structured data and packet captures
 - [timbru31/amazon-tag-remover](https://github.com/timbru31/amazon-tag-remover) - 🚫 💹 🛒WebExtension for Chrome, Firefox, Edge and Opera to remove the Amazon affiliate tracking ID (tag) from amazon links
