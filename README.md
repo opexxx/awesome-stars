@@ -31,6 +31,7 @@
   - [Cython](#cython)
   - [D](#d)
   - [DIGITAL Command Language](#digital-command-language)
+  - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Eagle](#eagle)
   - [Elixir](#elixir)
@@ -236,6 +237,7 @@
 
 ## Batchfile 
 
+- [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
 - [swagkarna/Defeat-Defender-V1.2](https://github.com/swagkarna/Defeat-Defender-V1.2) - Powerful batch script to dismantle complete windows defender protection and even bypass tamper protection ..Disable Windows-Defender Permanently....Hack windows. POC
 - [ninhpn1337/Disable-Windows-Defender](https://github.com/ninhpn1337/Disable-Windows-Defender) - Disable Windows Defender All Version
 - [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
@@ -2274,6 +2276,10 @@
 
 - [jmdugan/blocklists](https://github.com/jmdugan/blocklists) - Shared lists of problem domains people may want to block with hosts files
 
+## Dart 
+
+- [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, Chrome OS, and Windows
+
 ## Dockerfile 
 
 - [higatowa/bento](https://github.com/higatowa/bento) - Bento Toolkit is a minimal fedora-based container for penetration tests and CTF with the sweet addition of GUI applications.
@@ -2389,6 +2395,7 @@
 
 ## Go 
 
+- [nodauf/GoMapEnum](https://github.com/nodauf/GoMapEnum) - User enumeration and password bruteforce on Azure, ADFS, OWA, O365 and gather emails on Linkedin
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) - 🤒   A modern alternative network traffic sniffer.
 - [Tylous/ZipExec](https://github.com/Tylous/ZipExec) - A unique technique to execute binaries from a password protected zip
 - [neex/ghostinthepdf](https://github.com/neex/ghostinthepdf) - 
@@ -2552,7 +2559,7 @@
 - [sclevine/yj](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL
 - [ossf/scorecard](https://github.com/ossf/scorecard) - Security Scorecards - Security health metrics for Open Source
 - [sensepost/common-substr](https://github.com/sensepost/common-substr) - Simple tool to extract the most common substrings from an input text. Built for password cracking.
-- [askgitdev/askgit](https://github.com/askgitdev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
+- [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [RedTeamPentesting/CVE-2020-13935](https://github.com/RedTeamPentesting/CVE-2020-13935) - Exploit for WebSocket Vulnerability in Apache Tomcat
 - [thelikes/gwdomains](https://github.com/thelikes/gwdomains) - sub domain wild card filtering tool
 - [1ndianl33t/urlprobe](https://github.com/1ndianl33t/urlprobe) - Urls status code & content length checker
