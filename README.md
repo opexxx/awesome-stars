@@ -392,7 +392,6 @@
 - [CoolerVoid/HiddenWall](https://github.com/CoolerVoid/HiddenWall) - Tool to generate a Linux kernel module for custom rules with Netfilter hooking. (block ports, Hidden mode, functions to protect, etc.)
 - [einyx/beehive](https://github.com/einyx/beehive) - Very much a WIP - A complete refactor of Tpot-CE - A full stack honeypot ecoystem running on k8s
 - [kubernetes-sigs/security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator) - The Kubernetes Security Profiles Operator
-- [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
 - [JemmyLoveJenny/HookSigntool](https://github.com/JemmyLoveJenny/HookSigntool) - 
 - [Markus-Go/bonesi](https://github.com/Markus-Go/bonesi) - BoNeSi - the DDoS Botnet Simulator
 - [nil0x42/duplicut](https://github.com/nil0x42/duplicut) - Remove duplicates from MASSIVE wordlist, without sorting it (for dictionary-based password cracking)
@@ -2395,6 +2394,7 @@
 
 ## Go 
 
+- [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [nodauf/GoMapEnum](https://github.com/nodauf/GoMapEnum) - User enumeration and password bruteforce on Azure, ADFS, OWA, O365 and gather emails on Linkedin
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) - 🤒   A modern alternative network traffic sniffer.
 - [Tylous/ZipExec](https://github.com/Tylous/ZipExec) - A unique technique to execute binaries from a password protected zip
@@ -2553,6 +2553,7 @@
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [moncho/dry](https://github.com/moncho/dry) - dry - A Docker manager for the terminal @
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open-source cloud asset inventory powered by SQL.
+- [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
 - [optiv/Talon](https://github.com/optiv/Talon) - A password guessing tool that targets the Kerberos and LDAP services within the Windows Active Directory environment.
 - [kitabisa/teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection
 - [heroku/terrier](https://github.com/heroku/terrier) - Terrier is a Image and Container analysis tool that can be used to scan Images and Containers to identify and verify the presence of specific files according to their hashes.
@@ -3791,6 +3792,7 @@
 
 ## HTML 
 
+- [cyberheartmi9/PayloadsAllTheThings](https://github.com/cyberheartmi9/PayloadsAllTheThings) - 
 - [cncf/glossary](https://github.com/cncf/glossary) - Cloud Native Glossary
 - [anki-geo/ultimate-geography](https://github.com/anki-geo/ultimate-geography) - Geography flashcard deck for Anki
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
@@ -5598,6 +5600,7 @@
 
 ## Others 
 
+- [iloveitaly/alfred-comma-to-newline](https://github.com/iloveitaly/alfred-comma-to-newline) - Convert a comma-separated string to a newline-separated string, and vice-versa
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
 - [ShutdownRepo/The-Hacker-Recipes](https://github.com/ShutdownRepo/The-Hacker-Recipes) - This project is aimed at freely providing technical guides on various hacking topics: Active Directory services, web services, servers, intelligence gathering, physical intrusion, phishing, mobile apps, iot, social engineering, etc.
 - [themarkib/google-acquisitions](https://github.com/themarkib/google-acquisitions) - Most of the Google Acquisitions for Bug Bounty Hunter.
@@ -8730,6 +8733,8 @@
 
 ## Python 
 
+- [stevensolleder/QuickGoogleKeep](https://github.com/stevensolleder/QuickGoogleKeep) - The QuickGoogleKeep worflow for Alfred 4 for macOS allows you to add notes to your Google Keep fast and easy.
+- [0xZDH/o365spray](https://github.com/0xZDH/o365spray) - Username enumeration and password spraying tool aimed at Microsoft O365.
 - [swimlane/pyattck-data](https://github.com/swimlane/pyattck-data) - This repository contains generated contextual data utilized by pyattck.
 - [mgeeky/decode-spam-headers](https://github.com/mgeeky/decode-spam-headers) - A script that helps you understand why your E-Mail ended up in Spam
 - [js-on/CVE-2021-42694](https://github.com/js-on/CVE-2021-42694) - Generate malicious files using recently published homoglyphic-attack (CVE-2021-42694)
@@ -13932,7 +13937,6 @@
 - [tkisason/tapir](https://github.com/tkisason/tapir) - An easy-to-use and extensible framework for OSINT.
 - [terjehaarstad/virustotal_cli](https://github.com/terjehaarstad/virustotal_cli) - 
 - [pentestgeek/metasploit-framework](https://github.com/pentestgeek/metasploit-framework) - Metasploit Framework
-- [daanraman/metasploit-framework](https://github.com/daanraman/metasploit-framework) - Metasploit Framework
 - [fxn/tkn](https://github.com/fxn/tkn) - Terminal Keynote - A hack for terminal-based talks
 - [SpiderLabs/r509](https://github.com/SpiderLabs/r509) - r509 is a ruby library that allows you to create/parse CSRs, issue certs off arbitrary CAs, parse certs, create CRLs, run an OCSP responder, and much more
 - [jjyg/ssh_decoder](https://github.com/jjyg/ssh_decoder) - 
@@ -14039,6 +14043,7 @@
 
 ## Rust 
 
+- [alexwlchan/dominant_colours](https://github.com/alexwlchan/dominant_colours) - A CLI tool to find the dominant colours in an image 🎨
 - [Edu4rdSHL/fhc](https://github.com/Edu4rdSHL/fhc) - Fast HTTP Checker.
 - [Edu4rdSHL/unimap](https://github.com/Edu4rdSHL/unimap) - Scan only once by IP address and reduce scan times with Nmap for large amounts of data.
 - [n2kia4/bkm](https://github.com/n2kia4/bkm) - Bookmark manager written in Rust
