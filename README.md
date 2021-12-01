@@ -14043,6 +14043,7 @@
 
 ## Rust 
 
+- [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker
 - [alexwlchan/dominant_colours](https://github.com/alexwlchan/dominant_colours) - A CLI tool to find the dominant colours in an image 🎨
 - [Edu4rdSHL/fhc](https://github.com/Edu4rdSHL/fhc) - Fast HTTP Checker.
 - [Edu4rdSHL/unimap](https://github.com/Edu4rdSHL/unimap) - Scan only once by IP address and reduce scan times with Nmap for large amounts of data.
