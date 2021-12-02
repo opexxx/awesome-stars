@@ -290,7 +290,6 @@
 - [xillwillx/MiniReverse_Shell_With_Parameters](https://github.com/xillwillx/MiniReverse_Shell_With_Parameters) - Reverse to use in a batfile which can call the ip and ports from itself
 - [tresacton/PasswordStealer](https://github.com/tresacton/PasswordStealer) - USB / CD / DVD autorun password stealer
 - [diogo-fernan/ir-rescue](https://github.com/diogo-fernan/ir-rescue) - A Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [alwsl/alwsl](https://github.com/alwsl/alwsl) - Install archlinux as the WSL (Windows Subsystem for Linux) host.
 - [securesean/Shim-Process-Scanner-Lite](https://github.com/securesean/Shim-Process-Scanner-Lite) - A simple Batch script that prints the processes which contain shimming Dll's
 - [azmatt/windowsEnum](https://github.com/azmatt/windowsEnum) - Batch file to help automate Windows enumeration for privilege escalation
@@ -4554,7 +4553,7 @@
 - [CHEF-KOCH/TBCK](https://github.com/CHEF-KOCH/TBCK) - Thunderbird user.js hardening
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of github repos
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of github repos www.star-history.com
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [ivolo/disposable-email-domains](https://github.com/ivolo/disposable-email-domains) - A list of disposable email domains
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
@@ -11667,6 +11666,7 @@
 - [MuhammetDilmac/MimikatzParser](https://github.com/MuhammetDilmac/MimikatzParser) - Initial Commit
 - [dirkjanm/ldapdomaindump](https://github.com/dirkjanm/ldapdomaindump) - Active Directory information dumper via LDAP
 - [the-useless-one/pywerview](https://github.com/the-useless-one/pywerview) - A (partial) Python rewriting of PowerSploit's PowerView
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [diyan/pywinrm](https://github.com/diyan/pywinrm) - Python library for Windows Remote Management (WinRM)
 - [pdjstone/wsuspect-proxy](https://github.com/pdjstone/wsuspect-proxy) - Python tool to inject fake updates into unencrypted WSUS traffic
 - [cylance/mitmcanary](https://github.com/cylance/mitmcanary) - Tool/service to detect Man in the Middle attacks with Canary Requests
@@ -15662,7 +15662,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
-- [JaosnHsieh/github-star-search](https://github.com/JaosnHsieh/github-star-search) - A CLI tool to search through README, description, URL text to find your GitHub starred repos offline.
+- [JaosnHsieh/github-star-search](https://github.com/JaosnHsieh/github-star-search) - A CLI that search your github starred repositories offline through README , description and other fields.
 - [luisfontes19/CSRFER](https://github.com/luisfontes19/CSRFER) - Tool to generate csrf payloads based on vulnerable requests
 - [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker) - A library to display an interactive editor for any graph-like data.
 - [softrams/bulwark](https://github.com/softrams/bulwark) - An organizational asset and vulnerability management tool, with Jira integration, designed for generating application security reports.
