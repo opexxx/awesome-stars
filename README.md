@@ -2315,7 +2315,7 @@
 - [singe/hashcat-brain](https://github.com/singe/hashcat-brain) - A docker container for running the hashcat brain server
 - [dizcza/docker-hashcat](https://github.com/dizcza/docker-hashcat) - Hashcat 6.2.3 docker for Ubuntu 18.04 CUDA and OpenCL
 - [espi0n/Dockerfiles](https://github.com/espi0n/Dockerfiles) - 
-- [marco-lancini/docker_burp](https://github.com/marco-lancini/docker_burp) - Burp Pro as a Docker Container
+- [marco-lancini/docker_burp](https://github.com/marco-lancini/docker_burp) - Burp as a Docker Container
 - [raesene/dockerized-security-tools](https://github.com/raesene/dockerized-security-tools) - Dockerfiles for security tools
 - [random-robbie/wifite2-docker](https://github.com/random-robbie/wifite2-docker) - Docker of Wifite2
 - [random-robbie/squid-anon-docker](https://github.com/random-robbie/squid-anon-docker) - Squid Proxy that is classed as anon
@@ -2393,6 +2393,7 @@
 
 ## Go 
 
+- [FDlucifer/Proxy-Attackchain](https://github.com/FDlucifer/Proxy-Attackchain) - proxylogon, proxyshell, proxyoracle and proxytoken full chain exploit tool
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [nodauf/GoMapEnum](https://github.com/nodauf/GoMapEnum) - User enumeration and password bruteforce on Azure, ADFS, OWA, O365 and gather emails on Linkedin
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) - 🤒   A modern alternative network traffic sniffer.
@@ -4486,7 +4487,7 @@
 - [UlisesGascon/check-my-headers](https://github.com/UlisesGascon/check-my-headers) - Fast and simple way to check any HTTP Headers
 - [outflanknl/Scripts](https://github.com/outflanknl/Scripts) - Small scripts that make life better
 - [minimallyexceptional/exif-hound](https://github.com/minimallyexceptional/exif-hound) - A simple application deisgned for the digital forensics community for tracking EXIF metadata in the real world
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [retrohacker/peerweb.js](https://github.com/retrohacker/peerweb.js) - A client side library for fetching and rendering a static website via torrent over WebRTC
 - [unixpunk/PlutoWeb](https://github.com/unixpunk/PlutoWeb) - PlutoWeb
 - [spaceB0x/cider](https://github.com/spaceB0x/cider) - Continuous Integration and Development ExploiteR
@@ -4553,7 +4554,7 @@
 - [CHEF-KOCH/TBCK](https://github.com/CHEF-KOCH/TBCK) - Thunderbird user.js hardening
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of github repos www.star-history.com
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos www.star-history.com
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [ivolo/disposable-email-domains](https://github.com/ivolo/disposable-email-domains) - A list of disposable email domains
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
@@ -8732,6 +8733,7 @@
 
 ## Python 
 
+- [trailofbits/pip-audit](https://github.com/trailofbits/pip-audit) - Audits Python environments and dependency trees for known vulnerabilities
 - [stevensolleder/QuickGoogleKeep](https://github.com/stevensolleder/QuickGoogleKeep) - The QuickGoogleKeep worflow for Alfred 4 for macOS allows you to add notes to your Google Keep fast and easy.
 - [0xZDH/o365spray](https://github.com/0xZDH/o365spray) - Username enumeration and password spraying tool aimed at Microsoft O365.
 - [swimlane/pyattck-data](https://github.com/swimlane/pyattck-data) - This repository contains generated contextual data utilized by pyattck.
@@ -13044,7 +13046,6 @@
 - [waveform-computing/lars](https://github.com/waveform-computing/lars) - A framework for processing web server log files
 - [waveform80/picamera](https://github.com/waveform80/picamera) - A pure Python interface to the Raspberry Pi camera module
 - [defunkt/pystache](https://github.com/defunkt/pystache) - Mustache in Python
-- [norosa/oblique](https://github.com/norosa/oblique) - A collection of tiny web services, usable by anyone
 - [SYWorks/wireless-ids](https://github.com/SYWorks/wireless-ids) - Ability to detect suspicious activity such as (WEP/WPA/WPS) attack by sniffing the air for wireless packets.
 - [warpnet/BitM](https://github.com/warpnet/BitM) - Beagle(bone) in the Middle
 - [ajgon/gpg-mailgate.py](https://github.com/ajgon/gpg-mailgate.py) - GPG Mail Gateway for Postfix fork
@@ -14653,7 +14654,7 @@
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [jaymoulin/docker-jdownloader](https://github.com/jaymoulin/docker-jdownloader) - JDownloader 2 Docker Image (Multiarch) - Passed 40M Downloads
 - [fredleger/easy-photos](https://github.com/fredleger/easy-photos) - Management of a photos collections based on EXIF timestamps
-- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - Statusbar configuration for tmux that looks like vim-powerline and consist of dynamic segments, written purely in bash.
+- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerlline, written purely in bash.
 - [wfxr/tmux-power](https://github.com/wfxr/tmux-power) - 🎨 Tmux powerline theme
 - [wfxr/tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
 - [junegunn/tmux-fzf-url](https://github.com/junegunn/tmux-fzf-url) - :rocket: Quickly open urls on screen from your browser!
