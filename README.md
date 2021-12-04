@@ -2395,7 +2395,7 @@
 
 - [FDlucifer/Proxy-Attackchain](https://github.com/FDlucifer/Proxy-Attackchain) - proxylogon, proxyshell, proxyoracle and proxytoken full chain exploit tool
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
-- [nodauf/GoMapEnum](https://github.com/nodauf/GoMapEnum) - User enumeration and password bruteforce on Azure, ADFS, OWA, O365 and gather emails on Linkedin
+- [nodauf/GoMapEnum](https://github.com/nodauf/GoMapEnum) - User enumeration and password bruteforce on Azure, ADFS, OWA, O365, Teams and gather emails on Linkedin
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) - 🤒   A modern alternative network traffic sniffer.
 - [Tylous/ZipExec](https://github.com/Tylous/ZipExec) - A unique technique to execute binaries from a password protected zip
 - [neex/ghostinthepdf](https://github.com/neex/ghostinthepdf) - 
@@ -2477,7 +2477,7 @@
 - [buptczq/WinCryptSSHAgent](https://github.com/buptczq/WinCryptSSHAgent) - Using a Yubikey for SSH Authentication on Windows Seamlessly
 - [fzipi/go-ftw](https://github.com/fzipi/go-ftw) - Web Application Firewall Testing Framework - Go version
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
-- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing for secrets, passwords and files
+- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) - ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
 - [wybiral/ipv4scan](https://github.com/wybiral/ipv4scan) - IoT device scanner.
 - [Matir/dice](https://github.com/Matir/dice) - Go implementation of Dice Words with EFF Wordlist.
@@ -3329,7 +3329,7 @@
 - [majewsky/gofu](https://github.com/majewsky/gofu) - My personal busybox built in Go
 - [xo/xo](https://github.com/xo/xo) - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
 - [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [glauth/glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI
 - [kost/httpexec](https://github.com/kost/httpexec) - RESTful interface to your operating system shell
 - [kost/sqlc](https://github.com/kost/sqlc) - sqlc - Universal DBMS/SQL client with exfiltration features :)
@@ -3768,7 +3768,7 @@
 - [offensive-terraform/terraform-aws-rds-snapshot-publicly-exposed](https://github.com/offensive-terraform/terraform-aws-rds-snapshot-publicly-exposed) - Offensive Terraform module which creates RDS database from a publicly exposed RDS snapshot in attacker's AWS account. After that, attacker can connect to RDS database and inspect it.
 - [aaaguirrep/offensive-docker-vps](https://github.com/aaaguirrep/offensive-docker-vps) - Create a VPS on Google Cloud Platform or Digital Ocean easily with Offensive Docker included to launch assessment to the targets.
 - [iknowjason/AriaCloud](https://github.com/iknowjason/AriaCloud) - A Docker container for remote penetration testing.
-- [christophetd/Adaz](https://github.com/christophetd/Adaz) - :wrench: Automatically deploy customizable Active Directory labs in Azure
+- [christophetd/Adaz](https://github.com/christophetd/Adaz) - :wrench: Deploy customizable Active Directory labs in Azure - automatically.
 - [sozercan/OpenShift-Azure-Terraform](https://github.com/sozercan/OpenShift-Azure-Terraform) - ⛑ Deploy OpenShift Origin on Azure using Terraform and Ansible
 - [cloudposse/terraform-aws-iam-user](https://github.com/cloudposse/terraform-aws-iam-user) - Terraform Module to provision a basic IAM user suitable for humans.
 - [xFreed0m/Disruption](https://github.com/xFreed0m/Disruption) - Terraform script to deploy AD-based environment on Azure
@@ -3801,6 +3801,7 @@
 - [tracelabs/tlosint-live](https://github.com/tracelabs/tlosint-live) - Trace Labs OSINT Linux Distribution based on Kali.
 - [jobgemws/Projects-MS-SQL-Server-DBA](https://github.com/jobgemws/Projects-MS-SQL-Server-DBA) - Утилиты и скрипты для MS SQL Server DBA
 - [ricsirigu/Top10](https://github.com/ricsirigu/Top10) - Official OWASP Top 10 Document Repository
+- [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 - [juro-privacy/free-privacy-notice](https://github.com/juro-privacy/free-privacy-notice) - Open source privacy notice design patterns.
 - [JavierOlmedo/OWASP-Calculator](https://github.com/JavierOlmedo/OWASP-Calculator) - 🧮 An online calculator to assess the risk of web vulnerabilities based on OWASP Risk Assessment
 - [ITI/ICS-Security-Tools](https://github.com/ITI/ICS-Security-Tools) - Tools, tips, tricks, and more for exploring ICS Security.
@@ -3980,7 +3981,6 @@
 - [r00t-3xp10it/morpheus](https://github.com/r00t-3xp10it/morpheus) - Morpheus - Automating Ettercap TCP/IP (MITM-hijacking Tool)
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [flakshack/SysAdminBoard](https://github.com/flakshack/SysAdminBoard) - Simple dashboard system for sysadmins with modules for VMware, SNMP, REST API and more
-- [microsoft/TechnicalCommunityContent](https://github.com/microsoft/TechnicalCommunityContent) - includes technical content about Cloud and other technologies, optimized for use within Technical Community Events
 - [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
 - [alexdglover/AWSCodeDeployCourseMaterials](https://github.com/alexdglover/AWSCodeDeployCourseMaterials) - Templates, scripts, revisions, etc that are used in the AWS CodeDeploy course on Udemy and ACloudGuru
 - [SamJoan/droopescan](https://github.com/SamJoan/droopescan) - A plugin-based scanner that aids security researchers in identifying issues with several CMSs, mainly Drupal & Silverstripe.
@@ -5360,7 +5360,7 @@
 - [psc4re/NSE-scripts](https://github.com/psc4re/NSE-scripts) - NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST, CVE-2021-21972, proxyshell, CVE-2021-34473
 - [cyberstruggle/DeltaGroup](https://github.com/cyberstruggle/DeltaGroup) - 
 - [hackingyseguridad/nmap](https://github.com/hackingyseguridad/nmap) - Detectar vulnerabilidades de Path traversal con nmap
-- [censys/nmap-censys](https://github.com/censys/nmap-censys) - NSE script which leverages the Censys IPv4 API for passive data collection
+- [censys/nmap-censys](https://github.com/censys/nmap-censys) - NSE script which leverages the Censys Search API for passive data collection
 - [DNS-OARC/drool](https://github.com/DNS-OARC/drool) - DNS Replay Tool
 - [trisulnsm/ja3prints](https://github.com/trisulnsm/ja3prints) - JA3 TLS Fingerprint database
 - [0x4D31/hassh-utils](https://github.com/0x4D31/hassh-utils) - hassh-utils: Nmap NSE Script and Docker image for HASSH - the SSH client/server fingerprinting method (https://github.com/salesforce/hassh)
@@ -5661,7 +5661,6 @@
 - [vavkamil/awesome-vulnerable-apps](https://github.com/vavkamil/awesome-vulnerable-apps) - Awesome Vulnerable Applications
 - [NoorQureshi/kali-linux-cheatsheet](https://github.com/NoorQureshi/kali-linux-cheatsheet) - Kali Linux Cheat Sheet for Penetration Testers
 - [S1ckB0y1337/Cobalt-Strike-CheatSheet](https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet) - Some notes and examples for cobalt strike's functionality
-- [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 - [TheRealBenForce/cissp-mnemonics](https://github.com/TheRealBenForce/cissp-mnemonics) - Helpful mnemonics for remembing concepts you may see in the CISSP exam
 - [Ignitetechnologies/BurpSuite-For-Pentester](https://github.com/Ignitetechnologies/BurpSuite-For-Pentester) - 
 - [3rkut/UsefulSources](https://github.com/3rkut/UsefulSources) - Redteam, Pentest, APT's, Blogs, Talks, Slides links and notes
