@@ -4554,7 +4554,7 @@
 - [CHEF-KOCH/TBCK](https://github.com/CHEF-KOCH/TBCK) - Thunderbird user.js hardening
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos www.star-history.com
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos. Visit https://star-history.com.
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [ivolo/disposable-email-domains](https://github.com/ivolo/disposable-email-domains) - A list of disposable email domains
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
