@@ -4554,7 +4554,7 @@
 - [CHEF-KOCH/TBCK](https://github.com/CHEF-KOCH/TBCK) - Thunderbird user.js hardening
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos. Visit https://star-history.com.
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [ivolo/disposable-email-domains](https://github.com/ivolo/disposable-email-domains) - A list of disposable email domains
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
@@ -5108,7 +5108,6 @@
 - [bard/mozrepl](https://github.com/bard/mozrepl) - Remotely control Firefox and other Mozilla apps with JavaScript
 - [mafintosh/http-ssh-agent](https://github.com/mafintosh/http-ssh-agent) - Send requests to http servers over ssh
 - [zeis/kokoi](https://github.com/zeis/kokoi) - Configurable markup file watcher, previewer and converter.
-- [fcambus/robotirc](https://github.com/fcambus/robotirc) - Multifonction IRC bot written in Node.js
 - [seccubus/seccubus](https://github.com/seccubus/seccubus) - Easy automated vulnerability scanning, reporting and analysis
 - [hrbrmstr/ip-intel](https://github.com/hrbrmstr/ip-intel) - IP Intelligence (OSI) Chrome Extension
 - [honeynet/thugme](https://github.com/honeynet/thugme) - 
