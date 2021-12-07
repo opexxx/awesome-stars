@@ -2489,7 +2489,7 @@
 - [Jake0x48/quickbrute](https://github.com/Jake0x48/quickbrute) - An automated bruteforce tool
 - [hahwul/backbomb](https://github.com/hahwul/backbomb) - 💣 Dockerized penetration-testing/bugbounty/app-sec testing environment
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
-- [cloudskiff/driftctl](https://github.com/cloudskiff/driftctl) - Detect, track and alert on infrastructure drift
+- [snyk/driftctl](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
 - [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
 - [kentaro-m/md2confl](https://github.com/kentaro-m/md2confl) - 🛠 md2confl is a CLI tool to convert the markdown text to confluence wiki format.
 - [digitalocean/clusterlint](https://github.com/digitalocean/clusterlint) - A best practices checker for Kubernetes clusters. 🤠
@@ -3981,6 +3981,7 @@
 - [r00t-3xp10it/morpheus](https://github.com/r00t-3xp10it/morpheus) - Morpheus - Automating Ettercap TCP/IP (MITM-hijacking Tool)
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [flakshack/SysAdminBoard](https://github.com/flakshack/SysAdminBoard) - Simple dashboard system for sysadmins with modules for VMware, SNMP, REST API and more
+- [zaproxy/zap-extensions](https://github.com/zaproxy/zap-extensions) - OWASP ZAP Add-ons
 - [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
 - [alexdglover/AWSCodeDeployCourseMaterials](https://github.com/alexdglover/AWSCodeDeployCourseMaterials) - Templates, scripts, revisions, etc that are used in the AWS CodeDeploy course on Udemy and ACloudGuru
 - [SamJoan/droopescan](https://github.com/SamJoan/droopescan) - A plugin-based scanner that aids security researchers in identifying issues with several CMSs, mainly Drupal & Silverstripe.
@@ -4236,7 +4237,6 @@
 - [horrorho/InflatableDonkey](https://github.com/horrorho/InflatableDonkey) - iOS9+ iCloud backup retrieval proof of concept
 - [na-ka-na/ExcelCompare](https://github.com/na-ka-na/ExcelCompare) - Command line tool (and API) for diffing Excel Workbooks
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-- [zaproxy/zap-extensions](https://github.com/zaproxy/zap-extensions) - OWASP ZAP Add-ons
 - [jkinder/jakstab](https://github.com/jkinder/jakstab) - The Jakstab static analysis platform for binaries
 - [olacabs/jackhammer](https://github.com/olacabs/jackhammer) - Jackhammer - One Security vulnerability assessment/management tool to solve all the security team problems.
 - [cornerpirate/JS2PDFInjector](https://github.com/cornerpirate/JS2PDFInjector) - Inject a JS file into a PDF file.
@@ -5599,6 +5599,7 @@
 
 ## Others 
 
+- [Karanxa/Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists) - A repository that includes all the important wordlists used while bug hunting.
 - [iloveitaly/alfred-comma-to-newline](https://github.com/iloveitaly/alfred-comma-to-newline) - Convert a comma-separated string to a newline-separated string, and vice-versa
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
 - [ShutdownRepo/The-Hacker-Recipes](https://github.com/ShutdownRepo/The-Hacker-Recipes) - This project is aimed at freely providing technical guides on various hacking topics: Active Directory services, web services, servers, intelligence gathering, physical intrusion, phishing, mobile apps, iot, social engineering, etc.
@@ -5612,7 +5613,7 @@
 - [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
 - [ryan-wendel/wordlists](https://github.com/ryan-wendel/wordlists) - A collection of wordlists
 - [Torbet/Dot-It-Up](https://github.com/Torbet/Dot-It-Up) - A collection of dotfile scripts, plugins, and clever hacks so that you can become the master of your own OS! 🚀
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles.
 - [abhinavporwal/bug-bounty-dorks](https://github.com/abhinavporwal/bug-bounty-dorks) - List of Google Dorks for sites that have responsible disclosure program & bug bounty program
 - [sushiwushi/bug-bounty-dorks](https://github.com/sushiwushi/bug-bounty-dorks) - List of Google Dorks for sites that have responsible disclosure program / bug bounty program
 - [es0/conti-leak](https://github.com/es0/conti-leak) - original files
@@ -7447,6 +7448,9 @@
 
 ## PowerShell 
 
+- [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
+- [jsecurity101/Marvel-Lab](https://github.com/jsecurity101/Marvel-Lab) - A collection of Powershell scripts that will help automate the build process for a Marvel domain.
+- [DarkCoderSc/PowerRunAsAttached](https://github.com/DarkCoderSc/PowerRunAsAttached) - This script allows to spawn a new interactive console as another user account in the same calling console (console instance/window).
 - [tihanyin/PSSW100AVB](https://github.com/tihanyin/PSSW100AVB) - A list of useful Powershell scripts with 100% AV bypass (At the time of publication).
 - [peasead/windows-10-sandbox-to-elastic](https://github.com/peasead/windows-10-sandbox-to-elastic) - Rapidly building a Windows 10 system to use for dynamic malware analysis (sandbox), sending data to Elastic Cloud.
 - [r-darwish/powershell-config](https://github.com/r-darwish/powershell-config) - Powershell Configuration
@@ -8792,7 +8796,7 @@
 - [cisagov/CHIRP](https://github.com/cisagov/CHIRP) - A DFIR tool written in Python.
 - [adityaks/strafer](https://github.com/adityaks/strafer) - Strafer: A tool to detect potential infections in Elasticsearch instances
 - [JohnTroony/Blisqy](https://github.com/JohnTroony/Blisqy) - Version 0.2 - Exploit Time-based blind-SQL injection in HTTP-Headers (MySQL/MariaDB).
-- [Cryptonian007/Genisys](https://github.com/Cryptonian007/Genisys) - Powerful Telegram Members Scraping and Adding Toolkit
+- [greplix/Genisys](https://github.com/greplix/Genisys) - Powerful Telegram Members Scraping and Adding Toolkit
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 - [ZephrFish/Exch-CVE-2021-26855](https://github.com/ZephrFish/Exch-CVE-2021-26855) - CVE-2021-26855: PoC (Not a HoneyPoC for once!)
@@ -14042,6 +14046,7 @@
 
 ## Rust 
 
+- [Ben-Lichtman/ropr](https://github.com/Ben-Lichtman/ropr) - A blazing fast multithreaded ROP Gadget finder. ropper / ropgadget alternative
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker
 - [alexwlchan/dominant_colours](https://github.com/alexwlchan/dominant_colours) - A CLI tool to find the dominant colours in an image 🎨
 - [Edu4rdSHL/fhc](https://github.com/Edu4rdSHL/fhc) - Fast HTTP Checker.
@@ -14216,7 +14221,7 @@
 - [harsh-bothra/VPS-Install](https://github.com/harsh-bothra/VPS-Install) - Quick script to install all the required tools over a VPS (tested on DEBIAN)
 - [InfraBuilder/benchmark-k8s-cni-2020-08](https://github.com/InfraBuilder/benchmark-k8s-cni-2020-08) - Kubernetes CNI benchmark - August 2020
 - [vp777/metahttp](https://github.com/vp777/metahttp) - A bash script that automates the scanning of a target network for HTTP resources through XXE
-- [Fadavvi/Sub-Drill](https://github.com/Fadavvi/Sub-Drill) - A very (very) simple subdomain finder based on online, free and API-less services.
+- [Fadavvi/Sub-Drill](https://github.com/Fadavvi/Sub-Drill) - A very (very) FAST and simple subdomain finder based on online & free services. Without any configuration requirements.
 - [MyTheValentinus/ssh-login-alert-telegram](https://github.com/MyTheValentinus/ssh-login-alert-telegram) - Recieive telegram notfications when user connect to a server
 - [usnistgov/oscal-content](https://github.com/usnistgov/oscal-content) - NIST SP 800-53 content and other OSCAL content examples
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) - Tools and living docs 🧬 for Debian-based servers and Web Applications
@@ -15945,6 +15950,7 @@
 
 ## Zeek 
 
+- [Information-Warfare-Center/CSI-SIEM](https://github.com/Information-Warfare-Center/CSI-SIEM) - CSI SIEM
 - [mitre-attack/bzar](https://github.com/mitre-attack/bzar) - A set of Zeek scripts to detect ATT&CK techniques.
 - [micrictor/smbfp](https://github.com/micrictor/smbfp) - Zeek package to generate a SMB client fingerprint
 - [theparanoids/rdfp](https://github.com/theparanoids/rdfp) - Remote Desktop Client Fingerprint script for Zeek. Based off of https://github.com/0x4D31/fatt
