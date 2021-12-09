@@ -347,6 +347,7 @@
 
 ## C 
 
+- [antonioCoco/MalSeclogon](https://github.com/antonioCoco/MalSeclogon) - A little tool to play with the Seclogon service
 - [woju/make_ext4fs](https://github.com/woju/make_ext4fs) - make_ext4fs from OpenWRT
 - [anthemtotheego/CredBandit](https://github.com/anthemtotheego/CredBandit) - Proof of concept Beacon Object File (BOF) that uses static x64 syscalls to perform a complete in memory dump of a process and send that back through your already existing Beacon communication channel
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -1007,7 +1008,6 @@
 - [boundary/khial](https://github.com/boundary/khial) - a fake network driver to test network applications
 - [hc0d3r/C](https://github.com/hc0d3r/C) - some codes
 - [conix-security/audit-springbok](https://github.com/conix-security/audit-springbok) - A tool for analyzing firewall rules
-- [chipsec/chipsec](https://github.com/chipsec/chipsec) - Platform Security Assessment Framework
 - [conix-security/zer0m0n](https://github.com/conix-security/zer0m0n) - zer0m0n driver for cuckoo sandbox
 - [keplerproject/md5](https://github.com/keplerproject/md5) - MD5 offers basic cryptographic facilities for Lua 5.1.
 - [keplerproject/luasql](https://github.com/keplerproject/luasql) - LuaSQL is a simple interface from Lua to a DBMS.
@@ -1204,6 +1204,8 @@
 
 ## C# # 
 
+- [A-D-Team/SharpMemshell](https://github.com/A-D-Team/SharpMemshell) - HttpListener shell in csharp.
+- [matterpreter/FindETWProviderImage](https://github.com/matterpreter/FindETWProviderImage) - Quickly search for references to a GUID in DLLs, EXEs, and drivers
 - [arsium/EagleMonitorRAT](https://github.com/arsium/EagleMonitorRAT) - Remote Access Tool Written In C#
 - [secdev-01/AllTheThingsExec](https://github.com/secdev-01/AllTheThingsExec) - Executes Blended Managed/Unmanged Exports
 - [SharpC2/SharpC2](https://github.com/SharpC2/SharpC2) - Command and Control Framework written in C#.
@@ -2393,6 +2395,7 @@
 
 ## Go 
 
+- [jas502n/Grafana-CVE-2021-43798](https://github.com/jas502n/Grafana-CVE-2021-43798) - Grafana Unauthorized arbitrary file reading vulnerability
 - [FDlucifer/Proxy-Attackchain](https://github.com/FDlucifer/Proxy-Attackchain) - proxylogon, proxyshell, proxyoracle and proxytoken full chain exploit tool
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [nodauf/GoMapEnum](https://github.com/nodauf/GoMapEnum) - User enumeration and password bruteforce on Azure, ADFS, OWA, O365, Teams and gather emails on Linkedin
@@ -3240,7 +3243,7 @@
 - [mrwiora/NAMEinator](https://github.com/mrwiora/NAMEinator) - NAMEinator DNS Benchmark tool (namebench successor)
 - [ns3777k/go-shodan](https://github.com/ns3777k/go-shodan) - Shodan API client
 - [alash3al/httpsify](https://github.com/alash3al/httpsify) - a transparent HTTPS termination proxy using letsencrypt with auto certification renewal
-- [UKHomeOffice/repo-security-scanner](https://github.com/UKHomeOffice/repo-security-scanner) - CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
+- [UKHomeOffice-attic/repo-security-scanner](https://github.com/UKHomeOffice-attic/repo-security-scanner) - CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
 - [qvl/httpsyet](https://github.com/qvl/httpsyet) - Crawler to find links you can update to HTTPS
 - [yamnikov-oleg/pss](https://github.com/yamnikov-oleg/pss) - Simple cli password manager
 - [sayanarijit/gopgcli](https://github.com/sayanarijit/gopgcli) - Policy based password generator CLI
@@ -3755,6 +3758,7 @@
 
 ## HCL 
 
+- [alijahnas/CKA-practice-exercises](https://github.com/alijahnas/CKA-practice-exercises) - This is a guide for passing the CNCF Certified Kubernetes Administrator (CKA) with practice exercises. Good luck!
 - [PacktPublishing/Kubernetes-in-Production-Best-Practices](https://github.com/PacktPublishing/Kubernetes-in-Production-Best-Practices) - Kubernetes Production Best Practices, published by Packt
 - [iacsecurity/tool-compare](https://github.com/iacsecurity/tool-compare) - 
 - [stackrox/Kubernetes_Security_Specialist_Study_Guide](https://github.com/stackrox/Kubernetes_Security_Specialist_Study_Guide) - 
@@ -3792,6 +3796,8 @@
 
 ## HTML 
 
+- [kubecamp/kubernetes_in_one_day](https://github.com/kubecamp/kubernetes_in_one_day) - Material for the training course
+- [kubecamp/kubernetes_in_2_days](https://github.com/kubecamp/kubernetes_in_2_days) - Material for the training course
 - [cyberheartmi9/PayloadsAllTheThings](https://github.com/cyberheartmi9/PayloadsAllTheThings) - 
 - [cncf/glossary](https://github.com/cncf/glossary) - Cloud Native Glossary
 - [anki-geo/ultimate-geography](https://github.com/anki-geo/ultimate-geography) - Geography flashcard deck for Anki
@@ -5475,6 +5481,7 @@
 
 ## Nim 
 
+- [whydee86/PlayWithDefender](https://github.com/whydee86/PlayWithDefender) - An easy tool to disable and enable windows defender protections
 - [HuskyHacks/ShadowSteal](https://github.com/HuskyHacks/ShadowSteal) - Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation
 - [d4rckh/vaf](https://github.com/d4rckh/vaf) - very advanced (web) fuzzer
 - [khchen/winim](https://github.com/khchen/winim) - Nim's Windows API and COM Library
@@ -5599,6 +5606,7 @@
 
 ## Others 
 
+- [SummitRoute/csp_security_mistakes](https://github.com/SummitRoute/csp_security_mistakes) - Cloud service provider security mistakes
 - [Karanxa/Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists) - A repository that includes all the important wordlists used while bug hunting.
 - [iloveitaly/alfred-comma-to-newline](https://github.com/iloveitaly/alfred-comma-to-newline) - Convert a comma-separated string to a newline-separated string, and vice-versa
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
@@ -7448,6 +7456,7 @@
 
 ## PowerShell 
 
+- [dievus/PowerShellForPentesters](https://github.com/dievus/PowerShellForPentesters) - Course repository for PowerShell for Pentesters Course
 - [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 - [jsecurity101/Marvel-Lab](https://github.com/jsecurity101/Marvel-Lab) - A collection of Powershell scripts that will help automate the build process for a Marvel domain.
 - [DarkCoderSc/PowerRunAsAttached](https://github.com/DarkCoderSc/PowerRunAsAttached) - This script allows to spawn a new interactive console as another user account in the same calling console (console instance/window).
@@ -8735,6 +8744,7 @@
 
 ## Python 
 
+- [s0md3v/uro](https://github.com/s0md3v/uro) - declutters url lists for crawling/pentesting
 - [trailofbits/pip-audit](https://github.com/trailofbits/pip-audit) - Audits Python environments and dependency trees for known vulnerabilities
 - [stevensolleder/QuickGoogleKeep](https://github.com/stevensolleder/QuickGoogleKeep) - The QuickGoogleKeep worflow for Alfred 4 for macOS allows you to add notes to your Google Keep fast and easy.
 - [0xZDH/o365spray](https://github.com/0xZDH/o365spray) - Username enumeration and password spraying tool aimed at Microsoft O365.
@@ -12948,6 +12958,7 @@
 - [mooz/percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 - [MalwareLu/tools](https://github.com/MalwareLu/tools) - Malware.lu tools
 - [pyelasticsearch/pyelasticsearch](https://github.com/pyelasticsearch/pyelasticsearch) - python elasticsearch client
+- [chipsec/chipsec](https://github.com/chipsec/chipsec) - Platform Security Assessment Framework
 - [atizo/PyTagCloud](https://github.com/atizo/PyTagCloud) - Create beautiful tag clouds as images or HTML
 - [dgorissen/coursera-dl](https://github.com/dgorissen/coursera-dl) - A script for downloading course material (video's, pdfs, quizzes, etc) from coursera.org
 - [oremj/logreplay](https://github.com/oremj/logreplay) - Replays logs to a webserver.
@@ -14153,6 +14164,8 @@
 
 ## Shell 
 
+- [dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) - :book: Kubernetes CheatSheets In A4
+- [leonjza/docker-elk](https://github.com/leonjza/docker-elk) - docker-elk repo, using the https://github.com/deviantony/docker-elk template
 - [evanRubinsteinIT/BugBounty-Oneliners](https://github.com/evanRubinsteinIT/BugBounty-Oneliners) - A compilation of quick bash scripts I wrote to make life easier while bug bounty hunting
 - [gwen001/icmp-send-file](https://github.com/gwen001/icmp-send-file) - send file with ping
 - [chiraag-nataraj/firejail-profiles](https://github.com/chiraag-nataraj/firejail-profiles) - Tight Firejail profiles
