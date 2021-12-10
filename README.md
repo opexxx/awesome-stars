@@ -5606,6 +5606,7 @@
 
 ## Others 
 
+- [mdecrevoisier/Windows-auditing-mindmap](https://github.com/mdecrevoisier/Windows-auditing-mindmap) - Set of Mindmaps providing a detailed overview of the different #Windows auditing capacities and event log files.
 - [SummitRoute/csp_security_mistakes](https://github.com/SummitRoute/csp_security_mistakes) - Cloud service provider security mistakes
 - [Karanxa/Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists) - A repository that includes all the important wordlists used while bug hunting.
 - [iloveitaly/alfred-comma-to-newline](https://github.com/iloveitaly/alfred-comma-to-newline) - Convert a comma-separated string to a newline-separated string, and vice-versa
