@@ -5712,7 +5712,6 @@
 - [sharsi1/sublazerwlst](https://github.com/sharsi1/sublazerwlst) - Bundle of wordlists for brute-forcing subdomains (World + RUSSIA based).
 - [sbousseaden/macOS-ATTACK-DATASET](https://github.com/sbousseaden/macOS-ATTACK-DATASET) - JSON DataSet for macOS mapped to MITRE ATT&CK Tactics.
 - [harsh-bothra/learn365](https://github.com/harsh-bothra/learn365) - This repository is about @harshbothra_'s 365 days of Learning Tweets & Mindmaps collection.
-- [builtbybel/sharpapp](https://github.com/builtbybel/sharpapp) - 💩⭐️🚀A #app with cutting edge technology to #minimize windows-10 telemetry and #maximize privacy plus many more
 - [rjcarneiro/windows-terminals](https://github.com/rjcarneiro/windows-terminals) - Repository with some awesome Windows Terminals themes
 - [mubix/repos](https://github.com/mubix/repos) - List of Repositories
 - [analyticsearch/MicrosoftWorkflowCompiler](https://github.com/analyticsearch/MicrosoftWorkflowCompiler) - Execute Commands using Microsoft.Workflow.Compiler.exe
