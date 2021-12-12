@@ -2442,7 +2442,7 @@
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
 - [GoogleCloudPlatform/security-response-automation](https://github.com/GoogleCloudPlatform/security-response-automation) - Take automated actions against threats and vulnerabilities.
 - [projectdiscovery/simplehttpserver](https://github.com/projectdiscovery/simplehttpserver) - Go alternative of python SimpleHTTPServer
-- [dundee/gdu](https://github.com/dundee/gdu) - Disk usage analyzer with console interface written in Go
+- [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [azimjohn/jprq](https://github.com/azimjohn/jprq) - Get Your Localhost Online - Ngrok Alternative
 - [niocs/csvsql](https://github.com/niocs/csvsql) - Golang project to run sql queries on any csv file using embedded sqlite database. Has interactive and non-interactive modes.
 - [senthilrch/kube-fledged](https://github.com/senthilrch/kube-fledged) - A kubernetes operator for creating and managing a cache of container images directly on the cluster worker nodes, so application pods start almost instantly
@@ -5606,6 +5606,7 @@
 
 ## Others 
 
+- [mubix/CVE-2021-44228-Log4Shell-Hashes](https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes) - Hashes for vulnerable LOG4J versions
 - [mdecrevoisier/Windows-auditing-mindmap](https://github.com/mdecrevoisier/Windows-auditing-mindmap) - Set of Mindmaps providing a detailed overview of the different #Windows auditing capacities and event log files.
 - [SummitRoute/csp_security_mistakes](https://github.com/SummitRoute/csp_security_mistakes) - Cloud service provider security mistakes
 - [Karanxa/Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists) - A repository that includes all the important wordlists used while bug hunting.
@@ -13588,7 +13589,7 @@
 - [evait-security/envizon](https://github.com/evait-security/envizon) - network visualization & pentest reporting
 - [jeffreywildman/homebrew-virt-manager](https://github.com/jeffreywildman/homebrew-virt-manager) - A set of homebrew formulae to install virt-manager and virt-viewer on MAC OSX
 - [ybur-yug/gkv](https://github.com/ybur-yug/gkv) - Git as a KV store in Ruby
-- [dtan4/terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate)
+- [dtan4/terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate) / No longer actively maintained
 - [f-secure-foundry/usbarmory](https://github.com/f-secure-foundry/usbarmory) - USB armory - open source flash-drive-sized computer
 - [FuzzySecurity/AdventuresWithChef](https://github.com/FuzzySecurity/AdventuresWithChef) - A collection of Chef recipes, for learning and infrastructure automation.
 - [navisecdelta/Aware](https://github.com/navisecdelta/Aware) - Aware.rb is a little utility for parsing & building data around a CSV of hostnames (like that from aiodnsbrute)
