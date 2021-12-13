@@ -1204,7 +1204,8 @@
 
 ## C# # 
 
-- [A-D-Team/SharpMemshell](https://github.com/A-D-Team/SharpMemshell) - HttpListener shell in csharp.
+- [cube0x0/noPac](https://github.com/cube0x0/noPac) - CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter.
+- [A-D-Team/SharpMemshell](https://github.com/A-D-Team/SharpMemshell) - Memshell
 - [matterpreter/FindETWProviderImage](https://github.com/matterpreter/FindETWProviderImage) - Quickly search for references to a GUID in DLLs, EXEs, and drivers
 - [arsium/EagleMonitorRAT](https://github.com/arsium/EagleMonitorRAT) - Remote Access Tool Written In C#
 - [secdev-01/AllTheThingsExec](https://github.com/secdev-01/AllTheThingsExec) - Executes Blended Managed/Unmanged Exports
@@ -4146,6 +4147,9 @@
 
 ## Java 
 
+- [pimps/JNDI-Exploit-Kit](https://github.com/pimps/JNDI-Exploit-Kit) - JNDI-Exploitation-Kit（A modified version of the great JNDI-Injection-Exploit created by @welk1n. This tool can be used to start an HTTP Server, RMI Server and LDAP Server to exploit java web apps vulnerable to JNDI Injection）
+- [returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
+- [tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce) - Apache Log4j 远程代码执行
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [AthenZ/athenz](https://github.com/AthenZ/athenz) - Open source platform for X.509 certificate based service authentication and fine grained access control in dynamic infrastructures. Athenz supports provisioning and configuration (centralized authorization) use cases as well as serving/runtime (decentralized authorization) use cases.
@@ -5606,6 +5610,7 @@
 
 ## Others 
 
+- [YfryTchsGD/Log4jAttackSurface](https://github.com/YfryTchsGD/Log4jAttackSurface) - 
 - [mubix/CVE-2021-44228-Log4Shell-Hashes](https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes) - Hashes for vulnerable LOG4J versions
 - [mdecrevoisier/Windows-auditing-mindmap](https://github.com/mdecrevoisier/Windows-auditing-mindmap) - Set of Mindmaps providing a detailed overview of the different #Windows auditing capacities and event log files.
 - [SummitRoute/csp_security_mistakes](https://github.com/SummitRoute/csp_security_mistakes) - Cloud service provider security mistakes
@@ -7457,6 +7462,7 @@
 
 ## PowerShell 
 
+- [eshlomo1/Azure-Sentinel-4-SecOps](https://github.com/eshlomo1/Azure-Sentinel-4-SecOps) - Azure Sentinel 4 SecOps
 - [dievus/PowerShellForPentesters](https://github.com/dievus/PowerShellForPentesters) - Course repository for PowerShell for Pentesters Course
 - [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 - [jsecurity101/Marvel-Lab](https://github.com/jsecurity101/Marvel-Lab) - A collection of Powershell scripts that will help automate the build process for a Marvel domain.
@@ -8745,6 +8751,7 @@
 
 ## Python 
 
+- [alexandre-lavoie/python-log4rce](https://github.com/alexandre-lavoie/python-log4rce) - An All-In-One Pure Python PoC for CVE-2021-44228
 - [s0md3v/uro](https://github.com/s0md3v/uro) - declutters url lists for crawling/pentesting
 - [trailofbits/pip-audit](https://github.com/trailofbits/pip-audit) - Audits Python environments and dependency trees for known vulnerabilities
 - [stevensolleder/QuickGoogleKeep](https://github.com/stevensolleder/QuickGoogleKeep) - The QuickGoogleKeep worflow for Alfred 4 for macOS allows you to add notes to your Google Keep fast and easy.
@@ -11969,7 +11976,7 @@
 - [floydhub/dl-docker](https://github.com/floydhub/dl-docker) - An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 - [buckyroberts/Parsley](https://github.com/buckyroberts/Parsley) - Parses HTML to JSON.
 - [SeanHeelan/InterParser](https://github.com/SeanHeelan/InterParser) - A collection of scripts based on libclang for extracting API information from interpreters
-- [jbarlow83/OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [koniu/recoll-webui](https://github.com/koniu/recoll-webui) - web interface for recoll desktop search
 - [Cisco-Talos/ROPMEMU](https://github.com/Cisco-Talos/ROPMEMU) - ROPMEMU is a framework to analyze, dissect and decompile complex code-reuse attacks.
 - [intezer/docker-ida](https://github.com/intezer/docker-ida) - Run IDA Pro disassembler in Docker containers for automating, scaling and distributing the use of IDAPython scripts.
@@ -14165,6 +14172,7 @@
 
 ## Shell 
 
+- [m0zgen/install-gvm21](https://github.com/m0zgen/install-gvm21) - Script for GVM 21 installs to Ubuntu / CentOS / Rocky (in develop)
 - [dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) - :book: Kubernetes CheatSheets In A4
 - [leonjza/docker-elk](https://github.com/leonjza/docker-elk) - docker-elk repo, using the https://github.com/deviantony/docker-elk template
 - [evanRubinsteinIT/BugBounty-Oneliners](https://github.com/evanRubinsteinIT/BugBounty-Oneliners) - A compilation of quick bash scripts I wrote to make life easier while bug bounty hunting
