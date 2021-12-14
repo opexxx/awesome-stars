@@ -2670,7 +2670,7 @@
 - [tiagorlampert/CHAOS](https://github.com/tiagorlampert/CHAOS) - :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.
 - [assafmo/xioc](https://github.com/assafmo/xioc) - Extract indicators of compromise from text, including "escaped" ones.
 - [x1sec/commit-stream](https://github.com/x1sec/commit-stream) - #OSINT tool for finding Github repositories by extracting commit logs in real time from the Github event API
-- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities in running containers, images, hosts and repositories
+- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities and attack paths in running containers, images, hosts and repositories.
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [CCob/gookies](https://github.com/CCob/gookies) - A Chrome cookie dumping utility
 - [hotnops/gtunnel](https://github.com/hotnops/gtunnel) - A robust tunelling solution written in golang
@@ -4497,7 +4497,6 @@
 - [UlisesGascon/check-my-headers](https://github.com/UlisesGascon/check-my-headers) - Fast and simple way to check any HTTP Headers
 - [outflanknl/Scripts](https://github.com/outflanknl/Scripts) - Small scripts that make life better
 - [minimallyexceptional/exif-hound](https://github.com/minimallyexceptional/exif-hound) - A simple application deisgned for the digital forensics community for tracking EXIF metadata in the real world
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [retrohacker/peerweb.js](https://github.com/retrohacker/peerweb.js) - A client side library for fetching and rendering a static website via torrent over WebRTC
 - [unixpunk/PlutoWeb](https://github.com/unixpunk/PlutoWeb) - PlutoWeb
 - [spaceB0x/cider](https://github.com/spaceB0x/cider) - Continuous Integration and Development ExploiteR
@@ -5343,6 +5342,7 @@
 - [yeswehack/YesWeBurp](https://github.com/yeswehack/YesWeBurp) - YesWeHack Api Extension for Burp
 - [GoSecure/dtd-finder](https://github.com/GoSecure/dtd-finder) - List DTDs and generate XXE payloads using those local DTDs.
 - [helloworld1/FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator
+- [enzet/symbolic-execution](https://github.com/enzet/symbolic-execution) - History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking)
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [islandoftex/arara](https://github.com/islandoftex/arara) - arara is a TeX automation tool based on rules and directives. It gives you a way to enhance your TeX experience. This is a mirror repository.
 - [ACRA/acra](https://github.com/ACRA/acra) - Application Crash Reports for Android
@@ -6090,7 +6090,6 @@
 - [slyth11907/Cheatsheets](https://github.com/slyth11907/Cheatsheets) - Helped during my OSCP lab days.
 - [treebuilder/Cheatsheets](https://github.com/treebuilder/Cheatsheets) - This was originally posted by jshaw87. I wanted to keep a copy/update it on the off chance he took it down.
 - [dustyfresh/PHP-vulnerability-audit-cheatsheet](https://github.com/dustyfresh/PHP-vulnerability-audit-cheatsheet) - This will assist you in the finding of potentially vulnerable PHP code. Each type of grep command is categorized in the type of vulnerabilities you generally find with that function.
-- [enzet/symbolic-execution](https://github.com/enzet/symbolic-execution) - History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking)
 - [Ignitetechnologies/Web-Application-Cheatsheet](https://github.com/Ignitetechnologies/Web-Application-Cheatsheet) - This cheatsheet is aimed at the CTF Players and Beginners to help them understand Web Application Vulnerablity with examples.
 - [tomlockwood/dn](https://github.com/tomlockwood/dn) - Daily notes command line tool
 - [yeahhub/Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
@@ -8751,6 +8750,8 @@
 
 ## Python 
 
+- [WazeHell/sam-the-admin](https://github.com/WazeHell/sam-the-admin) - Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user
+- [p0dalirius/ldapconsole](https://github.com/p0dalirius/ldapconsole) - The ldapconsole script allows you to perform custom LDAP requests to a Windows domain.
 - [alexandre-lavoie/python-log4rce](https://github.com/alexandre-lavoie/python-log4rce) - An All-In-One Pure Python PoC for CVE-2021-44228
 - [s0md3v/uro](https://github.com/s0md3v/uro) - declutters url lists for crawling/pentesting
 - [trailofbits/pip-audit](https://github.com/trailofbits/pip-audit) - Audits Python environments and dependency trees for known vulnerabilities
@@ -9058,7 +9059,7 @@
 - [m4ll0k/SecretFinder](https://github.com/m4ll0k/SecretFinder) - SecretFinder - A python script for find sensitive data (apikeys, accesstoken,jwt,..) and search anything on javascript files
 - [defparam/tiscripts](https://github.com/defparam/tiscripts) - Turbo Intruder Scripts
 - [m8r0wn/CrossLinked](https://github.com/m8r0wn/CrossLinked) - LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping
-- [firstlookmedia/dangerzone](https://github.com/firstlookmedia/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF
+- [firstlookmedia/dangerzone](https://github.com/firstlookmedia/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 - [kaganisildak/malwarescarecrow](https://github.com/kaganisildak/malwarescarecrow) - A tool designed to make physical devices detectable by malware and make system look like virtual machine.
 - [SecurityInnovation/AuthMatrix](https://github.com/SecurityInnovation/AuthMatrix) - AuthMatrix is a Burp Suite extension that provides a simple way to test authorization in web applications and web services.
 - [Jeija/renard-phy](https://github.com/Jeija/renard-phy) - Open Sigfox Stack Reference Implementation - Physical Layer for SDR
@@ -12339,7 +12340,7 @@
 - [cea-sec/Sibyl](https://github.com/cea-sec/Sibyl) - A Miasm2 based function divination.
 - [cea-sec/miasm](https://github.com/cea-sec/miasm) - Reverse engineering framework in Python
 - [cea-sec/TorPylle](https://github.com/cea-sec/TorPylle) - A Python / Scapy implementation of the OR (TOR) protocol.
-- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework, published by @cea-sec & @ANSSI-FR
+- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework, published by @cea-sec & @ANSSI-FR. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, Passive DNS service and more.
 - [josemazo/bmo](https://github.com/josemazo/bmo) - A Machine Learning toolbox based on Docker and IPython Notebook
 - [yahoo/redislite](https://github.com/yahoo/redislite) - Redis in a python module.
 - [redcanaryco/cbapi2](https://github.com/redcanaryco/cbapi2) - Red Canary Carbon Black API
@@ -15682,6 +15683,8 @@
 
 ## TypeScript 
 
+- [fabiospampinato/cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
+- [fabiospampinato/autogit](https://github.com/fabiospampinato/autogit) - Define commands, using plugins, to execute across all your repositories.
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
 - [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal
 - [cisagov/crossfeed](https://github.com/cisagov/crossfeed) - External monitoring for organization assets
@@ -15699,6 +15702,7 @@
 - [timbru31/amazon-tag-remover](https://github.com/timbru31/amazon-tag-remover) - 🚫 💹 🛒WebExtension for Chrome, Firefox, Edge and Opera to remove the Amazon affiliate tracking ID (tag) from amazon links
 - [OWASP/RiskAssessmentFramework](https://github.com/OWASP/RiskAssessmentFramework) - The Secure Coding Framework
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [octarinesec/kccss](https://github.com/octarinesec/kccss) - Kubernetes Common Configuration Scoring System
 - [fbaligand/vscode-logstash-editor](https://github.com/fbaligand/vscode-logstash-editor) - Logstash Editor for Visual Studio Code
 - [dalyIsaac/onenote-markdown](https://github.com/dalyIsaac/onenote-markdown) - 
