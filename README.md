@@ -641,7 +641,7 @@
 - [radare/gradare2](https://github.com/radare/gradare2) - Port of gradare GTK/VTE frontend to r2
 - [t00sh/rop-tool](https://github.com/t00sh/rop-tool) - A tool to help you write binary exploits
 - [google/honggfuzz](https://github.com/google/honggfuzz) - Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based)
-- [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)
+- [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, X86)
 - [openics/openics](https://github.com/openics/openics) - Industrial Control Systems Protocol Decoders
 - [dlundquist/sniproxy](https://github.com/dlundquist/sniproxy) - Proxies incoming HTTP and TLS connections based on the hostname contained in the initial request of the TCP session.
 - [zcgonvh/NTDSDumpEx](https://github.com/zcgonvh/NTDSDumpEx) - NTDS.dit offline dumper with non-elevated
@@ -3572,7 +3572,7 @@
 - [caarlos0/env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
 - [OWASP/Go-SCP](https://github.com/OWASP/Go-SCP) - Go programming language secure coding practices guide
 - [mhausenblas/dnpipes](https://github.com/mhausenblas/dnpipes) - Distributed Named Pipes
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
 - [thanasisk/TLSlayer](https://github.com/thanasisk/TLSlayer) - A fast SSL/TLS reconnaisance tool written in Go
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
@@ -4147,6 +4147,7 @@
 
 ## Java 
 
+- [API-Security/APIKit](https://github.com/API-Security/APIKit) - APIKit：Discovery, Scan and Audit APIs Toolkit All In One.
 - [pimps/JNDI-Exploit-Kit](https://github.com/pimps/JNDI-Exploit-Kit) - JNDI-Exploitation-Kit（A modified version of the great JNDI-Injection-Exploit created by @welk1n. This tool can be used to start an HTTP Server, RMI Server and LDAP Server to exploit java web apps vulnerable to JNDI Injection）
 - [returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
 - [tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce) - Apache Log4j 远程代码执行
@@ -5243,6 +5244,7 @@
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [jcalazan/ansible-django-stack](https://github.com/jcalazan/ansible-django-stack) - Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [geerlingguy/drupal-vm](https://github.com/geerlingguy/drupal-vm) - A VM for Drupal development
 - [rocknsm/rock](https://github.com/rocknsm/rock) - Automated deployment scripts for the RockNSM network hunting distribution.
 - [ooni/sysadmin](https://github.com/ooni/sysadmin) - System administration tools
@@ -11382,7 +11384,6 @@
 - [mbevilacqua/appcompatprocessor](https://github.com/mbevilacqua/appcompatprocessor) - "Evolving AppCompat/AmCache data analysis beyond grep"
 - [x0rz/EQGRP_Lost_in_Translation](https://github.com/x0rz/EQGRP_Lost_in_Translation) - Decrypted content of odd.tar.xz.gpg, swift.tar.xz.gpg and windows.tar.xz.gpg
 - [misterch0c/shadowbroker](https://github.com/misterch0c/shadowbroker) - The Shadow Brokers "Lost In Translation" leak
-- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [nccgroup/Cyber-Defence](https://github.com/nccgroup/Cyber-Defence) - Information released publicly by NCC Group's Cyber Incident Response Team
 - [nixawk/pentest-wiki](https://github.com/nixawk/pentest-wiki) - PENTEST-WIKI is a free online security knowledge library for pentesters / researchers. If you have a good idea, please share it with others.
 - [kootenpv/access_points](https://github.com/kootenpv/access_points) - Scan your WiFi and get access point information and signal quality
@@ -11762,7 +11763,7 @@
 - [rschwass/SCRIPTS](https://github.com/rschwass/SCRIPTS) - One off Scripts repo
 - [forensicmatt/PancakeViewer](https://github.com/forensicmatt/PancakeViewer) - A DFVFS Backed Forensic Viewer
 - [pbeck/whatsbook](https://github.com/pbeck/whatsbook) - Create books from WhatsApp group chats with Python and LaTeX
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [RiskSense-Ops/CVE-2016-6366](https://github.com/RiskSense-Ops/CVE-2016-6366) - Public repository for improvements to the EXTRABACON exploit
 - [kanzure/python-wmi-client-wrapper](https://github.com/kanzure/python-wmi-client-wrapper) - Linux-only wrapper around wmi-client for WMI (Windows)
 - [slacker007/NodeHunter](https://github.com/slacker007/NodeHunter) - Python Module that uses the NMAP api to enumerate a network and its hosts.
@@ -12340,7 +12341,7 @@
 - [cea-sec/Sibyl](https://github.com/cea-sec/Sibyl) - A Miasm2 based function divination.
 - [cea-sec/miasm](https://github.com/cea-sec/miasm) - Reverse engineering framework in Python
 - [cea-sec/TorPylle](https://github.com/cea-sec/TorPylle) - A Python / Scapy implementation of the OR (TOR) protocol.
-- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework, published by @cea-sec & @ANSSI-FR. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, Passive DNS service and more.
+- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework, published by @cea-sec & @ANSSI-FR. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more!
 - [josemazo/bmo](https://github.com/josemazo/bmo) - A Machine Learning toolbox based on Docker and IPython Notebook
 - [yahoo/redislite](https://github.com/yahoo/redislite) - Redis in a python module.
 - [redcanaryco/cbapi2](https://github.com/redcanaryco/cbapi2) - Red Canary Carbon Black API
@@ -15904,6 +15905,7 @@
 
 ## Vue 
 
+- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [mandatoryprogrammer/ChromeGalvanizer](https://github.com/mandatoryprogrammer/ChromeGalvanizer) - Harden your Chrome browser via enterprise policy.
 - [BC-SECURITY/Starkiller](https://github.com/BC-SECURITY/Starkiller) - Starkiller is a Frontend for PowerShell Empire.
 - [chaitin/xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
