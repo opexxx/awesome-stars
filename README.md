@@ -2114,7 +2114,7 @@
 - [hzphreak/VMInjector](https://github.com/hzphreak/VMInjector) - DLL Injection tool to unlock guest VMs
 - [jeffbryner/NBDServer](https://github.com/jeffbryner/NBDServer) - Network Block Device Server for windows with a DFIR/forensic focus.
 - [Y-Vladimir/SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) - Restoration of defocused and blurred photos/images
-- [simsong/bulk_extractor](https://github.com/simsong/bulk_extractor) - This is the development tree. For downloads please see:
+- [simsong/bulk_extractor](https://github.com/simsong/bulk_extractor) - This is the development tree. Production downloads are at:
 - [simsong/tcpflow](https://github.com/simsong/tcpflow) - TCP/IP packet demultiplexer. Download from:
 - [wisk/medusa](https://github.com/wisk/medusa) - An open source interactive disassembler
 - [fujieda/xkeymacs](https://github.com/fujieda/xkeymacs) - 
@@ -2481,7 +2481,6 @@
 - [buptczq/WinCryptSSHAgent](https://github.com/buptczq/WinCryptSSHAgent) - Using a Yubikey for SSH Authentication on Windows Seamlessly
 - [fzipi/go-ftw](https://github.com/fzipi/go-ftw) - Web Application Firewall Testing Framework - Go version
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
-- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) - ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
 - [wybiral/ipv4scan](https://github.com/wybiral/ipv4scan) - IoT device scanner.
 - [Matir/dice](https://github.com/Matir/dice) - Go implementation of Dice Words with EFF Wordlist.
@@ -5341,6 +5340,7 @@
 
 ## Kotlin 
 
+- [silentsignal/burp-log4shell](https://github.com/silentsignal/burp-log4shell) - Log4Shell scanner for Burp Suite
 - [yeswehack/YesWeBurp](https://github.com/yeswehack/YesWeBurp) - YesWeHack Api Extension for Burp
 - [GoSecure/dtd-finder](https://github.com/GoSecure/dtd-finder) - List DTDs and generate XXE payloads using those local DTDs.
 - [helloworld1/FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator
@@ -5612,6 +5612,7 @@
 
 ## Others 
 
+- [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the vulnerability in the Log4j logging library.
 - [YfryTchsGD/Log4jAttackSurface](https://github.com/YfryTchsGD/Log4jAttackSurface) - 
 - [mubix/CVE-2021-44228-Log4Shell-Hashes](https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes) - Hashes for vulnerable LOG4J versions
 - [mdecrevoisier/Windows-auditing-mindmap](https://github.com/mdecrevoisier/Windows-auditing-mindmap) - Set of Mindmaps providing a detailed overview of the different #Windows auditing capacities and event log files.
@@ -12508,7 +12509,7 @@
 - [corelan/mona](https://github.com/corelan/mona) - Corelan Repository for mona.py
 - [RaRe-Technologies/smart_open](https://github.com/RaRe-Technologies/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
 - [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
-- [ant4g0nist/lisa.py](https://github.com/ant4g0nist/lisa.py) - -An Exploit Dev Swiss Army Knife.
+- [ant4g0nist/lisa.py](https://github.com/ant4g0nist/lisa.py) - - An Exploit Dev Swiss Army Knife.
 - [charlierguo/gmail](https://github.com/charlierguo/gmail) - A Pythonic interface for Google Mail
 - [esetera/Objavi](https://github.com/esetera/Objavi) - Book production engine
 - [aerkalov/booktype-scrolls](https://github.com/aerkalov/booktype-scrolls) - Booktype tips & tricks, examples, ...
@@ -13577,6 +13578,7 @@
 
 ## Ruby 
 
+- [appvia/krane](https://github.com/appvia/krane) - Kubernetes RBAC static Analysis & visualisation tool
 - [swdyh/gisty](https://github.com/swdyh/gisty) - yet another command line client for gist
 - [porthunter/gosploit](https://github.com/porthunter/gosploit) - Exploit framework written in Go
 - [unixorn/tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh) - Tumult is a collection of macOS-specific functions and scripts for your shell environment. It is packaged as a ZSH plugin, but can be used in bash/fish as well.
@@ -15690,6 +15692,7 @@
 - [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal
 - [cisagov/crossfeed](https://github.com/cisagov/crossfeed) - External monitoring for organization assets
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [JaosnHsieh/github-star-search](https://github.com/JaosnHsieh/github-star-search) - A CLI that search your github starred repositories offline through README , description and other fields.
