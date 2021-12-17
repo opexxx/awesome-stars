@@ -4149,7 +4149,6 @@
 - [API-Security/APIKit](https://github.com/API-Security/APIKit) - APIKit：Discovery, Scan and Audit APIs Toolkit All In One.
 - [pimps/JNDI-Exploit-Kit](https://github.com/pimps/JNDI-Exploit-Kit) - JNDI-Exploitation-Kit（A modified version of the great JNDI-Injection-Exploit created by @welk1n. This tool can be used to start an HTTP Server, RMI Server and LDAP Server to exploit java web apps vulnerable to JNDI Injection）
 - [returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
-- [tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce) - Apache Log4j 远程代码执行
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [AthenZ/athenz](https://github.com/AthenZ/athenz) - Open source platform for X.509 certificate based service authentication and fine grained access control in dynamic infrastructures. Athenz supports provisioning and configuration (centralized authorization) use cases as well as serving/runtime (decentralized authorization) use cases.
@@ -4616,7 +4615,6 @@
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
 - [auth0/repo-supervisor](https://github.com/auth0/repo-supervisor) - Scan your code for security misconfiguration, search for passwords and secrets. :mag:
 - [nogizhopaboroda/iponmap](https://github.com/nogizhopaboroda/iponmap) - commandline IP location finder
-- [authcov/authcov](https://github.com/authcov/authcov) - Web app authorization coverage scanning
 - [AlexAkulov/putty-color-themes](https://github.com/AlexAkulov/putty-color-themes) - PuTTY Color Themes
 - [yamitzky/puppeteer-cli](https://github.com/yamitzky/puppeteer-cli) - Puppeteer CLI version to snapshot websites.
 - [WeiChiaChang/stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal  💻
@@ -5612,7 +5610,6 @@
 
 ## Others 
 
-- [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the vulnerability in the Log4j logging library.
 - [YfryTchsGD/Log4jAttackSurface](https://github.com/YfryTchsGD/Log4jAttackSurface) - 
 - [mubix/CVE-2021-44228-Log4Shell-Hashes](https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes) - Hashes for vulnerable LOG4J versions
 - [mdecrevoisier/Windows-auditing-mindmap](https://github.com/mdecrevoisier/Windows-auditing-mindmap) - Set of Mindmaps providing a detailed overview of the different #Windows auditing capacities and event log files.
@@ -8753,6 +8750,7 @@
 
 ## Python 
 
+- [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the vulnerability in the Log4j logging library.
 - [WazeHell/sam-the-admin](https://github.com/WazeHell/sam-the-admin) - Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user
 - [p0dalirius/ldapconsole](https://github.com/p0dalirius/ldapconsole) - The ldapconsole script allows you to perform custom LDAP requests to a Windows domain.
 - [alexandre-lavoie/python-log4rce](https://github.com/alexandre-lavoie/python-log4rce) - An All-In-One Pure Python PoC for CVE-2021-44228
@@ -15725,6 +15723,7 @@
 - [maticzav/emma-cli](https://github.com/maticzav/emma-cli) - 📦 Terminal assistant to find and install node packages.
 - [appbaseio/mirage](https://github.com/appbaseio/mirage) - :art: GUI for simplifying Elasticsearch Query DSL
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
+- [authcov/authcov](https://github.com/authcov/authcov) - Web app authorization coverage scanning
 - [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [LokiJS-Forge/LokiDB](https://github.com/LokiJS-Forge/LokiDB) - blazing fast, feature-rich in-memory database written in TypeScript
 - [punchcard/punchcard](https://github.com/punchcard/punchcard) - Type-safe AWS infrastructure.
