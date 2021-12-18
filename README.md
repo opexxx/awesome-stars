@@ -2396,6 +2396,8 @@
 
 ## Go 
 
+- [0xInfection/LogMePwn](https://github.com/0xInfection/LogMePwn) - A fully automated, reliable, super-fast, mass scanning and validation toolkit for the Log4J RCE CVE-2021-44228 vulnerability.
+- [kost/logdns](https://github.com/kost/logdns) - Simple DNS logging server
 - [jas502n/Grafana-CVE-2021-43798](https://github.com/jas502n/Grafana-CVE-2021-43798) - Grafana Unauthorized arbitrary file reading vulnerability
 - [FDlucifer/Proxy-Attackchain](https://github.com/FDlucifer/Proxy-Attackchain) - proxylogon, proxyshell, proxyoracle and proxytoken full chain exploit tool
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
@@ -2972,7 +2974,7 @@
 - [Symantec/keymaster](https://github.com/Symantec/keymaster) - Short term certificate based identity system (ssh/x509 ca + openidc)
 - [portapps/openvpn-portable](https://github.com/portapps/openvpn-portable) - 🚀 OpenVPN portable for Windows
 - [3fs/go-authy-openvpn](https://github.com/3fs/go-authy-openvpn) - Two-factor authentication for OpenVPN
-- [ozgur-soft/otp](https://github.com/ozgur-soft/otp) - One time password (OTP) library for generate two-factor authentication (2FA) tokens with golang
+- [ozgur-soft/otp.go](https://github.com/ozgur-soft/otp.go) - One time password (OTP) library for generate two-factor authentication (2FA) tokens with golang
 - [rls-moe/dnsbench](https://github.com/rls-moe/dnsbench) - DNS Benchmarking Tool
 - [irai/arp](https://github.com/irai/arp) - A go package to monitor ARP changes and notify when mac is online or offline.  Also allow forced IP address change (IP spoofing).
 - [j-keck/lsleases](https://github.com/j-keck/lsleases) - list assigned ip from any device in your network
@@ -7221,7 +7223,7 @@
 - [sqlmapproject/testenv](https://github.com/sqlmapproject/testenv) - A collection of web pages vulnerable to SQL injection flaws
 - [xtr4nge/FruityWifi](https://github.com/xtr4nge/FruityWifi) - FruityWiFi is a wireless network auditing tool. The application can be installed in any Debian based system (Jessie) adding the extra packages. Tested in Debian, Kali Linux, Kali Linux ARM (Raspberry Pi), Raspbian (Raspberry Pi), Pwnpi (Raspberry Pi), Bugtraq, NetHunter.
 - [nikicat/web-malware-collection](https://github.com/nikicat/web-malware-collection) - Clone of svn repository of http://insecurety.net/projects/web-malware/ project
-- [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)
+- [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
 - [HTTPArchive/legacy.httparchive.org](https://github.com/HTTPArchive/legacy.httparchive.org) - &lt;&lt;THIS REPOSITORY IS DEPRECATED&gt;&gt; The HTTP Archive provides information about website performance such as # of HTTP requests, use of gzip, and amount of JavaScript. This information is recorded over time revealing trends in how the Internet is performing. Built using Open Source software, the code and data are available to everyone allowing researchers large and small to work from a common base.
 - [bedirhan/wivet](https://github.com/bedirhan/wivet) - Web Input Vector Extractor Teaser
 - [tennc/webshell](https://github.com/tennc/webshell) - This is a webshell open source project
@@ -8750,6 +8752,7 @@
 
 ## Python 
 
+- [redhuntlabs/Log4JHunt](https://github.com/redhuntlabs/Log4JHunt) - An automated, reliable scanner for the Log4Shell (CVE-2021-44228) vulnerability.
 - [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the vulnerability in the Log4j logging library.
 - [WazeHell/sam-the-admin](https://github.com/WazeHell/sam-the-admin) - Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user
 - [p0dalirius/ldapconsole](https://github.com/p0dalirius/ldapconsole) - The ldapconsole script allows you to perform custom LDAP requests to a Windows domain.
