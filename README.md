@@ -3471,7 +3471,7 @@
 - [abh/geodns](https://github.com/abh/geodns) - DNS server with per-client targeted responses
 - [zmap/zannotate](https://github.com/zmap/zannotate) - Utility for annotating Internet datasets with contextual metadata (e.g., origin AS, MaxMind GeoIP2, reverse DNS, and WHOIS)
 - [domainr/whois](https://github.com/domainr/whois) - Whois client for Go.
-- [briandowns/spinner](https://github.com/briandowns/spinner) - Go (golang) package with 80 configurable terminal spinner/progress indicators.
+- [briandowns/spinner](https://github.com/briandowns/spinner) - Go (golang) package with 90 configurable terminal spinner/progress indicators.
 - [zmap/zlint](https://github.com/zmap/zlint) - X.509 Certificate Linter focused on Web PKI standards and requirements.
 - [Nhoya/gOSINT](https://github.com/Nhoya/gOSINT) - OSINT Swiss Army Knife
 - [NetSPI/goddi](https://github.com/NetSPI/goddi) - goddi (go dump domain info) dumps Active Directory domain information
