@@ -526,7 +526,6 @@
 - [TarlogicSecurity/tickey](https://github.com/TarlogicSecurity/tickey) - Tool to extract Kerberos tickets from Linux kernel keys.
 - [CoolerVoid/codewarrior](https://github.com/CoolerVoid/codewarrior) - code-searching tool and static analysis - Beta
 - [pwn20wndstuff/Undecimus](https://github.com/pwn20wndstuff/Undecimus) - unc0ver jailbreak for iOS 11.0 - 12.4
-- [zerosum0x0/CVE-2019-0708](https://github.com/zerosum0x0/CVE-2019-0708) - Scanner PoC for CVE-2019-0708 RDP RCE vuln
 - [Mr-Un1k0d3r/Shellcoding](https://github.com/Mr-Un1k0d3r/Shellcoding) - Shellcoding utilities
 - [emptymonkey/revsh](https://github.com/emptymonkey/revsh) - A reverse shell with terminal support, data tunneling, and advanced pivoting capabilities.
 - [neonichu/trolldrop](https://github.com/neonichu/trolldrop) - :trollface: AirDrop trollfaces to everyone.
@@ -537,7 +536,6 @@
 - [droe/xnumon](https://github.com/droe/xnumon) - monitor macOS for malicious activity
 - [landhb/HideProcess](https://github.com/landhb/HideProcess) - A basic Direct Kernel Object Manipulation rootkit that removes a process from the EPROCESS list, hiding it from the Task Manager
 - [wbenny/injdrv](https://github.com/wbenny/injdrv) - proof-of-concept Windows Driver for injecting DLL into user-mode processes using APC
-- [zerosum0x0/smbdoor](https://github.com/zerosum0x0/smbdoor) - Windows kernel backdoor via registering a malicious SMB handler
 - [npp-plugins/mimetools](https://github.com/npp-plugins/mimetools) - 
 - [hasherezade/demos](https://github.com/hasherezade/demos) - Demos of various injection techniques found in malware
 - [nongiach/sudo_inject](https://github.com/nongiach/sudo_inject) - [Linux] Two Privilege Escalation techniques abusing sudo token
@@ -1555,7 +1553,6 @@
 - [cerebrate/carob](https://github.com/cerebrate/carob) - A simple utility to automatically elevate and run chocolatey.
 - [Dynatrace/superdump](https://github.com/Dynatrace/superdump) - A service for automated crash-dump analysis
 - [Excel-projects/Server-Help](https://github.com/Excel-projects/Server-Help) - :computer: This VSTO Add-In allows the user to ping a list of servers and creates a file for Microsoft Remote Desktop Manager an Excel table. This is used for quickly determining which servers are offline in a list. It is written in 3 different versions as a VSTO Add-In in C# and VB.NET as well as a VBA Add-In.
-- [zerosum0x0/RunShellcode](https://github.com/zerosum0x0/RunShellcode) - .NET GUI program that runs shellcode
 - [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
 - [nsacyber/Windows-Event-Log-Messages](https://github.com/nsacyber/Windows-Event-Log-Messages) - Retrieves the definitions of Windows Event Log messages embedded in Windows binaries and provides them in discoverable formats. #nsacyber
 - [Invoke-IR/uprootd](https://github.com/Invoke-IR/uprootd) - Service for Uproot IDS Listening Post
@@ -2948,7 +2945,7 @@
 - [pda/cidrinfo](https://github.com/pda/cidrinfo) - Given an IP CIDR (e.g. 10.20.30.40/20), explain and illustrate the address, network, masks, and host address range.
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [ekalinin/awsping](https://github.com/ekalinin/awsping) - Console tool to check the latency to each Amazon EC2 region
-- [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) - ping tunnel is a tool that advertises tcp/udp/socks5 traffic as icmp traffic for forwarding.
+- [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) - Pingtunnel is a tool that send TCP/UDP traffic over ICMP
 - [jflyup/ifinder](https://github.com/jflyup/ifinder) - discover bonjour services, particularly Apple related.
 - [Gandem/bonjour-reflector](https://github.com/Gandem/bonjour-reflector) - A reflector that forwards mdns packets between VLANs - like avahi-reflector but with fine-grained control !
 - [mlaccetti/ipd2](https://github.com/mlaccetti/ipd2) - IP address lookup service
@@ -8441,7 +8438,7 @@
 - [proxb/PoshPAIG](https://github.com/proxb/PoshPAIG) - PowerShell UI used for auditing and installing updates from WSUS to local and remote systems
 - [PowerShell/Microsoft.PowerShell.Archive](https://github.com/PowerShell/Microsoft.PowerShell.Archive) - Archive PowerShell module contains cmdlets for working with ZIP archives
 - [lazywinadmin/Monitor-ADGroupMembership](https://github.com/lazywinadmin/Monitor-ADGroupMembership) - PowerShell script to monitor Active Directory groups and send an email when someone is changing the membership
-- [adamdriscoll/pinvoke](https://github.com/adamdriscoll/pinvoke) - PowerShell module accessing the PInvoke.NET APIs and generating commands from signatures.
+- [adamdriscoll/pinvoke](https://github.com/adamdriscoll/pinvoke) - PowerShell module containing all the PInvoke signatures published by Microsoft.
 - [VirtualEngine/Lability](https://github.com/VirtualEngine/Lability) - Virtual Engine test lab deployment and configuration module
 - [markwragg/Test-ActiveDirectory](https://github.com/markwragg/Test-ActiveDirectory) - Test and auditing Powershell and Pester scripts for Active Directory
 - [PowerShell/GPRegistryPolicy](https://github.com/PowerShell/GPRegistryPolicy) - 
@@ -8753,7 +8750,7 @@
 ## Python 
 
 - [redhuntlabs/Log4JHunt](https://github.com/redhuntlabs/Log4JHunt) - An automated, reliable scanner for the Log4Shell (CVE-2021-44228) vulnerability.
-- [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the vulnerability in the Log4j logging library.
+- [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library.
 - [WazeHell/sam-the-admin](https://github.com/WazeHell/sam-the-admin) - Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user
 - [p0dalirius/ldapconsole](https://github.com/p0dalirius/ldapconsole) - The ldapconsole script allows you to perform custom LDAP requests to a Windows domain.
 - [alexandre-lavoie/python-log4rce](https://github.com/alexandre-lavoie/python-log4rce) - An All-In-One Pure Python PoC for CVE-2021-44228
@@ -10889,7 +10886,6 @@
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [m0rtem/MailFail](https://github.com/m0rtem/MailFail) - Proof of Concept - Utilize misconfigured newsletter forms to spam / deny service to an inbox
 - [byt3bl33d3r/sslstrip2](https://github.com/byt3bl33d3r/sslstrip2) - A mirror of the original SSLstrip+ code by Leonardo Nve
-- [zerosum0x0/koadic](https://github.com/zerosum0x0/koadic) - Koadic C3 COM Command & Control - JScript RAT
 - [artkond/cisco-rce](https://github.com/artkond/cisco-rce) - CVE-2017-3881 Cisco Catalyst Remote Code Execution PoC
 - [dalibo/ldap2pg](https://github.com/dalibo/ldap2pg) - :elephant: :busts_in_silhouette: Manage PostgreSQL roles and privileges from YAML or LDAP
 - [david942j/defcon-2017-tools](https://github.com/david942j/defcon-2017-tools) - DEFCON CTF 2017 Stuff of Shit by HITCON
@@ -13576,6 +13572,7 @@
 - [jarv/cmdchallenge](https://github.com/jarv/cmdchallenge) - This repo is mirror of https://gitlab.com/jarv/cmdchallenge
 - [slimm609/checksec.sh](https://github.com/slimm609/checksec.sh) - Checksec.sh
 - [rupa/v](https://github.com/rupa/v) - z for vim
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby 
 
@@ -15288,7 +15285,6 @@
 - [whiteinge/dotfiles](https://github.com/whiteinge/dotfiles) - dotfiles for vim, git, zsh, cwm, xinit, and many others. Install with: lndir -silent /path/to/dotfiles $HOME
 - [andersoncardoso/pyenv-autoenv](https://github.com/andersoncardoso/pyenv-autoenv) - pyenv plugin for auto loading virtualenvs
 - [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [blacktop/docker-elastic-stack](https://github.com/blacktop/docker-elastic-stack) - ELK Stack Dockerfile
 - [jasonish/docker-suricata-elk](https://github.com/jasonish/docker-suricata-elk) - [ABANDONED] A Docker container running Suricata and the ELK stack.
