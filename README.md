@@ -2582,7 +2582,7 @@
 - [dwisiswant0/cf-check](https://github.com/dwisiswant0/cf-check) - CloudFlare Checker written in Go
 - [projectdiscovery/dnsprobe](https://github.com/projectdiscovery/dnsprobe) - DNSProb is a tool built on top of retryabledns that allows you to perform multiple dns queries of your choice with a list of user supplied resolvers.
 - [hahwul/hack-pet](https://github.com/hahwul/hack-pet) - 🐰 Managing command snippets for hackers/bug bounty hunters. with pet.
-- [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌘🦊 DalFox(Finder Of XSS) / Parameter Analysis and XSS Scanning tool based on golang
+- [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌘🦊 DalFox is an powerful open source XSS scanning tool and paramter analyzer, utility
 - [balook/teleman](https://github.com/balook/teleman) - Telegram cli tool for bot notifications
 - [toufik-airane/leakin](https://github.com/toufik-airane/leakin) - Secrets detection based on regular expressions.
 - [Cgboal/Decant](https://github.com/Cgboal/Decant) - Expand CIDR ranges to IPv4 addresses
@@ -5609,6 +5609,7 @@
 
 ## Others 
 
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [YfryTchsGD/Log4jAttackSurface](https://github.com/YfryTchsGD/Log4jAttackSurface) - 
 - [mubix/CVE-2021-44228-Log4Shell-Hashes](https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes) - Hashes for vulnerable LOG4J versions
 - [mdecrevoisier/Windows-auditing-mindmap](https://github.com/mdecrevoisier/Windows-auditing-mindmap) - Set of Mindmaps providing a detailed overview of the different #Windows auditing capacities and event log files.
