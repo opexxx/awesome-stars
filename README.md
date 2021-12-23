@@ -7461,6 +7461,7 @@
 
 ## PowerShell 
 
+- [AzureAD/Azure-AD-Incident-Response-PowerShell-Module](https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module) - The Azure Active Directory Incident Response PowerShell module provides a number of tools, developed by the Azure Active Directory Product Group in conjunction with the Microsoft Detection and Response Team (DART), to assist in compromise response.
 - [eshlomo1/Azure-Sentinel-4-SecOps](https://github.com/eshlomo1/Azure-Sentinel-4-SecOps) - Azure Sentinel 4 SecOps
 - [dievus/PowerShellForPentesters](https://github.com/dievus/PowerShellForPentesters) - Course repository for PowerShell for Pentesters Course
 - [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
