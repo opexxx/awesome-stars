@@ -385,7 +385,6 @@
 - [ant4g0nist/Vulnerable-Kext](https://github.com/ant4g0nist/Vulnerable-Kext) - A WIP "Vulnerable by Design" kext for iOS/macOS to play & learn *OS kernel exploitation
 - [brannondorsey/naive-hashcat](https://github.com/brannondorsey/naive-hashcat) - Crack password hashes without the fuss :cat2:
 - [slaeryan/DetectCobaltStomp](https://github.com/slaeryan/DetectCobaltStomp) - Detects Module Stomping as implemented by Cobalt Strike
-- [hardik05/Damn_Vulnerable_C_Program](https://github.com/hardik05/Damn_Vulnerable_C_Program) - a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts.
 - [NanXiao/tcpbench](https://github.com/NanXiao/tcpbench) - Porting OpenBSD tcpbench into Linux.
 - [izabera/pm-tools](https://github.com/izabera/pm-tools) - process management tools
 - [giuseppe/crun](https://github.com/giuseppe/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
@@ -2582,7 +2581,7 @@
 - [dwisiswant0/cf-check](https://github.com/dwisiswant0/cf-check) - CloudFlare Checker written in Go
 - [projectdiscovery/dnsprobe](https://github.com/projectdiscovery/dnsprobe) - DNSProb is a tool built on top of retryabledns that allows you to perform multiple dns queries of your choice with a list of user supplied resolvers.
 - [hahwul/hack-pet](https://github.com/hahwul/hack-pet) - 🐰 Managing command snippets for hackers/bug bounty hunters. with pet.
-- [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌘🦊 DalFox is an powerful open source XSS scanning tool and paramter analyzer, utility
+- [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌘🦊 DalFox is an powerful open source XSS scanning tool and parameter analyzer, utility
 - [balook/teleman](https://github.com/balook/teleman) - Telegram cli tool for bot notifications
 - [toufik-airane/leakin](https://github.com/toufik-airane/leakin) - Secrets detection based on regular expressions.
 - [Cgboal/Decant](https://github.com/Cgboal/Decant) - Expand CIDR ranges to IPv4 addresses
@@ -3835,7 +3834,6 @@
 - [fr34k8/security_whitepapers](https://github.com/fr34k8/security_whitepapers) - Collection of misc IT Security related whitepapers, presentations, slides - hacking, bug bounty, web application security, XSS, CSRF, SQLi
 - [nccgroup/autochrome](https://github.com/nccgroup/autochrome) - This tool downloads, installs, and configures a shiny new copy of Chromium.
 - [cloudflare/isbgpsafeyet.com](https://github.com/cloudflare/isbgpsafeyet.com) - Is BGP safe yet?
-- [FOSDEM/infrastructure](https://github.com/FOSDEM/infrastructure) - 
 - [counteractive/security-controls](https://github.com/counteractive/security-controls) - 
 - [Cisc0-gif/KITT-Lite](https://github.com/Cisc0-gif/KITT-Lite) - Python-Based Pentesting CLI Tool
 - [DefensiveOrigins/APT06202001](https://github.com/DefensiveOrigins/APT06202001) - Applied Purple Teaming - (ITOCI4hr) - Infrastructure, Threat Optics, and Continuous Improvement - June 6, 2020
@@ -9084,6 +9082,7 @@
 - [dtmsecurity/bof_helper](https://github.com/dtmsecurity/bof_helper) - Beacon Object File (BOF) Creation Helper
 - [maxpl0it/CVE-2020-1350-DoS](https://github.com/maxpl0it/CVE-2020-1350-DoS) - A denial-of-service proof-of-concept for CVE-2020-1350
 - [theserverlessway/awsie](https://github.com/theserverlessway/awsie) - CloudFormation aware wrapper for the AWSCLI
+- [FOSDEM/infrastructure](https://github.com/FOSDEM/infrastructure) - 
 - [fpietka/rds-pgbadger](https://github.com/fpietka/rds-pgbadger) - Fetch logs from RDS instance, and process them with pgBadger
 - [fr31/spotifylyrics](https://github.com/fr31/spotifylyrics) - Fetches and displays lyrics to currently playing song in Spotify.
 - [jas502n/CVE-2020-8193](https://github.com/jas502n/CVE-2020-8193) - Citrix ADC Vulns
@@ -14093,6 +14092,7 @@
 - [sekey/sekey](https://github.com/sekey/sekey) - Use Touch ID / Secure Enclave for SSH Authentication!
 - [djhworld/stegtool](https://github.com/djhworld/stegtool) - Steganography tool
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
+- [hardik05/Damn_Vulnerable_C_Program](https://github.com/hardik05/Damn_Vulnerable_C_Program) - a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts.
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [yaa110/cb](https://github.com/yaa110/cb) - Command line interface to manage clipboard
 - [theflakes/reg_hunter](https://github.com/theflakes/reg_hunter) - Blueteam operational triage registry hunting/forensic tool.
