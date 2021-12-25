@@ -347,6 +347,7 @@
 
 ## C 
 
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [antonioCoco/MalSeclogon](https://github.com/antonioCoco/MalSeclogon) - A little tool to play with the Seclogon service
 - [woju/make_ext4fs](https://github.com/woju/make_ext4fs) - make_ext4fs from OpenWRT
 - [anthemtotheego/CredBandit](https://github.com/anthemtotheego/CredBandit) - Proof of concept Beacon Object File (BOF) that uses static x64 syscalls to perform a complete in memory dump of a process and send that back through your already existing Beacon communication channel
@@ -2392,6 +2393,7 @@
 
 ## Go 
 
+- [idiotc4t/Reflective-HackBrowserData](https://github.com/idiotc4t/Reflective-HackBrowserData) - HackBrowserData的反射模块
 - [0xInfection/LogMePwn](https://github.com/0xInfection/LogMePwn) - A fully automated, reliable, super-fast, mass scanning and validation toolkit for the Log4J RCE CVE-2021-44228 vulnerability.
 - [kost/logdns](https://github.com/kost/logdns) - Simple DNS logging server
 - [jas502n/Grafana-CVE-2021-43798](https://github.com/jas502n/Grafana-CVE-2021-43798) - Grafana Unauthorized arbitrary file reading vulnerability
@@ -2581,7 +2583,7 @@
 - [dwisiswant0/cf-check](https://github.com/dwisiswant0/cf-check) - CloudFlare Checker written in Go
 - [projectdiscovery/dnsprobe](https://github.com/projectdiscovery/dnsprobe) - DNSProb is a tool built on top of retryabledns that allows you to perform multiple dns queries of your choice with a list of user supplied resolvers.
 - [hahwul/hack-pet](https://github.com/hahwul/hack-pet) - 🐰 Managing command snippets for hackers/bug bounty hunters. with pet.
-- [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌘🦊 DalFox is an powerful open source XSS scanning tool and parameter analyzer, utility
+- [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 DalFox is an powerful open source XSS scanning tool and parameter analyzer, utility
 - [balook/teleman](https://github.com/balook/teleman) - Telegram cli tool for bot notifications
 - [toufik-airane/leakin](https://github.com/toufik-airane/leakin) - Secrets detection based on regular expressions.
 - [Cgboal/Decant](https://github.com/Cgboal/Decant) - Expand CIDR ranges to IPv4 addresses
@@ -5255,6 +5257,7 @@
 
 ## Jupyter Notebook 
 
+- [lmy931/data-science-and-STEM-Salaries](https://github.com/lmy931/data-science-and-STEM-Salaries) - 
 - [marco-lancini/cartography-queries](https://github.com/marco-lancini/cartography-queries) - Utilities for programmatic analysis of Cartography data
 - [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
 - [jivoi/junky](https://github.com/jivoi/junky) - MOOC playground
@@ -5607,6 +5610,7 @@
 
 ## Others 
 
+- [basubanakar/login-panel-wordlist](https://github.com/basubanakar/login-panel-wordlist) - 
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [YfryTchsGD/Log4jAttackSurface](https://github.com/YfryTchsGD/Log4jAttackSurface) - 
 - [mubix/CVE-2021-44228-Log4Shell-Hashes](https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes) - Hashes for vulnerable LOG4J versions
@@ -7459,6 +7463,7 @@
 
 ## PowerShell 
 
+- [soteria-security/365Inspect](https://github.com/soteria-security/365Inspect) - A PowerShell script that automates the security assessment of Microsoft Office 365 environments.
 - [AzureAD/Azure-AD-Incident-Response-PowerShell-Module](https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module) - The Azure Active Directory Incident Response PowerShell module provides a number of tools, developed by the Azure Active Directory Product Group in conjunction with the Microsoft Detection and Response Team (DART), to assist in compromise response.
 - [eshlomo1/Azure-Sentinel-4-SecOps](https://github.com/eshlomo1/Azure-Sentinel-4-SecOps) - Azure Sentinel 4 SecOps
 - [dievus/PowerShellForPentesters](https://github.com/dievus/PowerShellForPentesters) - Course repository for PowerShell for Pentesters Course
@@ -8979,7 +8984,6 @@
 - [xawdxawdx/sentrySSRF](https://github.com/xawdxawdx/sentrySSRF) - Tool to searching sentry config on page or in javascript files and check blind SSRF
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [xl7dev/pdns](https://github.com/xl7dev/pdns) - PDNS Monitors network for malicious activities domain
-- [xl7dev/SecTools](https://github.com/xl7dev/SecTools) - Pentests tools
 - [obheda12/GitDorker](https://github.com/obheda12/GitDorker) - A Python program to scrape secrets from GitHub through usage of a large repository of dorks.
 - [ozguralp/gmapsapiscanner](https://github.com/ozguralp/gmapsapiscanner) - 
 - [vr00n/Amazon-Web-Shenanigans](https://github.com/vr00n/Amazon-Web-Shenanigans) - A lambda function that checks your account for Public buckets and emails you whenever a new public s3 bucket is created
@@ -14176,7 +14180,7 @@
 
 ## Shell 
 
-- [m0zgen/install-gvm21](https://github.com/m0zgen/install-gvm21) - Script for GVM 21 installs to Ubuntu / CentOS / Rocky (in develop)
+- [m0zgen/install-gvm21](https://github.com/m0zgen/install-gvm21) - Script for GVM 21 installs to Ubuntu
 - [dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) - :book: Kubernetes CheatSheets In A4
 - [leonjza/docker-elk](https://github.com/leonjza/docker-elk) - docker-elk repo, using the https://github.com/deviantony/docker-elk template
 - [evanRubinsteinIT/BugBounty-Oneliners](https://github.com/evanRubinsteinIT/BugBounty-Oneliners) - A compilation of quick bash scripts I wrote to make life easier while bug bounty hunting
@@ -15713,7 +15717,7 @@
 - [wKovacs64/pwned](https://github.com/wKovacs64/pwned) - A command-line tool for querying the 'Have I been pwned?' service.
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [shroudedcode/apk-mitm](https://github.com/shroudedcode/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
@@ -15950,6 +15954,7 @@
 
 ## YARA 
 
+- [ditekshen/detection](https://github.com/ditekshen/detection) - Detection in the form of Yara, Snort and ClamAV signatures.
 - [StrangerealIntel/DailyIOC](https://github.com/StrangerealIntel/DailyIOC) - IOC from articles, tweets for archives
 - [mandiant/sunburst_countermeasures](https://github.com/mandiant/sunburst_countermeasures) - 
 - [SEKOIA-IO/Community](https://github.com/SEKOIA-IO/Community) - Welcome to the SEKOIA.IO Community repository!
