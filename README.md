@@ -13245,7 +13245,7 @@
 - [mihaip/readerisdead](https://github.com/mihaip/readerisdead) - A collection of tools to help with the Google Reader shutdown.
 - [snare/voltron](https://github.com/snare/voltron) - A hacky debugger UI for hackers
 - [jordan-wright/dumpmon](https://github.com/jordan-wright/dumpmon) - Information Dump Monitor
-- [arrow-py/arrow](https://github.com/arrow-py/arrow) - Better dates & times for Python
+- [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
 - [pascalw/Airplayer](https://github.com/pascalw/Airplayer) - Python script to make media playing software Apple Airplay compatbible. Currently supports XBMC, Plex and Boxee.
 - [provegard/airpnp](https://github.com/provegard/airpnp) - AirPlay to UPnP bridge written in Python
 - [tjfontaine/airprint-generate](https://github.com/tjfontaine/airprint-generate) - Automatically generate AirPrint Avahi service files for CUPS printers
