@@ -10134,7 +10134,6 @@
 - [fgeek/pyfiscan](https://github.com/fgeek/pyfiscan) - Free web-application vulnerability and version scanner
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [Mr-Un1k0d3r/SPFAbuse](https://github.com/Mr-Un1k0d3r/SPFAbuse) - SPF are not as strong as you may think. Red Team tool to send email on behalf of your target corp
-- [byt3bl33d3r/dnschef](https://github.com/byt3bl33d3r/dnschef) - DNSChef - DNS proxy for Penetration Testers and Malware Analysts
 - [yampelo/beagle](https://github.com/yampelo/beagle) - Beagle is an incident response and digital forensics tool which transforms security logs and data into graphs.
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [TypeError/secure](https://github.com/TypeError/secure) - Secure 🔒  headers for Python web frameworks
