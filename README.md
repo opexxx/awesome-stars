@@ -2280,6 +2280,7 @@
 
 ## Dockerfile 
 
+- [NUKIB/misp-modules](https://github.com/NUKIB/misp-modules) - Docker image for MISP modules
 - [higatowa/bento](https://github.com/higatowa/bento) - Bento Toolkit is a minimal fedora-based container for penetration tests and CTF with the sweet addition of GUI applications.
 - [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 - [madhuakula/hacker-container](https://github.com/madhuakula/hacker-container) - Container with all the list of useful tools/commands while hacking and pentesting Kubernetes Clusters
@@ -2393,6 +2394,10 @@
 
 ## Go 
 
+- [Ethermat/tld-scan](https://github.com/Ethermat/tld-scan) - Top level domain scanner in Go
+- [L11R/escobar](https://github.com/L11R/escobar) - Like cntlm but for Kerberos
+- [stanford-esrg/lzr](https://github.com/stanford-esrg/lzr) - LZR quickly detects and fingerprints unexpected services running on unexpected ports.
+- [Hackmanit/Web-Cache-Vulnerability-Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner) - Web Cache Vulnerability Scanner is a Go-based CLI tool for testing for web cache poisoning. It is developed by Hackmanit GmbH (http://hackmanit.de/).
 - [idiotc4t/Reflective-HackBrowserData](https://github.com/idiotc4t/Reflective-HackBrowserData) - HackBrowserData的反射模块
 - [0xInfection/LogMePwn](https://github.com/0xInfection/LogMePwn) - A fully automated, reliable, super-fast, mass scanning and validation toolkit for the Log4J RCE CVE-2021-44228 vulnerability.
 - [kost/logdns](https://github.com/kost/logdns) - Simple DNS logging server
@@ -4393,6 +4398,7 @@
 
 ## JavaScript 
 
+- [Ch0pin/log4JFrida](https://github.com/Ch0pin/log4JFrida) - 
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [apnex/vmw-cli](https://github.com/apnex/vmw-cli) - CLI and API for programmatic access to my.vmware.com
 - [sindresorhus/open-cli](https://github.com/sindresorhus/open-cli) - Open stuff like URLs, files, executables. Cross-platform.
@@ -5338,6 +5344,7 @@
 
 ## Kotlin 
 
+- [0xDexter0us/Scavenger](https://github.com/0xDexter0us/Scavenger) - Burp extension to create target specific and tailored wordlist from burp history.
 - [silentsignal/burp-log4shell](https://github.com/silentsignal/burp-log4shell) - Log4Shell scanner for Burp Suite
 - [yeswehack/YesWeBurp](https://github.com/yeswehack/YesWeBurp) - YesWeHack Api Extension for Burp
 - [GoSecure/dtd-finder](https://github.com/GoSecure/dtd-finder) - List DTDs and generate XXE payloads using those local DTDs.
@@ -5610,6 +5617,7 @@
 
 ## Others 
 
+- [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom) - A curated list of SBOM (Software Bill Of Materials) related tools, frameworks, blogs, podcasts, and articles
 - [basubanakar/login-panel-wordlist](https://github.com/basubanakar/login-panel-wordlist) - 
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [YfryTchsGD/Log4jAttackSurface](https://github.com/YfryTchsGD/Log4jAttackSurface) - 
@@ -8412,7 +8420,7 @@
 - [cmwelu/BlueShell](https://github.com/cmwelu/BlueShell) - 
 - [cmwelu/Get-Hashes](https://github.com/cmwelu/Get-Hashes) - PowerShell script to obtain hashes from remote systems and perform frequency analysis
 - [cheetz/c2](https://github.com/cheetz/c2) - Covert Channels for C2 Server
-- [xor-function/fathomless](https://github.com/xor-function/fathomless) - A collection of post-exploitation tools for network red teaming. (Migrating to Fathomless Project)
+- [xor-function/fathomless](https://github.com/xor-function/fathomless) - A collection of post-exploitation tools for network red teaming.
 - [sans-blue-team/DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) - 
 - [andyrobbins/PowerPath](https://github.com/andyrobbins/PowerPath) - PowerShell implementations of path-finding algorithms using graph theory
 - [frndlyy/PowerShell](https://github.com/frndlyy/PowerShell) - PowerShell functions and scripts
@@ -8754,6 +8762,7 @@
 
 ## Python 
 
+- [0xabu/pdfannots](https://github.com/0xabu/pdfannots) - Extracts and formats text annotations from a PDF file
 - [redhuntlabs/Log4JHunt](https://github.com/redhuntlabs/Log4JHunt) - An automated, reliable scanner for the Log4Shell (CVE-2021-44228) vulnerability.
 - [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library.
 - [WazeHell/sam-the-admin](https://github.com/WazeHell/sam-the-admin) - Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user
@@ -14179,6 +14188,8 @@
 
 ## Shell 
 
+- [brimstone/windows-ova](https://github.com/brimstone/windows-ova) - Self-Installing Windows OVA. Automate and distribute Windows as an OVA.
+- [adilsoybali/Log4j-RCE-Scanner](https://github.com/adilsoybali/Log4j-RCE-Scanner) - Remote command execution vulnerability scanner for Log4j.
 - [m0zgen/install-gvm21](https://github.com/m0zgen/install-gvm21) - Script for GVM 21 installs to Ubuntu
 - [dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) - :book: Kubernetes CheatSheets In A4
 - [leonjza/docker-elk](https://github.com/leonjza/docker-elk) - docker-elk repo, using the https://github.com/deviantony/docker-elk template
