@@ -493,7 +493,7 @@
 - [threatland/TL-BOTS](https://github.com/threatland/TL-BOTS) - A collection of source code for various botnets.
 - [PAGalaxyLab/uniFuzzer](https://github.com/PAGalaxyLab/uniFuzzer) - A fuzzing tool for closed-source binaries based on Unicorn and LibFuzzer
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
-- [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)
+- [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [bol-van/zapret](https://github.com/bol-van/zapret) - Обход DPI в linux
 - [rewardone/OSCPRepo](https://github.com/rewardone/OSCPRepo) - A list of commands, scripts, resources, and more that I have gathered and attempted to consolidate for use as OSCP (and more) study material. Commands in 'Usefulcommands' Keepnote. Bookmarks and reading material in 'BookmarkList' CherryTree. Reconscan Py2 and Py3. Custom ISO building.
 - [Cisco-Talos/pyrebox](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU
@@ -2394,6 +2394,7 @@
 
 ## Go 
 
+- [v-byte-cpu/sx](https://github.com/v-byte-cpu/sx) - :vulcan_salute: Fast, modern, easy-to-use network scanner
 - [Ethermat/tld-scan](https://github.com/Ethermat/tld-scan) - Top level domain scanner in Go
 - [L11R/escobar](https://github.com/L11R/escobar) - Like cntlm but for Kerberos
 - [stanford-esrg/lzr](https://github.com/stanford-esrg/lzr) - LZR quickly detects and fingerprints unexpected services running on unexpected ports.
@@ -2649,7 +2650,7 @@
 - [Binject/backdoorfactory](https://github.com/Binject/backdoorfactory) - A from-scratch rewrite of The Backdoor Factory - a MitM tool for inserting shellcode into all types of binaries on the wire.
 - [leobeosab/sharingan](https://github.com/leobeosab/sharingan) - Offensive Security recon tool
 - [netograph/netograph-api](https://github.com/netograph/netograph-api) - Tools and libraries for interacting with the Netograph API
-- [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Serverless on Kubernetes with OpenFaaS
+- [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Serverless Functions For Kubernetes
 - [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
 - [signalfx/gateway](https://github.com/signalfx/gateway) - A proxy to buffer and forward metrics, events, and traces.
 - [activecm/rita-bl](https://github.com/activecm/rita-bl) - Real Intelligence Threat Analytics -- Blacklist Database
