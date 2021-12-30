@@ -4568,7 +4568,6 @@
 - [CHEF-KOCH/TBCK](https://github.com/CHEF-KOCH/TBCK) - Thunderbird user.js hardening
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [ivolo/disposable-email-domains](https://github.com/ivolo/disposable-email-domains) - A list of disposable email domains
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
@@ -11223,7 +11222,6 @@
 - [Mebus/hmap](https://github.com/Mebus/hmap) - clone from http://ujeni.murkyroc.com/hmap/
 - [Flangvik/HIDAAF](https://github.com/Flangvik/HIDAAF) - Python - Human Interface Device Android Attack Framework
 - [xillwillx/RFPiD](https://github.com/xillwillx/RFPiD) - Python script thats reads RFID card tags from USB ID-20 reader and verifies them against a SQLite db.
-- [edwardz246003/IIS_exploit](https://github.com/edwardz246003/IIS_exploit) - Buffer overflow in the ScStoragePathFromUrl function in the WebDAV service in Internet Information Services (IIS) 6.0 in Microsoft Windows Server 2003 R2 allows remote attackers to execute arbitrary code via a long header beginning with "If: &lt;http://" in a PROPFIND request, as exploited in the wild in July or August 2016.
 - [hadojae/DATA](https://github.com/hadojae/DATA) - Credential Phish Analysis and Automation
 - [diogo-fernan/malsub](https://github.com/diogo-fernan/malsub) - A Python RESTful API framework for online malware analysis and threat intelligence services.
 - [ahm3dhany/IDS-Evasion](https://github.com/ahm3dhany/IDS-Evasion) - Evading Snort Intrusion Detection System.
@@ -15548,7 +15546,7 @@
 - [nvie/scripts](https://github.com/nvie/scripts) - A collection of simple and small but useful UNIX shell scripts.
 - [mattheworiordan/Mac-OS-X-Useful-Scripts](https://github.com/mattheworiordan/Mac-OS-X-Useful-Scripts) - Some useful scripts and profile settings that I have built using Mac OS X
 - [sontek/dotfiles](https://github.com/sontek/dotfiles) - My configuration files (.screenrc, .vimrc, .weechat, .bashrc, .gitconfig, etc)
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [mlogic/suspend-usb-device](https://github.com/mlogic/suspend-usb-device) - An easy-to-use script to properly put an USB device into suspend mode that can then be unplugged safely
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [mprovost/rated](https://github.com/mprovost/rated) - A high performance SNMP poller (fork of RTG)
@@ -15932,6 +15930,7 @@
 - [daddycocoaman/BeaconGraph](https://github.com/daddycocoaman/BeaconGraph) - Graph visualization of wireless client and access point relationships
 - [CaliDog/certstream-server](https://github.com/CaliDog/certstream-server) - Certificate Transparency Log aggregation, parsing, and streaming service written in Elixir
 - [Zerx0r/Kage](https://github.com/Zerx0r/Kage) - Kage is Graphical User Interface for Metasploit Meterpreter and Session Handler
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [tlbootcamp/tlroadmap](https://github.com/tlbootcamp/tlroadmap) - Тимлид – это ❄️, потому что в каждой компании он уникален и неповторим.
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
