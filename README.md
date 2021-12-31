@@ -2993,7 +2993,7 @@
 - [Zenika/goru](https://github.com/Zenika/goru) - Goru - the perfect looser to transform your pdf
 - [TomasTomecek/tmux-top](https://github.com/TomasTomecek/tmux-top) - Monitoring information for your tmux status line.
 - [grafov/hulk](https://github.com/grafov/hulk) - HULK DoS tool ported to Go with some additional features.
-- [benjojo/dnsfs](https://github.com/benjojo/dnsfs) - Store your data in others DNS revolvers cache
+- [benjojo/dnsfs](https://github.com/benjojo/dnsfs) - Store your data in others DNS resolver cache
 - [parsiya/Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) - Golang for Security Professionals
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
 - [inetaf/tcpproxy](https://github.com/inetaf/tcpproxy) - Proxy TCP connections based on static rules, HTTP Host headers, and SNI server names (Go package or binary)
@@ -3574,7 +3574,7 @@
 - [abesto/docker-compose-graphviz](https://github.com/abesto/docker-compose-graphviz) - Turn a docker-compose.yml files into Graphviz .dot files
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go
 - [rach/pome](https://github.com/rach/pome) - A Postgres Metrics Dashboard
-- [caarlos0/env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
 - [OWASP/Go-SCP](https://github.com/OWASP/Go-SCP) - Go programming language secure coding practices guide
 - [mhausenblas/dnpipes](https://github.com/mhausenblas/dnpipes) - Distributed Named Pipes
 - [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
@@ -5617,6 +5617,7 @@
 
 ## Others 
 
+- [rod-trent/MustLearnKQL](https://github.com/rod-trent/MustLearnKQL) - Code included as part of the MustLearnKQL blog series
 - [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom) - A curated list of SBOM (Software Bill Of Materials) related tools, frameworks, blogs, podcasts, and articles
 - [basubanakar/login-panel-wordlist](https://github.com/basubanakar/login-panel-wordlist) - 
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
@@ -9129,7 +9130,7 @@
 - [chompie1337/SMBGhost_RCE_PoC](https://github.com/chompie1337/SMBGhost_RCE_PoC) - 
 - [ly4k/SMBGhost](https://github.com/ly4k/SMBGhost) - Scanner for CVE-2020-0796 - SMBv3 RCE
 - [CERTCC/PoC-Exploits](https://github.com/CERTCC/PoC-Exploits) - Select proof-of-concept exploits for software vulnerabilities to aid in identifying and testing vulnerable systems.
-- [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server.
+- [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This program is an opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server.
 - [sinistergeek/Pdf-to-audio-Converter](https://github.com/sinistergeek/Pdf-to-audio-Converter) - 
 - [airbus-seclab/android_emuroot](https://github.com/airbus-seclab/android_emuroot) - Android_Emuroot is a Python script that allows granting root privileges on the fly to shells running on Android virtual machines that use google-provided emulator images called Google API Playstore, to help reverse engineers to go deeper into their investigations.
 - [Talkaboutcybersecurity/GitMonitor](https://github.com/Talkaboutcybersecurity/GitMonitor) - One way to continuously monitor sensitive information that could be exposed on Github
