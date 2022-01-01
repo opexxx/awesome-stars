@@ -1509,6 +1509,7 @@
 - [zacbrown/PowerKrabsEtw](https://github.com/zacbrown/PowerKrabsEtw) - PowerKrabsEtw is a PowerShell interface for doing real-time ETW tracing.
 - [LazoCoder/Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
 - [tyranid/oleviewdotnet](https://github.com/tyranid/oleviewdotnet) - A .net OLE/COM viewer and inspector to merge functionality of OleView and Test Container
+- [richardszalay/pshosts](https://github.com/richardszalay/pshosts) - PowerShell cmdlets for modifying the hosts file on Windows, Linux, and macOS
 - [cyberark/zBang](https://github.com/cyberark/zBang) - zBang is a risk assessment tool that detects potential privileged account threats
 - [GreyCorbel/admpwd](https://github.com/GreyCorbel/admpwd) - AdmPwd project
 - [bitsadmin/nopowershell](https://github.com/bitsadmin/nopowershell) - PowerShell rebuilt in C# for Red Teaming purposes
@@ -3794,7 +3795,7 @@
 - [mantvydasb/Red-Team-Infrastructure-Automation](https://github.com/mantvydasb/Red-Team-Infrastructure-Automation) - Disposable and resilient red team infrastructure with Terraform
 - [cloudposse/terraform-aws-jenkins](https://github.com/cloudposse/terraform-aws-jenkins) - Terraform module to build Docker image with Jenkins, save it to an ECR repo, and deploy to Elastic Beanstalk running Docker stack
 - [TomJanetscheck/AzureSecurity](https://github.com/TomJanetscheck/AzureSecurity) - This repository contains code snippets for secure deployments of Azure resources.
-- [rgl/windows-vagrant](https://github.com/rgl/windows-vagrant) - Windows 2012R2/10/11/2016/2019/2022 Base Vagrant Box (https://app.vagrantup.com/rgl)
+- [rgl/windows-vagrant](https://github.com/rgl/windows-vagrant) - Windows 10/11/2016/2019/2022 Base Vagrant Box (https://app.vagrantup.com/rgl)
 - [apparentlymart/terraform-aws-tf-registry](https://github.com/apparentlymart/terraform-aws-tf-registry) - Terraform module for creating a simple private Terraform registry in AWS with DynamoDB
 - [nozaq/terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline) - Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations and AWS Foundational Security Best Practices.
 - [lbernail/dockeroverlays](https://github.com/lbernail/dockeroverlays) - 
@@ -7941,7 +7942,6 @@
 - [porterhau5/BloodHound](https://github.com/porterhau5/BloodHound) - Six Degrees of Domain Admin
 - [giMini/Get-DotNet](https://github.com/giMini/Get-DotNet) - Decompile .Net code in Powershell
 - [ajackal/ideal-alligator](https://github.com/ajackal/ideal-alligator) - PowerShell script to retreive wifi ESSIDs and Passwords.
-- [richardszalay/pshosts](https://github.com/richardszalay/pshosts) - PowerShell cmdlets for modifying the hosts file on Windows, Linux, and macOS
 - [giMini/NOAH](https://github.com/giMini/NOAH) - PowerShell No Agent Hunting
 - [pecigonzalo/Oh-My-Posh](https://github.com/pecigonzalo/Oh-My-Posh) - Powershell amazingness inspired on Oh-My-Zsh, pshazz, fish. This provides a repository for PowerShell Customizations
 - [acochenour/PSInspect](https://github.com/acochenour/PSInspect) - PowerShell script useful for Incident Response and security/configuration baselines for Windows Vista and later
