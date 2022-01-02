@@ -2294,7 +2294,7 @@
 - [nu11secur1ty/centos-snort3-dev](https://github.com/nu11secur1ty/centos-snort3-dev) - centos-snort3-dev
 - [antitree/cmd_and_kubectl_demos](https://github.com/antitree/cmd_and_kubectl_demos) - 
 - [belane/docker-bloodhound](https://github.com/belane/docker-bloodhound) - BloodHound Docker Ready to Use
-- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, Self-Monitoring, and Prometheus Metrics. Up with a Single Command.
+- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, and Monitoring. Enables Logs, Metrics, APM, Alerting, and SIEM features. Up with a Single Command.
 - [aws/aws-codebuild-docker-images](https://github.com/aws/aws-codebuild-docker-images) - Official AWS CodeBuild repository for managed Docker images http://docs.aws.amazon.com/codebuild/latest/userguide/build-env-ref.html
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes
 - [dukebarman/ghidra-builder](https://github.com/dukebarman/ghidra-builder) - Docker image for building ghidra RE framework from source
@@ -3205,6 +3205,7 @@
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider
 - [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - firecracker-containerd enables containerd to manage containers as Firecracker microVMs
 - [AV1080p/goddi](https://github.com/AV1080p/goddi) - goddi (go dump domain info) dumps Active Directory domain information
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
 - [diljith369/premantel](https://github.com/diljith369/premantel) - Premantel - A Malware analysis and Threat Intel Framework
 - [microsoft/ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
 - [marco-lancini/goscan](https://github.com/marco-lancini/goscan) - Interactive Network Scanner
@@ -5718,7 +5719,7 @@
 - [ayoubfathi/leaky-paths](https://github.com/ayoubfathi/leaky-paths) - A collection of special paths linked to major web CVEs, known misconfigurations, juicy APIs ..etc. It could be used as a part of web content discovery, to scan passively for high-quality endpoints and quick-wins.
 - [Matir/docker-kali-matir](https://github.com/Matir/docker-kali-matir) - 
 - [Matir/cheatsheets](https://github.com/Matir/cheatsheets) - My cheatsheets
-- [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - :pushpin: Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.
+- [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - :pushpin: Penetration testing for beginners. A guide for amateur pentesters and a collection of hacking tools, resources and references to practice ethical hacking.
 - [Aaryan101/sayhello](https://github.com/Aaryan101/sayhello) - Capturing audio (.wav) from target using a link
 - [DebugPrivilege/Azure-Sentinel](https://github.com/DebugPrivilege/Azure-Sentinel) - 
 - [empty-jack/YAWR](https://github.com/empty-jack/YAWR) - Yet Another Wordlists Repo
@@ -10301,7 +10302,6 @@
 - [exp-db/PythonPool](https://github.com/exp-db/PythonPool) - Python 代码池
 - [x0day/bannerscan](https://github.com/x0day/bannerscan) - http://x0day.me/archives/bannerscan-py.html
 - [le4f/dnsmaper](https://github.com/le4f/dnsmaper) - 子域名枚举与地图标记
-- [j3ssie/Osmedeus](https://github.com/j3ssie/Osmedeus) - Fully automated offensive security framework for reconnaissance and vulnerability scanning
 - [Viralmaniar/Passhunt](https://github.com/Viralmaniar/Passhunt) - Passhunt is a simple tool for searching of default credentials for network devices, web applications and more. Search through 523 vendors and their 2084 default passwords.
 - [uber-common/metta](https://github.com/uber-common/metta) - An information security preparedness tool to do adversarial simulation.
 - [chrismaddalena/ODIN](https://github.com/chrismaddalena/ODIN) - Automated network asset, email, and social media profile discovery and cataloguing.
@@ -14801,7 +14801,6 @@
 - [sparsick/asciidoctor-zsh](https://github.com/sparsick/asciidoctor-zsh) - 
 - [junkblocker/calibre-zaw-source](https://github.com/junkblocker/calibre-zaw-source) - calibre source for zaw
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
-- [offsecginger/msfvenom_custom_encoding](https://github.com/offsecginger/msfvenom_custom_encoding) - A rewritten version of the (Almost) Fully Undetectable EXE I originally made.
 - [blacktop/docker-cuckoo](https://github.com/blacktop/docker-cuckoo) - Cuckoo Sandbox Dockerfile
 - [nilotpalbiswas/Auto-Root-Exploit](https://github.com/nilotpalbiswas/Auto-Root-Exploit) - Auto Root Exploit Tool
 - [m4lv0id/LARE](https://github.com/m4lv0id/LARE) - [L]ocal [A]uto [R]oot [E]xploiter is a simple bash script that helps you deploy local root exploits from your attacking machine when your victim machine do not have internet connectivity.
