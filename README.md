@@ -15289,7 +15289,7 @@
 - [atorman/elfBash](https://github.com/atorman/elfBash) - Sample starter bash shell scripts for event log files
 - [rickfarmer/android-vm](https://github.com/rickfarmer/android-vm) - Automated provisioning and configuration of an Ubuntu VM containing the Android development environment, including Android ADT Bundle with SDK, Eclipse & the Android NDK using the Vagrant DevOps tool with Chef and shell-scripts.
 - [postmodern/ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, TruffleRuby or MRuby
-- [nathanakalish/deADBolt](https://github.com/nathanakalish/deADBolt) - ADB utilities to do a bunch of stuff.
+- [BitNotFound/deADBolt](https://github.com/BitNotFound/deADBolt) - ADB utilities to do a bunch of stuff.
 - [phreakocious/pcap-scripts](https://github.com/phreakocious/pcap-scripts) - Miscellaneous scripts for manipulating pcaps
 - [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 - [xero/dotfiles](https://github.com/xero/dotfiles) - ▒ rice ░░  custom linux config files
