@@ -1631,6 +1631,7 @@
 - [guyoung/GySurface](https://github.com/guyoung/GySurface) - .NET WPF Framework
 - [davotronic5000/PowerShell_Credential_Manager](https://github.com/davotronic5000/PowerShell_Credential_Manager) - PowerShell Module to Read and Write Credentials from the Windows Credential Manager
 - [foxglovesec/Potato](https://github.com/foxglovesec/Potato) - 
+- [Kevin-Robertson/Inveigh](https://github.com/Kevin-Robertson/Inveigh) - .NET IPv4/IPv6 machine-in-the-middle tool for penetration testers
 - [Cn33liz/p0wnedLoader](https://github.com/Cn33liz/p0wnedLoader) - 
 - [Cn33liz/p0wnedShell](https://github.com/Cn33liz/p0wnedShell) - PowerShell Runspace Post Exploitation Toolkit
 - [Invoke-IR/PowerForensics](https://github.com/Invoke-IR/PowerForensics) - PowerForensics provides an all in one platform for live disk forensic analysis
@@ -2003,7 +2004,6 @@
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [Grive/grive](https://github.com/Grive/grive) - an open source Linux client for Google Drive
 - [nccgroup/pip3line](https://github.com/nccgroup/pip3line) - The Swiss army knife of byte manipulation
-- [iagox86/dnscat2](https://github.com/iagox86/dnscat2) - 
 - [joxeankoret/pinpack](https://github.com/joxeankoret/pinpack) - A PIN Tool to unpack simple write and exec packers (for Linux)
 - [anestisb/oatdump_plus](https://github.com/anestisb/oatdump_plus) - Extended oatdump from AOSP platform/art repo
 - [anestisb/android-simg2img](https://github.com/anestisb/android-simg2img) - Tool to convert Android sparse images to raw images
@@ -3612,6 +3612,7 @@
 - [sroberts/cacador](https://github.com/sroberts/cacador) - Indicator Extractor
 - [Phillipmartin/gopassivedns](https://github.com/Phillipmartin/gopassivedns) - PassiveDNS in Go
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
+- [jarv/cmdchallenge](https://github.com/jarv/cmdchallenge) - This repo is mirror of https://gitlab.com/jarv/cmdchallenge
 - [EgeBalci/EGESPLOIT](https://github.com/EgeBalci/EGESPLOIT) - EGESPLOIT is a golang library for malware development
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
@@ -7213,6 +7214,7 @@
 - [ahelal/ansible-zabbix](https://github.com/ahelal/ansible-zabbix) - Ansible Zabbix Server for Ubuntu
 - [adldap/adLDAP](https://github.com/adldap/adLDAP) - adLDAP is a PHP class that provides LDAP authentication and integration with Active Directory.
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
+- [iagox86/dnscat2](https://github.com/iagox86/dnscat2) - 
 - [clue/docker-ttrss](https://github.com/clue/docker-ttrss) - Tiny Tiny RSS feed reader as a docker image.
 - [th3penguinwhisperer/torrentflux-ng](https://github.com/th3penguinwhisperer/torrentflux-ng) - 
 - [dotcppfile/DAws](https://github.com/dotcppfile/DAws) - Advanced Web Shell
@@ -8604,7 +8606,6 @@
 - [Power-Fusion/Sophos](https://github.com/Power-Fusion/Sophos) - Sophos Removal
 - [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
 - [lazywinadmin/AdsiPS](https://github.com/lazywinadmin/AdsiPS) - PowerShell module to interact with Active Directory using ADSI and the System.DirectoryServices namespace (.NET Framework)
-- [Kevin-Robertson/Inveigh](https://github.com/Kevin-Robertson/Inveigh) - .NET IPv4/IPv6 machine-in-the-middle tool for penetration testers
 - [Kevin-Robertson/Tater](https://github.com/Kevin-Robertson/Tater) - Tater is a PowerShell implementation of the Hot Potato Windows Privilege Escalation exploit from @breenmachine and @foxglovesec
 - [Cn33liz/Tater](https://github.com/Cn33liz/Tater) - Tater is a PowerShell implementation of the Hot Potato Windows Privilege Escalation exploit from @breenmachine and @foxglovesec
 - [imander/DarkObserver](https://github.com/imander/DarkObserver) - Windows PowerShell domain scanning tool
@@ -8764,6 +8765,7 @@
 
 ## Python 
 
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
 - [0xabu/pdfannots](https://github.com/0xabu/pdfannots) - Extracts and formats text annotations from a PDF file
 - [redhuntlabs/Log4JHunt](https://github.com/redhuntlabs/Log4JHunt) - An automated, reliable scanner for the Log4Shell (CVE-2021-44228) vulnerability.
 - [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library.
@@ -9533,7 +9535,7 @@
 - [sethsec/celerystalk](https://github.com/sethsec/celerystalk) - An asynchronous enumeration & vulnerability scanner. Run all the tools on all the hosts.
 - [gehaxelt/Python-dsstore](https://github.com/gehaxelt/Python-dsstore) - A library for parsing .DS_Store files and extracting file names
 - [0xHJK/dumpall](https://github.com/0xHJK/dumpall) - 一款信息泄漏利用工具，适用于.git/.svn源代码泄漏和.DS_Store泄漏
-- [bl4de/security-tools](https://github.com/bl4de/security-tools) - Collection of small security tools, mostly in Bash and Python. CTFs, Bug Bounty and other stuff.
+- [bl4de/security-tools](https://github.com/bl4de/security-tools) - My collection of various security tools created mostly in Python and Bash. For CTFs and Bug Bounty.
 - [ShielderSec/webtech](https://github.com/ShielderSec/webtech) - Identify technologies used on websites.
 - [exploitprotocol/DNS-Sniffer](https://github.com/exploitprotocol/DNS-Sniffer) - It is a very simple dns-sniffer made using scapy...It can be used with ettercap to see all the queries over the network.
 - [Netflix-Skunkworks/cloudtrail-anomaly](https://github.com/Netflix-Skunkworks/cloudtrail-anomaly) - 
@@ -12007,7 +12009,7 @@
 - [ztgrace/changeme](https://github.com/ztgrace/changeme) - A default credential scanner.
 - [detuxsandbox/detux](https://github.com/detuxsandbox/detux) - The Multiplatform Linux Sandbox
 - [bsi-group/officefileinfo](https://github.com/bsi-group/officefileinfo) - officefileinfo is a python script to help analyse the newer Microsoft Office file formats. There are numerous tools for dealing with the older OLE based files, but a distinct lack for the newer formats.
-- [Blystad/googlectf_writeups](https://github.com/Blystad/googlectf_writeups) - Writeups from the Google CTF challenge in April 29th-1st of May 2016
+- [acr92/googlectf_writeups](https://github.com/acr92/googlectf_writeups) - Writeups from the Google CTF challenge in April 29th-1st of May 2016
 - [timsutton/python-macadmin-tools](https://github.com/timsutton/python-macadmin-tools) - List of open-source Python-based Mac sysadmin tools
 - [BorjaMerino/Pazuzu](https://github.com/BorjaMerino/Pazuzu) - Pazuzu: Reflective DLL to run binaries from memory
 - [bartTC/pip-check](https://github.com/bartTC/pip-check) - pip-check gives you a quick overview of all installed packages and their update status.
@@ -13582,7 +13584,6 @@
 - [ttmo-O/x86-manpages](https://github.com/ttmo-O/x86-manpages) - x86 and amd64 instruction reference manual pages
 - [yous/YousList](https://github.com/yous/YousList) - Block filter for advertisements, mainly on Korean sites
 - [palantir/windows-event-forwarding](https://github.com/palantir/windows-event-forwarding) - A repository for using windows event forwarding for incident detection and response
-- [jarv/cmdchallenge](https://github.com/jarv/cmdchallenge) - This repo is mirror of https://gitlab.com/jarv/cmdchallenge
 - [slimm609/checksec.sh](https://github.com/slimm609/checksec.sh) - Checksec.sh
 - [rupa/v](https://github.com/rupa/v) - z for vim
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
@@ -14188,6 +14189,7 @@
 
 ## Shell 
 
+- [mikedfunk/dotfiles](https://github.com/mikedfunk/dotfiles) - my Neovim, Git, Tmux, and other dotfiles
 - [brimstone/windows-ova](https://github.com/brimstone/windows-ova) - Self-Installing Windows OVA. Automate and distribute Windows as an OVA.
 - [adilsoybali/Log4j-RCE-Scanner](https://github.com/adilsoybali/Log4j-RCE-Scanner) - Remote command execution vulnerability scanner for Log4j.
 - [m0zgen/install-gvm21](https://github.com/m0zgen/install-gvm21) - Script for GVM 21 installs to Ubuntu
@@ -14222,7 +14224,7 @@
 - [ucki/URP-T-v.01](https://github.com/ucki/URP-T-v.01) - 
 - [UserXGnu/OSCP-cheat-sheet-1](https://github.com/UserXGnu/OSCP-cheat-sheet-1) - list of useful commands, shells and notes related to OSCP
 - [P3t3rp4rk3r/OSCP-cheat-sheet-1](https://github.com/P3t3rp4rk3r/OSCP-cheat-sheet-1) - list of useful commands, shells and notes related to OSCP
-- [s0wr0b1ndef/OSCP-note](https://github.com/s0wr0b1ndef/OSCP-note) - list of useful commands, shells and notes related to OSCP
+- [R0B1NL1N/OSCP-note](https://github.com/R0B1NL1N/OSCP-note) - list of useful commands, shells and notes related to OSCP
 - [dwisiswant0/findom-xss](https://github.com/dwisiswant0/findom-xss) - A fast DOM based XSS vulnerability scanner with simplicity.
 - [cdrx/docker-pyinstaller](https://github.com/cdrx/docker-pyinstaller) - PyInstaller for Linux and Windows inside Docker
 - [supr4s/VPS-web-hacking-tools](https://github.com/supr4s/VPS-web-hacking-tools) - Automatically install some web hacking/bug bounty tools.
