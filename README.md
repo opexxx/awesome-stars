@@ -4548,7 +4548,6 @@
 - [hoodoer/WP-XSS-Admin-Funcs](https://github.com/hoodoer/WP-XSS-Admin-Funcs) - JavaScript functions intended to be used as an XSS payload against a WordPress admin account.
 - [balena-io-modules/resin-corvus](https://github.com/balena-io-modules/resin-corvus) - A wrapper around Sentry and Mixpanel that works in the browser, Node and Electron.
 - [lestoni/faker-cli](https://github.com/lestoni/faker-cli) - cli wrapper for fakerjs
-- [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [ghostinthewires/Azure-Readiness-Checklist](https://github.com/ghostinthewires/Azure-Readiness-Checklist) - This checklist is your guide to the best practices for deploying secure, scalable, and highly available infrastructure in Azure. Before you go live, go through each item, and make sure you haven't missed anything important!
 - [mitchmoser/sputnik](https://github.com/mitchmoser/sputnik) - Open Source Intelligence Browser Extension
@@ -5450,7 +5449,6 @@
 - [procount/pinn](https://github.com/procount/pinn) - An enhanced Operating System installer for the Raspberry Pi
 - [juh2/pandoc-project-boilerplate](https://github.com/juh2/pandoc-project-boilerplate) - This is the boilerplate to produce a book and an ebook with Pandoc.
 - [jchaney/owncloud](https://github.com/jchaney/owncloud) - docker image
-- [troglobit/myLinux](https://github.com/troglobit/myLinux) - myLinux is a small UNIX like OS for embedded systems based on Westermo NetBox
 - [kordless/boot2docker-ing](https://github.com/kordless/boot2docker-ing) - Getting going with boot2docker on OSX.
 - [shadowsocks/openwrt-shadowsocks](https://github.com/shadowsocks/openwrt-shadowsocks) - Shadowsocks-libev for OpenWrt/LEDE
 - [OpenSecurityResearch/hostapd-wpe](https://github.com/OpenSecurityResearch/hostapd-wpe) - Modified hostapd to facilitate AP impersonation attacks
@@ -6322,7 +6320,6 @@
 - [v1ado/HIPS_LIPS](https://github.com/v1ado/HIPS_LIPS) - Community maintained list of most popular HIPS service and process names on a Windows Platform.
 - [Snowming04/The-Hacker-Playbook-3-Translation](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation) - 对 The Hacker Playbook 3 的翻译。
 - [security-cheatsheet/reverse-shell-cheatsheet](https://github.com/security-cheatsheet/reverse-shell-cheatsheet) - 🙃 Reverse Shell Cheat Sheet 🙃
-- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel, now inlets PRO
 - [woj-ciech/LeakLooker](https://github.com/woj-ciech/LeakLooker) - Find open databases - Powered by Binaryedge.io
 - [guardrailsio/awesome-php-security](https://github.com/guardrailsio/awesome-php-security) - Awesome PHP Security Resources 🕶🐘🔐
 - [001SPARTaN/csfm](https://github.com/001SPARTaN/csfm) - Cobalt Strike Field Manual - A quick reference for Windows commands that can be accessed in a beacon console.
@@ -15276,6 +15273,7 @@
 - [1uptalent/fleet](https://github.com/1uptalent/fleet) - WIP for managing a collection of docker hosts
 - [docker-in-practice/docker-compose-sqlite](https://github.com/docker-in-practice/docker-compose-sqlite) - A SQLite server implemented using Docker Compose
 - [aidanhs/dockerutil](https://github.com/aidanhs/dockerutil) - Some docker utils
+- [troglobit/myLinux](https://github.com/troglobit/myLinux) - myLinux is a small UNIX like OS for embedded systems based on Buildroot
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [zed-0xff/openwrt-scan-server](https://github.com/zed-0xff/openwrt-scan-server) - OpenWrt+SANE based scanning web server
 - [Kikobeats/server-sandbox](https://github.com/Kikobeats/server-sandbox) - Learn how to configure a server to provide typical services for the web.
