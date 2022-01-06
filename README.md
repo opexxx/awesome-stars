@@ -923,7 +923,7 @@
 - [basil00/Divert](https://github.com/basil00/Divert) - WinDivert: Windows Packet Divert
 - [MRGEffitas/hwfwbypass](https://github.com/MRGEffitas/hwfwbypass) - 
 - [MalwareTech/TinyXPB](https://github.com/MalwareTech/TinyXPB) - Windows XP 32-Bit Bootkit
-- [kaie/sphere-detection](https://github.com/kaie/sphere-detection) - Various modules to implement the DetecTor design from http://detector.io
+- [kaie/sphere-detection](https://github.com/kaie/sphere-detection) - Various modules to implement the DetecTor design from http://detector.kuix.de
 - [geohot/qira](https://github.com/geohot/qira) - QEMU Interactive Runtime Analyser
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [iagox86/nmap-smbv2](https://github.com/iagox86/nmap-smbv2) - 
@@ -1145,6 +1145,7 @@
 - [proxytunnel/proxytunnel](https://github.com/proxytunnel/proxytunnel) - Stealth tunneling through HTTP(S) proxies
 - [stricaud/faup](https://github.com/stricaud/faup) - Fast URL decoder library
 - [0vercl0k/j0llyDmpr](https://github.com/0vercl0k/j0llyDmpr) - j0llydmper is a windows service that allows you to dump furtively and automaticaly some contents of USB disks just plugged in your computer. In order to dump potentialy interesting files, you can use a rule on the file name or/and on the file size.
+- [0vercl0k/stuffz](https://github.com/0vercl0k/stuffz) - Basically a script thrift shop
 - [gdbinit/gdb-ng](https://github.com/gdbinit/gdb-ng) - Apple's gdb fork with some fixes and enhancements
 - [mubix/keychaindump](https://github.com/mubix/keychaindump) - A proof-of-concept tool for reading OS X keychain passwords
 - [juuso/keychaindump](https://github.com/juuso/keychaindump) - A proof-of-concept tool for reading OS X keychain passwords
@@ -1920,7 +1921,7 @@
 - [hasherezade/persistence_demos](https://github.com/hasherezade/persistence_demos) - Demos of various (also non standard) persistence methods used by malware
 - [cmu-sei/BigGrep](https://github.com/cmu-sei/BigGrep) - A scalable search index for binary files
 - [luctalpe/WMIMon](https://github.com/luctalpe/WMIMon) - Tool to monitor WMI activity on Windows
-- [comaeio/OPCDE](https://github.com/comaeio/OPCDE) - OPCDE Cybersecurity Conference Materials
+- [msuiche/OPCDE](https://github.com/msuiche/OPCDE) - OPCDE Cybersecurity Conference Materials
 - [Professor-plum/Reflective-Driver-Loader](https://github.com/Professor-plum/Reflective-Driver-Loader) - 
 - [uxmal/nucleus](https://github.com/uxmal/nucleus) - Clone of "Compiler-Agnostic Function Detection in Binaries" source code
 - [secrary/InfectPE](https://github.com/secrary/InfectPE) - InfectPE - Inject custom code into PE file [This project is not maintained anymore]
@@ -5164,7 +5165,7 @@
 - [adriancooney/console.image](https://github.com/adriancooney/console.image) - The one thing Chrome Dev Tools didn't need.
 - [zaidka/cliget](https://github.com/zaidka/cliget) - A Firefox addon to download login-protected files from the command line
 - [evilsocket/pycryptocat](https://github.com/evilsocket/pycryptocat) - pyCryptoCat - A CryptoCat standalone python client.
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, Microsoft SQL Server & DB2
 - [eviltik/evilscan](https://github.com/eviltik/evilscan) - NodeJS Simple Network Scanner
 - [ExactTarget/fuelux](https://github.com/ExactTarget/fuelux) - As of March 2019, this repository is read-only as Salesforce has archived the FuelUX open-source UI framework and will no longer be supported.
 - [mustpax/sortmybox](https://github.com/mustpax/sortmybox) - Like e-mail filters, for your Dropbox.
@@ -7473,6 +7474,7 @@
 
 ## PowerShell 
 
+- [PaulHCode/RecurringADChecks](https://github.com/PaulHCode/RecurringADChecks) - 
 - [soteria-security/365Inspect](https://github.com/soteria-security/365Inspect) - A PowerShell script that automates the security assessment of Microsoft Office 365 environments.
 - [AzureAD/Azure-AD-Incident-Response-PowerShell-Module](https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module) - The Azure Active Directory Incident Response PowerShell module provides a number of tools, developed by the Azure Active Directory Product Group in conjunction with the Microsoft Detection and Response Team (DART), to assist in compromise response.
 - [eshlomo1/Azure-Sentinel-4-SecOps](https://github.com/eshlomo1/Azure-Sentinel-4-SecOps) - Azure Sentinel 4 SecOps
@@ -9254,7 +9256,7 @@
 - [jtroberts83/AWS-S3-Object-ACL-Scanner](https://github.com/jtroberts83/AWS-S3-Object-ACL-Scanner) - Scripts used to scan every object in every bucket of an AWS account and report on objects which have Public read access
 - [aws-samples/aws-account-vending-machine](https://github.com/aws-samples/aws-account-vending-machine) - This repository contains various versions of the account vending machine used to provision AWS accounts with custom configurations
 - [awslabs/aws-cloudformation-templates](https://github.com/awslabs/aws-cloudformation-templates) - A collection of useful CloudFormation templates
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [mozilla/frost](https://github.com/mozilla/frost) - Unit testing framework for test driven security of AWS, GCP, Heroku and more.
 - [ultrashea/autopsy-payment-card-scanner](https://github.com/ultrashea/autopsy-payment-card-scanner) - Autopsy module for finding and Luhn checksum validating payment card (credit cards, debit cards, etc) numbers
 - [csirtgadgets/cif-v5](https://github.com/csirtgadgets/cif-v5) - The FASTEST way to consume threat intel.
@@ -13392,7 +13394,6 @@
 - [michael42/androidcrypt.py](https://github.com/michael42/androidcrypt.py) - 
 - [unoconv/unoconv](https://github.com/unoconv/unoconv) - Universal Office Converter - Convert between any document format supported by LibreOffice/OpenOffice.
 - [dstat-real/dstat](https://github.com/dstat-real/dstat) - Versatile resource statistics tool (the real one, not the Red Hat clone)
-- [0vercl0k/stuffz](https://github.com/0vercl0k/stuffz) - Basically a script thrift shop
 - [digital4rensics/Malformity](https://github.com/digital4rensics/Malformity) - Malformity is a Maltego project based on the Canari framework for malicious binary and infrastructure research.
 - [bbrodriges/pholcidae](https://github.com/bbrodriges/pholcidae) - Tiny python web crawler
 - [luciano-fiandesio/HackerNewsToPinboard](https://github.com/luciano-fiandesio/HackerNewsToPinboard) - Synchronize saved HN stories to Pinboard.in using Pinboard API
@@ -15733,6 +15734,7 @@
 - [devopsprodigy/kubegraf](https://github.com/devopsprodigy/kubegraf) - Grafana-plugin for k8s' monitoring
 - [phra/nodebuster](https://github.com/phra/nodebuster) - DirBuster for Node.js
 - [CHEF-KOCH/FFCK](https://github.com/CHEF-KOCH/FFCK) - 🦊 & 🧅 hardening
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [JasonEtco/gist-box](https://github.com/JasonEtco/gist-box) - 📌📋 A helper class for updating a single-file Gist
 - [maticzav/emma-cli](https://github.com/maticzav/emma-cli) - 📦 Terminal assistant to find and install node packages.
 - [appbaseio/mirage](https://github.com/appbaseio/mirage) - :art: GUI for simplifying Elasticsearch Query DSL
@@ -15930,7 +15932,6 @@
 - [daddycocoaman/BeaconGraph](https://github.com/daddycocoaman/BeaconGraph) - Graph visualization of wireless client and access point relationships
 - [CaliDog/certstream-server](https://github.com/CaliDog/certstream-server) - Certificate Transparency Log aggregation, parsing, and streaming service written in Elixir
 - [Zerx0r/Kage](https://github.com/Zerx0r/Kage) - Kage is Graphical User Interface for Metasploit Meterpreter and Session Handler
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [tlbootcamp/tlroadmap](https://github.com/tlbootcamp/tlroadmap) - Тимлид – это ❄️, потому что в каждой компании он уникален и неповторим.
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
