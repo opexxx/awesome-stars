@@ -5850,7 +5850,6 @@
 - [hasherezade/pe-bear-releases](https://github.com/hasherezade/pe-bear-releases) - PE-bear (builds only)
 - [IoT-PTv/IoT-PT](https://github.com/IoT-PTv/IoT-PT) - A Virtual environment for Pentesting IoT Devices
 - [zer0yu/Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike) - cobaltstrike的相关资源汇总 / List of Awesome CobaltStrike Resources
-- [brave/adblock-lists](https://github.com/brave/adblock-lists) - Maintains adblock lists that Brave uses
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 - [DefensiveOrigins/AtomicPurpleTeam](https://github.com/DefensiveOrigins/AtomicPurpleTeam) - Atomic Purple Team Framework and Lifecycle
 - [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and cheap DIY IP-KVM based on Raspberry Pi
@@ -6265,7 +6264,6 @@
 - [shenril/owasp-asvs-checklist](https://github.com/shenril/owasp-asvs-checklist) - OWASP ASVS checklist for audits
 - [0verpwn/Fuzzing](https://github.com/0verpwn/Fuzzing) - Fuzzing Payloads to Assist in Web Application Testing.
 - [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, tools and other resources
-- [FoolMitAh/CVE-2018-14729](https://github.com/FoolMitAh/CVE-2018-14729) - Discuz backend getshell
 - [PinkP4nther/aws-testing-notes](https://github.com/PinkP4nther/aws-testing-notes) - Notes as I learn basic AWS penetration testing
 - [Gexos/malrepo](https://github.com/Gexos/malrepo) - A collection of malware samples caught by DIONAEA Honeypot
 - [FlatL1neAPT/Computer-Science-and-Programming](https://github.com/FlatL1neAPT/Computer-Science-and-Programming) - Computer Science,Programming
@@ -9071,6 +9069,7 @@
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale
 - [Verizon/redshell](https://github.com/Verizon/redshell) - An interactive command prompt for red teaming and pentesting. Pushes commands through proxychains via Cobalt Strike beacon socks proxies or custom proxies. Automatically logs activities on a Cobalt Strike teamserver and/or local files.
 - [JettChenT/scan-for-webcams](https://github.com/JettChenT/scan-for-webcams) - scan for webcams on the internet
+- [brave/adblock-lists](https://github.com/brave/adblock-lists) - Maintains adblock lists that Brave uses
 - [s0md3v/Zen](https://github.com/s0md3v/Zen) - Find emails of Github users
 - [TebbaaX/Katana](https://github.com/TebbaaX/Katana) - python script for Google Dorking
 - [m4ll0k/SecretFinder](https://github.com/m4ll0k/SecretFinder) - SecretFinder - A python script for find sensitive data (apikeys, accesstoken,jwt,..) and search anything on javascript files
@@ -9470,7 +9469,6 @@
 - [platformio/platformio-core](https://github.com/platformio/platformio-core) - PlatformIO is a professional collaborative platform for embedded development :alien: A place where Developers and Teams have true Freedom! No more vendor lock-in!
 - [JangHanbin/tor_urlscan](https://github.com/JangHanbin/tor_urlscan) - tor url scanner
 - [plizonczyk/noiseprotocol](https://github.com/plizonczyk/noiseprotocol) - Noise Protocol Framework - Python 3 implementation
-- [DarkSecDevelopers/CredsStealer](https://github.com/DarkSecDevelopers/CredsStealer) - CredsStealer allows an attacker to craft a highly convincing credentials prompt using Windows PromptForCredential, validate it against the DC or localmachine and in turn leak it via an HTTP request.
 - [introvertmac/Easy-Scan](https://github.com/introvertmac/Easy-Scan) - Minimal web application scanner
 - [j-bennet/wharfee](https://github.com/j-bennet/wharfee) - A CLI with autocompletion and syntax highlighting for Docker commands.
 - [jonatasbaldin/s3-environ](https://github.com/jonatasbaldin/s3-environ) - Load environment variables from an AWS S3 file
@@ -10263,9 +10261,6 @@
 - [saaramar/35C3_Modern_Windows_Userspace_Exploitation](https://github.com/saaramar/35C3_Modern_Windows_Userspace_Exploitation) - 
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [UndeadSec/EvilURL](https://github.com/UndeadSec/EvilURL) - Generate unicode domains for IDN Homograph Attack and detect them.
-- [DarkSecDevelopers/Absorber](https://github.com/DarkSecDevelopers/Absorber) - An advance keylogger that takes screenshots and also logs special keys including uppercase letters as well.
-- [DarkSecDevelopers/Pyshot](https://github.com/DarkSecDevelopers/Pyshot) - Send screenshots to given email address
-- [DarkSecDevelopers/HiddenEye-Legacy](https://github.com/DarkSecDevelopers/HiddenEye-Legacy) - Modern Phishing Tool With Advanced Functionality And Multiple Tunnelling Services  [ Android-Support-Available ]
 - [649/Crashcast-Exploit](https://github.com/649/Crashcast-Exploit) - This tool allows you mass play any YouTube video, terminate apps and rename Chromecast device(s) obtained from Shodan.io
 - [securitystreak/security-scripts](https://github.com/securitystreak/security-scripts) - A collection of public offensive and defensive security related scripts for InfoSec students.
 - [rudSarkar/crlf-injector](https://github.com/rudSarkar/crlf-injector) - A CRLF ( Carriage Return Line Feed ) Injection attack occurs when a user manages to submit a CRLF into an application. This is most commonly done by modifying an HTTP parameter or URL.
