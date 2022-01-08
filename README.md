@@ -1767,7 +1767,7 @@
 - [antonioCoco/RogueWinRM](https://github.com/antonioCoco/RogueWinRM) - Windows Local Privilege Escalation from Service Account to System
 - [vovkos/protolesshooks](https://github.com/vovkos/protolesshooks) - API monitoring via return-hijacking thunks; works without information about target function prototypes.
 - [guidovranken/cryptofuzz](https://github.com/guidovranken/cryptofuzz) - Fuzzing cryptographic libraries. Magic bug printer go brrrr.
-- [jafarlihi/revp](https://github.com/jafarlihi/revp) - (This shit doesn't even work properly) Reverse HTTP proxy that works on Linux, Windows, and macOS. Made with C++ and Boost.
+- [jafarlihi/revp](https://github.com/jafarlihi/revp) - Reverse HTTP proxy that works on Linux, Windows, and macOS. Made with C++ and Boost.
 - [slaeryan/FALCONSTRIKE](https://github.com/slaeryan/FALCONSTRIKE) - A stealthy, targeted Windows Loader for delivering second-stage payloads(shellcode) from Github to the host machine undetected
 - [google/fuzzing](https://github.com/google/fuzzing) - Tutorials, examples, discussions, research proposals, and other resources related to fuzzing
 - [hasherezade/paramkit](https://github.com/hasherezade/paramkit) - A small library helping to parse commandline parameters (for C/C++)
@@ -10272,7 +10272,7 @@
 - [JoshData/convert-outlook-msg-file](https://github.com/JoshData/convert-outlook-msg-file) - Python library to convert Microsoft Outlook .msg files to .eml/MIME message files.
 - [kakwa/ldapcherry](https://github.com/kakwa/ldapcherry) - Web UI for managing users and groups in multiple directory services.
 - [vbrown608/markdown-to-pdf](https://github.com/vbrown608/markdown-to-pdf) - Python/Flask web app converts markdown files to styled PDF files
-- [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Client Library and Framework in Pure Python for Users and Bots
+- [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [cyberark/KubiScan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions
 - [WyAtu/CVE-2018-8581](https://github.com/WyAtu/CVE-2018-8581) - CVE-2018-8581 | Microsoft Exchange Server Elevation of Privilege Vulnerability
 - [abhisharma404/cipherscan](https://github.com/abhisharma404/cipherscan) - A very simple way to find out which SSL ciphersuites are supported by a target.
