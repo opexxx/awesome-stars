@@ -237,6 +237,7 @@
 
 ## Batchfile 
 
+- [abbodi1406/offlineinsiderenroll](https://github.com/abbodi1406/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
 - [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
 - [swagkarna/Defeat-Defender-V1.2](https://github.com/swagkarna/Defeat-Defender-V1.2) - Powerful batch script to dismantle complete windows defender protection and even bypass tamper protection ..Disable Windows-Defender Permanently....Hack windows. POC
 - [ninhpn1337/Disable-Windows-Defender](https://github.com/ninhpn1337/Disable-Windows-Defender) - Disable Windows Defender All Version
@@ -439,7 +440,7 @@
 - [quarkslab/CVE-2020-0069_poc](https://github.com/quarkslab/CVE-2020-0069_poc) - 
 - [taviso/avscript](https://github.com/taviso/avscript) - Avast JavaScript Interactive Shell
 - [sailay1996/UAC_Bypass_In_The_Wild](https://github.com/sailay1996/UAC_Bypass_In_The_Wild) - Windows 10 UAC bypass for all executable files which are autoelevate true .
-- [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - RRG / Iceman repo, the most totally wicked repo around if you are into Proxmark3 and RFID hacking
+- [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Proxmark3 / RFID / NFC  reader, writer, sniffer and emulator
 - [set-element/auditdBroFramework](https://github.com/set-element/auditdBroFramework) - The Auditd Framework logs and applies security policy to linux auditd data
 - [redcanaryco/chain-reactor](https://github.com/redcanaryco/chain-reactor) - Chain Reactor is an open source framework for composing executables that simulate adversary behaviors and techniques on Linux endpoints.
 - [jakeajames/time_waste](https://github.com/jakeajames/time_waste) - iOS 12.0-13.3 tfp0
@@ -2396,6 +2397,7 @@
 
 ## Go 
 
+- [pupagang/pupadrive-go](https://github.com/pupagang/pupadrive-go) - 
 - [v-byte-cpu/sx](https://github.com/v-byte-cpu/sx) - :vulcan_salute: Fast, modern, easy-to-use network scanner
 - [Ethermat/tld-scan](https://github.com/Ethermat/tld-scan) - Top level domain scanner in Go
 - [L11R/escobar](https://github.com/L11R/escobar) - Like cntlm but for Kerberos
