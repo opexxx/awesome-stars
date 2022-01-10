@@ -5656,7 +5656,7 @@
 - [random-robbie/bruteforce-lists](https://github.com/random-robbie/bruteforce-lists) - Some files for bruteforcing certain things.
 - [dsopas/assessment-mindset](https://github.com/dsopas/assessment-mindset) - Security Mindmap that could be useful for the infosec community when doing pentest, bug bounty or red-team assessments.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG.
-- [gatlindada/cissp-mind-map](https://github.com/gatlindada/cissp-mind-map) - CISSP mind map, 8 domains, 2020 edition, OSG/AIO eighth edition, 8th
+- [yyds-page/cissp-mind-map](https://github.com/yyds-page/cissp-mind-map) - CISSP mind map, 8 domains, 2020 edition, OSG/AIO eighth edition, 8th
 - [stefanoj3/tordock](https://github.com/stefanoj3/tordock) - Dockerized TOR socks5
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [raguay/MyAlfred](https://github.com/raguay/MyAlfred) - This is where I am keeping my Alfred 2, Alfred 3, and Alfred 4 workflows.
@@ -12684,7 +12684,7 @@
 - [travisgoodspeed/goodfet](https://github.com/travisgoodspeed/goodfet) - An embedded bus adapter for various microcontrollers and radios.
 - [charlesthomas/magpie](https://github.com/charlesthomas/magpie) - Git-backed Evernote replacement
 - [mikemaccana/python-docx](https://github.com/mikemaccana/python-docx) - Reads, queries and modifies Microsoft Word 2007/2008 docx files.
-- [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on CSV or TSV files
+- [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
 - [clowwindy/ssloop](https://github.com/clowwindy/ssloop) - ssloop is a super simple event loop
 - [GDSSecurity/Unibrute](https://github.com/GDSSecurity/Unibrute) - Multithreaded SQL union bruteforcer
 - [GDSSecurity/Add-Trusted-Certificate-to-iOS-Simulator](https://github.com/GDSSecurity/Add-Trusted-Certificate-to-iOS-Simulator) - Script for easily importing a trusted CA certificate into the iOS Simulator's trust store. This provides application testers the ability to intercept SSL traffic when using the simulator for testing.
