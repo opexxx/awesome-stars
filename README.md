@@ -4159,7 +4159,6 @@
 
 - [API-Security/APIKit](https://github.com/API-Security/APIKit) - APIKit：Discovery, Scan and Audit APIs Toolkit All In One.
 - [pimps/JNDI-Exploit-Kit](https://github.com/pimps/JNDI-Exploit-Kit) - JNDI-Exploitation-Kit（A modified version of the great JNDI-Injection-Exploit created by @welk1n. This tool can be used to start an HTTP Server, RMI Server and LDAP Server to exploit java web apps vulnerable to JNDI Injection）
-- [returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [AthenZ/athenz](https://github.com/AthenZ/athenz) - Open source platform for X.509 certificate based service authentication and fine grained access control in dynamic infrastructures. Athenz supports provisioning and configuration (centralized authorization) use cases as well as serving/runtime (decentralized authorization) use cases.
@@ -8771,6 +8770,7 @@
 - [WazeHell/sam-the-admin](https://github.com/WazeHell/sam-the-admin) - Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user
 - [p0dalirius/ldapconsole](https://github.com/p0dalirius/ldapconsole) - The ldapconsole script allows you to perform custom LDAP requests to a Windows domain.
 - [alexandre-lavoie/python-log4rce](https://github.com/alexandre-lavoie/python-log4rce) - An All-In-One Pure Python PoC for CVE-2021-44228
+- [returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
 - [s0md3v/uro](https://github.com/s0md3v/uro) - declutters url lists for crawling/pentesting
 - [trailofbits/pip-audit](https://github.com/trailofbits/pip-audit) - Audits Python environments and dependency trees for known vulnerabilities
 - [stevensolleder/QuickGoogleKeep](https://github.com/stevensolleder/QuickGoogleKeep) - The QuickGoogleKeep worflow for Alfred 4 for macOS allows you to add notes to your Google Keep fast and easy.
@@ -13732,7 +13732,7 @@
 - [github/secure_headers](https://github.com/github/secure_headers) - Manages application of security headers with many safe defaults
 - [p0deje/content-security-policy](https://github.com/p0deje/content-security-policy) - Full-featured Content Security Policy as Rack middleware
 - [SecGen/SecGen](https://github.com/SecGen/SecGen) - Generate vulnerable virtual machines on the fly (current team development is taking place in the cliffe/SecGen fork)
-- [mozilla/ssh_scan](https://github.com/mozilla/ssh_scan) - A prototype SSH configuration and policy scanner (Blog: https://mozilla.github.io/ssh_scan/)
+- [mozilla/ssh_scan](https://github.com/mozilla/ssh_scan) - DEPRECATED - A prototype SSH configuration and policy scanner (Blog: https://mozilla.github.io/ssh_scan/)
 - [nopernik/msfvenom-bc-generator](https://github.com/nopernik/msfvenom-bc-generator) - Metasploit msfvenom Bash Completions Generator
 - [kost/dockscan](https://github.com/kost/dockscan) - dockscan is security vulnerability and audit scanner for Docker installations
 - [r00t-3xp10it/msf-auxiliarys](https://github.com/r00t-3xp10it/msf-auxiliarys) - My collection of metasploit auxiliary post-modules
