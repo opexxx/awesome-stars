@@ -2820,7 +2820,7 @@
 - [robertkrimen/otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
 - [tomnomnom/concurl](https://github.com/tomnomnom/concurl) - Make concurrent requests with the curl command-line tool
 - [fiatjaf/jiq](https://github.com/fiatjaf/jiq) - jid on jq - interactive JSON query tool using jq expressions
-- [sudosammy/knary](https://github.com/sudosammy/knary) - A simple HTTP(S) and DNS Canary bot with Slack/Discord/MS Teams/Lark & Pushover support
+- [sudosammy/knary](https://github.com/sudosammy/knary) - A simple HTTP(S) and DNS Canary bot with Slack/Discord/MS Teams/Lark/Telegram & Pushover support
 - [kennylevinsen/sshmuxd](https://github.com/kennylevinsen/sshmuxd) - sshmux frontend
 - [kennylevinsen/serve2d](https://github.com/kennylevinsen/serve2d) - Protocol detecting server
 - [sourcekris/goCertStreamCatcher](https://github.com/sourcekris/goCertStreamCatcher) - golang port of the certstreamcatcher certificate transparency log monitor
@@ -3629,7 +3629,7 @@
 - [tomsteele/blacksheepwall](https://github.com/tomsteele/blacksheepwall) - blacksheepwall is a hostname reconnaissance tool
 - [sensepost/ruler](https://github.com/sensepost/ruler) - A tool to abuse Exchange services
 - [ryhanson/phishery](https://github.com/ryhanson/phishery) - An SSL Enabled Basic Auth Credential Harvester with a Word Document Template URL Injector
-- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
+- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
 - [mauri870/powershell-reverse-http](https://github.com/mauri870/powershell-reverse-http) - :innocent: A Powershell exploit service that opens a reverse http connection via meterpreter
 - [maliceio/malice](https://github.com/maliceio/malice) - VirusTotal Wanna Be - Now with 100% more Hipster
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
@@ -3808,6 +3808,7 @@
 
 ## HTML 
 
+- [tb0hdan/domains](https://github.com/tb0hdan/domains) - World’s single largest Internet domains dataset
 - [kubecamp/kubernetes_in_one_day](https://github.com/kubecamp/kubernetes_in_one_day) - Material for the training course
 - [kubecamp/kubernetes_in_2_days](https://github.com/kubecamp/kubernetes_in_2_days) - Material for the training course
 - [cyberheartmi9/PayloadsAllTheThings](https://github.com/cyberheartmi9/PayloadsAllTheThings) - 
@@ -3866,7 +3867,6 @@
 - [etlownoise/xolo](https://github.com/etlownoise/xolo) - Tool to crawl, visualize and interact with SQL server links in a d3 graph to help in your  red/blue/purple/.../risk assessments pentest hacking team exercises.
 - [cloudfoundry-tutorials/tutorials](https://github.com/cloudfoundry-tutorials/tutorials) - 
 - [circlecell/randomkeygen.com](https://github.com/circlecell/randomkeygen.com) - Random Key Generator
-- [intel/cve-bin-tool](https://github.com/intel/cve-bin-tool) - This tool scans for a number of common, vulnerable components (openssl, libpng, libxml2, expat and a few others) to let you know if your system includes common libraries with known vulnerabilities.
 - [koutto/jok3r](https://github.com/koutto/jok3r) - Jok3r v3 BETA 2 - Network and Web Pentest Automation Framework
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [w3c/webcrypto](https://github.com/w3c/webcrypto) - The W3C Web Cryptography API
@@ -8796,7 +8796,7 @@
 - [Hackndo/WebclientServiceScanner](https://github.com/Hackndo/WebclientServiceScanner) - Python tool to Check running WebClient services on multiple targets based on @leechristensen
 - [BehzaDMagzer/p.maker](https://github.com/BehzaDMagzer/p.maker) - PassWord List Maker
 - [Dineshkarthik/telegram_media_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB
-- [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps conducting forensics of mobile devices in order to find signs of a potential compromise.
+- [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [Mte90/DL-Telegram-by-file-attachment](https://github.com/Mte90/DL-Telegram-by-file-attachment) - Download documents by terms looking in a Telegram channel
 - [Mr-B0b/BloodCheck](https://github.com/Mr-B0b/BloodCheck) - BloodCheck enables Red and Blue Teams to manage multiple Neo4j databases and run Cypher queries against a BloodHound dataset.
 - [archerysec/archerysec](https://github.com/archerysec/archerysec) - Centralize Vulnerability Assessment and Management for DevSecOps Team
@@ -9252,6 +9252,7 @@
 - [flosell/trailscraper](https://github.com/flosell/trailscraper) - A command-line tool to get valuable information out of AWS CloudTrail
 - [duo-labs/cloudtracker](https://github.com/duo-labs/cloudtracker) - CloudTracker helps you find over-privileged IAM users and roles by comparing CloudTrail logs with current IAM policies.
 - [bridgecrewio/AirIAM](https://github.com/bridgecrewio/AirIAM) - Least privilege AWS IAM Terraformer
+- [intel/cve-bin-tool](https://github.com/intel/cve-bin-tool) - This tool scans for a number of common, vulnerable components (openssl, libpng, libxml2, expat and a few others) to let you know if your system includes common libraries with known vulnerabilities.
 - [tern-tools/tern](https://github.com/tern-tools/tern) - Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBoM that Tern generates will give you a layer-by-layer view of what's inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more.
 - [jupyterhub/ldapauthenticator](https://github.com/jupyterhub/ldapauthenticator) - LDAP Authenticator Plugin for Jupyter
 - [jtroberts83/AWS-S3-Object-ACL-Scanner](https://github.com/jtroberts83/AWS-S3-Object-ACL-Scanner) - Scripts used to scan every object in every bucket of an AWS account and report on objects which have Public read access
