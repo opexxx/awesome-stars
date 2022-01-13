@@ -640,7 +640,7 @@
 - [radare/gradare2](https://github.com/radare/gradare2) - Port of gradare GTK/VTE frontend to r2
 - [t00sh/rop-tool](https://github.com/t00sh/rop-tool) - A tool to help you write binary exploits
 - [google/honggfuzz](https://github.com/google/honggfuzz) - Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based)
-- [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, X86)
+- [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, X86)
 - [openics/openics](https://github.com/openics/openics) - Industrial Control Systems Protocol Decoders
 - [dlundquist/sniproxy](https://github.com/dlundquist/sniproxy) - Proxies incoming HTTP and TLS connections based on the hostname contained in the initial request of the TCP session.
 - [zcgonvh/NTDSDumpEx](https://github.com/zcgonvh/NTDSDumpEx) - NTDS.dit offline dumper with non-elevated
@@ -3691,7 +3691,7 @@
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [ssllabs/ssllabs-scan](https://github.com/ssllabs/ssllabs-scan) - A command-line reference-implementation client for SSL Labs APIs, designed for automated and/or bulk testing.
 - [driskell/log-courier](https://github.com/driskell/log-courier) - Log Courier, a lightweight log shipper with Logstash integration.
-- [mozilla/masche](https://github.com/mozilla/masche) - MIG Memory Forensic library
+- [mozilla/masche](https://github.com/mozilla/masche) - Deprecated - MIG Memory Forensic library
 - [snarlysodboxer/BTSyncInator](https://github.com/snarlysodboxer/BTSyncInator) - Multiple BitTorrent Sync Daemon Manager.
 - [snarlysodboxer/sploitinator](https://github.com/snarlysodboxer/sploitinator) - Run Metasploit modules against known hosts and ports, notify of vulnerabilities.
 - [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Reproducible Data Science at Scale!
@@ -4501,7 +4501,6 @@
 - [Arno0x/DNSExfiltrator](https://github.com/Arno0x/DNSExfiltrator) - Data exfiltration over DNS request covert channel
 - [baronpan/SysmonHunter](https://github.com/baronpan/SysmonHunter) - An easy ATT&CK-based Sysmon hunting tool, showing in Blackhat USA 2019 Arsenal
 - [abrignoni/iLEAPP](https://github.com/abrignoni/iLEAPP) - iOS Logs, Events, And Plist Parser
-- [abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP) - Android Logs Events And Protobuf Parser
 - [guyht/notp](https://github.com/guyht/notp) - Node One Time Password library, supports HOTP, TOTP and works with Google Authenticator
 - [interference-security/frida-scripts](https://github.com/interference-security/frida-scripts) - Frida Scripts
 - [UlisesGascon/check-my-headers](https://github.com/UlisesGascon/check-my-headers) - Fast and simple way to check any HTTP Headers
@@ -4516,7 +4515,6 @@
 - [amazon-archives/aws-mobile-react-native-starter](https://github.com/amazon-archives/aws-mobile-react-native-starter) - AWS Mobile React Native Starter App     https://aws.amazon.com/mobile
 - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting diagram will be created.
 - [developit/karmatic](https://github.com/developit/karmatic) - 🦑 Easy automatic (headless) browser testing with Jest's API, but powered by Karma & Webpack.
-- [LoranKloeze/WhatsAllApp](https://github.com/LoranKloeze/WhatsAllApp) - Chrome Extension that creates a UI overlay for WhatsApp Web to enumerate phone numbers, profile pics and about texts
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [pownjs/pown](https://github.com/pownjs/pown) - Pown.js is a security testing an exploitation toolkit built on top of Node.js and NPM.
 - [google/vsaq](https://github.com/google/vsaq) - VSAQ is an interactive questionnaire application to assess the security programs of third parties.
@@ -9340,6 +9338,7 @@
 - [nibiwodong/CNVD-2020-10487-Tomcat-ajp-POC](https://github.com/nibiwodong/CNVD-2020-10487-Tomcat-ajp-POC) - CNVD-2020-10487(CVE-2020-1938), tomcat ajp 文件读取漏洞poc
 - [xindongzhuaizhuai/CVE-2020-1938](https://github.com/xindongzhuaizhuai/CVE-2020-1938) - 
 - [ecstatic-nobel/Aisle25](https://github.com/ecstatic-nobel/Aisle25) - Detect leaks in security event logs.
+- [abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP) - Android Logs Events And Protobuf Parser
 - [mpgn/ntlmrelayx-prettyloot](https://github.com/mpgn/ntlmrelayx-prettyloot) - Convert the loot directory of ntlmrelayx into an enum4linux like output
 - [xdavidhu/awesome-google-vrp-writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups) - 🐛 A list of writeups from the Google VRP Bug Bounty program
 - [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
@@ -13387,7 +13386,7 @@
 - [buffer/maltracer](https://github.com/buffer/maltracer) - Win32 Python code for tracing malware activities on infected hosts
 - [MITRECND/chopshop](https://github.com/MITRECND/chopshop) - Protocol Analysis/Decoder Framework
 - [MITRECND/yaraprocessor](https://github.com/MITRECND/yaraprocessor) - Yara is awesome, but sometimes you need to manipulate the data streams you're scanning in different ways.
-- [mozilla/Garmr](https://github.com/mozilla/Garmr) - Security Testing Tool
+- [mozilla/Garmr](https://github.com/mozilla/Garmr) - INACTIVE - Security Testing Tool
 - [CIRCL/urlquery_python_api](https://github.com/CIRCL/urlquery_python_api) - Python API for URL Query
 - [michael42/androidcrypt.py](https://github.com/michael42/androidcrypt.py) - 
 - [unoconv/unoconv](https://github.com/unoconv/unoconv) - Universal Office Converter - Convert between any document format supported by LibreOffice/OpenOffice.
