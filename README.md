@@ -390,7 +390,7 @@
 - [NanXiao/tcpbench](https://github.com/NanXiao/tcpbench) - Porting OpenBSD tcpbench into Linux.
 - [izabera/pm-tools](https://github.com/izabera/pm-tools) - process management tools
 - [giuseppe/crun](https://github.com/giuseppe/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
-- [CoolerVoid/HiddenWall](https://github.com/CoolerVoid/HiddenWall) - Tool to generate a Linux kernel module for custom rules with Netfilter hooking. (block ports, Hidden mode, functions to protect, etc.)
+- [CoolerVoid/HiddenWall](https://github.com/CoolerVoid/HiddenWall) - Tool to generate a Linux kernel module for custom rules with Netfilter hooking. (block ports, Hidden mode, firewall functionst)
 - [einyx/beehive](https://github.com/einyx/beehive) - Very much a WIP - A complete refactor of Tpot-CE - A full stack honeypot ecoystem running on k8s
 - [kubernetes-sigs/security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator) - The Kubernetes Security Profiles Operator
 - [JemmyLoveJenny/HookSigntool](https://github.com/JemmyLoveJenny/HookSigntool) - 
@@ -3498,7 +3498,7 @@
 - [anacrolix/dht](https://github.com/anacrolix/dht) - dht is used by anacrolix/torrent, and is intended for use as a library in other projects both torrent related and otherwise
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
-- [iawia002/annie](https://github.com/iawia002/annie) - 👾 Fast and simple video download library and CLI tool written in Go
+- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [mtojek/go-url-fuzzer](https://github.com/mtojek/go-url-fuzzer) - Discover hidden files and directories on a web server.
 - [CaliDog/certstream-go](https://github.com/CaliDog/certstream-go) - Go library for connecting to CertStream
@@ -7595,7 +7595,7 @@
 - [joaociocca/Graylog_Sysmon](https://github.com/joaociocca/Graylog_Sysmon) - Advanced Threat detection Configurations for Graylog
 - [danielwolfmann/Invoke-WordThief](https://github.com/danielwolfmann/Invoke-WordThief) - This script runs multithreading module that connects to a remote TCP server, monitors active (opened) Microsoft Word documents (.doc,.docx,etc') and extracting their text using Word application's COM Object. The script adds HKCU registry (no admin needed) Run key, so this script runs persistently.
 - [G0ldenGunSec/Service-Executable-Permissions-Checker](https://github.com/G0ldenGunSec/Service-Executable-Permissions-Checker) - 
-- [sqlcollaborative/dbaclone](https://github.com/sqlcollaborative/dbaclone) - 👯 Clone SQL Server databases using PowerShell previously named PSDatabaseClone
+- [dataplat/dbaclone](https://github.com/dataplat/dbaclone) - 👯 Clone SQL Server databases using PowerShell previously named PSDatabaseClone
 - [realslacker/PSmRemoteNG](https://github.com/realslacker/PSmRemoteNG) - A module to create mRemoteNG connection files from PowerShell. You can install this module from the PSGallery!
 - [dfinke/PSGistIT](https://github.com/dfinke/PSGistIT) - Create Github gists of files using one single command, Export-Gist
 - [LuxNoBulIshit/LuxPowerScan](https://github.com/LuxNoBulIshit/LuxPowerScan) - LuxPowerScan is utility for network discovery and port scaning.
@@ -8255,7 +8255,7 @@
 - [MattHodge/PackerTemplates](https://github.com/MattHodge/PackerTemplates) - Packer Templates for building Windows Operating Systems
 - [MattHodge/VagrantBoxes](https://github.com/MattHodge/VagrantBoxes) - Random VagrantBoxes
 - [psconfeu/2017](https://github.com/psconfeu/2017) - PowerShell Conference Europe 2017 Slides and Demo Scripts
-- [sqlcollaborative/Invoke-SqlCmd2](https://github.com/sqlcollaborative/Invoke-SqlCmd2) - PowerShell module containing Invoke-SqlCmd2
+- [dataplat/Invoke-SqlCmd2](https://github.com/dataplat/Invoke-SqlCmd2) - PowerShell module containing Invoke-SqlCmd2
 - [cunninghamp/Get-MailboxReport.ps1](https://github.com/cunninghamp/Get-MailboxReport.ps1) - PowerShell script to generate a report of mailboxes, including information such as item count, total size, and other useful attributes.
 - [danielbohannon/Invoke-CradleCrafter](https://github.com/danielbohannon/Invoke-CradleCrafter) - PowerShell Remote Download Cradle Generator & Obfuscator
 - [JavelinNetworks/IR-Tools](https://github.com/JavelinNetworks/IR-Tools) - IR-Tools - PowerShell tools for IR
@@ -8379,7 +8379,7 @@
 - [Kevin-Robertson/Conveigh](https://github.com/Kevin-Robertson/Conveigh) - Conveigh is a Windows PowerShell LLMNR/NBNS spoofer detection tool
 - [juneb/AvoidVersionChaos](https://github.com/juneb/AvoidVersionChaos) - Slides and code from "Avoiding Version Chaos in a Multi-Version World" presentation
 - [ligershark/nuget-powershell](https://github.com/ligershark/nuget-powershell) - Simplifies consuming nuget packages in powershell
-- [sqlcollaborative/dbatools](https://github.com/sqlcollaborative/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
+- [dataplat/dbatools](https://github.com/dataplat/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [dlwyatt/PowershellProfiler](https://github.com/dlwyatt/PowershellProfiler) - 
 - [cdhunt/PSelect](https://github.com/cdhunt/PSelect) - PowerShell DSL for aggregating data
@@ -9131,7 +9131,7 @@
 - [chompie1337/SMBGhost_RCE_PoC](https://github.com/chompie1337/SMBGhost_RCE_PoC) - 
 - [ly4k/SMBGhost](https://github.com/ly4k/SMBGhost) - Scanner for CVE-2020-0796 - SMBv3 RCE
 - [CERTCC/PoC-Exploits](https://github.com/CERTCC/PoC-Exploits) - Select proof-of-concept exploits for software vulnerabilities to aid in identifying and testing vulnerable systems.
-- [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This program is an opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server.
+- [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This program is an opensource backdoor/reverse tcp/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server.
 - [sinistergeek/Pdf-to-audio-Converter](https://github.com/sinistergeek/Pdf-to-audio-Converter) - 
 - [airbus-seclab/android_emuroot](https://github.com/airbus-seclab/android_emuroot) - Android_Emuroot is a Python script that allows granting root privileges on the fly to shells running on Android virtual machines that use google-provided emulator images called Google API Playstore, to help reverse engineers to go deeper into their investigations.
 - [Talkaboutcybersecurity/GitMonitor](https://github.com/Talkaboutcybersecurity/GitMonitor) - One way to continuously monitor sensitive information that could be exposed on Github
@@ -9251,7 +9251,7 @@
 - [duo-labs/cloudtracker](https://github.com/duo-labs/cloudtracker) - CloudTracker helps you find over-privileged IAM users and roles by comparing CloudTrail logs with current IAM policies.
 - [bridgecrewio/AirIAM](https://github.com/bridgecrewio/AirIAM) - Least privilege AWS IAM Terraformer
 - [intel/cve-bin-tool](https://github.com/intel/cve-bin-tool) - This tool scans for a number of common, vulnerable components (openssl, libpng, libxml2, expat and a few others) to let you know if your system includes common libraries with known vulnerabilities.
-- [tern-tools/tern](https://github.com/tern-tools/tern) - Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBoM that Tern generates will give you a layer-by-layer view of what's inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more.
+- [tern-tools/tern](https://github.com/tern-tools/tern) - Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBOM that Tern generates will give you a layer-by-layer view of what's inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more.
 - [jupyterhub/ldapauthenticator](https://github.com/jupyterhub/ldapauthenticator) - LDAP Authenticator Plugin for Jupyter
 - [jtroberts83/AWS-S3-Object-ACL-Scanner](https://github.com/jtroberts83/AWS-S3-Object-ACL-Scanner) - Scripts used to scan every object in every bucket of an AWS account and report on objects which have Public read access
 - [aws-samples/aws-account-vending-machine](https://github.com/aws-samples/aws-account-vending-machine) - This repository contains various versions of the account vending machine used to provision AWS accounts with custom configurations
