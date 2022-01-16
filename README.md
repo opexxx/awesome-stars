@@ -2100,7 +2100,7 @@
 - [boostcon/cppnow_presentations_2013](https://github.com/boostcon/cppnow_presentations_2013) - 
 - [jessek/hashdeep](https://github.com/jessek/hashdeep) - 
 - [CERT-Polska/HSN-Capture-HPC-NG](https://github.com/CERT-Polska/HSN-Capture-HPC-NG) - HoneySpider Network version of Capture-HPC
-- [0vercl0k/rp](https://github.com/0vercl0k/rp) - rp++ is a full-cpp written tool that aims to find ROP sequences in PE/Elf/Mach-O x86/x64 binaries. It is open-source and has been tested on several OS: Debian / Windows 8.1 / Mac OSX Lion (10.7.3). Moreover, it is x64 compatible and supports Intel syntax. Standalone executables can also be directly downloaded.
+- [0vercl0k/rp](https://github.com/0vercl0k/rp) - rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM binaries.
 - [dsw/oink-stack](https://github.com/dsw/oink-stack) - Oink is a collaboration of C++ static analysis tools.
 - [wirepair/IDAPinLogger](https://github.com/wirepair/IDAPinLogger) - Logs instruction hits to a file which can be fed into IDA Pro to highlight which instructions were called.
 - [danmar/cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
@@ -2406,6 +2406,7 @@
 - [idiotc4t/Reflective-HackBrowserData](https://github.com/idiotc4t/Reflective-HackBrowserData) - HackBrowserData的反射模块
 - [0xInfection/LogMePwn](https://github.com/0xInfection/LogMePwn) - A fully automated, reliable, super-fast, mass scanning and validation toolkit for the Log4J RCE CVE-2021-44228 vulnerability.
 - [kost/logdns](https://github.com/kost/logdns) - Simple DNS logging server
+- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [jas502n/Grafana-CVE-2021-43798](https://github.com/jas502n/Grafana-CVE-2021-43798) - Grafana Unauthorized arbitrary file reading vulnerability
 - [FDlucifer/Proxy-Attackchain](https://github.com/FDlucifer/Proxy-Attackchain) - proxylogon, proxyshell, proxyoracle and proxytoken full chain exploit tool
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
@@ -5618,6 +5619,7 @@
 
 ## Others 
 
+- [globalbao/awesome-azure-policy](https://github.com/globalbao/awesome-azure-policy) - A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon
 - [rod-trent/MustLearnKQL](https://github.com/rod-trent/MustLearnKQL) - Code included as part of the MustLearnKQL blog series
 - [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom) - A curated list of SBOM (Software Bill Of Materials) related tools, frameworks, blogs, podcasts, and articles
 - [basubanakar/login-panel-wordlist](https://github.com/basubanakar/login-panel-wordlist) - 
@@ -6581,7 +6583,7 @@
 - [maldevel/RootKits-List-Download](https://github.com/maldevel/RootKits-List-Download) - A curated list of rootkits found on Github and other sites.
 - [PrateekKumarSingh/CheatSheets](https://github.com/PrateekKumarSingh/CheatSheets) - CheatSheets for Powershell, Exchange, Sharepoint, Lync, RegEx, VSCode and more
 - [nfarrar/malgate](https://github.com/nfarrar/malgate) - ABANDONED: A customized OpenWRT VMWare VM for providing virtual networks, useful for Malware Analysis.
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2021. Pull requests welcome.
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2022. Pull requests welcome.
 - [openstack-archive/bandit](https://github.com/openstack-archive/bandit) - Python AST-based static analyzer from OpenStack Security Group
 - [sooshie/Security-Data-Analysis](https://github.com/sooshie/Security-Data-Analysis) - A series of labs that will help users apply various data science techniques to security related data.
 - [mubix/cfdb](https://github.com/mubix/cfdb) - Common Findings Database
@@ -8831,7 +8833,6 @@
 - [cisagov/CHIRP](https://github.com/cisagov/CHIRP) - A DFIR tool written in Python.
 - [adityaks/strafer](https://github.com/adityaks/strafer) - Strafer: A tool to detect potential infections in Elasticsearch instances
 - [JohnTroony/Blisqy](https://github.com/JohnTroony/Blisqy) - Version 0.2 - Exploit Time-based blind-SQL injection in HTTP-Headers (MySQL/MariaDB).
-- [greplix/Genisys](https://github.com/greplix/Genisys) - Powerful Telegram Members Scraping and Adding Toolkit
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 - [ZephrFish/Exch-CVE-2021-26855](https://github.com/ZephrFish/Exch-CVE-2021-26855) - CVE-2021-26855: PoC (Not a HoneyPoC for once!)
@@ -11694,7 +11695,7 @@
 - [DavidKorczynski/RePEconstruct](https://github.com/DavidKorczynski/RePEconstruct) - 
 - [carmaa/nacker](https://github.com/carmaa/nacker) - Nacker is a tool to circumvent 802.1x Network Access Control (NAC) on a wired LAN. Nacker will help you locate any non-802.1x configurable hosts on your subnet, and spoof their MAC address so that you appear authenticated to the switch.
 - [ShawnDEvans/xorpy](https://github.com/ShawnDEvans/xorpy) - Stupid simple XOR encryption utility
-- [csvoss/onelinerizer](https://github.com/csvoss/onelinerizer) - Convert any Python 2 file into a single line of code
+- [csvoss/onelinerizer](https://github.com/csvoss/onelinerizer) - Shamelessly convert any Python 2 script into a terrible single line of code
 - [rvazarkar/KrbCredExport](https://github.com/rvazarkar/KrbCredExport) - Exports Kerberos KrbCred Tickets for use in Mimikatz/Beacon from a Kerberos CCache File
 - [MuhammetDilmac/MimikatzParser](https://github.com/MuhammetDilmac/MimikatzParser) - Initial Commit
 - [dirkjanm/ldapdomaindump](https://github.com/dirkjanm/ldapdomaindump) - Active Directory information dumper via LDAP
@@ -15920,7 +15921,6 @@
 
 ## Vue 
 
-- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [mandatoryprogrammer/ChromeGalvanizer](https://github.com/mandatoryprogrammer/ChromeGalvanizer) - Harden your Chrome browser via enterprise policy.
 - [BC-SECURITY/Starkiller](https://github.com/BC-SECURITY/Starkiller) - Starkiller is a Frontend for PowerShell Empire.
 - [chaitin/xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
