@@ -2561,6 +2561,7 @@
 - [projectdiscovery/cloudlist](https://github.com/projectdiscovery/cloudlist) - Cloudlist is a tool for listing Assets from multiple Cloud Providers.
 - [redcode-labs/Sammler](https://github.com/redcode-labs/Sammler) - A tool to extract useful data from documents
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [Shopify/kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls
 - [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization
@@ -6263,7 +6264,7 @@
 - [aquasecurity/cloud-security-remediation-guides](https://github.com/aquasecurity/cloud-security-remediation-guides) - Security Remediation Guides
 - [1Password/1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
 - [shenril/owasp-asvs-checklist](https://github.com/shenril/owasp-asvs-checklist) - OWASP ASVS checklist for audits
-- [0verpwn/Fuzzing](https://github.com/0verpwn/Fuzzing) - Fuzzing Payloads to Assist in Web Application Testing.
+- [TyrantSec/Fuzzing](https://github.com/TyrantSec/Fuzzing) - Fuzzing Payloads to Assist in Web Application Testing.
 - [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, tools and other resources
 - [PinkP4nther/aws-testing-notes](https://github.com/PinkP4nther/aws-testing-notes) - Notes as I learn basic AWS penetration testing
 - [Gexos/malrepo](https://github.com/Gexos/malrepo) - A collection of malware samples caught by DIONAEA Honeypot
@@ -15568,7 +15569,6 @@
 
 ## Starlark 
 
-- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [bazelbuild/rules_docker](https://github.com/bazelbuild/rules_docker) - Rules for building and handling Docker images with Bazel
 - [kubernetes/repo-infra](https://github.com/kubernetes/repo-infra) - Kubernetes repository infrastucture tools
 
@@ -15737,7 +15737,7 @@
 - [maticzav/emma-cli](https://github.com/maticzav/emma-cli) - 📦 Terminal assistant to find and install node packages.
 - [appbaseio/mirage](https://github.com/appbaseio/mirage) - :art: GUI for simplifying Elasticsearch Query DSL
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
-- [authcov/authcov](https://github.com/authcov/authcov) - Web app authorization coverage scanning
+- [authcov/authcov](https://github.com/authcov/authcov) - Web app authorisation coverage scanning
 - [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [LokiJS-Forge/LokiDB](https://github.com/LokiJS-Forge/LokiDB) - blazing fast, feature-rich in-memory database written in TypeScript
 - [punchcard/punchcard](https://github.com/punchcard/punchcard) - Type-safe AWS infrastructure.
