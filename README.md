@@ -12659,7 +12659,7 @@
 - [ahupp/python-magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic
 - [marcoramilli/peinfector](https://github.com/marcoramilli/peinfector) - Infecting PE
 - [mozilla/minion-backend](https://github.com/mozilla/minion-backend) - Minion Backend
-- [mozilla/minion-nmap-plugin](https://github.com/mozilla/minion-nmap-plugin) - Minion NMAP Plugin
+- [mozilla/minion-nmap-plugin](https://github.com/mozilla/minion-nmap-plugin) - INACTIVE - http://mzl.la/ghe-archive - Minion NMAP Plugin
 - [mozilla/minion-skipfish-plugin](https://github.com/mozilla/minion-skipfish-plugin) - Minion Skipfish Plugin
 - [mozilla/minion-ssl-plugin](https://github.com/mozilla/minion-ssl-plugin) - Minion SSL/TLS Plugin
 - [mozilla/minion-zap-plugin](https://github.com/mozilla/minion-zap-plugin) - Minion ZAP Plugin
