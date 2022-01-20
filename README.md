@@ -2284,6 +2284,7 @@
 ## Dockerfile 
 
 - [NUKIB/misp-modules](https://github.com/NUKIB/misp-modules) - Docker image for MISP modules
+- [leonjza/docker-elk](https://github.com/leonjza/docker-elk) - docker-elk repo, using the https://github.com/deviantony/docker-elk template
 - [higatowa/bento](https://github.com/higatowa/bento) - Bento Toolkit is a minimal fedora-based container for penetration tests and CTF with the sweet addition of GUI applications.
 - [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 - [madhuakula/hacker-container](https://github.com/madhuakula/hacker-container) - Container with all the list of useful tools/commands while hacking and pentesting Kubernetes Clusters
@@ -2439,7 +2440,7 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [grines/scour](https://github.com/grines/scour) - 
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [jetstack/jetstack-secure](https://github.com/jetstack/jetstack-secure) - Open source components of Jetstack Secure
 - [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
 - [chen-keinan/kube-beacon](https://github.com/chen-keinan/kube-beacon) - Open Source runtime scanner for k8s cluster and perform security audit checks based on CIS Kubernetes Benchmark specification
@@ -6584,7 +6585,7 @@
 - [maldevel/RootKits-List-Download](https://github.com/maldevel/RootKits-List-Download) - A curated list of rootkits found on Github and other sites.
 - [PrateekKumarSingh/CheatSheets](https://github.com/PrateekKumarSingh/CheatSheets) - CheatSheets for Powershell, Exchange, Sharepoint, Lync, RegEx, VSCode and more
 - [nfarrar/malgate](https://github.com/nfarrar/malgate) - ABANDONED: A customized OpenWRT VMWare VM for providing virtual networks, useful for Malware Analysis.
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2022. Pull requests welcome.
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to try out machine learning with Python and Jupyter Notebook. Free/open-source resources, notebooks, courses, and other links. First posted in 2016, maintained as of 2022. Pull requests welcome.
 - [openstack-archive/bandit](https://github.com/openstack-archive/bandit) - Python AST-based static analyzer from OpenStack Security Group
 - [sooshie/Security-Data-Analysis](https://github.com/sooshie/Security-Data-Analysis) - A series of labs that will help users apply various data science techniques to security related data.
 - [mubix/cfdb](https://github.com/mubix/cfdb) - Common Findings Database
@@ -10532,7 +10533,7 @@
 - [Viralmaniar/Powershell-RAT](https://github.com/Viralmaniar/Powershell-RAT) - Python based backdoor that uses Gmail to exfiltrate data through attachment. This RAT will help during red team engagements to backdoor any Windows machines. It tracks the user activity using screen capture and sends it to an attacker as an e-mail attachment.
 - [LMGsec/Magic-Unicorn-Tool](https://github.com/LMGsec/Magic-Unicorn-Tool) - 
 - [Greenwolf/social_mapper](https://github.com/Greenwolf/social_mapper) - A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)
-- [dstepanic/attck_empire](https://github.com/dstepanic/attck_empire) - Generate ATT&CK Navigator layer file from PowerShell Empire agent logs
+- [dstepanic17/attck_empire](https://github.com/dstepanic17/attck_empire) - Generate ATT&CK Navigator layer file from PowerShell Empire agent logs
 - [diogo-fernan/domfind](https://github.com/diogo-fernan/domfind) - A Python DNS crawler to find identical domain names under different TLDs.
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [pan-unit42/public_tools](https://github.com/pan-unit42/public_tools) - 
@@ -10803,6 +10804,7 @@
 - [n4xh4ck5/N4xD0rk](https://github.com/n4xh4ck5/N4xD0rk) - Listing subdomains about a main domain
 - [Trietptm-on-Security/Bella](https://github.com/Trietptm-on-Security/Bella) - A pure python, post-exploitation, data mining tool and remote administration tool for macOS.
 - [danigargu/explodingcan](https://github.com/danigargu/explodingcan) - An implementation of NSA's ExplodingCan exploit in Python
+- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
 - [misc0110/asciicast2vector](https://github.com/misc0110/asciicast2vector) - Convert asciicast (asciinema recordings) to vector graphics (SVG and TikZ).
 - [Manisso/fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
 - [geekpradd/PyLyrics](https://github.com/geekpradd/PyLyrics) - A Pythonic Implementation of lyrics.wikia.com for getting lyrics of songs
@@ -12658,10 +12660,10 @@
 - [KoreLogicSecurity/mastiff](https://github.com/KoreLogicSecurity/mastiff) - Malware static analysis framework
 - [ahupp/python-magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic
 - [marcoramilli/peinfector](https://github.com/marcoramilli/peinfector) - Infecting PE
-- [mozilla/minion-backend](https://github.com/mozilla/minion-backend) - Minion Backend
+- [mozilla/minion-backend](https://github.com/mozilla/minion-backend) - INACTIVE - http://mzl.la/ghe-archive - Minion Backend
 - [mozilla/minion-nmap-plugin](https://github.com/mozilla/minion-nmap-plugin) - INACTIVE - http://mzl.la/ghe-archive - Minion NMAP Plugin
 - [mozilla/minion-skipfish-plugin](https://github.com/mozilla/minion-skipfish-plugin) - Minion Skipfish Plugin
-- [mozilla/minion-ssl-plugin](https://github.com/mozilla/minion-ssl-plugin) - Minion SSL/TLS Plugin
+- [mozilla/minion-ssl-plugin](https://github.com/mozilla/minion-ssl-plugin) - INACTIVE - http://mzl.la/ghe-archive - Minion SSL/TLS Plugin
 - [mozilla/minion-zap-plugin](https://github.com/mozilla/minion-zap-plugin) - Minion ZAP Plugin
 - [DataBrewery/cubes](https://github.com/DataBrewery/cubes) - Light-weight Python OLAP framework for multi-dimensional data analysis
 - [cyberplant/filehasher](https://github.com/cyberplant/filehasher) - File hashing utility.
@@ -14191,7 +14193,6 @@
 - [adilsoybali/Log4j-RCE-Scanner](https://github.com/adilsoybali/Log4j-RCE-Scanner) - Remote command execution vulnerability scanner for Log4j.
 - [m0zgen/install-gvm21](https://github.com/m0zgen/install-gvm21) - Script for GVM 21 installs to Ubuntu
 - [dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) - :book: Kubernetes CheatSheets In A4
-- [leonjza/docker-elk](https://github.com/leonjza/docker-elk) - docker-elk repo, using the https://github.com/deviantony/docker-elk template
 - [evanRubinsteinIT/BugBounty-Oneliners](https://github.com/evanRubinsteinIT/BugBounty-Oneliners) - A compilation of quick bash scripts I wrote to make life easier while bug bounty hunting
 - [gwen001/icmp-send-file](https://github.com/gwen001/icmp-send-file) - send file with ping
 - [chiraag-nataraj/firejail-profiles](https://github.com/chiraag-nataraj/firejail-profiles) - Tight Firejail profiles
@@ -14242,7 +14243,7 @@
 - [TheBinitGhimire/SHADEL](https://github.com/TheBinitGhimire/SHADEL) - Obtain IP Addresses from a List of Domains!
 - [sophos-cybersecurity/Incident-Response](https://github.com/sophos-cybersecurity/Incident-Response) - Scripts to aid in incident response scenarios
 - [trimstray/sandmap](https://github.com/trimstray/sandmap) - Nmap on steroids. Simple CLI with the ability to run pure Nmap engine, 31 modules with 459 scan profiles.
-- [jaykali/maskphish](https://github.com/jaykali/maskphish) - Introducing masking URL  technology to the world for the very FIRST TIME. Give a Mask to Phishing URL like a PRO.. A MUST have tool for Phishing.
+- [jaykali/maskphish](https://github.com/jaykali/maskphish) - Introducing "URL Making Technology" to the world for the very FIRST TIME. Give a Mask to Phishing URL like a PRO.. A MUST have tool for Phishing.
 - [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest) - An open source script tests VPN connection for DNS Leak.
 - [madhuakula/attacking-and-auditing-docker-containers-and-kubernetes-clusters](https://github.com/madhuakula/attacking-and-auditing-docker-containers-and-kubernetes-clusters) - Appsecco training course content on Attacking and Auditing Dockers Containers and Kubernetes Clusters
 - [aind-containers/aind](https://github.com/aind-containers/aind) - AinD: Android in Docker. Ain't an emulator.
@@ -14751,7 +14752,6 @@
 - [EdOverflow/contact.sh](https://github.com/EdOverflow/contact.sh) - An OSINT tool to find contacts in order to report security vulnerabilities.
 - [bugbaba/ssTaker](https://github.com/bugbaba/ssTaker) - Bash Script that takes Screenshot of a list of urls using cutycapt
 - [binorassocies/brostash](https://github.com/binorassocies/brostash) - brostash: Linux distribution based on Debian and focusing on network security events collection
-- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
 - [Greenwolf/Spray](https://github.com/Greenwolf/Spray) - A Password Spraying tool for Active Directory Credentials by Jacob Wilkin(Greenwolf)
 - [xme/misp-docker](https://github.com/xme/misp-docker) - Docker container for MISP
 - [b3rito/yotter](https://github.com/b3rito/yotter) - yotter - bash script that performs recon and then uses dirb to discover directories that might lead to information leakage
@@ -15968,7 +15968,7 @@
 - [SEKOIA-IO/Community](https://github.com/SEKOIA-IO/Community) - Welcome to the SEKOIA.IO Community repository!
 - [mandiant/red_team_tool_countermeasures](https://github.com/mandiant/red_team_tool_countermeasures) - 
 - [sbousseaden/YaraHunts](https://github.com/sbousseaden/YaraHunts) - Random hunting ordiented yara rules
-- [advanced-threat-research/Yara-Rules](https://github.com/advanced-threat-research/Yara-Rules) - Repository of YARA rules made by McAfee Enterprise ATR Team
+- [advanced-threat-research/Yara-Rules](https://github.com/advanced-threat-research/Yara-Rules) - Repository of YARA rules made by Trellix ATR Team
 - [nsacyber/Mitigating-Web-Shells](https://github.com/nsacyber/Mitigating-Web-Shells) - Guidance for mitigation web shells. #nsacyber
 - [intezer/yara-rules](https://github.com/intezer/yara-rules) - 
 - [blackeko/PEpper](https://github.com/blackeko/PEpper) - An open source script to perform malware static analysis on Portable Executable
