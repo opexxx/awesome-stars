@@ -2562,7 +2562,6 @@
 - [projectdiscovery/cloudlist](https://github.com/projectdiscovery/cloudlist) - Cloudlist is a tool for listing Assets from multiple Cloud Providers.
 - [redcode-labs/Sammler](https://github.com/redcode-labs/Sammler) - A tool to extract useful data from documents
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
-- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [Shopify/kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls
 - [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization
@@ -6585,7 +6584,7 @@
 - [maldevel/RootKits-List-Download](https://github.com/maldevel/RootKits-List-Download) - A curated list of rootkits found on Github and other sites.
 - [PrateekKumarSingh/CheatSheets](https://github.com/PrateekKumarSingh/CheatSheets) - CheatSheets for Powershell, Exchange, Sharepoint, Lync, RegEx, VSCode and more
 - [nfarrar/malgate](https://github.com/nfarrar/malgate) - ABANDONED: A customized OpenWRT VMWare VM for providing virtual networks, useful for Malware Analysis.
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to try out machine learning with Python and Jupyter Notebook. Free/open-source resources, notebooks, courses, and other links. First posted in 2016, maintained as of 2022. Pull requests welcome.
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. First posted in 2016, maintained as of 2022. Pull requests welcome!
 - [openstack-archive/bandit](https://github.com/openstack-archive/bandit) - Python AST-based static analyzer from OpenStack Security Group
 - [sooshie/Security-Data-Analysis](https://github.com/sooshie/Security-Data-Analysis) - A series of labs that will help users apply various data science techniques to security related data.
 - [mubix/cfdb](https://github.com/mubix/cfdb) - Common Findings Database
@@ -14188,6 +14187,7 @@
 
 ## Shell 
 
+- [six2dez/OneListForAll](https://github.com/six2dez/OneListForAll) - Rockyou for web fuzzing
 - [mikedfunk/dotfiles](https://github.com/mikedfunk/dotfiles) - my Neovim, Git, Tmux, and other dotfiles
 - [brimstone/windows-ova](https://github.com/brimstone/windows-ova) - Self-Installing Windows OVA. Automate and distribute Windows as an OVA.
 - [adilsoybali/Log4j-RCE-Scanner](https://github.com/adilsoybali/Log4j-RCE-Scanner) - Remote command execution vulnerability scanner for Log4j.
@@ -15569,6 +15569,7 @@
 
 ## Starlark 
 
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [bazelbuild/rules_docker](https://github.com/bazelbuild/rules_docker) - Rules for building and handling Docker images with Bazel
 - [kubernetes/repo-infra](https://github.com/kubernetes/repo-infra) - Kubernetes repository infrastucture tools
 
