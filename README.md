@@ -2533,7 +2533,7 @@
 - [chenjiandongx/kubectl-images](https://github.com/chenjiandongx/kubectl-images) - 🕸  Show container images used in the cluster.
 - [tilt-dev/ctlptl](https://github.com/tilt-dev/ctlptl) - Making local Kubernetes clusters fun and easy to set up
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
-- [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh
+- [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity. https://karpenter.sh
 - [slyd0g/WhiteChocolateMacademiaNut](https://github.com/slyd0g/WhiteChocolateMacademiaNut) - Interact with Chromium-based browsers' debug port to view open tabs, installed extensions, and cookies
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Kubernetes Marketplace
@@ -10413,7 +10413,7 @@
 - [Stahlz/CertWatcher](https://github.com/Stahlz/CertWatcher) - CertWatcher is a new take on monitoring for phishing sites. It is meant to be a set and forget service that will send you a daily report of phishing sites based off your keywords and Top level Domains.
 - [SFTtech/sftdyn](https://github.com/SFTtech/sftdyn) - Self-hosted dyndns/dynamic DNS server and updater for bind
 - [zyocum/reader](https://github.com/zyocum/reader) - Extract clean(er), readable text from web pages via Mercury Web Parser.
-- [jay0lee/got-your-back](https://github.com/jay0lee/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
+- [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
 - [jerabaul29/randommac](https://github.com/jerabaul29/randommac) - Python wrappers on nmcli for easy MAC spoofing compatible with NetworkManager
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [thundergolfer/slack-to-pdf](https://github.com/thundergolfer/slack-to-pdf) - create a PDF report of your team interactions. For university teams
