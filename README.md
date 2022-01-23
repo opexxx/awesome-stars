@@ -5620,6 +5620,7 @@
 
 ## Others 
 
+- [ericagleaton/CISSP-2](https://github.com/ericagleaton/CISSP-2) - Imran's CISSP Prep Stuff
 - [globalbao/awesome-azure-policy](https://github.com/globalbao/awesome-azure-policy) - A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon
 - [rod-trent/MustLearnKQL](https://github.com/rod-trent/MustLearnKQL) - Code included as part of the MustLearnKQL blog series
 - [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom) - A curated list of SBOM (Software Bill Of Materials) related tools, frameworks, blogs, podcasts, and articles
@@ -8764,6 +8765,7 @@
 
 ## Python 
 
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
 - [0xabu/pdfannots](https://github.com/0xabu/pdfannots) - Extracts and formats text annotations from a PDF file
 - [redhuntlabs/Log4JHunt](https://github.com/redhuntlabs/Log4JHunt) - An automated, reliable scanner for the Log4Shell (CVE-2021-44228) vulnerability.
