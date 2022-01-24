@@ -390,7 +390,7 @@
 - [NanXiao/tcpbench](https://github.com/NanXiao/tcpbench) - Porting OpenBSD tcpbench into Linux.
 - [izabera/pm-tools](https://github.com/izabera/pm-tools) - process management tools
 - [giuseppe/crun](https://github.com/giuseppe/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
-- [CoolerVoid/HiddenWall](https://github.com/CoolerVoid/HiddenWall) - Tool to generate a Linux kernel module for custom rules with Netfilter hooking. (block ports, Hidden mode, firewall functionst)
+- [CoolerVoid/HiddenWall](https://github.com/CoolerVoid/HiddenWall) - Tool to generate a Linux kernel module for custom rules with Netfilter hooking. (block ports, Hidden mode, firewall functions)
 - [einyx/beehive](https://github.com/einyx/beehive) - Very much a WIP - A complete refactor of Tpot-CE - A full stack honeypot ecoystem running on k8s
 - [kubernetes-sigs/security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator) - The Kubernetes Security Profiles Operator
 - [JemmyLoveJenny/HookSigntool](https://github.com/JemmyLoveJenny/HookSigntool) - 
@@ -3373,7 +3373,7 @@
 - [gen0cide/gscript](https://github.com/gen0cide/gscript) - framework to rapidly implement custom droppers for all three major operating systems
 - [monochromegane/smux](https://github.com/monochromegane/smux) - smux is a socket multiplexer written in Golang. It provides fast communication by efficiently a single connection.
 - [ffay/lanproxy-go-client](https://github.com/ffay/lanproxy-go-client) - Lanproxy is a reverse proxy to help you expose a local server behind a NAT or firewall to the internet. it supports any protocols over tcp (http https ssh ...)
-- [cmars/ormesh](https://github.com/cmars/ormesh) - onion-routed mesh
+- [cmars/ormesh](https://github.com/cmars/ormesh) - [UNMAINTAINED: Try https://github.com/cmars/oniongrok instead] onion-routed mesh
 - [icexin/sockhttp](https://github.com/icexin/sockhttp) - A HTTP&HTTPS proxy over SOCK5
 - [adrpino/sshackle](https://github.com/adrpino/sshackle) - SSH bruteforcer with Tor
 - [keroserene/snowflake](https://github.com/keroserene/snowflake) - WebRTC Pluggable Transport
@@ -4941,6 +4941,7 @@
 - [sarahavilov/secure-login](https://github.com/sarahavilov/secure-login) - Secure Login is a login extension for Mozilla Firefox integrated password manager
 - [allfro/BurpKit](https://github.com/allfro/BurpKit) - Next-gen BurpSuite penetration testing tool
 - [Netflix-Skunkworks/sleepy-puppy](https://github.com/Netflix-Skunkworks/sleepy-puppy) - Sleepy Puppy XSS Payload Management Framework
+- [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 - [girliemac/RPi-KittyCam](https://github.com/girliemac/RPi-KittyCam) - Raspberry Pi app using a camera and PIR motion sensor, written in Node.js with Johnny-Five and Kittydar for cat facial detection
 - [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
@@ -12167,7 +12168,6 @@
 - [galkan/tools](https://github.com/galkan/tools) - Tools that are related to pentest and network security
 - [aabed/dockpot](https://github.com/aabed/dockpot) - 
 - [St0rn/Reversing](https://github.com/St0rn/Reversing) - Reversing and applicative vulnerabilities Tools
-- [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 - [amueller/scipy_2015_sklearn_tutorial](https://github.com/amueller/scipy_2015_sklearn_tutorial) - Scikit-Learn tutorial material for Scipy 2015
 - [rhiever/reddit-analysis](https://github.com/rhiever/reddit-analysis) - A Python script that parses post titles, self-texts, and comments on reddit and makes word clouds out of the word frequencies.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
