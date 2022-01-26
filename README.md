@@ -1435,7 +1435,7 @@
 - [matterpreter/Shhmon](https://github.com/matterpreter/Shhmon) - Neutering Sysmon via driver unload
 - [HunnicCyber/SharpSniper](https://github.com/HunnicCyber/SharpSniper) - Find specific users in active directory via their username and logon IP address
 - [pwntester/ysoserial.net](https://github.com/pwntester/ysoserial.net) - Deserialization payload generator for a variety of .NET formatters
-- [Wohlstand/Destroy-Windows-10-Spying](https://github.com/Wohlstand/Destroy-Windows-10-Spying) - Destroy Windows Spying tool
+- [Wohlstand/Destroy-Windows-10-Spying](https://github.com/Wohlstand/Destroy-Windows-10-Spying) - !!!UNMAINTAINED!!! Destroy Windows Spying tool
 - [shibayan/Sharprompt](https://github.com/shibayan/Sharprompt) - Interactive command-line based application framework for C#
 - [Mr-Un1k0d3r/RedTeamCSharpScripts](https://github.com/Mr-Un1k0d3r/RedTeamCSharpScripts) - C# Script used for Red Team
 - [randyrants/sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
@@ -14382,7 +14382,7 @@
 - [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
 - [RomanEmelyanov/BruteLearn](https://github.com/RomanEmelyanov/BruteLearn) - 
 - [RomanEmelyanov/convert-russian-wordlists](https://github.com/RomanEmelyanov/convert-russian-wordlists) - 
-- [01rabbit/PAKURI](https://github.com/01rabbit/PAKURI) - Penetration test Achieve Knowledge Unite Rapid Interface
+- [01rabbit/PAKURI](https://github.com/01rabbit/PAKURI) - PAKURI has been merged with Python and launched as a new project, PAKURI-THON.
 - [vitaly-kamluk/bitscout](https://github.com/vitaly-kamluk/bitscout) - Remote forensics meta tool
 - [andrew-d/static-binaries](https://github.com/andrew-d/static-binaries) - Various *nix tools built as statically-linked binaries
 - [AllKind/iptables-bash_completion](https://github.com/AllKind/iptables-bash_completion) - iptables / ip6tables programmable completion (bash)
