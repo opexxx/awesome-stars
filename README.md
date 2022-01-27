@@ -3288,7 +3288,6 @@
 - [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [gavv/httpexpect](https://github.com/gavv/httpexpect) - End-to-end HTTP and REST API testing for Go.
 - [parnurzeal/gorequest](https://github.com/parnurzeal/gorequest) - GoRequest -- Simplified HTTP client ( inspired by nodejs SuperAgent )
-- [novaquark/sysinfo_influxdb](https://github.com/novaquark/sysinfo_influxdb) - Collect and send system (linux) info to InfluxDB.
 - [cosiner/socker](https://github.com/cosiner/socker) - A Go library to simplify the use of SSH for devops
 - [bcicen/slackcat](https://github.com/bcicen/slackcat) - CLI utility to post files and command output to slack
 - [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
@@ -7479,7 +7478,7 @@
 - [PaulHCode/RecurringADChecks](https://github.com/PaulHCode/RecurringADChecks) - 
 - [soteria-security/365Inspect](https://github.com/soteria-security/365Inspect) - A PowerShell script that automates the security assessment of Microsoft Office 365 environments.
 - [AzureAD/Azure-AD-Incident-Response-PowerShell-Module](https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module) - The Azure Active Directory Incident Response PowerShell module provides a number of tools, developed by the Azure Active Directory Product Group in conjunction with the Microsoft Detection and Response Team (DART), to assist in compromise response.
-- [eshlomo1/Azure-Sentinel-4-SecOps](https://github.com/eshlomo1/Azure-Sentinel-4-SecOps) - Azure Sentinel 4 SecOps
+- [eshlomo1/Microsoft-Sentinel-4-SecOps](https://github.com/eshlomo1/Microsoft-Sentinel-4-SecOps) - Azure Sentinel 4 SecOps
 - [dievus/PowerShellForPentesters](https://github.com/dievus/PowerShellForPentesters) - Course repository for PowerShell for Pentesters Course
 - [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 - [jsecurity101/Marvel-Lab](https://github.com/jsecurity101/Marvel-Lab) - A collection of Powershell scripts that will help automate the build process for a Marvel domain.
@@ -10535,7 +10534,7 @@
 - [Viralmaniar/Powershell-RAT](https://github.com/Viralmaniar/Powershell-RAT) - Python based backdoor that uses Gmail to exfiltrate data through attachment. This RAT will help during red team engagements to backdoor any Windows machines. It tracks the user activity using screen capture and sends it to an attacker as an e-mail attachment.
 - [LMGsec/Magic-Unicorn-Tool](https://github.com/LMGsec/Magic-Unicorn-Tool) - 
 - [Greenwolf/social_mapper](https://github.com/Greenwolf/social_mapper) - A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)
-- [dstepanic17/attck_empire](https://github.com/dstepanic17/attck_empire) - Generate ATT&CK Navigator layer file from PowerShell Empire agent logs
+- [dstepanic/attck_empire](https://github.com/dstepanic/attck_empire) - Generate ATT&CK Navigator layer file from PowerShell Empire agent logs
 - [diogo-fernan/domfind](https://github.com/diogo-fernan/domfind) - A Python DNS crawler to find identical domain names under different TLDs.
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [pan-unit42/public_tools](https://github.com/pan-unit42/public_tools) - 
