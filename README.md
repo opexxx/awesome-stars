@@ -3256,7 +3256,7 @@
 - [mrwiora/NAMEinator](https://github.com/mrwiora/NAMEinator) - NAMEinator DNS Benchmark tool (namebench successor)
 - [ns3777k/go-shodan](https://github.com/ns3777k/go-shodan) - Shodan API client
 - [alash3al/httpsify](https://github.com/alash3al/httpsify) - a transparent HTTPS termination proxy using letsencrypt with auto certification renewal
-- [UKHomeOffice-attic/repo-security-scanner](https://github.com/UKHomeOffice-attic/repo-security-scanner) - CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
+- [techjacker/repo-security-scanner](https://github.com/techjacker/repo-security-scanner) - CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
 - [qvl/httpsyet](https://github.com/qvl/httpsyet) - Crawler to find links you can update to HTTPS
 - [yamnikov-oleg/pss](https://github.com/yamnikov-oleg/pss) - Simple cli password manager
 - [sayanarijit/gopgcli](https://github.com/sayanarijit/gopgcli) - Policy based password generator CLI
@@ -3974,7 +3974,6 @@
 - [JonnyBanana/safari-ie-reaper.github.io](https://github.com/JonnyBanana/safari-ie-reaper.github.io) - Simple HTML page that i realized to test the CSS webkit filter DoS attack created by pwnsdx
 - [rootclay/Powershell-Attack-Guide](https://github.com/rootclay/Powershell-Attack-Guide) - Powershell攻击指南----黑客后渗透之道
 - [intezer/linux-explorer](https://github.com/intezer/linux-explorer) - Easy-to-use live forensics toolbox for Linux endpoints
-- [sp1d3r/swf_json_csrf](https://github.com/sp1d3r/swf_json_csrf) - 
 - [bevacqua/hget](https://github.com/bevacqua/hget) - :clap: Render websites in plain text from your terminal
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
@@ -4531,7 +4530,7 @@
 - [socprime/soc_workflow_app_ce](https://github.com/socprime/soc_workflow_app_ce) - SOC Workflow App helps Security Analysts and Threat Hunters explore suspicious events, look into raw events arriving at the Elastic Stack, and view Saved Searches configured by teammates.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [Hacker0x01/helpful-recon-data](https://github.com/Hacker0x01/helpful-recon-data) - This information provides helpful information to make it easier to discover new attack surface on HackerOne.com.
-- [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda
+- [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵
 - [sqlectron/sqlectron-core](https://github.com/sqlectron/sqlectron-core) - 
 - [pownjs/recon](https://github.com/pownjs/recon) - A powerful target reconnaissance framework powered by graph theory.
 - [cablej/FileChangeMonitor](https://github.com/cablej/FileChangeMonitor) - Continuous monitoring for JavaScript files
@@ -15699,6 +15698,7 @@
 
 ## TypeScript 
 
+- [cybersecsi/HOUDINI](https://github.com/cybersecsi/HOUDINI) - Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all.
 - [fabiospampinato/cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
 - [fabiospampinato/autogit](https://github.com/fabiospampinato/autogit) - Define commands, using plugins, to execute across all your repositories.
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
