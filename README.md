@@ -1963,7 +1963,7 @@
 - [BreakingMalware/Selfie](https://github.com/BreakingMalware/Selfie) - A Tool to Unpack Self-Modifying Code using DynamoRIO
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
 - [qlyoung/armory-keyboard](https://github.com/qlyoung/armory-keyboard) - utility for emulating a USB HID keyboard with the USBArmory
-- [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings.
+- [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis framework: build your program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
 - [comaeio/SwishDbgExt](https://github.com/comaeio/SwishDbgExt) - Incident Response & Digital Forensics Debugging Extension
 - [swwwolf/wdbgark](https://github.com/swwwolf/wdbgark) - WinDBG Anti-RootKit Extension
 - [securesocketfunneling/ssf](https://github.com/securesocketfunneling/ssf) - Secure Socket Funneling - Network tool and toolkit - TCP and UDP port forwarding, SOCKS proxy, remote shell, standalone and cross platform
@@ -3998,7 +3998,6 @@
 - [r00t-3xp10it/morpheus](https://github.com/r00t-3xp10it/morpheus) - Morpheus - Automating Ettercap TCP/IP (MITM-hijacking Tool)
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [flakshack/SysAdminBoard](https://github.com/flakshack/SysAdminBoard) - Simple dashboard system for sysadmins with modules for VMware, SNMP, REST API and more
-- [zaproxy/zap-extensions](https://github.com/zaproxy/zap-extensions) - OWASP ZAP Add-ons
 - [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
 - [alexdglover/AWSCodeDeployCourseMaterials](https://github.com/alexdglover/AWSCodeDeployCourseMaterials) - Templates, scripts, revisions, etc that are used in the AWS CodeDeploy course on Udemy and ACloudGuru
 - [SamJoan/droopescan](https://github.com/SamJoan/droopescan) - A plugin-based scanner that aids security researchers in identifying issues with several CMSs, mainly Drupal & Silverstripe.
@@ -4159,6 +4158,7 @@
 
 - [API-Security/APIKit](https://github.com/API-Security/APIKit) - APIKit：Discovery, Scan and Audit APIs Toolkit All In One.
 - [pimps/JNDI-Exploit-Kit](https://github.com/pimps/JNDI-Exploit-Kit) - JNDI-Exploitation-Kit（A modified version of the great JNDI-Injection-Exploit created by @welk1n. This tool can be used to start an HTTP Server, RMI Server and LDAP Server to exploit java web apps vulnerable to JNDI Injection）
+- [returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [AthenZ/athenz](https://github.com/AthenZ/athenz) - Open source platform for X.509 certificate based service authentication and fine grained access control in dynamic infrastructures. Athenz supports provisioning and configuration (centralized authorization) use cases as well as serving/runtime (decentralized authorization) use cases.
@@ -4256,6 +4256,7 @@
 - [horrorho/InflatableDonkey](https://github.com/horrorho/InflatableDonkey) - iOS9+ iCloud backup retrieval proof of concept
 - [na-ka-na/ExcelCompare](https://github.com/na-ka-na/ExcelCompare) - Command line tool (and API) for diffing Excel Workbooks
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
+- [zaproxy/zap-extensions](https://github.com/zaproxy/zap-extensions) - OWASP ZAP Add-ons
 - [jkinder/jakstab](https://github.com/jkinder/jakstab) - The Jakstab static analysis platform for binaries
 - [olacabs/jackhammer](https://github.com/olacabs/jackhammer) - Jackhammer - One Security vulnerability assessment/management tool to solve all the security team problems.
 - [cornerpirate/JS2PDFInjector](https://github.com/cornerpirate/JS2PDFInjector) - Inject a JS file into a PDF file.
@@ -8772,7 +8773,6 @@
 - [WazeHell/sam-the-admin](https://github.com/WazeHell/sam-the-admin) - Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user
 - [p0dalirius/ldapconsole](https://github.com/p0dalirius/ldapconsole) - The ldapconsole script allows you to perform custom LDAP requests to a Windows domain.
 - [alexandre-lavoie/python-log4rce](https://github.com/alexandre-lavoie/python-log4rce) - An All-In-One Pure Python PoC for CVE-2021-44228
-- [returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
 - [s0md3v/uro](https://github.com/s0md3v/uro) - declutters url lists for crawling/pentesting
 - [trailofbits/pip-audit](https://github.com/trailofbits/pip-audit) - Audits Python environments and dependency trees for known vulnerabilities
 - [stevensolleder/QuickGoogleKeep](https://github.com/stevensolleder/QuickGoogleKeep) - The QuickGoogleKeep worflow for Alfred 4 for macOS allows you to add notes to your Google Keep fast and easy.
@@ -9134,7 +9134,7 @@
 - [chompie1337/SMBGhost_RCE_PoC](https://github.com/chompie1337/SMBGhost_RCE_PoC) - 
 - [ly4k/SMBGhost](https://github.com/ly4k/SMBGhost) - Scanner for CVE-2020-0796 - SMBv3 RCE
 - [CERTCC/PoC-Exploits](https://github.com/CERTCC/PoC-Exploits) - Select proof-of-concept exploits for software vulnerabilities to aid in identifying and testing vulnerable systems.
-- [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This program is an opensource backdoor/reverse tcp/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server.
+- [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - Cross-platform (Windows/Linux/MacOS) open source, backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support.
 - [sinistergeek/Pdf-to-audio-Converter](https://github.com/sinistergeek/Pdf-to-audio-Converter) - 
 - [airbus-seclab/android_emuroot](https://github.com/airbus-seclab/android_emuroot) - Android_Emuroot is a Python script that allows granting root privileges on the fly to shells running on Android virtual machines that use google-provided emulator images called Google API Playstore, to help reverse engineers to go deeper into their investigations.
 - [Talkaboutcybersecurity/GitMonitor](https://github.com/Talkaboutcybersecurity/GitMonitor) - One way to continuously monitor sensitive information that could be exposed on Github
@@ -11087,7 +11087,6 @@
 - [antiboredom/videogrep](https://github.com/antiboredom/videogrep) - automatic video supercuts with python
 - [cinquemb/playMusik](https://github.com/cinquemb/playMusik) - Create and play a playlist from any directory with .mp{3|4} files on OSX
 - [jordan-wright/python-wireless-attacks](https://github.com/jordan-wright/python-wireless-attacks) - Wireless Attacks in Python (Based on Blog Series)
-- [Willseph/RaspberryPiThermostat](https://github.com/Willseph/RaspberryPiThermostat) - A Raspberry Pi-powered smart thermostat written in Python and PHP.
 - [spencergibb/battleschool](https://github.com/spencergibb/battleschool) - Development environment provisioning using ansible, ala boxen -&gt; puppet, kitchenplan -&gt; chef
 - [katjahahn/SystemLookup](https://github.com/katjahahn/SystemLookup) - SystemLookup.com via command line
 - [bundestag/gesetze-tools](https://github.com/bundestag/gesetze-tools) - Scripts to maintain German law git repository
@@ -14710,7 +14709,7 @@
 - [nahamsec/lazyrecon](https://github.com/nahamsec/lazyrecon) - This script is intended to automate your reconnaissance process in an organized fashion
 - [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 - [changyuheng/fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, ISO27001, GDPR, HIPAA, SOC2, ENS and other security frameworks.
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.
 - [danhper/asdf-python](https://github.com/danhper/asdf-python) - 
 - [asdf-vm/asdf-plugins](https://github.com/asdf-vm/asdf-plugins) - Central plugin repository for asdf
 - [x1mdev/ReconPi](https://github.com/x1mdev/ReconPi) - ReconPi - A lightweight recon tool that performs extensive scanning with the latest tools.
