@@ -2398,6 +2398,7 @@
 
 ## Go 
 
+- [Azure/aad-pod-identity](https://github.com/Azure/aad-pod-identity) - Assign Azure Active Directory Identities to Kubernetes applications.
 - [pupagang/pupadrive-go](https://github.com/pupagang/pupadrive-go) - 
 - [v-byte-cpu/sx](https://github.com/v-byte-cpu/sx) - :vulcan_salute: Fast, modern, easy-to-use network scanner
 - [Ethermat/tld-scan](https://github.com/Ethermat/tld-scan) - Top level domain scanner in Go
@@ -3809,6 +3810,7 @@
 
 ## HTML 
 
+- [roottusk/vapi](https://github.com/roottusk/vapi) - vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios in the means of Exercises.
 - [tb0hdan/domains](https://github.com/tb0hdan/domains) - World’s single largest Internet domains dataset
 - [kubecamp/kubernetes_in_one_day](https://github.com/kubecamp/kubernetes_in_one_day) - Material for the training course
 - [kubecamp/kubernetes_in_2_days](https://github.com/kubecamp/kubernetes_in_2_days) - Material for the training course
@@ -8765,6 +8767,7 @@
 
 ## Python 
 
+- [zhzyker/exphub](https://github.com/zhzyker/exphub) - Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
 - [0xabu/pdfannots](https://github.com/0xabu/pdfannots) - Extracts and formats text annotations from a PDF file
@@ -8927,7 +8930,7 @@
 - [AlgoSecure/iotmap](https://github.com/AlgoSecure/iotmap) - Research project on heterogeneous IoT protocols modelling
 - [sting8k/BurpSuite_403Bypasser](https://github.com/sting8k/BurpSuite_403Bypasser) - Burpsuite Extension to bypass 403 restricted directory
 - [Haax9/Wrapcat](https://github.com/Haax9/Wrapcat) - Small python script wrapper for automating hashcat commands
-- [n00py/LAPSDumper](https://github.com/n00py/LAPSDumper) - https://www.n00py.io/2020/12/dumping-laps-passwords-from-linux/
+- [n00py/LAPSDumper](https://github.com/n00py/LAPSDumper) - Dumping LAPS from Python
 - [arthaud/git-dumper](https://github.com/arthaud/git-dumper) - A tool to dump a git repository from a website
 - [daddycocoaman/AzDummy](https://github.com/daddycocoaman/AzDummy) - A Python Typer-based CLI tool to generate fake data for Azure AD. AzDummy also uses Rich for some dope console output.
 - [pollev/python-websocket-proxy](https://github.com/pollev/python-websocket-proxy) - Python3 Websocket AND http proxy
