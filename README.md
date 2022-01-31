@@ -5726,7 +5726,6 @@
 - [Matir/cheatsheets](https://github.com/Matir/cheatsheets) - My cheatsheets
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - :pushpin: Penetration testing for beginners. A guide for amateur pentesters and a collection of hacking tools, resources and references to practice ethical hacking.
 - [Aaryan101/sayhello](https://github.com/Aaryan101/sayhello) - Capturing audio (.wav) from target using a link
-- [DebugPrivilege/Azure-Sentinel](https://github.com/DebugPrivilege/Azure-Sentinel) - 
 - [empty-jack/YAWR](https://github.com/empty-jack/YAWR) - Yet Another Wordlists Repo
 - [MSAdministrator/osx-outlook-recovery](https://github.com/MSAdministrator/osx-outlook-recovery) - A Python tool to recover and retrieve data from macOS Outlook olk15 message profile
 - [dwisiswant0/awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty) - A collection of awesome one-liner scripts especially for bug bounty tips.
