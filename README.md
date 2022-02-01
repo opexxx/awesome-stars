@@ -1310,7 +1310,6 @@
 - [am0nsec/SharpHellsGate](https://github.com/am0nsec/SharpHellsGate) - C# Implementation of the Hell's Gate VX Technique
 - [cyberark/Evasor](https://github.com/cyberark/Evasor) - A tool to be used in post exploitation phase for blue and red teams to bypass APPLICATIONCONTROL policies
 - [tomcarver16/ADSearch](https://github.com/tomcarver16/ADSearch) - A tool to help query AD via the LDAP protocol
-- [tomkallo/SharpHungarian](https://github.com/tomkallo/SharpHungarian) - This is an unifished console app for defeating EDR, defeating internal centralised loggin, and using Virustotal as an outbound command and control channel for C2.
 - [CCob/SharpBlock](https://github.com/CCob/SharpBlock) - A method of bypassing EDR's active projection DLL's by preventing entry point exection
 - [KevReed/PlantUml.Net](https://github.com/KevReed/PlantUml.Net) - a .Net wrapper for PlantUml
 - [QAX-A-Team/BrowserGhost](https://github.com/QAX-A-Team/BrowserGhost) - 这是一个抓取浏览器密码的工具，后续会添加更多功能
@@ -4437,7 +4436,6 @@
 - [CeoFred/log-stripper](https://github.com/CeoFred/log-stripper) - Removes all instances of console.log
 - [Seytonic/malduino](https://github.com/Seytonic/malduino) - All the Malduinos!
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
-- [LasCC/Hack-Tools](https://github.com/LasCC/Hack-Tools) - The all-in-one Red Team extension for Web Pentester 🛠
 - [ETCExtensions/Edit-This-Cookie](https://github.com/ETCExtensions/Edit-This-Cookie) - EditThisCookie is the famous Google Chrome/Chromium extension for editing cookies
 - [giper45/DockerSecurityPlayground](https://github.com/giper45/DockerSecurityPlayground) - A Microservices-based framework for the study of Network Security and Penetration Test techniques
 - [leafac/obs-cli](https://github.com/leafac/obs-cli) - Remote control OBS from the command line
@@ -4838,7 +4836,6 @@
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [brave/browser-laptop](https://github.com/brave/browser-laptop) - [DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave
 - [hellais/ooniprobe-iot](https://github.com/hellais/ooniprobe-iot) - 
-- [its-a-feature/Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework
 - [vtoubiana/TrackMeNot](https://github.com/vtoubiana/TrackMeNot) - An artware browser add-on to protect privacy in web-search. By issuing randomized queries to common search-engines, TrackMeNot obfuscates your search profile(s) and registers your discontent with surreptitious tracking.
 - [xl7dev/BurpSuite](https://github.com/xl7dev/BurpSuite) - BurpSuite using the document and some extensions
 - [Arno0x/ReflectiveDnsExfiltrator](https://github.com/Arno0x/ReflectiveDnsExfiltrator) - Data exfiltration using reflective DNS resolution covert channel
@@ -10757,6 +10754,7 @@
 - [3gstudent/Worse-PDF](https://github.com/3gstudent/Worse-PDF) - Turn a normal PDF file into malicious.Use to steal Net-NTLM Hashes from windows machines.
 - [clario-tech/s3-inspector](https://github.com/clario-tech/s3-inspector) - Tool to check AWS S3 bucket permissions
 - [hyuunnn/ida_python_scripts](https://github.com/hyuunnn/ida_python_scripts) - ida python scripts
+- [its-a-feature/Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework
 - [ReconInfoSec/web-traffic-generator](https://github.com/ReconInfoSec/web-traffic-generator) - A quick and dirty HTTP/S "organic" traffic generator.
 - [1tayH/noisy](https://github.com/1tayH/noisy) - Simple random DNS, HTTP/S internet traffic noise generator
 - [quarkslab/sboot-binwalk](https://github.com/quarkslab/sboot-binwalk) - 
@@ -15708,6 +15706,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
+- [LasCC/Hack-Tools](https://github.com/LasCC/Hack-Tools) - The all-in-one Red Team extension for Web Pentester 🛠
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [JaosnHsieh/github-star-search](https://github.com/JaosnHsieh/github-star-search) - A CLI that search your github starred repositories offline through README , description and other fields.
 - [luisfontes19/CSRFER](https://github.com/luisfontes19/CSRFER) - Tool to generate csrf payloads based on vulnerable requests
