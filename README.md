@@ -2902,7 +2902,7 @@
 - [sachaos/toggl](https://github.com/sachaos/toggl) - Toggl CLI Client
 - [sachaos/tcpterm](https://github.com/sachaos/tcpterm) - tcpterm is a packet visualizer in TUI.
 - [afiskon/promtail-client](https://github.com/afiskon/promtail-client) - Promtail client library. Promtail is an agent for Loki logging system.
-- [danielkvist/beagle](https://github.com/danielkvist/beagle) - Beagle is a CLI written in Go to search for an specific username across the Internet.
+- [daniarlert/beagle](https://github.com/daniarlert/beagle) - Beagle is a CLI written in Go to search for an specific username across the Internet.
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [skydive-project/skydive](https://github.com/skydive-project/skydive) - An open source real-time network topology and protocols analyzer
@@ -3029,7 +3029,7 @@
 - [devanshbatham/Gorecon](https://github.com/devanshbatham/Gorecon) - Gorecon is a All in one Reconnaissance Tool , a.k.a swiss knife for Reconnaissance  , A tool that every pentester/bughunter might wanna consider into their arsenal
 - [fnzv/OpenPortNotifier](https://github.com/fnzv/OpenPortNotifier) - Simple tool to monitor network changes over time and trigger alerts
 - [damselem/autohosts](https://github.com/damselem/autohosts) - /etc/hosts automation for instances in AWS and GCP
-- [danielkvist/whisperer](https://github.com/danielkvist/whisperer) - Simple Go program that makes HTTP request constantly in order to generate random HTTP/DNS traffic noise
+- [daniarlert/whisperer](https://github.com/daniarlert/whisperer) - Simple Go program that makes HTTP request constantly in order to generate random HTTP/DNS traffic noise
 - [cpl/cryptor](https://github.com/cpl/cryptor) - Privacy, Anonymity, Freedom - P2P network
 - [42wim/gomphs](https://github.com/42wim/gomphs) - A tool to ping multiple hosts at once with a CLI and web-based overview
 - [foae/godet](https://github.com/foae/godet) - Blacklist (RBL) and IP / domain checker and details scraper
@@ -3446,7 +3446,7 @@
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [essentialkaos/sslscan](https://github.com/essentialkaos/sslscan) - Go package for working with SSLLabs API
 - [QAX-A-Team/NtlmSocks](https://github.com/QAX-A-Team/NtlmSocks) - a pass-the-hash tool
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [sgreben/jp](https://github.com/sgreben/jp) - dead simple terminal plots from JSON data. single binary, no dependencies. linux, osx, windows.
 - [turbobytes/certmon](https://github.com/turbobytes/certmon) - Monitor and track TLS endpoints for certificate expiry
@@ -5310,7 +5310,7 @@
 - [saurabhmathur96/clickbait-detector](https://github.com/saurabhmathur96/clickbait-detector) - Detects clickbait headlines using deep learning.
 - [Cyb3rWard0g/HELK](https://github.com/Cyb3rWard0g/HELK) - The Hunting ELK
 - [Katee/quietnet](https://github.com/Katee/quietnet) - Simple chat program that communicates using inaudible sounds
-- [ccdcoe/CDMCS](https://github.com/ccdcoe/CDMCS) - Cyber Defence Monitoring Course Suite :: TICK, Suricata, Moloch
+- [ccdcoe/CDMCS](https://github.com/ccdcoe/CDMCS) - Cyber Defence Monitoring Course Suite :: Suricata, Moloch and others
 - [ThreatHuntingProject/hunter](https://github.com/ThreatHuntingProject/hunter) - A threat hunting / data analysis environment based on Python, Pandas, PySpark and Jupyter Notebook.
 - [dveeden/mysql-history-graph](https://github.com/dveeden/mysql-history-graph) - History Graphs about MySQL and forks
 - [elastic/examples](https://github.com/elastic/examples) - Home for Elasticsearch examples available to everyone. It's a great way to get started.
