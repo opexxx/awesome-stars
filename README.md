@@ -2528,7 +2528,7 @@
 - [busterb/msmailprobe](https://github.com/busterb/msmailprobe) - Office 365 and Exchange Enumeration
 - [Shivangx01b/BountyIt](https://github.com/Shivangx01b/BountyIt) - A fuzzer made in golang for finding issues like xss, lfi, rce, ssti...that detects issues using change in content length and verify it using signatures
 - [gruntwork-io/kubergrunt](https://github.com/gruntwork-io/kubergrunt) - Kubergrunt is a standalone go binary with a collection of commands to fill in the gaps between Terraform, Helm, and Kubectl. https://www.gruntwork.io
-- [Portshift/kubei](https://github.com/Portshift/kubei) - Kubei is a flexible Kubernetes runtime scanner, scanning images of worker and Kubernetes nodes providing accurate vulnerabilities assessment, for more information checkout:
+- [cisco-open/kubei](https://github.com/cisco-open/kubei) - Kubei is a flexible Kubernetes runtime scanner, scanning images of worker and Kubernetes nodes to provide an accurate vulnerability assessment
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [chenjiandongx/kubectl-images](https://github.com/chenjiandongx/kubectl-images) - 🕸  Show container images used in the cluster.
 - [tilt-dev/ctlptl](https://github.com/tilt-dev/ctlptl) - Making local Kubernetes clusters fun and easy to set up
@@ -2858,7 +2858,7 @@
 - [box/kube-iptables-tailer](https://github.com/box/kube-iptables-tailer) - A service for better network visibility for your Kubernetes clusters.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [JavierOlmedo/ipdiscover](https://github.com/JavierOlmedo/ipdiscover) - 🔍 A simple tool to obtain long lists of ips from domains using goroutines
 - [mschwager/riplink](https://github.com/mschwager/riplink) - Find dead links on the web.
 - [mitchellh/gon](https://github.com/mitchellh/gon) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
@@ -5671,6 +5671,7 @@
 - [fuzz-security/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/fuzz-security/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
 - [httpvoid/writeups](https://github.com/httpvoid/writeups) - 
 - [rajesh6927/subdomain-bruteforce-wordlist](https://github.com/rajesh6927/subdomain-bruteforce-wordlist) - This will be the largest subdomain bruteforce wordlist in a couple of months.
+- [onvio/wordlists](https://github.com/onvio/wordlists) - Shared wordlists used for common subdomains , directory bruteforcing etc.
 - [tannaybagga/subdomains-wordlist](https://github.com/tannaybagga/subdomains-wordlist) - My personal wordlist for brute forcing Subdomains
 - [Droidzzzio/EnumerationList](https://github.com/Droidzzzio/EnumerationList) - This Repo contains wordlist for subdomain enumeration , php file path, html file path, and js file path
 - [danTaler/WordLists](https://github.com/danTaler/WordLists) - 
@@ -6583,7 +6584,7 @@
 - [maldevel/RootKits-List-Download](https://github.com/maldevel/RootKits-List-Download) - A curated list of rootkits found on Github and other sites.
 - [PrateekKumarSingh/CheatSheets](https://github.com/PrateekKumarSingh/CheatSheets) - CheatSheets for Powershell, Exchange, Sharepoint, Lync, RegEx, VSCode and more
 - [nfarrar/malgate](https://github.com/nfarrar/malgate) - ABANDONED: A customized OpenWRT VMWare VM for providing virtual networks, useful for Malware Analysis.
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. First posted in 2016, maintained as of 2022. Pull requests welcome!
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. First posted in 2016. Pull requests welcome!
 - [openstack-archive/bandit](https://github.com/openstack-archive/bandit) - Python AST-based static analyzer from OpenStack Security Group
 - [sooshie/Security-Data-Analysis](https://github.com/sooshie/Security-Data-Analysis) - A series of labs that will help users apply various data science techniques to security related data.
 - [mubix/cfdb](https://github.com/mubix/cfdb) - Common Findings Database
@@ -14186,6 +14187,7 @@
 
 ## Shell 
 
+- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [six2dez/OneListForAll](https://github.com/six2dez/OneListForAll) - Rockyou for web fuzzing
 - [mikedfunk/dotfiles](https://github.com/mikedfunk/dotfiles) - my Neovim, Git, Tmux, and other dotfiles
 - [brimstone/windows-ova](https://github.com/brimstone/windows-ova) - Self-Installing Windows OVA. Automate and distribute Windows as an OVA.
@@ -14202,7 +14204,7 @@
 - [poolpog/bash-otp](https://github.com/poolpog/bash-otp) - One-time Password generator for CLI using bash, oathtool
 - [ajrosen/Alfred](https://github.com/ajrosen/Alfred) - Alfred workflows
 - [leevigraham/dotfiles](https://github.com/leevigraham/dotfiles) - OS X dotfiles: bash, git, vim, etc.
-- [FINCTIVE/download-videos](https://github.com/FINCTIVE/download-videos) - 视频下载脚本，附带自动重启功能，以及常用参数。
+- [FINCTIVE/download-video](https://github.com/FINCTIVE/download-video) - 🥳️ my handy script
 - [0xdekster/deksterecon](https://github.com/0xdekster/deksterecon) - Web Application recon automation
 - [janmoesen/tilde](https://github.com/janmoesen/tilde) - ~ is where the ♥ is — my dotfiles
 - [e-m-b-a/emba](https://github.com/e-m-b-a/emba) - EMBA - The security analyzer for embedded device firmware.
@@ -14217,7 +14219,6 @@
 - [amaya382/zsh-fzf-widgets](https://github.com/amaya382/zsh-fzf-widgets) - :nut_and_bolt: Well-unified zsh widgets for fzf
 - [DanielFGray/fzf-scripts](https://github.com/DanielFGray/fzf-scripts) - a collection of scripts that rely on https://github.com/junegunn/fzf
 - [R0X4R/Pinaak](https://github.com/R0X4R/Pinaak) - A vulnerability fuzzing tool written in bash, it contains the most commonly used tools to perform vulnerability scan
-- [onvio/wordlists](https://github.com/onvio/wordlists) - Shared wordlists used for common subdomains , directory bruteforcing etc.
 - [ucki/URP-T-v.01](https://github.com/ucki/URP-T-v.01) - 
 - [UserXGnu/OSCP-cheat-sheet-1](https://github.com/UserXGnu/OSCP-cheat-sheet-1) - list of useful commands, shells and notes related to OSCP
 - [P3t3rp4rk3r/OSCP-cheat-sheet-1](https://github.com/P3t3rp4rk3r/OSCP-cheat-sheet-1) - list of useful commands, shells and notes related to OSCP
