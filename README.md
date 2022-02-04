@@ -14204,10 +14204,10 @@
 - [poolpog/bash-otp](https://github.com/poolpog/bash-otp) - One-time Password generator for CLI using bash, oathtool
 - [ajrosen/Alfred](https://github.com/ajrosen/Alfred) - Alfred workflows
 - [leevigraham/dotfiles](https://github.com/leevigraham/dotfiles) - OS X dotfiles: bash, git, vim, etc.
-- [FINCTIVE/download-video](https://github.com/FINCTIVE/download-video) - 🥳️ my handy script
+- [FINCTIVE/download-video](https://github.com/FINCTIVE/download-video) - 🥳️ my handy script for calling youtube-dl and annie
 - [0xdekster/deksterecon](https://github.com/0xdekster/deksterecon) - Web Application recon automation
 - [janmoesen/tilde](https://github.com/janmoesen/tilde) - ~ is where the ♥ is — my dotfiles
-- [e-m-b-a/emba](https://github.com/e-m-b-a/emba) - EMBA - The security analyzer for embedded device firmware.
+- [e-m-b-a/emba](https://github.com/e-m-b-a/emba) - EMBA - The firmware security analyzer
 - [sarthaksavvy/100DaysOfAWS](https://github.com/sarthaksavvy/100DaysOfAWS) - 
 - [shilch/macchanger](https://github.com/shilch/macchanger) -  Change your mac address, for macOS
 - [wynioux/macOS-GateKeeper-Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) - Simple macOS GateKeeper script.
