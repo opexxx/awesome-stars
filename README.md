@@ -4540,7 +4540,7 @@
 - [ghostwords/chameleon](https://github.com/ghostwords/chameleon) - Browser fingerprinting protection for everybody.
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [bettercap/caplets](https://github.com/bettercap/caplets) - caplets and proxy modules.
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Powered by plain JavaScript (supports Node, Electron and the browser)
 - [DFIRKuiper/Kuiper](https://github.com/DFIRKuiper/Kuiper) - Digital Forensics Investigation Platform
 - [EnKrypt/Doppler](https://github.com/EnKrypt/Doppler) - :chart_with_upwards_trend: A zero configuration remote monitoring tool designed to be better than nothing
 - [OfficeDev/office-js](https://github.com/OfficeDev/office-js) - A repo and NPM package for Office.js, corresponding to a copy of what gets published to the official "evergreen" Office.js CDN, at https://appsforoffice.microsoft.com/lib/1/hosted/office.js.
@@ -10234,7 +10234,7 @@
 - [firstlookmedia/aws-profile-gpg](https://github.com/firstlookmedia/aws-profile-gpg) - :closed_lock_with_key: :cloud: Run aws-cli commands using IAM Access Keys stored in a GPG-encrypted credentials file
 - [stamparm/identYwaf](https://github.com/stamparm/identYwaf) - Blind WAF identification tool
 - [ecstatic-nobel/Analyst-Arsenal](https://github.com/ecstatic-nobel/Analyst-Arsenal) - A toolkit for Security Researchers
-- [A3sal0n/CyberThreatHunting](https://github.com/A3sal0n/CyberThreatHunting) - A collection of resources for Threat Hunters
+- [A3sal0n/CyberThreatHunting](https://github.com/A3sal0n/CyberThreatHunting) - A collection of resources for Threat Hunters - Sponsored by Falcon Guard
 - [nolze/msoffcrypto-tool](https://github.com/nolze/msoffcrypto-tool) - Python tool and library for decrypting MS Office files with passwords or other keys
 - [bannedit/cdb](https://github.com/bannedit/cdb) - cdb is a Python 3 wrapper for Windows Debugging Tools debugger cdb.exe.
 - [projecteru/redis-ctl](https://github.com/projecteru/redis-ctl) - A web application for Redis Cluster management
@@ -11118,7 +11118,7 @@
 - [CSEC-NITH/hack-lastfm](https://github.com/CSEC-NITH/hack-lastfm) - A website to generate statistics from last.fm data
 - [pylast/pylast](https://github.com/pylast/pylast) - A Python interface to Last.fm and Libre.fm
 - [SathyaBhat/spotify-dl](https://github.com/SathyaBhat/spotify-dl) - Downloads songs from your Spotify Playlist
-- [JonShepChen/SpotipyTUI](https://github.com/JonShepChen/SpotipyTUI) - Text-based UI program to control Spotify desktop client on OSX.
+- [JoChaw/SpotipyTUI](https://github.com/JoChaw/SpotipyTUI) - Text-based UI program to control Spotify desktop client on OSX.
 - [nicolewhite/cycli](https://github.com/nicolewhite/cycli) - A Command Line Interface for Neo4j's Cypher.
 - [bjarneo/urldiff](https://github.com/bjarneo/urldiff) - Python tool using diff and curl to check different content on webpages. Note: This doesn't apply to SPAs.
 - [bjarneo/python-erase-exif](https://github.com/bjarneo/python-erase-exif) - Erase exif data
@@ -11432,7 +11432,7 @@
 - [kennethreitz/ghsync](https://github.com/kennethreitz/ghsync) - Github Syncer. Clones or Pulls all GitHub repos (owned and watched).
 - [passivetotal/python_api](https://github.com/passivetotal/python_api) - Python abstract API for PassiveTotal services in the form of libraries and command line utilities.
 - [ring04h/wydomain](https://github.com/ring04h/wydomain) - to discover subdomains of your target domain
-- [A3sal0n/FalconGate](https://github.com/A3sal0n/FalconGate) - A smart gateway to stop hackers and Malware attacks
+- [A3sal0n/FalconGate](https://github.com/A3sal0n/FalconGate) - A smart gateway to stop cyber criminals - Sponsored by Falcon Guard
 - [codingo/Ransomware-Json-Dataset](https://github.com/codingo/Ransomware-Json-Dataset) - Compiles a json dataset using public sources that contains properties to aid in the detection and mitigation of over 1000 variants of ransomware.
 - [Veil-Framework/Veil](https://github.com/Veil-Framework/Veil) - Veil 3.1.X (Check version info in Veil at runtime)
 - [vvalien/SharpMeter](https://github.com/vvalien/SharpMeter) - 
@@ -14204,7 +14204,7 @@
 - [poolpog/bash-otp](https://github.com/poolpog/bash-otp) - One-time Password generator for CLI using bash, oathtool
 - [ajrosen/Alfred](https://github.com/ajrosen/Alfred) - Alfred workflows
 - [leevigraham/dotfiles](https://github.com/leevigraham/dotfiles) - OS X dotfiles: bash, git, vim, etc.
-- [FINCTIVE/download-video](https://github.com/FINCTIVE/download-video) - 🥳️ my handy script for calling youtube-dl and annie
+- [FINCTIVE/download-video](https://github.com/FINCTIVE/download-video) - 
 - [0xdekster/deksterecon](https://github.com/0xdekster/deksterecon) - Web Application recon automation
 - [janmoesen/tilde](https://github.com/janmoesen/tilde) - ~ is where the ♥ is — my dotfiles
 - [e-m-b-a/emba](https://github.com/e-m-b-a/emba) - EMBA - The firmware security analyzer
