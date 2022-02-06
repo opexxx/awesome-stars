@@ -1728,7 +1728,7 @@
 - [ChaitanyaHaritash/Callback_Shellcode_Injection](https://github.com/ChaitanyaHaritash/Callback_Shellcode_Injection) - POCs for Shellcode Injection via Callbacks
 - [last-byte/hybris](https://github.com/last-byte/hybris) - Tool to spawn processes as SYSTEM by stealing tokens
 - [itm4n/Perfusion](https://github.com/itm4n/Perfusion) - Exploit for the RpcEptMapper registry key permissions vulnerability (Windows 7 / 2088R2 / 8 / 2012)
-- [magnusstubman/MagnusKatz](https://github.com/magnusstubman/MagnusKatz) - Research project for understanding how Mimikatz work and being better at C
+- [magnusstubman/MagnusKatz](https://github.com/magnusstubman/MagnusKatz) - Research project for understanding how Mimikatz work and become better at C
 - [Rvn0xsy/PDacl](https://github.com/Rvn0xsy/PDacl) - Play Doh Windows ACL Tools
 - [bablosoft/BAS](https://github.com/bablosoft/BAS) - BrowserAutomationStudio can automate everything that Chrome can.
 - [multiOTP/multiOTPCredentialProvider](https://github.com/multiOTP/multiOTPCredentialProvider) - multiOTP Credential Provider is a V2 Credential Provider for Windows 7/8/8.1/10/2012(R2)/2016 with options like RDP only and UPN name support
@@ -4437,7 +4437,7 @@
 - [Seytonic/malduino](https://github.com/Seytonic/malduino) - All the Malduinos!
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
 - [ETCExtensions/Edit-This-Cookie](https://github.com/ETCExtensions/Edit-This-Cookie) - EditThisCookie is the famous Google Chrome/Chromium extension for editing cookies
-- [giper45/DockerSecurityPlayground](https://github.com/giper45/DockerSecurityPlayground) - A Microservices-based framework for the study of Network Security and Penetration Test techniques
+- [DockerSecPlay/DockerSecurityPlayground](https://github.com/DockerSecPlay/DockerSecurityPlayground) - A Microservices-based framework for the study of Network Security and Penetration Test techniques
 - [leafac/obs-cli](https://github.com/leafac/obs-cli) - Remote control OBS from the command line
 - [ultrasecurity/DarkSide](https://github.com/ultrasecurity/DarkSide) - Tool Information Gathering & social engineering Write By [Python,JS,PHP]
 - [D00MFist/PersistentJXA](https://github.com/D00MFist/PersistentJXA) - Collection of macOS persistence methods and miscellaneous tools in JXA
