@@ -8765,7 +8765,7 @@
 ## Python 
 
 - [zhzyker/exphub](https://github.com/zhzyker/exphub) - Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and power efficient self-hosting infrastructure. Fully automated from empty disk to operating services
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
 - [0xabu/pdfannots](https://github.com/0xabu/pdfannots) - Extracts and formats text annotations from a PDF file
 - [redhuntlabs/Log4JHunt](https://github.com/redhuntlabs/Log4JHunt) - An automated, reliable scanner for the Log4Shell (CVE-2021-44228) vulnerability.
@@ -12919,7 +12919,7 @@
 - [mandiant/ioc_writer](https://github.com/mandiant/ioc_writer) - 
 - [EmergingThreats/cuckoo-1.1](https://github.com/EmergingThreats/cuckoo-1.1) - cuckoo-1.1 fork with suricata/moloch/clamav and other goodies
 - [obsidianforensics/hindsight](https://github.com/obsidianforensics/hindsight) - Web browser forensics for Google Chrome/Chromium
-- [zneak/x86doc](https://github.com/zneak/x86doc) - HTML representation of the Intel x86 instructions documentation.
+- [fay59/x86doc](https://github.com/fay59/x86doc) - HTML representation of the Intel x86 instructions documentation.
 - [conix-security/CAAS](https://github.com/conix-security/CAAS) - Cuckoo sandbox analyses dispatcher / centralizer
 - [quentinhardy/odat](https://github.com/quentinhardy/odat) - ODAT: Oracle Database Attacking Tool
 - [patrickt/twitter_ebooks](https://github.com/patrickt/twitter_ebooks) - Create real, autonomous "_ebooks" accounts on Twitter
