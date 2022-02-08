@@ -1336,7 +1336,7 @@
 - [odedshimon/BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool
 - [Flangvik/NetLoader](https://github.com/Flangvik/NetLoader) - Loads any C# binary in mem, patching AMSI + ETW.
 - [atredispartners/CVE-2018-0952-SystemCollector](https://github.com/atredispartners/CVE-2018-0952-SystemCollector) - PoC for Privilege Escalation in Windows 10 Diagnostics Hub Standard Collector Service
-- [microsoft/WindowsProtocolTestSuites](https://github.com/microsoft/WindowsProtocolTestSuites) - ⭐⭐Join us at SNIA EMEA SDC SMB3 IO Lab 2021 (6/7-6/9):
+- [microsoft/WindowsProtocolTestSuites](https://github.com/microsoft/WindowsProtocolTestSuites) - ⭐⭐Join us at SNIA EMEA SDC SMB3 IO Lab 2022 (4/5-4/7):
 - [gpoguy/setpol](https://github.com/gpoguy/setpol) - Lets you write arbitrary registry entries to Group Policy related .pol files (e.g. registry.pol)
 - [mdsecactivebreach/sitrep](https://github.com/mdsecactivebreach/sitrep) - 
 - [dahall/Vanara](https://github.com/dahall/Vanara) - A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers.
@@ -2282,7 +2282,6 @@
 
 ## Dockerfile 
 
-- [NUKIB/misp-modules](https://github.com/NUKIB/misp-modules) - Docker image for MISP modules
 - [leonjza/docker-elk](https://github.com/leonjza/docker-elk) - docker-elk repo, using the https://github.com/deviantony/docker-elk template
 - [higatowa/bento](https://github.com/higatowa/bento) - Bento Toolkit is a minimal fedora-based container for penetration tests and CTF with the sweet addition of GUI applications.
 - [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
@@ -4406,6 +4405,7 @@
 
 ## JavaScript 
 
+- [wurstbrot/DevSecOps-MaturityModel](https://github.com/wurstbrot/DevSecOps-MaturityModel) - 
 - [Ch0pin/log4JFrida](https://github.com/Ch0pin/log4JFrida) - 
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [apnex/vmw-cli](https://github.com/apnex/vmw-cli) - CLI and API for programmatic access to my.vmware.com
@@ -5619,6 +5619,10 @@
 
 ## Others 
 
+- [NetNinjaCorp/Top1000-SubDomains](https://github.com/NetNinjaCorp/Top1000-SubDomains) - Top 1000 Subdomains as per SSL Certificate Registrations
+- [Puliczek/awesome-list-of-secrets-in-environment-variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables) - 🦄🔒 Awesome list of secrets in environment variables 🖥️
+- [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts
+- [sergiomarotco/Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - Best practices for segmentation of the corporate network of any company
 - [ericagleaton/CISSP-2](https://github.com/ericagleaton/CISSP-2) - Imran's CISSP Prep Stuff
 - [globalbao/awesome-azure-policy](https://github.com/globalbao/awesome-azure-policy) - A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon
 - [rod-trent/MustLearnKQL](https://github.com/rod-trent/MustLearnKQL) - Code included as part of the MustLearnKQL blog series
@@ -5722,7 +5726,7 @@
 - [ayoubfathi/leaky-paths](https://github.com/ayoubfathi/leaky-paths) - A collection of special paths linked to major web CVEs, known misconfigurations, juicy APIs ..etc. It could be used as a part of web content discovery, to scan passively for high-quality endpoints and quick-wins.
 - [Matir/docker-kali-matir](https://github.com/Matir/docker-kali-matir) - 
 - [Matir/cheatsheets](https://github.com/Matir/cheatsheets) - My cheatsheets
-- [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - :pushpin: Penetration testing for beginners. A guide for amateur pentesters and a collection of hacking tools, resources and references to practice ethical hacking.
+- [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
 - [Aaryan101/sayhello](https://github.com/Aaryan101/sayhello) - Capturing audio (.wav) from target using a link
 - [empty-jack/YAWR](https://github.com/empty-jack/YAWR) - Yet Another Wordlists Repo
 - [MSAdministrator/osx-outlook-recovery](https://github.com/MSAdministrator/osx-outlook-recovery) - A Python tool to recover and retrieve data from macOS Outlook olk15 message profile
@@ -9029,7 +9033,7 @@
 - [cube0x0/CVE-2020-1472](https://github.com/cube0x0/CVE-2020-1472) - 
 - [httpvoid/CVE-Reverse](https://github.com/httpvoid/CVE-Reverse) - 
 - [lopuhin/sensefreq](https://github.com/lopuhin/sensefreq) - Sense frequencies and WSD
-- [r0hi7/DockerENT](https://github.com/r0hi7/DockerENT) - The only open-source tool to analyze vulnerabilities and configuration issues with running docker container(s) and docker networks.
+- [rosehgal/DockerENT](https://github.com/rosehgal/DockerENT) - The only open-source tool to analyze vulnerabilities and configuration issues with running docker container(s) and docker networks.
 - [jfarley248/MEAT](https://github.com/jfarley248/MEAT) - This toolkit aims to help forensicators perform different kinds of acquisitions on iOS devices
 - [CERT-Polska/malduck](https://github.com/CERT-Polska/malduck) - :duck: Malduck is your ducky companion in malware analysis journeys
 - [defparam/smuggler](https://github.com/defparam/smuggler) - Smuggler - An HTTP Request Smuggling / Desync testing tool written in Python 3
@@ -14191,6 +14195,7 @@
 - [six2dez/OneListForAll](https://github.com/six2dez/OneListForAll) - Rockyou for web fuzzing
 - [mikedfunk/dotfiles](https://github.com/mikedfunk/dotfiles) - my Neovim, Git, Tmux, and other dotfiles
 - [brimstone/windows-ova](https://github.com/brimstone/windows-ova) - Self-Installing Windows OVA. Automate and distribute Windows as an OVA.
+- [NUKIB/misp-modules](https://github.com/NUKIB/misp-modules) - Docker image for MISP modules
 - [adilsoybali/Log4j-RCE-Scanner](https://github.com/adilsoybali/Log4j-RCE-Scanner) - Remote command execution vulnerability scanner for Log4j.
 - [m0zgen/install-gvm21](https://github.com/m0zgen/install-gvm21) - Script for GVM 21 installs to Ubuntu
 - [dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) - :book: Kubernetes CheatSheets In A4
@@ -14525,7 +14530,7 @@
 - [daveio/zsh-gotp](https://github.com/daveio/zsh-gotp) - Installs gotp and integrates it with zsh
 - [AdroitAdorKhan/EnergizedProtection](https://github.com/AdroitAdorKhan/EnergizedProtection) - A merged collection of hosts from reputable sources. #StayEnergized!
 - [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - Spotify Connect client for the Raspberry Pi that Just Works™
-- [r0hi7/tortipi](https://github.com/r0hi7/tortipi) - Tor based Raspberry π hotspot
+- [rosehgal/tortipi](https://github.com/rosehgal/tortipi) - Tor based Raspberry π hotspot
 - [deathbybandaid/piholeparser](https://github.com/deathbybandaid/piholeparser) - Pi-Hole Compatible lists
 - [deathbybandaid/piadvanced](https://github.com/deathbybandaid/piadvanced) - This started as a custom install for my pihole!
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
