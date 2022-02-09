@@ -6308,7 +6308,7 @@
 - [kaonashi-passwords/Kaonashi](https://github.com/kaonashi-passwords/Kaonashi) - Wordlist, rules and masks from Kaonashi project (RootedCON 2019)
 - [SummitRoute/aws_breaking_changes](https://github.com/SummitRoute/aws_breaking_changes) - List of changes announced for AWS that may break existing code
 - [mykter/aws-security-cert-service-notes](https://github.com/mykter/aws-security-cert-service-notes) - Security aspects of AWS products for the Security Specialist certification
-- [0xghostwriter/public](https://github.com/0xghostwriter/public) - stuff i'm willing to share with the world lol
+- [0xheIIoworld/public](https://github.com/0xheIIoworld/public) - stuff i'm willing to share with the world lol
 - [l0ss/Chump2Trump](https://github.com/l0ss/Chump2Trump) - Slides from my AD Privesc talk at WAHCKon 2017
 - [ByteHackr/HackingTools-1](https://github.com/ByteHackr/HackingTools-1) - A collection of awesome lists for hackers, pentesters & security researchers.
 - [coolx28/Awesome-Hacking](https://github.com/coolx28/Awesome-Hacking) - 
@@ -7979,7 +7979,7 @@
 - [p3nt4/Invoke-Piper](https://github.com/p3nt4/Invoke-Piper) - Forward local or remote tcp ports through SMB pipes.
 - [GavinEke/TronNG](https://github.com/GavinEke/TronNG) - Tron Next Generation for Windows 10
 - [kilasuit/PoshFunctions](https://github.com/kilasuit/PoshFunctions) - Collection of Scripts & Modules that I am happy to share
-- [mgeeky/Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) - A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements.
+- [mgeeky/Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) - A collection of more than 170+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements.
 - [noma4i/windows-openstack-imaging-tools](https://github.com/noma4i/windows-openstack-imaging-tools) - Tools to automate the creation of a Windows image for OpenStack, supporting KVM, Hyper-V, ESXi and more.
 - [noma4i/puppet-windows_updates](https://github.com/noma4i/puppet-windows_updates) - Manage Windows Updates from puppet
 - [offsecginger/AggressorScripts](https://github.com/offsecginger/AggressorScripts) - Various Aggressor Scripts I've Created.
@@ -8769,7 +8769,7 @@
 ## Python 
 
 - [zhzyker/exphub](https://github.com/zhzyker/exphub) - Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and power efficient self-hosting infrastructure. Fully automated from empty disk to operating services
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
 - [0xabu/pdfannots](https://github.com/0xabu/pdfannots) - Extracts and formats text annotations from a PDF file
 - [redhuntlabs/Log4JHunt](https://github.com/redhuntlabs/Log4JHunt) - An automated, reliable scanner for the Log4Shell (CVE-2021-44228) vulnerability.
@@ -14253,7 +14253,6 @@
 - [madhuakula/attacking-and-auditing-docker-containers-and-kubernetes-clusters](https://github.com/madhuakula/attacking-and-auditing-docker-containers-and-kubernetes-clusters) - Appsecco training course content on Attacking and Auditing Dockers Containers and Kubernetes Clusters
 - [aind-containers/aind](https://github.com/aind-containers/aind) - AinD: Android in Docker. Ain't an emulator.
 - [DP-3T/documents](https://github.com/DP-3T/documents) - Decentralized Privacy-Preserving Proximity Tracing -- Documents
-- [RackunSec/ntdsdit-analyzer](https://github.com/RackunSec/ntdsdit-analyzer) - Coorelate Hashcat pot with ntds.dit secretsdump.py output file
 - [leoanggal1/P-SAK](https://github.com/leoanggal1/P-SAK) - Pentester Swiss Army Knife is a Docker Image with a suite of the most used tools for Hacking and Pentesting.
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
@@ -15133,7 +15132,6 @@
 - [kimmobrunfeldt/howto-everything](https://github.com/kimmobrunfeldt/howto-everything) - Collection of notes and howtos. Questions / ideas -&gt; please open an issue :)
 - [rids43/handshaker](https://github.com/rids43/handshaker) - Detect, deauth and capture handshakes by ESSID
 - [luxas/kubernetes-on-arm](https://github.com/luxas/kubernetes-on-arm) - Kubernetes ported to ARM boards like Raspberry Pi.
-- [RackunSec/ip-flame](https://github.com/RackunSec/ip-flame) - Wall of Shame Generator from Web Server Logs
 - [alanrenouf/vmware-utils](https://github.com/alanrenouf/vmware-utils) - Docker Image to deploy various VMware and open source related tools to manage a VMware environment
 - [ianunruh/monitoring](https://github.com/ianunruh/monitoring) - :chart_with_upwards_trend: Scripts to configure various monitoring services on Ubuntu 14.04
 - [CyborgUnplug/CyborgUnplug](https://github.com/CyborgUnplug/CyborgUnplug) - Cyborg Unplug firmware files
