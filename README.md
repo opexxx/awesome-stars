@@ -731,7 +731,7 @@
 - [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
 - [robertdavidgraham/telnetlogger](https://github.com/robertdavidgraham/telnetlogger) - Simulates enough of a Telnet connection in order to log failed login attempts.
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [rbsec/sslscan](https://github.com/rbsec/sslscan) - sslscan tests SSL/TLS enabled services to discover supported cipher suites
 - [Cn33liz/EasySystem](https://github.com/Cn33liz/EasySystem) - Quick and dirty System (Power)Shell using NamedPipe impersonation.
 - [rapid7/metasploit-payloads](https://github.com/rapid7/metasploit-payloads) - Unified repository for different Metasploit Framework payloads
@@ -3871,7 +3871,6 @@
 - [koutto/jok3r](https://github.com/koutto/jok3r) - Jok3r v3 BETA 2 - Network and Web Pentest Automation Framework
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [w3c/webcrypto](https://github.com/w3c/webcrypto) - The W3C Web Cryptography API
-- [DC7499/kb](https://github.com/DC7499/kb) - База знаний сообщества DC7499
 - [faizann24/phishytics-machine-learning-for-phishing](https://github.com/faizann24/phishytics-machine-learning-for-phishing) - Machine Learning for Phishing Website Detection
 - [Build5Nines/exam-assessments](https://github.com/Build5Nines/exam-assessments) - A collection of Self Assessment tools to help study for certification exams.
 - [OpenRCE/Malware-Analysis-Training](https://github.com/OpenRCE/Malware-Analysis-Training) - Retired beginner/intermediate malware analysis training materials from @pedramamini and @erocarrera.
@@ -4437,7 +4436,7 @@
 - [Seytonic/malduino](https://github.com/Seytonic/malduino) - All the Malduinos!
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
 - [ETCExtensions/Edit-This-Cookie](https://github.com/ETCExtensions/Edit-This-Cookie) - EditThisCookie is the famous Google Chrome/Chromium extension for editing cookies
-- [DockerSecPlay/DockerSecurityPlayground](https://github.com/DockerSecPlay/DockerSecurityPlayground) - A Microservices-based framework for the study of Network Security and Penetration Test techniques
+- [DockerSecurityPlayground/DSP](https://github.com/DockerSecurityPlayground/DSP) - A Microservices-based framework for the study of Network Security and Penetration Test techniques
 - [leafac/obs-cli](https://github.com/leafac/obs-cli) - Remote control OBS from the command line
 - [ultrasecurity/DarkSide](https://github.com/ultrasecurity/DarkSide) - Tool Information Gathering & social engineering Write By [Python,JS,PHP]
 - [D00MFist/PersistentJXA](https://github.com/D00MFist/PersistentJXA) - Collection of macOS persistence methods and miscellaneous tools in JXA
@@ -4907,6 +4906,7 @@
 - [f-secure-foundry/interlock](https://github.com/f-secure-foundry/interlock) - INTERLOCK - file encryption and HSM front-end
 - [HynekPetrak/malware-jail](https://github.com/HynekPetrak/malware-jail) - Sandbox for semi-automatic Javascript malware analysis, deobfuscation and payload extraction. Written for Node.js
 - [henryboldi/felony](https://github.com/henryboldi/felony) - 🔑🔥📈 Next Level PGP
+- [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
 - [eric-bixby/auto-sort-bookmarks-webext](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Firefox add-on to sort bookmarks by multiple criteria
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [gabemarshall/casperXSS](https://github.com/gabemarshall/casperXSS) - Reflective/DOM XSS scanner built on casperJS
@@ -8551,7 +8551,6 @@
 - [Offensive-Forensic-Framework/OFF-ToolKit](https://github.com/Offensive-Forensic-Framework/OFF-ToolKit) - Registry Based Artifact Collection and Correlation
 - [0xmabu/NME](https://github.com/0xmabu/NME) - Network Mapping and Enumeration Framework
 - [NetSPI/PowerUpSQL](https://github.com/NetSPI/PowerUpSQL) - PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server
-- [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
 - [Invoke-IR/Uproot](https://github.com/Invoke-IR/Uproot) - Currently not updated for WMIEvent module...
 - [nicof38/PS_Printer_Ink_Level_SNMP](https://github.com/nicof38/PS_Printer_Ink_Level_SNMP) - Create a HTML report of printer toner level using SNMP and PowerShell
 - [theagreeablecow/SAMReports](https://github.com/theagreeablecow/SAMReports) - The SysAdmin Modular Reporting framework provides a consistent, flexible data collection and reporting tool with 'traffic light' style alerts for your environment. Written in Powershell using an easy to follow style, the framework collates any number of user generated plugins (function scripts), into a single report for any Windows system supporting PowerShell.
@@ -12286,7 +12285,7 @@
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [feliam/pysymemu](https://github.com/feliam/pysymemu) - An amd64 symbolic emulator
 - [SecureAuthCorp/impacket](https://github.com/SecureAuthCorp/impacket) - Impacket is a collection of Python classes for working with network protocols.
-- [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢
+- [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers
 - [0vercl0k/z3-playground](https://github.com/0vercl0k/z3-playground) - A repository to store Z3-python scripts you can use as examples, reminders, whatever.
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [nologic/idaref](https://github.com/nologic/idaref) - IDA Pro Instruction Reference Plugin
@@ -15296,6 +15295,7 @@
 - [phreakocious/pcap-scripts](https://github.com/phreakocious/pcap-scripts) - Miscellaneous scripts for manipulating pcaps
 - [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 - [xero/dotfiles](https://github.com/xero/dotfiles) - ▒ rice ░░  custom linux config files
+- [paulmillr/dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust configuration files and utilities for Mac, Linux and BSD
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [scopatz/nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
@@ -15856,7 +15856,6 @@
 - [jeetsukumaran/vim-filebeagle](https://github.com/jeetsukumaran/vim-filebeagle) - A VINE-spired (Vim Is Not Emacs) file system explorer.
 - [Shougo/neosnippet.vim](https://github.com/Shougo/neosnippet.vim) - neo-snippet plugin
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
-- [paulmillr/dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust configuration files and utilities for Mac, Linux and BSD
 - [mgutz/vim-colors](https://github.com/mgutz/vim-colors) - My gVim colorschemes.
 - [python-mode/python-mode](https://github.com/python-mode/python-mode) - Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
 - [gu-fan/InstantRst](https://github.com/gu-fan/InstantRst) - instant rst preview in browser
