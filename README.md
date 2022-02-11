@@ -384,7 +384,6 @@
 - [ssdeep-project/ssdeep](https://github.com/ssdeep-project/ssdeep) - Fuzzy hashing API and fuzzy hashing tool
 - [ifding/iot-malware](https://github.com/ifding/iot-malware) - Malware source code samples leaked online uploaded to GitHub for those who want to analyze the code
 - [ant4g0nist/Vulnerable-Kext](https://github.com/ant4g0nist/Vulnerable-Kext) - A WIP "Vulnerable by Design" kext for iOS/macOS to play & learn *OS kernel exploitation
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [brannondorsey/naive-hashcat](https://github.com/brannondorsey/naive-hashcat) - Crack password hashes without the fuss :cat2:
 - [slaeryan/DetectCobaltStomp](https://github.com/slaeryan/DetectCobaltStomp) - Detects Module Stomping as implemented by Cobalt Strike
 - [NanXiao/tcpbench](https://github.com/NanXiao/tcpbench) - Porting OpenBSD tcpbench into Linux.
@@ -1962,7 +1961,7 @@
 - [BreakingMalware/Selfie](https://github.com/BreakingMalware/Selfie) - A Tool to Unpack Self-Modifying Code using DynamoRIO
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
 - [qlyoung/armory-keyboard](https://github.com/qlyoung/armory-keyboard) - utility for emulating a USB HID keyboard with the USBArmory
-- [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis framework: build your program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
+- [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis framework. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
 - [comaeio/SwishDbgExt](https://github.com/comaeio/SwishDbgExt) - Incident Response & Digital Forensics Debugging Extension
 - [swwwolf/wdbgark](https://github.com/swwwolf/wdbgark) - WinDBG Anti-RootKit Extension
 - [securesocketfunneling/ssf](https://github.com/securesocketfunneling/ssf) - Secure Socket Funneling - Network tool and toolkit - TCP and UDP port forwarding, SOCKS proxy, remote shell, standalone and cross platform
@@ -2525,6 +2524,7 @@
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [sw33tLie/bbscope](https://github.com/sw33tLie/bbscope) - Scope gathering tool for HackerOne, Bugcrowd, and Intigriti!
 - [busterb/msmailprobe](https://github.com/busterb/msmailprobe) - Office 365 and Exchange Enumeration
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [Shivangx01b/BountyIt](https://github.com/Shivangx01b/BountyIt) - A fuzzer made in golang for finding issues like xss, lfi, rce, ssti...that detects issues using change in content length and verify it using signatures
 - [gruntwork-io/kubergrunt](https://github.com/gruntwork-io/kubergrunt) - Kubergrunt is a standalone go binary with a collection of commands to fill in the gaps between Terraform, Helm, and Kubectl. https://www.gruntwork.io
 - [cisco-open/kubei](https://github.com/cisco-open/kubei) - Kubei is a flexible Kubernetes runtime scanner, scanning images of worker and Kubernetes nodes to provide an accurate vulnerability assessment
@@ -3997,6 +3997,7 @@
 - [r00t-3xp10it/morpheus](https://github.com/r00t-3xp10it/morpheus) - Morpheus - Automating Ettercap TCP/IP (MITM-hijacking Tool)
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [flakshack/SysAdminBoard](https://github.com/flakshack/SysAdminBoard) - Simple dashboard system for sysadmins with modules for VMware, SNMP, REST API and more
+- [zaproxy/zap-extensions](https://github.com/zaproxy/zap-extensions) - OWASP ZAP Add-ons
 - [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
 - [alexdglover/AWSCodeDeployCourseMaterials](https://github.com/alexdglover/AWSCodeDeployCourseMaterials) - Templates, scripts, revisions, etc that are used in the AWS CodeDeploy course on Udemy and ACloudGuru
 - [SamJoan/droopescan](https://github.com/SamJoan/droopescan) - A plugin-based scanner that aids security researchers in identifying issues with several CMSs, mainly Drupal & Silverstripe.
@@ -4255,7 +4256,6 @@
 - [horrorho/InflatableDonkey](https://github.com/horrorho/InflatableDonkey) - iOS9+ iCloud backup retrieval proof of concept
 - [na-ka-na/ExcelCompare](https://github.com/na-ka-na/ExcelCompare) - Command line tool (and API) for diffing Excel Workbooks
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-- [zaproxy/zap-extensions](https://github.com/zaproxy/zap-extensions) - OWASP ZAP Add-ons
 - [jkinder/jakstab](https://github.com/jkinder/jakstab) - The Jakstab static analysis platform for binaries
 - [olacabs/jackhammer](https://github.com/olacabs/jackhammer) - Jackhammer - One Security vulnerability assessment/management tool to solve all the security team problems.
 - [cornerpirate/JS2PDFInjector](https://github.com/cornerpirate/JS2PDFInjector) - Inject a JS file into a PDF file.
@@ -5538,7 +5538,7 @@
 - [scott0123/Tesseract-macOS](https://github.com/scott0123/Tesseract-macOS) - Objective C wrapper for the open source OCR Engine Tesseract (macOS)
 - [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
 - [DzMohaipa/Source-SCCamera](https://github.com/DzMohaipa/Source-SCCamera) - 
-- [Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开
+- [Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
 - [ooni/probe-ios](https://github.com/ooni/probe-ios) - OONI Probe iOS
 - [macmade/FileVaultCracker](https://github.com/macmade/FileVaultCracker) - macOS FileVault cracking tool
 - [thejefflarson/pdf-splitter](https://github.com/thejefflarson/pdf-splitter) - command line splitting of pdfs using os x native libraries (read: an excuse to learn objc)
@@ -7102,6 +7102,7 @@
 - [ohjeongwook/DarunGrim](https://github.com/ohjeongwook/DarunGrim) - A patch analysis tool
 - [graylog-labs/graylog2-web-interface](https://github.com/graylog-labs/graylog2-web-interface) - [DEPRECATED]
 - [washal/pentest](https://github.com/washal/pentest) - scripts useful for pentesting
+- [sontek/dotfiles](https://github.com/sontek/dotfiles) - My configuration files (.screenrc, .vimrc, .weechat, .bashrc, .gitconfig, etc)
 - [jjlee/mechanize](https://github.com/jjlee/mechanize) - Stateful programmatic web browsing in Python, after Andy Lester's Perl module WWW::Mechanize .
 - [opexxx/delicious-network](https://github.com/opexxx/delicious-network) - Delicious network aggregator
 - [opexxx/metasploit](https://github.com/opexxx/metasploit) - metasploit framework 3.2
@@ -13456,7 +13457,6 @@
 - [sch3m4/pyadb](https://github.com/sch3m4/pyadb) - Simple python module to interact with Android Debug Bridge (ADB) tool
 - [packetloop/packetpig](https://github.com/packetloop/packetpig) - Packetpig - Open Source Big Data Security Analytics
 - [thomhastings/bt5-scripts](https://github.com/thomhastings/bt5-scripts) - Scratching my own itches on BackTrack 5 (deprecated :: bt6 -&gt; kali dot org)
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [davehull/Exif2GeoRSS](https://github.com/davehull/Exif2GeoRSS) - Takes GPS Exif metadata from image files (or whatever) and creates a GeoRSS file suitable for import into Bing Maps. See http://trustedsignal.blogspot.com/2012/02/plotting-photo-location-data-with-bing.html.
 - [lruppert/bro-scripts](https://github.com/lruppert/bro-scripts) - Utilities and scripts for bro-ids
 - [nvie/SimpleAES](https://github.com/nvie/SimpleAES) - AES-256 encryption and decryption in Python for mere mortals.
@@ -15548,7 +15548,6 @@
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [nvie/scripts](https://github.com/nvie/scripts) - A collection of simple and small but useful UNIX shell scripts.
 - [mattheworiordan/Mac-OS-X-Useful-Scripts](https://github.com/mattheworiordan/Mac-OS-X-Useful-Scripts) - Some useful scripts and profile settings that I have built using Mac OS X
-- [sontek/dotfiles](https://github.com/sontek/dotfiles) - My configuration files (.screenrc, .vimrc, .weechat, .bashrc, .gitconfig, etc)
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [mlogic/suspend-usb-device](https://github.com/mlogic/suspend-usb-device) - An easy-to-use script to properly put an USB device into suspend mode that can then be unplugged safely
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
