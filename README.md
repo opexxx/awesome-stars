@@ -3935,6 +3935,7 @@
 - [EIGHTFINITE/jdownloader-portable](https://github.com/EIGHTFINITE/jdownloader-portable) - 🌎 JDownloader in PortableApps.com format — https://github.com/EIGHTFINITE/jdownloader-portable | https://portableapps.com/node/53823 | http://jdownloader.org/
 - [OWASP/german-owasp-day](https://github.com/OWASP/german-owasp-day) - German OWASP Day conference site & presentation archive
 - [mozilla/server-side-tls](https://github.com/mozilla/server-side-tls) - Server side TLS Tools
+- [kafkaesqu3/subtee-gist-mirror](https://github.com/kafkaesqu3/subtee-gist-mirror) - few months old but better than nothing
 - [oleg-shilo/cs-script](https://github.com/oleg-shilo/cs-script) - C# scripting platform
 - [Anon215/privacytools.it-sec.rocks](https://github.com/Anon215/privacytools.it-sec.rocks) - deutsche, angepasste Version von
 - [RaymiiOrg/cipherli.st](https://github.com/RaymiiOrg/cipherli.st) - Ciplerli.st - strong ciphers for NGINX, Apache and Lighttpd
@@ -4323,7 +4324,7 @@
 - [4pr0n/ripme](https://github.com/4pr0n/ripme) - Downloads albums in bulk
 - [friesey/preservation-tools](https://github.com/friesey/preservation-tools) - Bundles all my preservation tools for all filetypes and tools in a modular way
 - [google/google-authenticator](https://github.com/google/google-authenticator) - Open source version of Google Authenticator (except the Android app)
-- [katjahahn/PortEx](https://github.com/katjahahn/PortEx) - Java library to analyse Portable Executable files with a special focus on malware analysis and PE malformation robustness
+- [struppigel/PortEx](https://github.com/struppigel/PortEx) - Java library to analyse Portable Executable files with a special focus on malware analysis and PE malformation robustness
 - [find-sec-bugs/find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs) - The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)
 - [h3xstream/rhinauditor](https://github.com/h3xstream/rhinauditor) - Static analyzer for JavaScript aiming for security bugs. (ZAP/Burp plugin)
 - [lightsey/zap-extension-betterfuzz](https://github.com/lightsey/zap-extension-betterfuzz) - Reworking of OWASP's ZAP Fuzz extension
@@ -5899,7 +5900,6 @@
 - [aaronkaplan/awesome-taxonomyzoo-list](https://github.com/aaronkaplan/awesome-taxonomyzoo-list) - A zoo of taxonomies for labelling domain names (as in DNS)
 - [atc-project/atc-mitigation](https://github.com/atc-project/atc-mitigation) - Actionable analytics designed to combat threats based on MITRE's ATT&CK.
 - [TheHive-Project/awesome](https://github.com/TheHive-Project/awesome) - A curated list of awesome things related to TheHive & Cortex
-- [uppusaikiran/awesome-ctf-cheatsheet](https://github.com/uppusaikiran/awesome-ctf-cheatsheet) - CTF Cheatsheet
 - [gerryguy311/Free_CyberSecurity_Professional_Development_Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources) - An awesome list of FREE resources for training, conferences, speaking, labs, reading, etc that are free. Originally built during COVID-19 for cybersecurity professionals with downtime can take advantage of to improve their skills and marketability to come out on the other side ready to rock. Now its taken on a life of its own and will persist, COVID be damned.
 - [ksindi/managers-playbook](https://github.com/ksindi/managers-playbook) - :book: Heuristics for effective management
 - [TheHive-Project/TheHiveDocs](https://github.com/TheHive-Project/TheHiveDocs) - Documentation of TheHive
@@ -7888,7 +7888,6 @@
 - [True-Demon/raindance](https://github.com/True-Demon/raindance) - Reconnaissance tool for Microsoft Office 365
 - [matthastings/PSalander](https://github.com/matthastings/PSalander) - 
 - [tyranid/DotNetInteropDemos](https://github.com/tyranid/DotNetInteropDemos) - A set of demos and a PowerShell module to interact with DotNetInterop.
-- [kafkaesqu3/subtee-gist-mirror](https://github.com/kafkaesqu3/subtee-gist-mirror) - few months old but better than nothing
 - [obscuritylabs/InfoPhish](https://github.com/obscuritylabs/InfoPhish) - InfoPath Phishing Repo Resource
 - [DanMcInerney/msfbot](https://github.com/DanMcInerney/msfbot) - WORK IN PROGRESS. Waits for MSF session then automatically gets domain admin
 - [nettitude/Invoke-PowerThIEf](https://github.com/nettitude/Invoke-PowerThIEf) - The PowerThIEf, an Internet Explorer Post Exploitation library
@@ -11093,7 +11092,7 @@
 - [cinquemb/playMusik](https://github.com/cinquemb/playMusik) - Create and play a playlist from any directory with .mp{3|4} files on OSX
 - [jordan-wright/python-wireless-attacks](https://github.com/jordan-wright/python-wireless-attacks) - Wireless Attacks in Python (Based on Blog Series)
 - [spencergibb/battleschool](https://github.com/spencergibb/battleschool) - Development environment provisioning using ansible, ala boxen -&gt; puppet, kitchenplan -&gt; chef
-- [katjahahn/SystemLookup](https://github.com/katjahahn/SystemLookup) - SystemLookup.com via command line
+- [struppigel/SystemLookup](https://github.com/struppigel/SystemLookup) - SystemLookup.com via command line
 - [bundestag/gesetze-tools](https://github.com/bundestag/gesetze-tools) - Scripts to maintain German law git repository
 - [orakaro/rainbowstream](https://github.com/orakaro/rainbowstream) - A smart and nice Twitter client on terminal written in Python.
 - [metabrainz/mbspotify](https://github.com/metabrainz/mbspotify) - MusicBrainz Spotify integration hack for SF Music Hack Day 2014
@@ -14499,7 +14498,7 @@
 - [staz0t/hashcatch](https://github.com/staz0t/hashcatch) - Capture handshakes of nearby WiFi networks automatically
 - [wuseman/EMAGNET](https://github.com/wuseman/EMAGNET) - Automated hacking tool that will find leaked databases with 97.1% accurate to grab mail + password together from recent uploads from https://pastebin.com. Bruteforce support for spotify accounts, instagram accounts, ssh servers, microsoft rdp clients and gmail accounts
 - [ptb/mac-setup](https://github.com/ptb/mac-setup) - 
-- [pinelliar/shadowsocks-docker](https://github.com/pinelliar/shadowsocks-docker) - A docker image of breakwa11/shadowsocks, based on Ubuntu 14.04
+- [pastral1024/shadowsocks-docker](https://github.com/pastral1024/shadowsocks-docker) - A docker image of breakwa11/shadowsocks, based on Ubuntu 14.04
 - [MartinIngesen/blocklistbuilder](https://github.com/MartinIngesen/blocklistbuilder) - DNS blocklist builder
 - [andli/wipeusb](https://github.com/andli/wipeusb) - A headless Raspberry Pi install for auto-formatting usb drives.
 - [andreanidouglas/dns_response_time](https://github.com/andreanidouglas/dns_response_time) - Measure response time between different DNS providers against several domains
