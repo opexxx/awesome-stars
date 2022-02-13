@@ -3014,7 +3014,7 @@
 - [fnproject/fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
-- [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
+- [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [smt923/twiddle](https://github.com/smt923/twiddle) - Shift characters and fiddle with words to generate common variations on them, designed for usernames, logins, etc
@@ -4835,6 +4835,7 @@
 - [kessler/node-bcat](https://github.com/kessler/node-bcat) - A pipe to browser utility
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [brave/browser-laptop](https://github.com/brave/browser-laptop) - [DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave
+- [clairempr/letterpress](https://github.com/clairempr/letterpress) - Django web application for the management of transcriptions and images of letters and related documents
 - [hellais/ooniprobe-iot](https://github.com/hellais/ooniprobe-iot) - 
 - [vtoubiana/TrackMeNot](https://github.com/vtoubiana/TrackMeNot) - An artware browser add-on to protect privacy in web-search. By issuing randomized queries to common search-engines, TrackMeNot obfuscates your search profile(s) and registers your discontent with surreptitious tracking.
 - [xl7dev/BurpSuite](https://github.com/xl7dev/BurpSuite) - BurpSuite using the document and some extensions
@@ -10740,7 +10741,6 @@
 - [ajackal/honey-hornet](https://github.com/ajackal/honey-hornet) - port scanner & login credential tester
 - [CaringCaribou/caringcaribou](https://github.com/CaringCaribou/caringcaribou) - A friendly car security exploration tool for the CAN bus
 - [linklayer/pyvit](https://github.com/linklayer/pyvit) - pyvit: Python Vehicle Interface Toolkit
-- [clairempr/letterpress](https://github.com/clairempr/letterpress) - Django web application for the management of transcriptions and images of letters and related documents
 - [MasterScrat/Chatistics](https://github.com/MasterScrat/Chatistics) - 💬 Python scripts to parse Messenger, Hangouts, WhatsApp and Telegram chat logs into DataFrames.
 - [mukund109/word-mesh](https://github.com/mukund109/word-mesh) - A context-preserving word cloud generator
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
