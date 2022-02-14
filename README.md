@@ -7103,7 +7103,6 @@
 - [ohjeongwook/DarunGrim](https://github.com/ohjeongwook/DarunGrim) - A patch analysis tool
 - [graylog-labs/graylog2-web-interface](https://github.com/graylog-labs/graylog2-web-interface) - [DEPRECATED]
 - [washal/pentest](https://github.com/washal/pentest) - scripts useful for pentesting
-- [sontek/dotfiles](https://github.com/sontek/dotfiles) - My configuration files (.screenrc, .vimrc, .weechat, .bashrc, .gitconfig, etc)
 - [jjlee/mechanize](https://github.com/jjlee/mechanize) - Stateful programmatic web browsing in Python, after Andy Lester's Perl module WWW::Mechanize .
 - [opexxx/delicious-network](https://github.com/opexxx/delicious-network) - Delicious network aggregator
 - [opexxx/metasploit](https://github.com/opexxx/metasploit) - metasploit framework 3.2
@@ -15547,6 +15546,7 @@
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [nvie/scripts](https://github.com/nvie/scripts) - A collection of simple and small but useful UNIX shell scripts.
 - [mattheworiordan/Mac-OS-X-Useful-Scripts](https://github.com/mattheworiordan/Mac-OS-X-Useful-Scripts) - Some useful scripts and profile settings that I have built using Mac OS X
+- [sontek/homies](https://github.com/sontek/homies) - My configuration files (.screenrc, .vimrc, .weechat, .bashrc, .gitconfig, etc)
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [mlogic/suspend-usb-device](https://github.com/mlogic/suspend-usb-device) - An easy-to-use script to properly put an USB device into suspend mode that can then be unplugged safely
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
