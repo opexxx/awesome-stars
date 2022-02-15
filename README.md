@@ -2522,7 +2522,7 @@
 - [dandare100/agentstub](https://github.com/dandare100/agentstub) - SSH Agent Forwarding
 - [mhmdiaa/second-order](https://github.com/mhmdiaa/second-order) - Second-order subdomain takeover scanner
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
-- [sw33tLie/bbscope](https://github.com/sw33tLie/bbscope) - Scope gathering tool for HackerOne, Bugcrowd, and Intigriti!
+- [sw33tLie/bbscope](https://github.com/sw33tLie/bbscope) - Scope gathering tool for HackerOne, Bugcrowd, Intigriti and Immunefi!
 - [busterb/msmailprobe](https://github.com/busterb/msmailprobe) - Office 365 and Exchange Enumeration
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [Shivangx01b/BountyIt](https://github.com/Shivangx01b/BountyIt) - A fuzzer made in golang for finding issues like xss, lfi, rce, ssti...that detects issues using change in content length and verify it using signatures
@@ -15126,7 +15126,7 @@
 - [dana-at-cp/backdoor-apk](https://github.com/dana-at-cp/backdoor-apk) - backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only.
 - [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
 - [srozb/criticalstack-client](https://github.com/srozb/criticalstack-client) - 
-- [kimmobrunfeldt/howto-everything](https://github.com/kimmobrunfeldt/howto-everything) - Collection of notes and howtos. Questions / ideas -&gt; please open an issue :)
+- [kimmobrunfeldt/howto-everything](https://github.com/kimmobrunfeldt/howto-everything) - Collection of notes and howtos. Questions / ideas -&gt; please open an issue :) Also check my blog:
 - [rids43/handshaker](https://github.com/rids43/handshaker) - Detect, deauth and capture handshakes by ESSID
 - [luxas/kubernetes-on-arm](https://github.com/luxas/kubernetes-on-arm) - Kubernetes ported to ARM boards like Raspberry Pi.
 - [alanrenouf/vmware-utils](https://github.com/alanrenouf/vmware-utils) - Docker Image to deploy various VMware and open source related tools to manage a VMware environment
