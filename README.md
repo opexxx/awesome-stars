@@ -384,6 +384,7 @@
 - [ssdeep-project/ssdeep](https://github.com/ssdeep-project/ssdeep) - Fuzzy hashing API and fuzzy hashing tool
 - [ifding/iot-malware](https://github.com/ifding/iot-malware) - Malware source code samples leaked online uploaded to GitHub for those who want to analyze the code
 - [ant4g0nist/Vulnerable-Kext](https://github.com/ant4g0nist/Vulnerable-Kext) - A WIP "Vulnerable by Design" kext for iOS/macOS to play & learn *OS kernel exploitation
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [brannondorsey/naive-hashcat](https://github.com/brannondorsey/naive-hashcat) - Crack password hashes without the fuss :cat2:
 - [slaeryan/DetectCobaltStomp](https://github.com/slaeryan/DetectCobaltStomp) - Detects Module Stomping as implemented by Cobalt Strike
 - [NanXiao/tcpbench](https://github.com/NanXiao/tcpbench) - Porting OpenBSD tcpbench into Linux.
@@ -2133,6 +2134,7 @@
 
 ## CSS 
 
+- [OWASP/common-requirement-enumeration](https://github.com/OWASP/common-requirement-enumeration) - 
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [johnpaulada/pandoc-markdown-book-template](https://github.com/johnpaulada/pandoc-markdown-book-template) - A template for creating epub books from markdown using pandoc.
 - [FuzzySecurity/Fermion](https://github.com/FuzzySecurity/Fermion) - Fermion, an electron wrapper for Frida & Monaco.
@@ -2524,7 +2526,6 @@
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [sw33tLie/bbscope](https://github.com/sw33tLie/bbscope) - Scope gathering tool for HackerOne, Bugcrowd, Intigriti and Immunefi!
 - [busterb/msmailprobe](https://github.com/busterb/msmailprobe) - Office 365 and Exchange Enumeration
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [Shivangx01b/BountyIt](https://github.com/Shivangx01b/BountyIt) - A fuzzer made in golang for finding issues like xss, lfi, rce, ssti...that detects issues using change in content length and verify it using signatures
 - [gruntwork-io/kubergrunt](https://github.com/gruntwork-io/kubergrunt) - Kubergrunt is a standalone go binary with a collection of commands to fill in the gaps between Terraform, Helm, and Kubectl. https://www.gruntwork.io
 - [cisco-open/kubei](https://github.com/cisco-open/kubei) - Kubei is a flexible Kubernetes runtime scanner, scanning images of worker and Kubernetes nodes to provide an accurate vulnerability assessment
@@ -3694,7 +3695,7 @@
 - [mozilla/masche](https://github.com/mozilla/masche) - Deprecated - MIG Memory Forensic library
 - [snarlysodboxer/BTSyncInator](https://github.com/snarlysodboxer/BTSyncInator) - Multiple BitTorrent Sync Daemon Manager.
 - [snarlysodboxer/sploitinator](https://github.com/snarlysodboxer/sploitinator) - Run Metasploit modules against known hosts and ports, notify of vulnerabilities.
-- [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Reproducible Data Science at Scale!
+- [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - The Complete MLOps Stack
 - [weaveworks/weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host containers networking and more.
 - [appc/spec](https://github.com/appc/spec) - App Container Specification and Tooling (archived, see https://github.com/rkt/rkt/issues/4024)
 - [david415/HoneyBadger](https://github.com/david415/HoneyBadger) - Quantum Insert detector/recorder
@@ -3808,7 +3809,7 @@
 
 ## HTML 
 
-- [roottusk/vapi](https://github.com/roottusk/vapi) - vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios in the means of Exercises.
+- [roottusk/vapi](https://github.com/roottusk/vapi) - vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios through Exercises.
 - [tb0hdan/domains](https://github.com/tb0hdan/domains) - World’s single largest Internet domains dataset
 - [kubecamp/kubernetes_in_one_day](https://github.com/kubecamp/kubernetes_in_one_day) - Material for the training course
 - [kubecamp/kubernetes_in_2_days](https://github.com/kubecamp/kubernetes_in_2_days) - Material for the training course
@@ -3842,7 +3843,7 @@
 - [ibrahimjelliti/CKSS-Certified-Kubernetes-Security-Specialist](https://github.com/ibrahimjelliti/CKSS-Certified-Kubernetes-Security-Specialist) - This repository is a collection of resources to prepare for the Certified Kubernetes Security Specialist (CKSS) exam.
 - [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Kubernetes - Beginners | Intermediate | Advanced
 - [CyberSecDef/STIG](https://github.com/CyberSecDef/STIG) - STIG/Security Control XML Transformations
-- [iknowjason/PurpleCloud](https://github.com/iknowjason/PurpleCloud) - Hybrid + Identity Cyber Range
+- [iknowjason/PurpleCloud](https://github.com/iknowjason/PurpleCloud) - A little tool to play with creating your own custom Azure Cyber Range
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [MS-WEB-BN/c41n](https://github.com/MS-WEB-BN/c41n) - Automated rogue access point setup tool.
 - [incidrthreat/GoTunnelr](https://github.com/incidrthreat/GoTunnelr) - 
@@ -4405,6 +4406,7 @@
 
 ## JavaScript 
 
+- [WebBreacher/obsidian-osint-templates](https://github.com/WebBreacher/obsidian-osint-templates) - 
 - [wurstbrot/DevSecOps-MaturityModel](https://github.com/wurstbrot/DevSecOps-MaturityModel) - 
 - [Ch0pin/log4JFrida](https://github.com/Ch0pin/log4JFrida) - 
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
@@ -5621,6 +5623,7 @@
 
 ## Others 
 
+- [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 - [NetNinjaCorp/Top1000-SubDomains](https://github.com/NetNinjaCorp/Top1000-SubDomains) - Top 1000 Subdomains as per SSL Certificate Registrations
 - [Puliczek/awesome-list-of-secrets-in-environment-variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables) - 🦄🔒 Awesome list of secrets in environment variables 🖥️
 - [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts
@@ -7479,6 +7482,7 @@
 
 ## PowerShell 
 
+- [nickadam/powershell-cya](https://github.com/nickadam/powershell-cya) - Ciphertext Your Assets
 - [PaulHCode/RecurringADChecks](https://github.com/PaulHCode/RecurringADChecks) - 
 - [soteria-security/365Inspect](https://github.com/soteria-security/365Inspect) - A PowerShell script that automates the security assessment of Microsoft Office 365 environments.
 - [AzureAD/Azure-AD-Incident-Response-PowerShell-Module](https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module) - The Azure Active Directory Incident Response PowerShell module provides a number of tools, developed by the Azure Active Directory Product Group in conjunction with the Microsoft Detection and Response Team (DART), to assist in compromise response.
@@ -8800,7 +8804,7 @@
 - [MShahine/Bug-Bounty-Recon](https://github.com/MShahine/Bug-Bounty-Recon) - All The Notes And Tips I FOund In Github And Twitter I Put Them Here
 - [Hackndo/WebclientServiceScanner](https://github.com/Hackndo/WebclientServiceScanner) - Python tool to Check running WebClient services on multiple targets based on @leechristensen
 - [BehzaDMagzer/p.maker](https://github.com/BehzaDMagzer/p.maker) - PassWord List Maker
-- [Dineshkarthik/telegram_media_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB
+- [Dineshkarthik/telegram_media_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB per file
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [Mte90/DL-Telegram-by-file-attachment](https://github.com/Mte90/DL-Telegram-by-file-attachment) - Download documents by terms looking in a Telegram channel
 - [Mr-B0b/BloodCheck](https://github.com/Mr-B0b/BloodCheck) - BloodCheck enables Red and Blue Teams to manage multiple Neo4j databases and run Cypher queries against a BloodHound dataset.
@@ -15308,7 +15312,7 @@
 - [ikrukov/epub](https://github.com/ikrukov/epub) - Free books in epub format
 - [ftao/vpn-deploy-playbook](https://github.com/ftao/vpn-deploy-playbook) - A Collection of Ansible Playbook for deploy vpn services
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
-- [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) - Security automation content in SCAP, OSCAL, Bash, Ansible, and other formats
+- [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) - Security automation content in SCAP, Bash, Ansible, and other formats
 - [compoterhacker/onion-manager](https://github.com/compoterhacker/onion-manager) - Manage individual onions for a Tor based UnrealIRCd network.
 - [coldhakca/tor-relay-bootstrap](https://github.com/coldhakca/tor-relay-bootstrap) - Script to bootstrap a Debian server to be a set-and-forget Tor relay
 - [NSAKEY/tor-bridge-bootstrap](https://github.com/NSAKEY/tor-bridge-bootstrap) - Script to bootstrap a debian server to be a set-and-forget Tor bridge
