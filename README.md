@@ -2397,6 +2397,7 @@
 
 ## Go 
 
+- [kosmosec/proto-find](https://github.com/kosmosec/proto-find) - Let's check if your target is vulnerable for client side prototype pollution.
 - [Azure/aad-pod-identity](https://github.com/Azure/aad-pod-identity) - Assign Azure Active Directory Identities to Kubernetes applications.
 - [pupagang/pupadrive-go](https://github.com/pupagang/pupadrive-go) - 
 - [v-byte-cpu/sx](https://github.com/v-byte-cpu/sx) - :vulcan_salute: Fast, modern, easy-to-use network scanner
@@ -3843,7 +3844,6 @@
 - [ibrahimjelliti/CKSS-Certified-Kubernetes-Security-Specialist](https://github.com/ibrahimjelliti/CKSS-Certified-Kubernetes-Security-Specialist) - This repository is a collection of resources to prepare for the Certified Kubernetes Security Specialist (CKSS) exam.
 - [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Kubernetes - Beginners | Intermediate | Advanced
 - [CyberSecDef/STIG](https://github.com/CyberSecDef/STIG) - STIG/Security Control XML Transformations
-- [iknowjason/PurpleCloud](https://github.com/iknowjason/PurpleCloud) - A little tool to play with creating your own custom Azure Cyber Range
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [MS-WEB-BN/c41n](https://github.com/MS-WEB-BN/c41n) - Automated rogue access point setup tool.
 - [incidrthreat/GoTunnelr](https://github.com/incidrthreat/GoTunnelr) - 
@@ -5773,7 +5773,7 @@
 - [redcode-labs/medusa-combo-files](https://github.com/redcode-labs/medusa-combo-files) - Combinations of default usernames and passwords for the Medusa password cracker
 - [bambenek/research](https://github.com/bambenek/research) - 
 - [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
-- [MyTheValentinus/Deploy-Telegram-SSH-Alerting-with-Ansible](https://github.com/MyTheValentinus/Deploy-Telegram-SSH-Alerting-with-Ansible) - Deploy Telegram SSH Alerting with Ansible
+- [mythevalentinus/Deploy-Telegram-SSH-Alerting-with-Ansible](https://github.com/mythevalentinus/Deploy-Telegram-SSH-Alerting-with-Ansible) - Deploy Telegram SSH Alerting with Ansible
 - [TITO-Threat-Intel/TITO-Framework](https://github.com/TITO-Threat-Intel/TITO-Framework) - TITO is a light framework for operationalizing threat intelligence that is platform and data agnostic.
 - [DataStax-Academy/workshop-cassandra-certification](https://github.com/DataStax-Academy/workshop-cassandra-certification) - 
 - [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - application centric Kubernetes UI and continuous assurance provider
@@ -8771,6 +8771,7 @@
 
 ## Python 
 
+- [DontPanicO/jwtXploiter](https://github.com/DontPanicO/jwtXploiter) - A tool to test security of json web token
 - [zhzyker/exphub](https://github.com/zhzyker/exphub) - Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
@@ -8985,6 +8986,7 @@
 - [NeuronAddict/pentesting-notes](https://github.com/NeuronAddict/pentesting-notes) - Notes from OSCP, CTF, security adventures, etc...
 - [pinax/pinax-calendars](https://github.com/pinax/pinax-calendars) - Django utilities for publishing events as a calendar
 - [RealityNet/attack-coverage](https://github.com/RealityNet/attack-coverage) - an excel-centric approach for the MITRE ATT&CK® Tactics and Techniques
+- [iknowjason/PurpleCloud](https://github.com/iknowjason/PurpleCloud) - A little tool to play with Azure Identity - Azure Active Directory lab creation tool
 - [c0dejump/HawkScan](https://github.com/c0dejump/HawkScan) - Security Tool for Reconnaissance and Information Gathering on a website. (python 3.x)
 - [Quitten/Autorize](https://github.com/Quitten/Autorize) - Automatic authorization enforcement detection extension for burp suite written in Jython developed by Barak Tawily in order to ease application security people work and allow them perform an automatic authorization tests
 - [agrawalsmart7/autoRecon](https://github.com/agrawalsmart7/autoRecon) - This tool is for automate the initial things that we usually do in daily pentesting. So you can focus more on the main target.
@@ -14267,7 +14269,7 @@
 - [InfraBuilder/benchmark-k8s-cni-2020-08](https://github.com/InfraBuilder/benchmark-k8s-cni-2020-08) - Kubernetes CNI benchmark - August 2020
 - [vp777/metahttp](https://github.com/vp777/metahttp) - A bash script that automates the scanning of a target network for HTTP resources through XXE
 - [Fadavvi/Sub-Drill](https://github.com/Fadavvi/Sub-Drill) - A very (very) FAST and simple subdomain finder based on online & free services. Without any configuration requirements.
-- [MyTheValentinus/ssh-login-alert-telegram](https://github.com/MyTheValentinus/ssh-login-alert-telegram) - Recieive telegram notfications when user connect to a server
+- [mythevalentinus/ssh-login-alert-telegram](https://github.com/mythevalentinus/ssh-login-alert-telegram) - Recieive telegram notfications when user connect to a server
 - [usnistgov/oscal-content](https://github.com/usnistgov/oscal-content) - NIST SP 800-53 content and other OSCAL content examples
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) - Tools and living docs 🧬 for Debian-based servers and Web Applications
 - [ay-b/linux_onetime_password](https://github.com/ay-b/linux_onetime_password) - Linux one-time password generator script
