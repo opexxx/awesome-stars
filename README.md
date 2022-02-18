@@ -506,7 +506,7 @@
 - [NLnetLabs/ldns](https://github.com/NLnetLabs/ldns) - LDNS is a DNS library that facilitates DNS tool programming
 - [NotMedic/rdp-tunnel](https://github.com/NotMedic/rdp-tunnel) - Pre-compiled tools to tunnel TCP over RDP Connections
 - [kholia/RC4-40-brute-office](https://github.com/kholia/RC4-40-brute-office) - Guaranteed cracking of M$ Office files using RC4 40-bit encryption
-- [TeamWin/Team-Win-Recovery-Project](https://github.com/TeamWin/Team-Win-Recovery-Project) - Core recovery files for the Team Win Recovery Project (T.W.R.P) - this is not up to date, please see https://github.com/omnirom/android_bootable_recovery/
+- [TeamWin/Team-Win-Recovery-Project](https://github.com/TeamWin/Team-Win-Recovery-Project) - Core recovery files for the Team Win Recovery Project (T.W.R.P) - this is not up to date, please see https://github.com/TeamWin/android_bootable_recovery/
 - [ForensicITGuy/libpreloadvaccine](https://github.com/ForensicITGuy/libpreloadvaccine) - Whitelisting LD_PRELOAD libraries using LD_AUDIT
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
 - [m0chan/h4cks](https://github.com/m0chan/h4cks) - Combination of all my Resources, Links & Scripts
@@ -3579,7 +3579,7 @@
 - [square/certigo](https://github.com/square/certigo) - A utility to examine and validate certificates in a variety of formats
 - [SSLMate/certspotter](https://github.com/SSLMate/certspotter) - Certificate Transparency Log Monitor
 - [abesto/docker-compose-graphviz](https://github.com/abesto/docker-compose-graphviz) - Turn a docker-compose.yml files into Graphviz .dot files
-- [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go
+- [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [rach/pome](https://github.com/rach/pome) - A Postgres Metrics Dashboard
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
 - [OWASP/Go-SCP](https://github.com/OWASP/Go-SCP) - Go programming language secure coding practices guide
@@ -5553,7 +5553,6 @@
 - [macmade/KeychainCracker](https://github.com/macmade/KeychainCracker) - macOS keychain cracking tool
 - [mongizaidi/LAN-Scan](https://github.com/mongizaidi/LAN-Scan) - An iOS Local Area Network Scanner
 - [mtigas/iObfs](https://github.com/mtigas/iObfs) - obfs4proxy for Onion Browser & other Tor iOS apps --- DEPRECATED AND SUPERSEDED BY @tladesignz/IPtProxy
-- [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [chrisballinger/Tether-iOS](https://github.com/chrisballinger/Tether-iOS) - Tethering for non-jailbroken iOS Devices over USB
 - [elfmaster/sherlocked](https://github.com/elfmaster/sherlocked) - Universal script packer-- transforms any type of script into a protected ELF executable, encrypted with anti-debugging.
 - [nabla-c0d3/ssl-kill-switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) - Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.
@@ -15610,6 +15609,7 @@
 - [kishikawakatsumi/KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.
 - [square/Valet](https://github.com/square/Valet) - Valet lets you securely store data in the iOS, tvOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.
 - [nVisium/Swift.nV](https://github.com/nVisium/Swift.nV) - Security Training Tool that demonstrates common mobile application vulnerabilities using Swift in iOS
+- [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 - [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 - [nst/ScreenTime](https://github.com/nst/ScreenTime) - create movies from periodic screenshots
