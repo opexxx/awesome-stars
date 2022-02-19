@@ -440,7 +440,7 @@
 - [quarkslab/CVE-2020-0069_poc](https://github.com/quarkslab/CVE-2020-0069_poc) - 
 - [taviso/avscript](https://github.com/taviso/avscript) - Avast JavaScript Interactive Shell
 - [sailay1996/UAC_Bypass_In_The_Wild](https://github.com/sailay1996/UAC_Bypass_In_The_Wild) - Windows 10 UAC bypass for all executable files which are autoelevate true .
-- [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Proxmark3 / RFID / NFC  reader, writer, sniffer and emulator
+- [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - The Iceman fork of Proxmark3 / RFID / NFC  reader, writer, sniffer and emulator
 - [set-element/auditdBroFramework](https://github.com/set-element/auditdBroFramework) - The Auditd Framework logs and applies security policy to linux auditd data
 - [redcanaryco/chain-reactor](https://github.com/redcanaryco/chain-reactor) - Chain Reactor is an open source framework for composing executables that simulate adversary behaviors and techniques on Linux endpoints.
 - [jakeajames/time_waste](https://github.com/jakeajames/time_waste) - iOS 12.0-13.3 tfp0
@@ -564,7 +564,7 @@
 - [ChrisJohnsen/tmux-MacOSX-pasteboard](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard) - Notes and workarounds for accessing the Mac OS X pasteboard in tmux sessions. Note: The pu branch (“Proposed Updates”) may be rewound without notice.
 - [majn/telegram-purple](https://github.com/majn/telegram-purple) - Adds support for Telegram to Pidgin, Adium, Finch and other Libpurple based messengers.
 - [marcomorain/tcat](https://github.com/marcomorain/tcat) - Time Cat is a program to add timestamps to text.
-- [aws/s2n-tls](https://github.com/aws/s2n-tls) - s2n : an implementation of the TLS/SSL protocols
+- [aws/s2n-tls](https://github.com/aws/s2n-tls) - An implementation of the TLS/SSL protocols
 - [r00t-3xp10it/hacking-material-books](https://github.com/r00t-3xp10it/hacking-material-books) - collection of articles/books about programing
 - [libressl-portable/portable](https://github.com/libressl-portable/portable) - LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are welcome.
 - [WyAtu/windows_pentest_tools](https://github.com/WyAtu/windows_pentest_tools) - My pentest tools used two years ago. Part1
@@ -10675,7 +10675,7 @@
 - [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems
 - [roglew/pappy-proxy](https://github.com/roglew/pappy-proxy) - An intercepting proxy for web application testing
 - [tijme/angularjs-csti-scanner](https://github.com/tijme/angularjs-csti-scanner) - Automated client-side template injection (sandbox escape/bypass) detection for AngularJS v1.x.
-- [marvinthepa/mutt-ical](https://github.com/marvinthepa/mutt-ical) - Script to support answering ical invitations from mutt
+- [marvinthepa/mutt-ical](https://github.com/marvinthepa/mutt-ical) - answer/display ical invitations with mutt
 - [moloch--/CSP-Bypass](https://github.com/moloch--/CSP-Bypass) - A Burp Plugin for Detecting Weaknesses in Content Security Policies
 - [TheRook/nsshell](https://github.com/TheRook/nsshell) - A DNS connectback shell executed by strings in payloads.txt
 - [random-robbie/My-Shodan-Scripts](https://github.com/random-robbie/My-Shodan-Scripts) - Collection of Scripts for shodan searching stuff.
@@ -14085,7 +14085,7 @@
 
 ## Rust 
 
-- [Ben-Lichtman/ropr](https://github.com/Ben-Lichtman/ropr) - A blazing fast multithreaded ROP Gadget finder. ropper / ropgadget alternative
+- [Ben-Lichtman/ropr](https://github.com/Ben-Lichtman/ropr) - A blazing fast™ multithreaded ROP Gadget finder. ropper / ropgadget alternative
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman
 - [alexwlchan/dominant_colours](https://github.com/alexwlchan/dominant_colours) - A CLI tool to find the dominant colours in an image 🎨
 - [Edu4rdSHL/fhc](https://github.com/Edu4rdSHL/fhc) - Fast HTTP Checker.
@@ -14502,7 +14502,7 @@
 - [staz0t/hashcatch](https://github.com/staz0t/hashcatch) - Capture handshakes of nearby WiFi networks automatically
 - [wuseman/EMAGNET](https://github.com/wuseman/EMAGNET) - Automated hacking tool that will find leaked databases with 97.1% accurate to grab mail + password together from recent uploads from https://pastebin.com. Bruteforce support for spotify accounts, instagram accounts, ssh servers, microsoft rdp clients and gmail accounts
 - [ptb/mac-setup](https://github.com/ptb/mac-setup) - 
-- [pastral1024/shadowsocks-docker](https://github.com/pastral1024/shadowsocks-docker) - A docker image of breakwa11/shadowsocks, based on Ubuntu 14.04
+- [sunasnow/shadowsocks-docker](https://github.com/sunasnow/shadowsocks-docker) - A docker image of breakwa11/shadowsocks, based on Ubuntu 14.04
 - [MartinIngesen/blocklistbuilder](https://github.com/MartinIngesen/blocklistbuilder) - DNS blocklist builder
 - [andli/wipeusb](https://github.com/andli/wipeusb) - A headless Raspberry Pi install for auto-formatting usb drives.
 - [andreanidouglas/dns_response_time](https://github.com/andreanidouglas/dns_response_time) - Measure response time between different DNS providers against several domains
