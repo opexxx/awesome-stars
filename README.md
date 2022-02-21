@@ -15477,7 +15477,7 @@
 - [lanceseidman/PiCAST](https://github.com/lanceseidman/PiCAST) - PiCAST turns your $35 Raspberry Pi in to a Chromecast like Device.
 - [harryallerston/RPI-Wireless-Hotspot](https://github.com/harryallerston/RPI-Wireless-Hotspot) - Configure your Raspberry Pi to act as a WPA encrypted WiFi hotspot, sharing the attatched ethernet connection. Allows the selection from a range of common DNS providers, including unblock-us for netflix. Chromecast support with this feature is also configured.
 - [andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service.
-- [tim-janik/snipbits](https://github.com/tim-janik/snipbits) - Utilities for backup creation and administration
+- [tim-janik/misc](https://github.com/tim-janik/misc) - Utilities for backup creation and administration
 - [crowbar/crowbar](https://github.com/crowbar/crowbar) - Cloud Operations Platform
 - [fuhry/archmaker](https://github.com/fuhry/archmaker) - Scripts that generate Arch Linux VMs
 - [fuhry/linux-memory-dumper](https://github.com/fuhry/linux-memory-dumper) - Script that dumps running process memory from Linux systems using /proc.
