@@ -3219,7 +3219,7 @@
 - [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
 - [aelsabbahy/goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
 - [sideshow/apns2](https://github.com/sideshow/apns2) - ⚡ HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol.
-- [jollheef/out-of-tree](https://github.com/jollheef/out-of-tree) - out-of-tree kernel {module, exploit} development tool
+- [out-of-tree/out-of-tree](https://github.com/out-of-tree/out-of-tree) - out-of-tree kernel {module, exploit} development tool
 - [posener/complete](https://github.com/posener/complete) - bash completion written in go + bash completion for go command
 - [raja/argon2pw](https://github.com/raja/argon2pw) - Argon2 password hashing package for go with constant time hash comparison
 - [dvyukov/go-fuzz](https://github.com/dvyukov/go-fuzz) - Randomized testing for Go
