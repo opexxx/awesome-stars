@@ -5663,7 +5663,7 @@
 - [ksoclabs/awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security) - A curated list of awesome Kubernetes security resources
 - [random-robbie/bruteforce-lists](https://github.com/random-robbie/bruteforce-lists) - Some files for bruteforcing certain things.
 - [dsopas/assessment-mindset](https://github.com/dsopas/assessment-mindset) - Security Mindmap that could be useful for the infosec community when doing pentest, bug bounty or red-team assessments.
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
 - [yyds-page/cissp-mind-map](https://github.com/yyds-page/cissp-mind-map) - CISSP mind map, 8 domains, 2020 edition, OSG/AIO eighth edition, 8th
 - [stefanoj3/tordock](https://github.com/stefanoj3/tordock) - Dockerized TOR socks5
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -12091,7 +12091,6 @@
 - [davinerd/mitmnbdf](https://github.com/davinerd/mitmnbdf) - MITM 'n' BDF
 - [atsuoishimoto/tse](https://github.com/atsuoishimoto/tse) - Text Stream Editor in Python
 - [JuanPotato/Legofy](https://github.com/JuanPotato/Legofy) - Make images look as if they are made out of 1x1 LEGO blocks
-- [liuchang0812/slides](https://github.com/liuchang0812/slides) - 
 - [riramar/hsecscan](https://github.com/riramar/hsecscan) - A security scanner for HTTP response headers.
 - [vwillcox/speedtest-cron](https://github.com/vwillcox/speedtest-cron) - A Simple set of scripts using Speedtest-cli to run hourly/half-hourly speed tests and email you the results.
 - [trustedsec/spraywmi](https://github.com/trustedsec/spraywmi) - SprayWMI is an easy way to get mass shells on systems that support WMI. Much more effective than PSEXEC as it does not leave remnants on a system.
