@@ -9147,7 +9147,7 @@
 - [airbus-seclab/android_emuroot](https://github.com/airbus-seclab/android_emuroot) - Android_Emuroot is a Python script that allows granting root privileges on the fly to shells running on Android virtual machines that use google-provided emulator images called Google API Playstore, to help reverse engineers to go deeper into their investigations.
 - [Talkaboutcybersecurity/GitMonitor](https://github.com/Talkaboutcybersecurity/GitMonitor) - One way to continuously monitor sensitive information that could be exposed on Github
 - [OTRF/openhunt](https://github.com/OTRF/openhunt) - 
-- [OTRF/ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.
+- [OTRF/ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A community-driven, open-source project to share detection logic, adversary tradecraft and resources to make detection development more efficient.
 - [ninoseki/shodan-dojo](https://github.com/ninoseki/shodan-dojo) - Learning Shodan through katas
 - [AnasAboureada/Penetration-Testing-Study-Notes](https://github.com/AnasAboureada/Penetration-Testing-Study-Notes) - Penetration Testing notes, resources and scripts
 - [kryptoslogic/rdppot](https://github.com/kryptoslogic/rdppot) - RDP honeypot
