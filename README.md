@@ -565,7 +565,6 @@
 - [majn/telegram-purple](https://github.com/majn/telegram-purple) - Adds support for Telegram to Pidgin, Adium, Finch and other Libpurple based messengers.
 - [marcomorain/tcat](https://github.com/marcomorain/tcat) - Time Cat is a program to add timestamps to text.
 - [aws/s2n-tls](https://github.com/aws/s2n-tls) - An implementation of the TLS/SSL protocols
-- [r00t-3xp10it/hacking-material-books](https://github.com/r00t-3xp10it/hacking-material-books) - collection of articles/books about programing
 - [libressl-portable/portable](https://github.com/libressl-portable/portable) - LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are welcome.
 - [WyAtu/windows_pentest_tools](https://github.com/WyAtu/windows_pentest_tools) - My pentest tools used two years ago. Part1
 - [ehsahil/recon-my-way](https://github.com/ehsahil/recon-my-way) - This repository created for personal use and added tools from my latest blog post.
@@ -4239,6 +4238,7 @@
 - [tmobile/pacbot](https://github.com/tmobile/pacbot) - PacBot (Policy as Code Bot)
 - [Teevity/ice](https://github.com/Teevity/ice) - AWS Usage Tool
 - [knowyourdata/data-scanner](https://github.com/knowyourdata/data-scanner) - (Sensitive) data scanner
+- [0xAlexei/Publications](https://github.com/0xAlexei/Publications) - My conference presentations and publications
 - [docbleach/DocBleach](https://github.com/docbleach/DocBleach) - :shower: Sanitising your documents, one threat at a time. — Content Disarm & Reconstruction Software
 - [spoofzu/DeepViolet](https://github.com/spoofzu/DeepViolet) - Tool for introspection of SSL\TLS sessions
 - [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
@@ -6456,7 +6456,6 @@
 - [obahareth/my-mac-os](https://github.com/obahareth/my-mac-os) - List of applications and tools that make my macOS experience amazing, inspired by https://github.com/nikitavoloboev/my-mac-os
 - [shariati/OS-Folder-Icons](https://github.com/shariati/OS-Folder-Icons) - A collection of custom folder icons for (Mac, Linux and Windows)
 - [watson/awesome-computer-history](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore
-- [0xAlexei/Publications](https://github.com/0xAlexei/Publications) - My conference presentations and publications
 - [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
 - [ivbeg/awesome-forensicstools](https://github.com/ivbeg/awesome-forensicstools) - Awesome list of digital forensic tools
 - [ksluckow/awesome-symbolic-execution](https://github.com/ksluckow/awesome-symbolic-execution) - A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.
@@ -7982,6 +7981,7 @@
 - [p3nt4/Invoke-Piper](https://github.com/p3nt4/Invoke-Piper) - Forward local or remote tcp ports through SMB pipes.
 - [GavinEke/TronNG](https://github.com/GavinEke/TronNG) - Tron Next Generation for Windows 10
 - [kilasuit/PoshFunctions](https://github.com/kilasuit/PoshFunctions) - Collection of Scripts & Modules that I am happy to share
+- [r00t-3xp10it/hacking-material-books](https://github.com/r00t-3xp10it/hacking-material-books) - collection of articles/books about programing
 - [mgeeky/Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) - A collection of more than 170+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements.
 - [noma4i/windows-openstack-imaging-tools](https://github.com/noma4i/windows-openstack-imaging-tools) - Tools to automate the creation of a Windows image for OpenStack, supporting KVM, Hyper-V, ESXi and more.
 - [noma4i/puppet-windows_updates](https://github.com/noma4i/puppet-windows_updates) - Manage Windows Updates from puppet
