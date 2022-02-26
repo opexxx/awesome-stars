@@ -246,7 +246,7 @@
 - [sailay1996/SECOMN_EoP](https://github.com/sailay1996/SECOMN_EoP) - Sound Research SECOMN service Privilege Escalation (windows 10)
 - [gobiasinfosec/Some-Tools](https://github.com/gobiasinfosec/Some-Tools) - A collection of tools
 - [so87/CISSP-Study-Guide](https://github.com/so87/CISSP-Study-Guide) - study material used for the 2018 CISSP exam
-- [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview) - An open source batch script based WiFi Passview for Windows!
+- [warengonzaga/wifi-passview](https://github.com/warengonzaga/wifi-passview) - An open source batch script based WiFi Passview for Windows!
 - [sailay1996/amd_eop_poc](https://github.com/sailay1996/amd_eop_poc) - CVE-2020-8950 AMD User Experience Program Launcher from Radeon Software Privilege Escalation ( FileWrite eop)
 - [yasser-alghamdi/winterfell-collection](https://github.com/yasser-alghamdi/winterfell-collection) - Winterfell is a group of windows batch scripts to collect Windows forensics data and perform efficient, and fast incident response and threat hunting activities.
 - [NextronSystems/APTSimulator](https://github.com/NextronSystems/APTSimulator) - A toolset to make a system look as if it was the victim of an APT attack
@@ -565,6 +565,7 @@
 - [majn/telegram-purple](https://github.com/majn/telegram-purple) - Adds support for Telegram to Pidgin, Adium, Finch and other Libpurple based messengers.
 - [marcomorain/tcat](https://github.com/marcomorain/tcat) - Time Cat is a program to add timestamps to text.
 - [aws/s2n-tls](https://github.com/aws/s2n-tls) - An implementation of the TLS/SSL protocols
+- [r00t-3xp10it/hacking-material-books](https://github.com/r00t-3xp10it/hacking-material-books) - collection of articles/books about programing
 - [libressl-portable/portable](https://github.com/libressl-portable/portable) - LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are welcome.
 - [WyAtu/windows_pentest_tools](https://github.com/WyAtu/windows_pentest_tools) - My pentest tools used two years ago. Part1
 - [ehsahil/recon-my-way](https://github.com/ehsahil/recon-my-way) - This repository created for personal use and added tools from my latest blog post.
@@ -4569,7 +4570,7 @@
 - [naugtur/npm-audit-resolver](https://github.com/naugtur/npm-audit-resolver) - 
 - [SwapnilSoni1999/spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Spotify Downloader and alternative of Spotdl(python) tool made in NodeJS based on youtube-dl
 - [sooxt98/spotify-crack-chrome-app](https://github.com/sooxt98/spotify-crack-chrome-app) - World smallest spotify crack app ever~
-- [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
+- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [CHEF-KOCH/TBCK](https://github.com/CHEF-KOCH/TBCK) - Thunderbird user.js hardening
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
@@ -4907,7 +4908,7 @@
 - [zaproxy/community-scripts](https://github.com/zaproxy/community-scripts) - A collection of ZAP scripts provided by the community - pull requests very welcome!
 - [CapacitorSet/box-js](https://github.com/CapacitorSet/box-js) - A tool for studying JavaScript malware.
 - [whiteout-io/mail](https://github.com/whiteout-io/mail) - [ABANDONED] Mail App with integrated OpenPGP encryption
-- [f-secure-foundry/interlock](https://github.com/f-secure-foundry/interlock) - INTERLOCK - file encryption and HSM front-end
+- [usbarmory/interlock](https://github.com/usbarmory/interlock) - INTERLOCK - file encryption and HSM front-end
 - [HynekPetrak/malware-jail](https://github.com/HynekPetrak/malware-jail) - Sandbox for semi-automatic Javascript malware analysis, deobfuscation and payload extraction. Written for Node.js
 - [henryboldi/felony](https://github.com/henryboldi/felony) - 🔑🔥📈 Next Level PGP
 - [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
@@ -5679,7 +5680,6 @@
 - [fuzz-security/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/fuzz-security/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
 - [httpvoid/writeups](https://github.com/httpvoid/writeups) - 
 - [rajesh6927/subdomain-bruteforce-wordlist](https://github.com/rajesh6927/subdomain-bruteforce-wordlist) - This will be the largest subdomain bruteforce wordlist in a couple of months.
-- [onvio/wordlists](https://github.com/onvio/wordlists) - Shared wordlists used for common subdomains , directory bruteforcing etc.
 - [tannaybagga/subdomains-wordlist](https://github.com/tannaybagga/subdomains-wordlist) - My personal wordlist for brute forcing Subdomains
 - [Droidzzzio/EnumerationList](https://github.com/Droidzzzio/EnumerationList) - This Repo contains wordlist for subdomain enumeration , php file path, html file path, and js file path
 - [danTaler/WordLists](https://github.com/danTaler/WordLists) - 
@@ -7981,7 +7981,6 @@
 - [p3nt4/Invoke-Piper](https://github.com/p3nt4/Invoke-Piper) - Forward local or remote tcp ports through SMB pipes.
 - [GavinEke/TronNG](https://github.com/GavinEke/TronNG) - Tron Next Generation for Windows 10
 - [kilasuit/PoshFunctions](https://github.com/kilasuit/PoshFunctions) - Collection of Scripts & Modules that I am happy to share
-- [r00t-3xp10it/hacking-material-books](https://github.com/r00t-3xp10it/hacking-material-books) - collection of articles/books about programing
 - [mgeeky/Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) - A collection of more than 170+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements.
 - [noma4i/windows-openstack-imaging-tools](https://github.com/noma4i/windows-openstack-imaging-tools) - Tools to automate the creation of a Windows image for OpenStack, supporting KVM, Hyper-V, ESXi and more.
 - [noma4i/puppet-windows_updates](https://github.com/noma4i/puppet-windows_updates) - Manage Windows Updates from puppet
@@ -14996,7 +14995,7 @@
 - [travisperkins/artemis](https://github.com/travisperkins/artemis) - A comprehensive Ansible library and operating system automation framework
 - [r00t-3xp10it/backdoorppt](https://github.com/r00t-3xp10it/backdoorppt) - transform your payload.exe into one fake word doc (.ppt)
 - [apolloclark/painite](https://github.com/apolloclark/painite) - A combination of Kali Linux + Gauntlt, in a Docker Container
-- [pivotal/workstation-setup](https://github.com/pivotal/workstation-setup) - Scripts to automatically set up a machine for development the "Pivotal" way
+- [pivotal/workstation-setup](https://github.com/pivotal/workstation-setup) - Scripts to automatically set up a machine for development the "Tanzu Labs" way
 - [reider-roque/linpostexp](https://github.com/reider-roque/linpostexp) - Linux post exploitation enumeration and exploit checking tools
 - [richb-hanover/OpenWrtScripts](https://github.com/richb-hanover/OpenWrtScripts) - A set of scripts for maintaining and testing OpenWrt
 - [kleinee/jns](https://github.com/kleinee/jns) - jupyter notebook and lab on Raspberry Pi
