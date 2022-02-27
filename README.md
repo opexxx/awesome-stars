@@ -1962,7 +1962,7 @@
 - [BreakingMalware/Selfie](https://github.com/BreakingMalware/Selfie) - A Tool to Unpack Self-Modifying Code using DynamoRIO
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
 - [qlyoung/armory-keyboard](https://github.com/qlyoung/armory-keyboard) - utility for emulating a USB HID keyboard with the USBArmory
-- [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis framework. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
+- [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
 - [comaeio/SwishDbgExt](https://github.com/comaeio/SwishDbgExt) - Incident Response & Digital Forensics Debugging Extension
 - [swwwolf/wdbgark](https://github.com/swwwolf/wdbgark) - WinDBG Anti-RootKit Extension
 - [securesocketfunneling/ssf](https://github.com/securesocketfunneling/ssf) - Secure Socket Funneling - Network tool and toolkit - TCP and UDP port forwarding, SOCKS proxy, remote shell, standalone and cross platform
@@ -10851,6 +10851,7 @@
 - [aancw/Belati](https://github.com/aancw/Belati) - The Traditional Swiss Army Knife for OSINT
 - [JPCERTCC/aa-tools](https://github.com/JPCERTCC/aa-tools) - Artifact analysis tools by JPCERT/CC Analysis Center
 - [hookem94/FileLookup](https://github.com/hookem94/FileLookup) - Quick & dirty script to get info on a file from online resources (VirusTotal, Team Cymru, Shadow Server etc.)
+- [DidierStevens/DidierStevensSuite](https://github.com/DidierStevens/DidierStevensSuite) - Please no pull requests for this repository. Thanks!
 - [mbevilacqua/ShimCacheParser](https://github.com/mbevilacqua/ShimCacheParser) - 
 - [codingo/VHostScan](https://github.com/codingo/VHostScan) - A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, work around wildcards, aliases and dynamic default pages.
 - [TryCatchHCF/DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - "Security Incidents In A Box!"   A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. Easily create custom event chains for Blue- & Red Team drills and sensor / alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations. Build event sequences ("narratives") to simulate realistic scenarios and generate corresponding network and filesystem artifacts.
@@ -15986,7 +15987,6 @@
 - [rootkiter/Binary-files](https://github.com/rootkiter/Binary-files) - EarthWorm/Termite 停止更新
 - [techhelplist/rules](https://github.com/techhelplist/rules) - Repository of yara rules
 - [unixfreaxjp/Yara_rules_forked](https://github.com/unixfreaxjp/Yara_rules_forked) - My fork of/from Repository of yara rules
-- [DidierStevens/DidierStevensSuite](https://github.com/DidierStevens/DidierStevensSuite) - Please no pull requests for this repository. Thanks!
 - [tjnel/yara_repo](https://github.com/tjnel/yara_repo) - Repository of Yara Rules created by TjNel
 - [Xumeiquer/yara-forensics](https://github.com/Xumeiquer/yara-forensics) - Set of Yara rules for finding files using magics headers
 - [malice-plugins/yara](https://github.com/malice-plugins/yara) - Malice Yara Plugin
