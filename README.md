@@ -583,7 +583,6 @@
 - [zodiacon/WindowsInternals](https://github.com/zodiacon/WindowsInternals) - Windows Internals Book 7th edition Tools
 - [sensepost/hostapd-mana](https://github.com/sensepost/hostapd-mana) - SensePost's modified hostapd for wifi attacks.
 - [galkahana/HummusJS](https://github.com/galkahana/HummusJS) - Node.js module for high performance creation, modification and parsing of PDF files and streams
-- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - Access your terminal from anywhere via the web.
 - [prbinu/tls-scan](https://github.com/prbinu/tls-scan) - An Internet scale, blazing fast SSL/TLS scanner ( non-blocking, event-driven )
 - [mkj/dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
@@ -10209,7 +10208,7 @@
 - [mantl/terraform.py](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files
 - [privacyidea/privacyidea](https://github.com/privacyidea/privacyidea) - :closed_lock_with_key: multi factor authentication system (2FA, MFA, OTP Server)
 - [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS —
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a high-performance fake data generator for Python.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
@@ -10424,6 +10423,7 @@
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
 - [jerabaul29/randommac](https://github.com/jerabaul29/randommac) - Python wrappers on nmcli for easy MAC spoofing compatible with NetworkManager
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
+- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [thundergolfer/slack-to-pdf](https://github.com/thundergolfer/slack-to-pdf) - create a PDF report of your team interactions. For university teams
 - [pwalch/telegram-history](https://github.com/pwalch/telegram-history) - Retrieve and analyze Telegram messenger history.
 - [pwalch/share-file-qr](https://github.com/pwalch/share-file-qr) - Share files from the terminal of your computer to a smartphone by scanning a QR code.
