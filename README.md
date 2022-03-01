@@ -4129,7 +4129,7 @@
 
 ## Handlebars 
 
-- [rsapkf/42](https://github.com/rsapkf/42) - @rsapkf's linkroll.
+- [rsapkf/42](https://github.com/rsapkf/42) - @rsapkf's links.
 
 ## Haskell 
 
@@ -10014,7 +10014,7 @@
 - [dedupeio/csvdedupe](https://github.com/dedupeio/csvdedupe) - :id: Command line tool for deduplicating CSV files
 - [davbo/active-cve-check](https://github.com/davbo/active-cve-check) - Script to check an installed packages list against the ubuntu-cve-tracker
 - [ddurvaux/WebShoot](https://github.com/ddurvaux/WebShoot) - Framework for analysis of suspicious website
-- [Defense-Cyber-Crime-Center/DC3-MWCP](https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP) - 
+- [Defense-Cyber-Crime-Center/DC3-MWCP](https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP) - DC3 Malware Configuration Parser (DC3-MWCP) is a framework for parsing configuration information from malware. The information extracted from malware includes items such as addresses, passwords, filenames, and mutex names.
 - [depthsecurity/haveIbeenHarvested](https://github.com/depthsecurity/haveIbeenHarvested) - Automated HaveIbeenPwned lookups using theharvester results
 - [DisK0nn3cT/linkedin-gatherer](https://github.com/DisK0nn3cT/linkedin-gatherer) - Linkedin tool to gather profile data, emphasis in network connections
 - [dtrinf/telnet-bruteforce](https://github.com/dtrinf/telnet-bruteforce) - Python script to bruteforce telnet user and passwords
@@ -10144,7 +10144,6 @@
 - [lyft/cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [JusticeRage/FFM](https://github.com/JusticeRage/FFM) - Freedom Fighting Mode: open source hacking harness
-- [rabobank-cdc/DeTTECT](https://github.com/rabobank-cdc/DeTTECT) - Detect Tactics, Techniques & Combat Threats
 - [unfetter-discover/unfetter-analytic](https://github.com/unfetter-discover/unfetter-analytic) - Main Build directory
 - [ambionics/magento-exploits](https://github.com/ambionics/magento-exploits) - Exploits for Magento 2.3.0 and lower
 - [joda32/got-responded](https://github.com/joda32/got-responded) - A simple tool to detect NBT-NS and LLMNR spoofing (and messing with them a bit)
@@ -10666,7 +10665,7 @@
 - [idanr1986/cuckoodroid-2.0](https://github.com/idanr1986/cuckoodroid-2.0) - CuckooDroid - Automated Android Malware Analysis with Cuckoo Sandbox.
 - [radare/radare2ida](https://github.com/radare/radare2ida) - Tools, documentation and scripts to move projects from IDA to R2 and viceversa
 - [tail-recursion/hibp-rankings](https://github.com/tail-recursion/hibp-rankings) - Top ranked sites from recent Have I Been Pwned breach
-- [pyscript/PyUrl-Downloader](https://github.com/pyscript/PyUrl-Downloader) - Url Downloader
+- [education-script-projects/PyUrl-Downloader](https://github.com/education-script-projects/PyUrl-Downloader) - Url Downloader
 - [random-robbie/CRLF-Injection-Scanner](https://github.com/random-robbie/CRLF-Injection-Scanner) - Command line tool for testing CRLF injection on list of domains.
 - [MichaelStott/CRLF-Injection-Scanner](https://github.com/MichaelStott/CRLF-Injection-Scanner) - Command line tool for testing CRLF injection on a list of domains.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -12929,7 +12928,7 @@
 - [conix-security/CAAS](https://github.com/conix-security/CAAS) - Cuckoo sandbox analyses dispatcher / centralizer
 - [quentinhardy/odat](https://github.com/quentinhardy/odat) - ODAT: Oracle Database Attacking Tool
 - [patrickt/twitter_ebooks](https://github.com/patrickt/twitter_ebooks) - Create real, autonomous "_ebooks" accounts on Twitter
-- [StamusNetworks/scirius](https://github.com/StamusNetworks/scirius) - Scirius is a web application for Suricata ruleset management.
+- [StamusNetworks/scirius](https://github.com/StamusNetworks/scirius) - Scirius is a web application for Suricata ruleset management and threat hunting.
 - [regit/pynetfilter_conntrack](https://github.com/regit/pynetfilter_conntrack) - Python binding of libnetfilter_conntrack
 - [micksmix/FileInsight](https://github.com/micksmix/FileInsight) - 
 - [scrapinghub/portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
@@ -14160,6 +14159,7 @@
 
 - [IoT-Lab-FH-OOE/netgear_update_vulnerability](https://github.com/IoT-Lab-FH-OOE/netgear_update_vulnerability) - 
 - [vfarcic/devops-toolkit](https://github.com/vfarcic/devops-toolkit) - 
+- [rabobank-cdc/DeTTECT](https://github.com/rabobank-cdc/DeTTECT) - Detect Tactics, Techniques & Combat Threats
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 
@@ -14349,7 +14349,7 @@
 - [AdrienKuhn/hardened-openvpn-install](https://github.com/AdrienKuhn/hardened-openvpn-install) - OpenVPN road warrior installer for Debian, Ubuntu and CentOS
 - [mirchr/security-research](https://github.com/mirchr/security-research) - Security Research
 - [alistairstead/dotfiles](https://github.com/alistairstead/dotfiles) - 
-- [ShutdownRepo/Exegol](https://github.com/ShutdownRepo/Exegol) - Exegol is a fully featured and community-driven hacking environment
+- [ShutdownRepo/Exegol](https://github.com/ShutdownRepo/Exegol) - Fully featured and community-driven hacking environment
 - [Zer0CoolX/guacamole-install-rhel-7](https://github.com/Zer0CoolX/guacamole-install-rhel-7) - Apache Guacamole installation bash script for RHEL 7 and CentOS 7 including options for Nginx, HTTPS, SSL, LDAP, Let's Encrypt certificates and more
 - [thomaspatzke/HELK](https://github.com/thomaspatzke/HELK) - The Hunting ELK
 - [cbirkenbeul/docker-homelab](https://github.com/cbirkenbeul/docker-homelab) - Docker Compose Dateien für Homelabs
@@ -14702,7 +14702,7 @@
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [jaymoulin/docker-jdownloader](https://github.com/jaymoulin/docker-jdownloader) - JDownloader 2 Docker Image (Multiarch) - Passed 40M Downloads
 - [fredleger/easy-photos](https://github.com/fredleger/easy-photos) - Management of a photos collections based on EXIF timestamps
-- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerlline, written purely in bash.
+- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerline, written purely in bash.
 - [wfxr/tmux-power](https://github.com/wfxr/tmux-power) - 🎨 Tmux powerline theme
 - [wfxr/tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
 - [junegunn/tmux-fzf-url](https://github.com/junegunn/tmux-fzf-url) - :rocket: Quickly open urls on screen from your browser!
@@ -15749,7 +15749,7 @@
 - [authcov/authcov](https://github.com/authcov/authcov) - Web app authorisation coverage scanning
 - [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [LokiJS-Forge/LokiDB](https://github.com/LokiJS-Forge/LokiDB) - blazing fast, feature-rich in-memory database written in TypeScript
-- [punchcard/punchcard](https://github.com/punchcard/punchcard) - Type-safe AWS infrastructure.
+- [sam-goodwin/punchcard](https://github.com/sam-goodwin/punchcard) - Type-safe AWS infrastructure.
 - [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 - [realdennis/qrdeliver](https://github.com/realdennis/qrdeliver) - Generate QR code to transfer files from terminal &lt;-&gt; mobile with the same WiFi :)
 - [balena-io/open-balena-vpn](https://github.com/balena-io/open-balena-vpn) - openBalena VPN
