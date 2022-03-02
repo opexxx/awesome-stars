@@ -723,8 +723,8 @@
 - [yarrick/pingfs](https://github.com/yarrick/pingfs) - Stores your data in ICMP ping packets
 - [ValdikSS/p0f-mtu](https://github.com/ValdikSS/p0f-mtu) - p0f with patches to save MTU value and export it via API (for VPN detection)
 - [libyal/libscca](https://github.com/libyal/libscca) - Library and tools to access the Windows Prefetch File (SCCA) format.
-- [billziss-gh/sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS For Windows
-- [billziss-gh/winfsp](https://github.com/billziss-gh/winfsp) - Windows File System Proxy - FUSE for Windows
+- [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
+- [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 - [gdabah/distorm](https://github.com/gdabah/distorm) - Powerful Disassembler Library For x86/AMD64
 - [hc0d3r/alfheim](https://github.com/hc0d3r/alfheim) - a linux process hacker tool
 - [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
@@ -3878,7 +3878,7 @@
 - [MalwareTech/CitrixHoneypot](https://github.com/MalwareTech/CitrixHoneypot) - Detect and log CVE-2019-19781 scan and exploitation attempts.
 - [Elemental-attack/Elemental](https://github.com/Elemental-attack/Elemental) - Elemental - An ATT&CK Threat Library
 - [RenwaX23/X](https://github.com/RenwaX23/X) - Playground
-- [ninoseki/mihari](https://github.com/ninoseki/mihari) - A framework for continuous OSINT based threat hunting
+- [ninoseki/mihari](https://github.com/ninoseki/mihari) - A tool for OSINT based threat hunting
 - [Azure/SONiC](https://github.com/Azure/SONiC) - Landing page for Software for Open Networking in the Cloud (SONiC) - http://azure.github.io/SONiC/
 - [RomanEmelyanov/CobaltStrikeForensic](https://github.com/RomanEmelyanov/CobaltStrikeForensic) - Toolset for research malware and Cobalt Strike beacons
 - [MohitDabas/malwinx](https://github.com/MohitDabas/malwinx) - Just a normal flask web app to understand win32api with code snippets and references.
@@ -8996,7 +8996,7 @@
 - [sneakerhax/PyDorker](https://github.com/sneakerhax/PyDorker) - Python tool for Dorking
 - [madhavmehndiratta/dorkScanner](https://github.com/madhavmehndiratta/dorkScanner) - A typical search engine dork scanner scrapes search engines with dorks that you provide in order to find vulnerable URLs.
 - [joker25000/Optiva-Framework](https://github.com/joker25000/Optiva-Framework) - Optiva-Framework 🔎 Web Application Scanner🕵️
-- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google emails and documents.
+- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [phantomcyber/playbooks](https://github.com/phantomcyber/playbooks) - Phantom Community Playbooks
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
@@ -9341,7 +9341,6 @@
 - [regardscitoyens/pdf2xmlOTE](https://github.com/regardscitoyens/pdf2xmlOTE) - A tool to extract tables from the output of pdf2html -xml
 - [gbafana25/esp8266_honeypot](https://github.com/gbafana25/esp8266_honeypot) - THE ESP8266 HONEYPOT
 - [NotSoSecure/udp-hunter](https://github.com/NotSoSecure/udp-hunter) - Network assessment tool for various UDP Services covering both IPv4 and IPv6 protocols
-- [Pernat1y/vm-automation](https://github.com/Pernat1y/vm-automation) - VirtualBox automation using Python
 - [Yt1g3r/CVE-2020-0688_EXP](https://github.com/Yt1g3r/CVE-2020-0688_EXP) - CVE-2020-0688_EXP Auto trigger payload & encrypt method
 - [YDHCUI/CNVD-2020-10487-Tomcat-Ajp-lfi](https://github.com/YDHCUI/CNVD-2020-10487-Tomcat-Ajp-lfi) - Tomcat-Ajp协议文件读取漏洞
 - [nibiwodong/CNVD-2020-10487-Tomcat-ajp-POC](https://github.com/nibiwodong/CNVD-2020-10487-Tomcat-ajp-POC) - CNVD-2020-10487(CVE-2020-1938), tomcat ajp 文件读取漏洞poc
@@ -11721,7 +11720,7 @@
 - [Sw4mpf0x/Tools](https://github.com/Sw4mpf0x/Tools) - Pentesting Tools
 - [lazorfuzz/python-hacklib](https://github.com/lazorfuzz/python-hacklib) - hacklib - pentesting, port scanning, and logging in anywhere with Python
 - [BishopFox/spoofcheck](https://github.com/BishopFox/spoofcheck) - Simple script that checks a domain for email protections
-- [websploit/websploit](https://github.com/websploit/websploit) - Websploit is a high level MITM framework
+- [f4rih/websploit](https://github.com/f4rih/websploit) - Websploit is a high level MITM framework
 - [lunarca/SimpleEmailSpoofer](https://github.com/lunarca/SimpleEmailSpoofer) - A simple Python CLI to spoof emails.
 - [GrampusTeam/Grampus](https://github.com/GrampusTeam/Grampus) - Grampus is a tool dedicated to forensic analysts and It can be used to extract/analize and edit/delete metadata from office documents, Open office documents, pdf's, aplications, images, audio/video files, compressed files, etc. Grampus includes Google & Shodan hacking to find public documents in a website and allows download and analize the found documents.
 - [huntergregal/scansploit](https://github.com/huntergregal/scansploit) - Exploit using barcodes, QRcodes, earn13, datamatrix
@@ -11966,7 +11965,7 @@
 - [kristovatlas/osx-config-check](https://github.com/kristovatlas/osx-config-check) - Verify the configuration of your OS X machine.
 - [emre/storm](https://github.com/emre/storm) - Manage your SSH like a boss.
 - [TheTorProject/lepidopter](https://github.com/TheTorProject/lepidopter) - lepidopter: raspberry pi image for conducting OONI network measurements
-- [TheTorProject/bwscanner](https://github.com/TheTorProject/bwscanner) - Bandwidth authority scanner
+- [TheTorProject/bwscanner](https://github.com/TheTorProject/bwscanner) - Bandwidth authority scanner. This project is deprecated in favour of https://gitlab.torproject.org/tpo/network-health/sbws
 - [citizenlab/test-lists](https://github.com/citizenlab/test-lists) - URL testing lists intended for discovering website censorship
 - [magnumripper/net-creds](https://github.com/magnumripper/net-creds) - Sniffs sensitive data from interface or pcap
 - [csababarta/ntdsxtract](https://github.com/csababarta/ntdsxtract) - Active Directory forensic framework
