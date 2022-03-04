@@ -1335,7 +1335,7 @@
 - [odedshimon/BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool
 - [Flangvik/NetLoader](https://github.com/Flangvik/NetLoader) - Loads any C# binary in mem, patching AMSI + ETW.
 - [atredispartners/CVE-2018-0952-SystemCollector](https://github.com/atredispartners/CVE-2018-0952-SystemCollector) - PoC for Privilege Escalation in Windows 10 Diagnostics Hub Standard Collector Service
-- [microsoft/WindowsProtocolTestSuites](https://github.com/microsoft/WindowsProtocolTestSuites) - ⭐⭐Join us at SNIA EMEA SDC SMB3 IO Lab 2022 (4/5-4/7):
+- [microsoft/WindowsProtocolTestSuites](https://github.com/microsoft/WindowsProtocolTestSuites) - ⭐⭐Join us at SNIA EMEA SDC SMB3 IO Lab 2022 (6/14 - 6/16)
 - [gpoguy/setpol](https://github.com/gpoguy/setpol) - Lets you write arbitrary registry entries to Group Policy related .pol files (e.g. registry.pol)
 - [mdsecactivebreach/sitrep](https://github.com/mdsecactivebreach/sitrep) - 
 - [dahall/Vanara](https://github.com/dahall/Vanara) - A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers.
@@ -2295,7 +2295,7 @@
 - [nu11secur1ty/centos-snort3-dev](https://github.com/nu11secur1ty/centos-snort3-dev) - centos-snort3-dev
 - [antitree/cmd_and_kubectl_demos](https://github.com/antitree/cmd_and_kubectl_demos) - 
 - [belane/docker-bloodhound](https://github.com/belane/docker-bloodhound) - BloodHound Docker Ready to Use
-- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, and Monitoring. Enables Logs, Metrics, APM, Alerting, and SIEM features. Up with a Single Command.
+- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, and Monitoring. Enables Logs, Metrics, APM, Alerting, and SIEM features. Up with a Single Command. Now Supports v8.0!
 - [aws/aws-codebuild-docker-images](https://github.com/aws/aws-codebuild-docker-images) - Official AWS CodeBuild repository for managed Docker images http://docs.aws.amazon.com/codebuild/latest/userguide/build-env-ref.html
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes
 - [dukebarman/ghidra-builder](https://github.com/dukebarman/ghidra-builder) - Docker image for building ghidra RE framework from source
@@ -2476,7 +2476,6 @@
 - [blushft/go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [cycloidio/inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
 - [gustavorobertux/goshock](https://github.com/gustavorobertux/goshock) - SonicWall VPN-SSL Exploit* using Golang ( * and other targets vulnerable to shellshock ).
-- [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems
 - [open-ch/ja3](https://github.com/open-ch/ja3) - A high performance Go Implementation of the JA3 Client Fingerprinting Algorithm.
 - [pry0cc/soxy](https://github.com/pry0cc/soxy) - Multi-threaded socks proxy checker written in Go!
 - [chennqqi/godnslog](https://github.com/chennqqi/godnslog) - An exquisite dns&http log server for verify SSRF/XXE/RFI/RCE vulnerability
@@ -7478,6 +7477,7 @@
 
 ## PowerShell 
 
+- [darkquasar/AzureHunter](https://github.com/darkquasar/AzureHunter) - A Cloud Forensics Powershell module to run threat hunting playbooks on data from Azure and O365
 - [nickadam/powershell-cya](https://github.com/nickadam/powershell-cya) - Ciphertext Your Assets
 - [PaulHCode/RecurringADChecks](https://github.com/PaulHCode/RecurringADChecks) - 
 - [soteria-security/365Inspect](https://github.com/soteria-security/365Inspect) - A PowerShell script that automates the security assessment of Microsoft Office 365 environments.
@@ -8859,6 +8859,7 @@
 - [GAR-Project/project](https://github.com/GAR-Project/project) - DDoS attacks detection by using SVM on SDN networks.
 - [Haxel0rd/haxel0rds](https://github.com/Haxel0rd/haxel0rds) - Some private tools i decided to release for public.
 - [soxoj/socid-extractor](https://github.com/soxoj/socid-extractor) - ⛏️ Extract accounts info from personal pages on various sites for OSINT purpose
+- [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems
 - [Te-k/cobaltstrike](https://github.com/Te-k/cobaltstrike) - Code and yara rules to detect and analyze Cobalt Strike
 - [salesforce/aws-allowlister](https://github.com/salesforce/aws-allowlister) - Automatically compile an AWS Service Control Policy that ONLY allows AWS services that are compliant with your preferred compliance frameworks.
 - [NathanWailes/interview-questions](https://github.com/NathanWailes/interview-questions) - My solutions to companies' test questions.
@@ -11678,7 +11679,7 @@
 - [lmco/laikaboss](https://github.com/lmco/laikaboss) - Laika BOSS: Object Scanning System
 - [pmsosa/duckhunt](https://github.com/pmsosa/duckhunt) - :dart: Prevent RubberDucky (or other keystroke injection) attacks
 - [jesparza/peepdf](https://github.com/jesparza/peepdf) - Powerful Python tool to analyze PDF documents
-- [john-kurkowski/tldextract](https://github.com/john-kurkowski/tldextract) - Accurately separate the TLD from the registered domain and subdomains of a URL, using the Public Suffix List.
+- [john-kurkowski/tldextract](https://github.com/john-kurkowski/tldextract) - Accurately separates a URL’s subdomain, domain, and public suffix, using the Public Suffix List (PSL).
 - [travisfoley/dfirtriage](https://github.com/travisfoley/dfirtriage) - Digital forensic acquisition tool for Windows based incident response.
 - [Wh1t3Rh1n0/air-hammer](https://github.com/Wh1t3Rh1n0/air-hammer) - 
 - [stamparm/fetch-some-proxies](https://github.com/stamparm/fetch-some-proxies) - Simple Python script for fetching "some" (usable) proxies
@@ -14193,7 +14194,7 @@
 
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [six2dez/OneListForAll](https://github.com/six2dez/OneListForAll) - Rockyou for web fuzzing
-- [mikedfunk/dotfiles](https://github.com/mikedfunk/dotfiles) - my Neovim, Git, Tmux, and other dotfiles
+- [mikedfunk/dotfiles](https://github.com/mikedfunk/dotfiles) - my Neovim (LunarVim), Git, Tmux, and other dotfiles
 - [brimstone/windows-ova](https://github.com/brimstone/windows-ova) - Self-Installing Windows OVA. Automate and distribute Windows as an OVA.
 - [NUKIB/misp-modules](https://github.com/NUKIB/misp-modules) - Docker image for MISP modules
 - [adilsoybali/Log4j-RCE-Scanner](https://github.com/adilsoybali/Log4j-RCE-Scanner) - Remote command execution vulnerability scanner for Log4j.
