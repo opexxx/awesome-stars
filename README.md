@@ -5620,6 +5620,7 @@
 
 ## Others 
 
+- [Res260/conti_202202_leak_procedures](https://github.com/Res260/conti_202202_leak_procedures) - This repository contains procedures found in the Feb 2022 conti leaks. They were taken from the "manual_teams_c" rocketchat channel in the leak and posted on may 10th, 2021 in the channel.
 - [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 - [NetNinjaCorp/Top1000-SubDomains](https://github.com/NetNinjaCorp/Top1000-SubDomains) - Top 1000 Subdomains as per SSL Certificate Registrations
 - [Puliczek/awesome-list-of-secrets-in-environment-variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables) - 🦄🔒 Awesome list of secrets in environment variables 🖥️
@@ -6445,6 +6446,7 @@
 - [robstradling/authroot.stl](https://github.com/robstradling/authroot.stl) - Windows Automatic Root Update History
 - [StudioEtrange/socat-windows](https://github.com/StudioEtrange/socat-windows) - unofficial windows build of socat http://www.dest-unreach.org/socat/
 - [BSUG/awesome-sharepoint](https://github.com/BSUG/awesome-sharepoint) - A collection of awesome libraries, tools, frameworks and software for SharePoint
+- [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [stuhirst/awssecurity](https://github.com/stuhirst/awssecurity) - for AWS Security material
 - [Neo23x0/auditd](https://github.com/Neo23x0/auditd) - Best Practice Auditd Configuration
 - [Funkmyster/awesome-cloud-security](https://github.com/Funkmyster/awesome-cloud-security) - Curated list of awesome cloud security blogs, podcasts, standards, projects, and examples.
@@ -10497,7 +10499,6 @@
 - [fniephaus/alfred-pocket](https://github.com/fniephaus/alfred-pocket) - Manage your Pocket list with Alfred
 - [fniephaus/alfred-vmcontrol](https://github.com/fniephaus/alfred-vmcontrol) - Control your Parallels and Virtual Box virtual machines with Alfred v2
 - [wrboyce/ec2hashcat](https://github.com/wrboyce/ec2hashcat) - Password Cracking in the Cloud
-- [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [yandex-load/bfg](https://github.com/yandex-load/bfg) - a modular tool and framework for load generation that supports HTTP/2
 - [rvrsh3ll/FindFrontableDomains](https://github.com/rvrsh3ll/FindFrontableDomains) - Search for potential frontable domains
 - [benmaier/netwulf](https://github.com/benmaier/netwulf) - Interactive visualization of networks based on Ulf Aslak's d3 web app.
