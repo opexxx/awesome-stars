@@ -6589,7 +6589,7 @@
 - [maldevel/RootKits-List-Download](https://github.com/maldevel/RootKits-List-Download) - A curated list of rootkits found on Github and other sites.
 - [PrateekKumarSingh/CheatSheets](https://github.com/PrateekKumarSingh/CheatSheets) - CheatSheets for Powershell, Exchange, Sharepoint, Lync, RegEx, VSCode and more
 - [nfarrar/malgate](https://github.com/nfarrar/malgate) - ABANDONED: A customized OpenWRT VMWare VM for providing virtual networks, useful for Malware Analysis.
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. First posted in 2016. Pull requests welcome!
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. (First posted in 2016.)
 - [openstack-archive/bandit](https://github.com/openstack-archive/bandit) - Python AST-based static analyzer from OpenStack Security Group
 - [sooshie/Security-Data-Analysis](https://github.com/sooshie/Security-Data-Analysis) - A series of labs that will help users apply various data science techniques to security related data.
 - [mubix/cfdb](https://github.com/mubix/cfdb) - Common Findings Database
@@ -10162,7 +10162,6 @@
 - [khast3x/Redcloud](https://github.com/khast3x/Redcloud) - Automated Red Team Infrastructure deployement using Docker
 - [secynic/ipwhois](https://github.com/secynic/ipwhois) - Retrieve and parse whois data for IPv4 and IPv6 addresses
 - [anandtiwarics/WhoisIP](https://github.com/anandtiwarics/WhoisIP) - This takes list of IP Addresses from test.txt file to collect information and generate .csv file.
-- [Critical-Start/pastebin_scraper](https://github.com/Critical-Start/pastebin_scraper) - 
 - [theonewolf/TermRecord](https://github.com/theonewolf/TermRecord) - Terminal session recorder that outputs self-contained HTML!
 - [AdrianVollmer/PowerHub](https://github.com/AdrianVollmer/PowerHub) - A post exploitation tool based on a web application, focusing on bypassing endpoint protection and application whitelisting
 - [themoep/processing-sketch-renderer](https://github.com/themoep/processing-sketch-renderer) - Tool to automatically render all sketches to gifs.
