@@ -5498,7 +5498,7 @@
 
 - [whydee86/PlayWithDefender](https://github.com/whydee86/PlayWithDefender) - An easy tool to disable and enable windows defender protections
 - [HuskyHacks/ShadowSteal](https://github.com/HuskyHacks/ShadowSteal) - Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation
-- [d4rckh/vaf](https://github.com/d4rckh/vaf) - very advanced (web) fuzzer
+- [d4rckh/vaf](https://github.com/d4rckh/vaf) - cross-platform very advanced (web) fuzzer
 - [khchen/winim](https://github.com/khchen/winim) - Nim's Windows API and COM Library
 - [byt3bl33d3r/OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim) - My experiments in weaponizing Nim (https://nim-lang.org/)
 
@@ -9062,7 +9062,7 @@
 - [arunmagesh/dumb-nfuzz](https://github.com/arunmagesh/dumb-nfuzz) - The Dumb Network Fuzzer
 - [ElevenPaths/DirtyTooth-RaspberryPi](https://github.com/ElevenPaths/DirtyTooth-RaspberryPi) - Exploit the hack for IOS 11.1.2 and earlier to collect leaked information.
 - [Telefonica/ATTPwn](https://github.com/Telefonica/ATTPwn) - ATTPwn
-- [fO-000/bluescan](https://github.com/fO-000/bluescan) - A powerful Bluetooth scanner
+- [fO-000/bluescan](https://github.com/fO-000/bluescan) - A Bluetooth scanner for hacking
 - [DanMcInerney/dnsspoof](https://github.com/DanMcInerney/dnsspoof) - DNS spoofer. Drops DNS responses from the router and replaces it with the spoofed DNS response
 - [dirkjanm/mitm6](https://github.com/dirkjanm/mitm6) - pwning IPv4 via IPv6
 - [DanMcInerney/SMB-reverse-brute](https://github.com/DanMcInerney/SMB-reverse-brute) - Async'ly gather unique usernames thru null SMB sessions and bruteforce them with 2 passwords
@@ -14309,7 +14309,7 @@
 - [mr-r3b00t/CVE-2020-2021](https://github.com/mr-r3b00t/CVE-2020-2021) - CVE-2020-2021
 - [OWASP/D4N155](https://github.com/OWASP/D4N155) - OWASP D4N155 - Intelligent and dynamic wordlist using OSINT
 - [cybergoof/gxpn](https://github.com/cybergoof/gxpn) - The lab materials needed to run my GXPN Gold Paper
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [bing0o/bash_scripting](https://github.com/bing0o/bash_scripting) - bash scripting thing !
