@@ -9544,7 +9544,7 @@
 - [rhasselbaum/scrappy-ddns](https://github.com/rhasselbaum/scrappy-ddns) - A simple Dynamic DNS service that sends mobile push notifications on IP address changes.
 - [sethsec/celerystalk](https://github.com/sethsec/celerystalk) - An asynchronous enumeration & vulnerability scanner. Run all the tools on all the hosts.
 - [gehaxelt/Python-dsstore](https://github.com/gehaxelt/Python-dsstore) - A library for parsing .DS_Store files and extracting file names
-- [0xHJK/dumpall](https://github.com/0xHJK/dumpall) - 一款信息泄漏利用工具，适用于.git/.svn源代码泄漏和.DS_Store泄漏
+- [0xHJK/dumpall](https://github.com/0xHJK/dumpall) - 一款信息泄漏利用工具，适用于.git/.svn/.DS_Store泄漏和目录列出
 - [bl4de/security-tools](https://github.com/bl4de/security-tools) - My collection of various security tools created mostly in Python and Bash. For CTFs and Bug Bounty.
 - [ShielderSec/webtech](https://github.com/ShielderSec/webtech) - Identify technologies used on websites.
 - [exploitprotocol/DNS-Sniffer](https://github.com/exploitprotocol/DNS-Sniffer) - It is a very simple dns-sniffer made using scapy...It can be used with ettercap to see all the queries over the network.
@@ -14107,7 +14107,7 @@
 - [sekey/sekey](https://github.com/sekey/sekey) - Use Touch ID / Secure Enclave for SSH Authentication!
 - [djhworld/stegtool](https://github.com/djhworld/stegtool) - Steganography tool
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
-- [hardik05/Damn_Vulnerable_C_Program](https://github.com/hardik05/Damn_Vulnerable_C_Program) - a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts.
+- [hardik05/Damn_Vulnerable_C_Program](https://github.com/hardik05/Damn_Vulnerable_C_Program) - An example C program which contains vulnerable code for common types of vulnerabilities. It can be used to show fuzzing concepts.
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [yaa110/cb](https://github.com/yaa110/cb) - Command line interface to manage clipboard
 - [theflakes/reg_hunter](https://github.com/theflakes/reg_hunter) - Blueteam operational triage registry hunting/forensic tool.
