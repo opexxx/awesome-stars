@@ -2021,6 +2021,7 @@
 - [lifting-bits/mcsema](https://github.com/lifting-bits/mcsema) - Framework for lifting x86, amd64, aarch64, sparc32, and sparc64 program binaries to LLVM bitcode
 - [wroberts/count](https://github.com/wroberts/count) - UNIX line counting utilities
 - [SIPp/sipp](https://github.com/SIPp/sipp) - The SIPp testing tool
+- [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [DrWhax/truecrypt-archive](https://github.com/DrWhax/truecrypt-archive) - Archive of (almost) all truecrypt releases - Please audit this repository!
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [NPS-DEEP/hashdb](https://github.com/NPS-DEEP/hashdb) - hashdb block hash database tool and API
@@ -2167,7 +2168,6 @@
 - [appsecco/using-docker-kubernetes-for-automating-appsec-and-osint-workflows](https://github.com/appsecco/using-docker-kubernetes-for-automating-appsec-and-osint-workflows) - Repository for all the workshop content delivered at nullcon X on 1st of March 2019
 - [usnistgov/800-63-3](https://github.com/usnistgov/800-63-3) - Home to public development of NIST Special Publication 800-63-3: Digital Authentication Guidelines
 - [ihorzenich/html5checklist](https://github.com/ihorzenich/html5checklist) - HTML/CSS markup checklist
-- [tollwerk/data-processing-agreements](https://github.com/tollwerk/data-processing-agreements) - Collection of Data Processing Agreement (DPA) and GDPR compliance resources
 - [thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering
 - [pwnsdx/Mailsploit-HTML](https://github.com/pwnsdx/Mailsploit-HTML) - Mailsploit is a collection of bugs in email clients that allow effective sender spoofing and code injection attacks. The spoofing is not detected by Mail Transfer Agents (MTA) aka email servers, therefore circumventing spoofing protection mechanisms such as DMARC (DKIM/SPF) or spam filters.
 - [adobe-fonts/source-sans](https://github.com/adobe-fonts/source-sans) - Sans serif font family for user interface environments
@@ -2945,7 +2945,7 @@
 - [mpage/onepassword](https://github.com/mpage/onepassword) - Golang interface to 1Password sqlite databases
 - [DimitarPetrov/stegify](https://github.com/DimitarPetrov/stegify) - 🔍 Go tool for LSB steganography, capable of hiding any file within an image.
 - [BishopFox/sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
+- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [mdsecactivebreach/o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit) - A toolkit to attack Office365
 - [elastic/go-structform](https://github.com/elastic/go-structform) - Go Encoding, Decoding, Transcoding
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
@@ -4316,7 +4316,6 @@
 - [MindMac/AndroidAppLog](https://github.com/MindMac/AndroidAppLog) - A tool to log method's parameters and return value.
 - [rovo89/XposedInstaller](https://github.com/rovo89/XposedInstaller) - 
 - [openseedbox/openseedbox](https://github.com/openseedbox/openseedbox) - OpenSeedbox - Open Source Multi-User Bittorrent Web UI
-- [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [fqrouter/fqrouter](https://github.com/fqrouter/fqrouter) - anti-GFW router
 - [khai-tran/BurpJDSer](https://github.com/khai-tran/BurpJDSer) - 
 - [davidhampgonsalves/Contact-Identicons](https://github.com/davidhampgonsalves/Contact-Identicons) - Android app that generates identicons for contact photos
@@ -14160,6 +14159,7 @@
 - [IoT-Lab-FH-OOE/netgear_update_vulnerability](https://github.com/IoT-Lab-FH-OOE/netgear_update_vulnerability) - 
 - [vfarcic/devops-toolkit](https://github.com/vfarcic/devops-toolkit) - 
 - [rabobank-cdc/DeTTECT](https://github.com/rabobank-cdc/DeTTECT) - Detect Tactics, Techniques & Combat Threats
+- [tollwerk/data-processing-agreements](https://github.com/tollwerk/data-processing-agreements) - Collection of Data Processing Agreement (DPA) and GDPR compliance resources
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 
