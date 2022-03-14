@@ -2021,7 +2021,6 @@
 - [lifting-bits/mcsema](https://github.com/lifting-bits/mcsema) - Framework for lifting x86, amd64, aarch64, sparc32, and sparc64 program binaries to LLVM bitcode
 - [wroberts/count](https://github.com/wroberts/count) - UNIX line counting utilities
 - [SIPp/sipp](https://github.com/SIPp/sipp) - The SIPp testing tool
-- [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [DrWhax/truecrypt-archive](https://github.com/DrWhax/truecrypt-archive) - Archive of (almost) all truecrypt releases - Please audit this repository!
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [NPS-DEEP/hashdb](https://github.com/NPS-DEEP/hashdb) - hashdb block hash database tool and API
@@ -3082,7 +3081,7 @@
 - [netxfly/xsec-proxy-scanner](https://github.com/netxfly/xsec-proxy-scanner) - xsec-proxy-scanner是一款速度超快、小巧的代理扫描器
 - [netxfly/Transparent-Proxy-Scanner](https://github.com/netxfly/Transparent-Proxy-Scanner) - 基于vpn和透明代理的web漏洞扫描器的实现思路及demo
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLSX) files.
 - [tstillz/webshell-scan](https://github.com/tstillz/webshell-scan) - Simple web shell scanner written in Golang.
 - [aatarasoff/apistress](https://github.com/aatarasoff/apistress) - Very simple stress testing tool for API
 - [miquella/vaulted](https://github.com/miquella/vaulted) - Spawning and storage of secure environments
@@ -4316,6 +4315,7 @@
 - [MindMac/AndroidAppLog](https://github.com/MindMac/AndroidAppLog) - A tool to log method's parameters and return value.
 - [rovo89/XposedInstaller](https://github.com/rovo89/XposedInstaller) - 
 - [openseedbox/openseedbox](https://github.com/openseedbox/openseedbox) - OpenSeedbox - Open Source Multi-User Bittorrent Web UI
+- [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [fqrouter/fqrouter](https://github.com/fqrouter/fqrouter) - anti-GFW router
 - [khai-tran/BurpJDSer](https://github.com/khai-tran/BurpJDSer) - 
 - [davidhampgonsalves/Contact-Identicons](https://github.com/davidhampgonsalves/Contact-Identicons) - Android app that generates identicons for contact photos
