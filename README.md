@@ -2531,7 +2531,7 @@
 - [chenjiandongx/kubectl-images](https://github.com/chenjiandongx/kubectl-images) - 🕸  Show container images used in the cluster.
 - [tilt-dev/ctlptl](https://github.com/tilt-dev/ctlptl) - Making local Kubernetes clusters fun and easy to set up
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
-- [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity. https://karpenter.sh
+- [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [slyd0g/WhiteChocolateMacademiaNut](https://github.com/slyd0g/WhiteChocolateMacademiaNut) - Interact with Chromium-based browsers' debug port to view open tabs, installed extensions, and cookies
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Kubernetes Marketplace
@@ -3788,7 +3788,6 @@
 - [cloudposse/terraform-aws-iam-user](https://github.com/cloudposse/terraform-aws-iam-user) - Terraform Module to provision a basic IAM user suitable for humans.
 - [xFreed0m/Disruption](https://github.com/xFreed0m/Disruption) - Terraform script to deploy AD-based environment on Azure
 - [secdevops-cuse/CyberRange](https://github.com/secdevops-cuse/CyberRange) - The Open-Source AWS Cyber Range
-- [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 - [grem11n/terraform-aws-vpc-peering](https://github.com/grem11n/terraform-aws-vpc-peering) - Terraform module to setup VPC peering connection
 - [nccgroup/sadcloud](https://github.com/nccgroup/sadcloud) - A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure
 - [BlueTeamLabs/sentinel-attack](https://github.com/BlueTeamLabs/sentinel-attack) - Tools to rapidly deploy a threat hunting capability on Azure Sentinel that leverages Sysmon and MITRE ATT&CK
@@ -3980,7 +3979,7 @@
 - [Patrowl/PatrowlDocs](https://github.com/Patrowl/PatrowlDocs) - PatrOwl - Open Source, Free and Scalable Security Operations Orchestration Platform
 - [clong/DetectionLab](https://github.com/clong/DetectionLab) - Automate the creation of a lab environment complete with security tooling and logging best practices
 - [francisck/DanderSpritz_lab](https://github.com/francisck/DanderSpritz_lab) - A fully functional DanderSpritz lab in 2 commands
-- [b-mueller/smashing-smart-contracts](https://github.com/b-mueller/smashing-smart-contracts) - Write-ups on security analysis of Ethereum smart contracts using symbolic execution and constraint solving.
+- [muellerberndt/smashing-smart-contracts](https://github.com/muellerberndt/smashing-smart-contracts) - Write-ups on security analysis of Ethereum smart contracts using symbolic execution and constraint solving.
 - [cloudsriseup/PoorOperationalSecurityPractices](https://github.com/cloudsriseup/PoorOperationalSecurityPractices) - Deceptive tradecraft should be fun and light, not stern and stressful. It is cool to be cute.
 - [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
 - [IAIK/interruptjs](https://github.com/IAIK/interruptjs) - Practical Keystroke Timing Attacks in Sandboxed JavaScript
@@ -8912,7 +8911,7 @@
 - [reb311ion/CapaExplorer](https://github.com/reb311ion/CapaExplorer) - Capa analysis importer for Ghidra.
 - [loseys/Oblivion](https://github.com/loseys/Oblivion) - Data leak checker & OSINT Tool
 - [Den1al/JSShell](https://github.com/Den1al/JSShell) - An interactive multi-user web JS shell
-- [SharonBrizinov/s3viewer](https://github.com/SharonBrizinov/s3viewer) - Publicly Open Amazon AWS S3 Bucket Viewer
+- [SharonBrizinov/s3viewer](https://github.com/SharonBrizinov/s3viewer) - Publicly open storage viewer (Amazon S3 Bucket, Azure Blob, FTP server, HTTP Index Of/)
 - [uptownnickbrown/epub2vec](https://github.com/uptownnickbrown/epub2vec) - Convert a folder of .epubs into a word2vec model and clusters of "similar paragraphs".
 - [ARPSyndicate/kenzer](https://github.com/ARPSyndicate/kenzer) - automated web assets enumeration & scanning
 - [Te-k/analyst-scripts](https://github.com/Te-k/analyst-scripts) - Scripts to analyze stuff
@@ -9626,6 +9625,7 @@
 - [ninoseki/emailrep-analyzer](https://github.com/ninoseki/emailrep-analyzer) - Cortex Analyzer for emailrep.io
 - [epsylon/xsser](https://github.com/epsylon/xsser) - Cross Site "Scripter" (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications.
 - [lyft/metadataproxy](https://github.com/lyft/metadataproxy) - A proxy for AWS's metadata service that gives out scoped IAM credentials from STS
+- [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 - [elitest/Redboto](https://github.com/elitest/Redboto) - Red Team Scripts for AWS.
 - [natlas/natlas](https://github.com/natlas/natlas) - Scaling Network Scanning. Changes prior to 1.0 may cause difficult to avoid backwards incompatibilities. You've been warned.
 - [CaptainFreak/diffJs](https://github.com/CaptainFreak/diffJs) - Tool for monitoring changes in javascript files on WebApps for reconnaissance.
