@@ -583,7 +583,7 @@
 - [zodiacon/WindowsInternals](https://github.com/zodiacon/WindowsInternals) - Windows Internals Book 7th edition Tools
 - [sensepost/hostapd-mana](https://github.com/sensepost/hostapd-mana) - SensePost's modified hostapd for wifi attacks.
 - [galkahana/HummusJS](https://github.com/galkahana/HummusJS) - Node.js module for high performance creation, modification and parsing of PDF files and streams
-- [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - Access your terminal from anywhere via the web.
+- [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
 - [prbinu/tls-scan](https://github.com/prbinu/tls-scan) - An Internet scale, blazing fast SSL/TLS scanner ( non-blocking, event-driven )
 - [mkj/dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
 - [jakeajames/rootlessJB](https://github.com/jakeajames/rootlessJB) - 
@@ -2679,7 +2679,6 @@
 - [tiagorlampert/CHAOS](https://github.com/tiagorlampert/CHAOS) - :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.
 - [assafmo/xioc](https://github.com/assafmo/xioc) - Extract indicators of compromise from text, including "escaped" ones.
 - [x1sec/commit-stream](https://github.com/x1sec/commit-stream) - #OSINT tool for finding Github repositories by extracting commit logs in real time from the Github event API
-- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - 🔥 🔥   Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. 🔥 🔥
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [CCob/gookies](https://github.com/CCob/gookies) - A Chrome cookie dumping utility
 - [hotnops/gtunnel](https://github.com/hotnops/gtunnel) - A robust tunelling solution written in golang
@@ -4488,6 +4487,7 @@
 - [szmarczak/http2-wrapper](https://github.com/szmarczak/http2-wrapper) - Use HTTP/2 the same way like HTTP/1
 - [docker/getting-started](https://github.com/docker/getting-started) - Getting started with Docker
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - 🔥 🔥   Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. 🔥 🔥
 - [os0x/NinjaKit](https://github.com/os0x/NinjaKit) - yet another greasemonkey
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [jimmythompson/ent](https://github.com/jimmythompson/ent) - An attack tree generator built on electron
@@ -4499,7 +4499,6 @@
 - [d4v3y0rk/ffpass](https://github.com/d4v3y0rk/ffpass) - Use the command line or HTTP requests to start/stop the engine and lock/unlock the doors on your Ford vehicle.
 - [Arno0x/DNSExfiltrator](https://github.com/Arno0x/DNSExfiltrator) - Data exfiltration over DNS request covert channel
 - [baronpan/SysmonHunter](https://github.com/baronpan/SysmonHunter) - An easy ATT&CK-based Sysmon hunting tool, showing in Blackhat USA 2019 Arsenal
-- [abrignoni/iLEAPP](https://github.com/abrignoni/iLEAPP) - iOS Logs, Events, And Plist Parser
 - [guyht/notp](https://github.com/guyht/notp) - Node One Time Password library, supports HOTP, TOTP and works with Google Authenticator
 - [interference-security/frida-scripts](https://github.com/interference-security/frida-scripts) - Frida Scripts
 - [UlisesGascon/check-my-headers](https://github.com/UlisesGascon/check-my-headers) - Fast and simple way to check any HTTP Headers
@@ -5918,7 +5917,7 @@
 - [chaoseng/wg-chaoseng](https://github.com/chaoseng/wg-chaoseng) - Chaos Engineering Working Group
 - [S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
 - [khanhnnvn/CEHv10](https://github.com/khanhnnvn/CEHv10) - Leaked slides and labs
-- [christophetd/hunting-mindmaps](https://github.com/christophetd/hunting-mindmaps) - :mag: Mindmaps for threat hunting - work in progress.
+- [christophetd/mindmaps](https://github.com/christophetd/mindmaps) - :mag: Mindmaps for threat hunting - work in progress.
 - [myoung34/awesome-cloudcustodian](https://github.com/myoung34/awesome-cloudcustodian) - A curated list of things relating to CapitalOne's Cloud-custodian project
 - [c0rdis/security-champions-playbook](https://github.com/c0rdis/security-champions-playbook) - Security Champions Playbook v 2.1
 - [xairy/hardware-village](https://github.com/xairy/hardware-village) - Materials for my Hardware Village talks
@@ -9347,6 +9346,7 @@
 - [nibiwodong/CNVD-2020-10487-Tomcat-ajp-POC](https://github.com/nibiwodong/CNVD-2020-10487-Tomcat-ajp-POC) - CNVD-2020-10487(CVE-2020-1938), tomcat ajp 文件读取漏洞poc
 - [xindongzhuaizhuai/CVE-2020-1938](https://github.com/xindongzhuaizhuai/CVE-2020-1938) - 
 - [ecstatic-nobel/Aisle25](https://github.com/ecstatic-nobel/Aisle25) - Detect leaks in security event logs.
+- [abrignoni/iLEAPP](https://github.com/abrignoni/iLEAPP) - iOS Logs, Events, And Plist Parser
 - [abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP) - Android Logs Events And Protobuf Parser
 - [mpgn/ntlmrelayx-prettyloot](https://github.com/mpgn/ntlmrelayx-prettyloot) - Convert the loot directory of ntlmrelayx into an enum4linux like output
 - [xdavidhu/awesome-google-vrp-writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups) - 🐛 A list of writeups from the Google VRP Bug Bounty program
@@ -12324,7 +12324,6 @@
 - [Kvetch/MethodCollector](https://github.com/Kvetch/MethodCollector) - HTTP Method Collector
 - [Kvetch/Kludge-Collector](https://github.com/Kvetch/Kludge-Collector) - Kludge5 Data Collector Script
 - [dougn/python-plantuml](https://github.com/dougn/python-plantuml) - python interface to a plantuml web service instead of having to run java locally. http://plantuml.sourceforge.net/index.html
-- [silverhack/triana](https://github.com/silverhack/triana) - Threat Intelligent Analysis
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Collaborative Penetration Test and Vulnerability Management Platform
 - [cluther/snmposter](https://github.com/cluther/snmposter) - SNMP Agent Simulator
 - [Kagami/kisa](https://github.com/Kagami/kisa) - XMPP stress tool
@@ -14291,7 +14290,7 @@
 - [TildeSlashC0re/stream-grab-and-transcode](https://github.com/TildeSlashC0re/stream-grab-and-transcode) - A streamlink+ffmpeg wrapper to automize archival
 - [chvancooten/BugBountyScanner](https://github.com/chvancooten/BugBountyScanner) - A Bash script and Docker image for Bug Bounty reconnaissance. Intended for headless use.
 - [Akianonymus/gdrive-downloader](https://github.com/Akianonymus/gdrive-downloader) - Download a gdrive folder or file easily, shell ftw.
-- [trodemaster/packer-macOS-11](https://github.com/trodemaster/packer-macOS-11) - Packer template for building macOS 11 VMs with VMware Fusion 12+
+- [trodemaster/packer-macOS-11](https://github.com/trodemaster/packer-macOS-11) - Packer template for building macOS 11 and later VMs with VMware Fusion 12+
 - [sonofagl1tch/AWSDetonationLab](https://github.com/sonofagl1tch/AWSDetonationLab) - This script is used to generate some basic detections of the aws security services
 - [tothi/ad-honeypot-autodeploy](https://github.com/tothi/ad-honeypot-autodeploy) - Deploy a small, intentionally insecure, vulnerable Windows Domain for RDP Honeypot fully automatically.
 - [TH3xACE/OFFPORT_KILLER](https://github.com/TH3xACE/OFFPORT_KILLER) - This tool aims at automating the identification of potential service running behind ports identified manually either through manual scan or services running locally. The tool is useful when nmap or any scanning tool is not available and in the situation during which you did a manual port scanning and then want to identify the services running behind the identified ports.
