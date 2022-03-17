@@ -3707,7 +3707,7 @@
 - [michaelsauter/crane](https://github.com/michaelsauter/crane) - Crane - Lift containers with ease
 - [crosbymichael/dockersql](https://github.com/crosbymichael/dockersql) - Query your docker via SQL
 - [crosbymichael/slex](https://github.com/crosbymichael/slex) - SSH multiplex
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [mwgg/passera](https://github.com/mwgg/passera) - [UNSUPPORTED] A small tool to turn any entered passphrase into a strong secure password, allowing you to easily use different strong passwords for different websites without storing them
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [mozilla/tls-observatory](https://github.com/mozilla/tls-observatory) - An observatory for TLS configurations, X509 certificates, and more.
@@ -4851,7 +4851,7 @@
 - [air01a/Nmap-ElasticSearch](https://github.com/air01a/Nmap-ElasticSearch) - Frontend to import Nmap Scan in ES, and frontend to make search
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
-- [mumuy/browser](https://github.com/mumuy/browser) - Useragent analysis tool.浏览器分析判断工具 - 用户代理、操作系统信息
+- [mumuy/browser](https://github.com/mumuy/browser) - Useragent analysis tool.浏览器分析/浏览器检测/浏览器识别/浏览器判断工具 - 用户代理、操作系统信息
 - [xsank/webssh](https://github.com/xsank/webssh) - WebSSH is a simple web project which support login linux server with explorer.
 - [Inist-CNRS/node-xml2json-command](https://github.com/Inist-CNRS/node-xml2json-command) - Convert an XML input to a JSON output, using xml-mapping
 - [ANSSI-FR/OVALI](https://github.com/ANSSI-FR/OVALI) - Generic graph exploration, manipulation and visualization tool (Outil de Visualisation et Analyse de Liens Inter-objets)
@@ -9070,7 +9070,7 @@
 - [giuliano108/font-awesome-to-png](https://github.com/giuliano108/font-awesome-to-png) - Exports Font Awesome icons as PNG images
 - [cr0hn/festin](https://github.com/cr0hn/festin) - FestIn - S3 Bucket Weakness Discovery
 - [andrew-tavera/unpyc37](https://github.com/andrew-tavera/unpyc37) - Decompiler for Python 3.7  (forked from https://github.com/figment/unpyc3)
-- [alexandreborges/malwoverview](https://github.com/alexandreborges/malwoverview) - Malwoverview is a first response tool used for threat hunting and offers intel information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, ThreatCrowd, Valhalla, Malware Bazaar, ThreatFox, Triage and it is able to scan Android devices against VT and HA.
+- [alexandreborges/malwoverview](https://github.com/alexandreborges/malwoverview) - Malwoverview is a first response tool used for threat hunting and offers intel information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, ThreatCrowd, Malware Bazaar, ThreatFox, Triage and it is able to scan Android devices against VT and HA.
 - [codingo/Reconnoitre](https://github.com/codingo/Reconnoitre) - A security tool for multithreaded information gathering and service enumeration whilst building directory structures to store results, along with writing out recommendations for further testing.
 - [welchbj/bscan](https://github.com/welchbj/bscan) - an asynchronous target enumeration tool
 - [Tib3rius/AutoRecon](https://github.com/Tib3rius/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
@@ -13613,7 +13613,7 @@
 - [jeffreywildman/homebrew-virt-manager](https://github.com/jeffreywildman/homebrew-virt-manager) - A set of homebrew formulae to install virt-manager and virt-viewer on MAC OSX
 - [ybur-yug/gkv](https://github.com/ybur-yug/gkv) - Git as a KV store in Ruby
 - [dtan4/terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate) / No longer actively maintained
-- [f-secure-foundry/usbarmory](https://github.com/f-secure-foundry/usbarmory) - USB armory - open source flash-drive-sized computer
+- [usbarmory/usbarmory](https://github.com/usbarmory/usbarmory) - USB armory - open source flash-drive-sized computer
 - [FuzzySecurity/AdventuresWithChef](https://github.com/FuzzySecurity/AdventuresWithChef) - A collection of Chef recipes, for learning and infrastructure automation.
 - [navisecdelta/Aware](https://github.com/navisecdelta/Aware) - Aware.rb is a little utility for parsing & building data around a CSV of hostnames (like that from aiodnsbrute)
 - [ly4k/CurveBall](https://github.com/ly4k/CurveBall) - PoC for CVE-2020-0601- Windows CryptoAPI (Crypt32.dll)
