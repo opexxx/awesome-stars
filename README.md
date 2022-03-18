@@ -5434,7 +5434,7 @@
 
 ## Makefile 
 
-- [f-secure-foundry/usbarmory-debian-base_image](https://github.com/f-secure-foundry/usbarmory-debian-base_image) - USB armory Debian base image
+- [usbarmory/usbarmory-debian-base_image](https://github.com/usbarmory/usbarmory-debian-base_image) - USB armory Debian base image
 - [genuinetools/sshb0t](https://github.com/genuinetools/sshb0t) - A bot for keeping your ssh authorized_keys up to date with user's GitHub keys, **only** use if you enable 2FA & keep your keys updates.
 - [0x36/VPNPivot](https://github.com/0x36/VPNPivot) - Explore the network using VPNPivot tool
 - [ivanfioravanti/kubernetes-the-hard-way-on-azure](https://github.com/ivanfioravanti/kubernetes-the-hard-way-on-azure) - Bootstrap Kubernetes the hard way on Microsoft Azure Platform. No scripts.
@@ -6185,7 +6185,7 @@
 - [binaryedge/ratemyip-openframework](https://github.com/binaryedge/ratemyip-openframework) - An Open framework to rate the exposure of ip addresses with services exposed to the internet
 - [OWASP/API-Security](https://github.com/OWASP/API-Security) - OWASP API Security Project
 - [yellowbyte/analysis-of-anti-analysis](https://github.com/yellowbyte/analysis-of-anti-analysis) - writings on anti-reverse engineering.
-- [michael-kehoe/sre-interview](https://github.com/michael-kehoe/sre-interview) - A collection of questions to practice with for SRE interviews
+- [tWe4KdBKav6bt8w/sre-interview](https://github.com/tWe4KdBKav6bt8w/sre-interview) - A collection of questions to practice with for SRE interviews
 - [unixorn/sysadmin-reading-list](https://github.com/unixorn/sysadmin-reading-list) - A reading and viewing list for larval stage sysadmins and SREs
 - [fkie-cad/awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) - A curated list of awesome embedded and IoT security resources.
 - [opt9/UZBL-Cheat-Sheet](https://github.com/opt9/UZBL-Cheat-Sheet) - UZBL Cheat Sheet
