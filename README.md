@@ -1443,7 +1443,7 @@
 - [HunnicCyber/SharpDomainSpray](https://github.com/HunnicCyber/SharpDomainSpray) - Basic password spraying tool for internal tests and red teaming
 - [xforever1313/Filesing](https://github.com/xforever1313/Filesing) - A tool to search file contents and file names for a list of strings.
 - [djhohnstein/.NET-Profiler-DLL-Hijack](https://github.com/djhohnstein/.NET-Profiler-DLL-Hijack) - Implementation of the .NET Profiler DLL hijack in C#
-- [Dionach/NtdsAudit](https://github.com/Dionach/NtdsAudit) - An Active Directory audit utility
+- [dionach/NtdsAudit](https://github.com/dionach/NtdsAudit) - An Active Directory audit utility
 - [EternalC0der/TeleShadow3](https://github.com/EternalC0der/TeleShadow3) - Telegram Desktop Session Stealer
 - [microsoft/AttackSurfaceAnalyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) - Attack Surface Analyzer can help you analyze your operating system's security configuration for changes during software installation.
 - [secgroundzero/SharpAttack](https://github.com/secgroundzero/SharpAttack) - C# Situational Awareness Script
@@ -9771,7 +9771,7 @@
 - [13Cubed/Abeebus](https://github.com/13Cubed/Abeebus) - A GeoIP lookup utility utilizing ipinfo.io services.
 - [stamparm/hontel](https://github.com/stamparm/hontel) - Telnet Honeypot
 - [pierky/arouteserver](https://github.com/pierky/arouteserver) - A tool to automatically build (and test) feature-rich configurations for BGP route servers.
-- [Dionach/pwdumpstats](https://github.com/Dionach/pwdumpstats) - Script to output stats around weak passwords and password re-use from an NtdsAudit (pwdump) file
+- [dionach/pwdumpstats](https://github.com/dionach/pwdumpstats) - Script to output stats around weak passwords and password re-use from an NtdsAudit (pwdump) file
 - [dark-lbp/isf](https://github.com/dark-lbp/isf) - ISF(Industrial Control System Exploitation Framework)，a exploitation framework based on Python
 - [foozzi/10minutemail](https://github.com/foozzi/10minutemail) - Python Temporary Email
 - [Leoid/CVE-2019-0708](https://github.com/Leoid/CVE-2019-0708) - Only Hitting PoC [Tested on Windows Server 2008 r2]
@@ -9984,7 +9984,7 @@
 - [cno-io/nimbusland_lambda](https://github.com/cno-io/nimbusland_lambda) - 
 - [nopernik/SSHPry2.0](https://github.com/nopernik/SSHPry2.0) - SSHPry v2 - Spy & Control os SSH Connected client's TTY
 - [mgreen27/EventLogs](https://github.com/mgreen27/EventLogs) - Tools I have built for parsing event logs
-- [Dionach/PANhunt](https://github.com/Dionach/PANhunt) - PANhunt searches for credit card numbers (PANs) in directories.
+- [dionach/PANhunt](https://github.com/dionach/PANhunt) - PANhunt searches for credit card numbers (PANs) in directories.
 - [ncsa/bhr-site](https://github.com/ncsa/bhr-site) - Blackhole Router Site
 - [RedTeamOperations/PivotSuite](https://github.com/RedTeamOperations/PivotSuite) - Network Pivoting Toolkit
 - [iAbdullahMughal/dscan](https://github.com/iAbdullahMughal/dscan) - D-Scan project for office document analysis and generating flow diagram of macro in documents. For demo visit
