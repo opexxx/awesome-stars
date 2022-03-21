@@ -9083,7 +9083,7 @@
 - [TebbaaX/Katana](https://github.com/TebbaaX/Katana) - python script for Google Dorking
 - [m4ll0k/SecretFinder](https://github.com/m4ll0k/SecretFinder) - SecretFinder - A python script for find sensitive data (apikeys, accesstoken,jwt,..) and search anything on javascript files
 - [defparam/tiscripts](https://github.com/defparam/tiscripts) - Turbo Intruder Scripts
-- [m8sec/CrossLinked](https://github.com/m8sec/CrossLinked) - LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping
+- [m8r0wn/CrossLinked](https://github.com/m8r0wn/CrossLinked) - LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping
 - [firstlookmedia/dangerzone](https://github.com/firstlookmedia/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 - [kaganisildak/malwarescarecrow](https://github.com/kaganisildak/malwarescarecrow) - A tool designed to make physical devices detectable by malware and make system look like virtual machine.
 - [SecurityInnovation/AuthMatrix](https://github.com/SecurityInnovation/AuthMatrix) - AuthMatrix is a Burp Suite extension that provides a simple way to test authorization in web applications and web services.
@@ -9511,7 +9511,7 @@
 - [antichown/subdomain-takeover](https://github.com/antichown/subdomain-takeover) - Subdomain Takeover Scanner | Subdomain Takeover Tool | by 0x94
 - [awslabs/aws-config-rules](https://github.com/awslabs/aws-config-rules) - [Node, Python, Java] Repository of sample Custom Rules for AWS Config.
 - [mthbernardes/rsg](https://github.com/mthbernardes/rsg) - ReverShellGenerator - A tool to generate various ways to do a reverse shell
-- [m8sec/nullinux](https://github.com/m8sec/nullinux) - Internal penetration testing tool for Linux that can be used to enumerate OS information, domain information, shares, directories, and users through SMB.
+- [m8r0wn/nullinux](https://github.com/m8r0wn/nullinux) - Internal penetration testing tool for Linux that can be used to enumerate OS information, domain information, shares, directories, and users through SMB.
 - [GhostManager/Ghostwriter](https://github.com/GhostManager/Ghostwriter) - The SpecterOps project management and reporting engine
 - [maltelligence/maltelligence](https://github.com/maltelligence/maltelligence) - a Malware/Threat Analyst Desktop
 - [grigorescu/Brownian](https://github.com/grigorescu/Brownian) - A web interface for interacting with your Bro IDS logs.
@@ -9713,9 +9713,9 @@
 - [Qianlitp/WatchAD](https://github.com/Qianlitp/WatchAD) - AD Security Intrusion Detection System
 - [aatlasis/Chiron](https://github.com/aatlasis/Chiron) - Chiron - An IPv6 Security Assessment framework with advanced IPv6 Extension Headers manipulation capabilities.
 - [Aerolab/setup](https://github.com/Aerolab/setup) - Make your Mac Aerowesome
-- [m8sec/subscraper](https://github.com/m8sec/subscraper) - Perform subdomain enumeration through various techniques and retrieve detailed output to aid in further testing.
-- [m8sec/ActiveReign](https://github.com/m8sec/ActiveReign) - A Network Enumeration and Attack Toolset for Windows Active Directory Environments.
-- [m8sec/pymeta](https://github.com/m8sec/pymeta) - Pymeta will search the web for files on a domain to download and extract metadata. This technique can be used to identify: domains, usernames, software/version numbers and naming conventions.
+- [m8r0wn/subscraper](https://github.com/m8r0wn/subscraper) - Perform subdomain enumeration through various techniques and retrieve detailed output to aid in further testing.
+- [m8r0wn/ActiveReign](https://github.com/m8r0wn/ActiveReign) - A Network Enumeration and Attack Toolset for Windows Active Directory Environments.
+- [m8r0wn/pymeta](https://github.com/m8r0wn/pymeta) - Pymeta will search the web for files on a domain to download and extract metadata. This technique can be used to identify: domains, usernames, software/version numbers and naming conventions.
 - [t4d/PhishingKitHunter](https://github.com/t4d/PhishingKitHunter) - Find phishing kits which use your brand/organization's files and image.
 - [citizenlab/badtraffic](https://github.com/citizenlab/badtraffic) - Supporting data for BAD TRAFFIC Citizen Lab report.
 - [clouedoc/AutoSQLi](https://github.com/clouedoc/AutoSQLi) - An automatic SQL Injection tool which takes advantage of ~DorkNet~ Googler, Ddgr, WhatWaf and sqlmap.
@@ -10409,7 +10409,7 @@
 - [Tylous/SniffAir](https://github.com/Tylous/SniffAir) - A framework for wireless pentesting.
 - [ScriptSmith/reaper](https://github.com/ScriptSmith/reaper) - Social media scraping / data collection tool for the Facebook, Twitter, Reddit, YouTube, Pinterest, and Tumblr APIs
 - [dixudx/tumblr-crawler](https://github.com/dixudx/tumblr-crawler) - Easily download all the photos/videos from tumblr blogs. 下载指定的 Tumblr 博客中的图片，视频
-- [m8sec/enumdb](https://github.com/m8sec/enumdb) - Relational database brute force and post exploitation tool for MySQL and MSSQL
+- [m8r0wn/enumdb](https://github.com/m8r0wn/enumdb) - Relational database brute force and post exploitation tool for MySQL and MSSQL
 - [zachhilbert/reconscan](https://github.com/zachhilbert/reconscan) - A modified version of Mike Czumak's enumeration scanner
 - [jmortega/osint_tools_security_auditing](https://github.com/jmortega/osint_tools_security_auditing) - osint_tools_security_auditing
 - [gleeda/memtriage](https://github.com/gleeda/memtriage) - Allows you to quickly query a Windows machine for RAM artifacts
