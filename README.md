@@ -10157,7 +10157,7 @@
 - [Mr-Un1k0d3r/SPFAbuse](https://github.com/Mr-Un1k0d3r/SPFAbuse) - SPF are not as strong as you may think. Red Team tool to send email on behalf of your target corp
 - [yampelo/beagle](https://github.com/yampelo/beagle) - Beagle is an incident response and digital forensics tool which transforms security logs and data into graphs.
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
-- [TypeError/secure](https://github.com/TypeError/secure) - Secure 🔒  headers for Python web frameworks
+- [cak/secure](https://github.com/cak/secure) - Secure 🔒  headers for Python web frameworks
 - [khast3x/Redcloud](https://github.com/khast3x/Redcloud) - Automated Red Team Infrastructure deployement using Docker
 - [secynic/ipwhois](https://github.com/secynic/ipwhois) - Retrieve and parse whois data for IPv4 and IPv6 addresses
 - [anandtiwarics/WhoisIP](https://github.com/anandtiwarics/WhoisIP) - This takes list of IP Addresses from test.txt file to collect information and generate .csv file.
