@@ -7790,7 +7790,7 @@
 - [fashionproof/EnableAllTokenPrivs](https://github.com/fashionproof/EnableAllTokenPrivs) - 
 - [jhoneill/MsftGraph](https://github.com/jhoneill/MsftGraph) - A PowerShell module for interacting with the Microsoft Graph API for Directory, OneNote, OneDrive, Outlook, Planner, Teams and Sharepoint in Office 365 or consumer versions
 - [HanseSecure/credgrap_ie_edge](https://github.com/HanseSecure/credgrap_ie_edge) - Extract stored credentials from Internet Explorer and Edge
-- [ibm-security-intelligence/wincollect](https://github.com/ibm-security-intelligence/wincollect) - 
+- [IBM/wincollect](https://github.com/IBM/wincollect) - 
 - [microsoft/MSRC-Microsoft-Security-Updates-API](https://github.com/microsoft/MSRC-Microsoft-Security-Updates-API) - Repo with getting started projects for the Microsoft Security Updates API (portal.msrc.microsoft.com)
 - [fashionproof/SearchOpenFileShares](https://github.com/fashionproof/SearchOpenFileShares) - Searches open files shares for password files, database backups, etc.  Extend as you see fit
 - [mdavis332/DomainPasswordSpray](https://github.com/mdavis332/DomainPasswordSpray) - DomainPasswordSpray is a tool written in PowerShell to perform a password spray attack against users of a domain. It will automatically generate a userlist from the domain which excludes accounts that are expired, disabled locked out, or within 1 lockout attempt.
@@ -11554,7 +11554,7 @@
 - [redteamsecurity/pURL](https://github.com/redteamsecurity/pURL) - API testing tool written with Python
 - [peacand/winsharecrawler](https://github.com/peacand/winsharecrawler) - Python crawler for remote Windows shares
 - [peacand/DHCP-Powner](https://github.com/peacand/DHCP-Powner) - DHCP Starvation Exploit
-- [ibm-security-intelligence/data-import](https://github.com/ibm-security-intelligence/data-import) - 
+- [IBM/data-import](https://github.com/IBM/data-import) - 
 - [bandrel/OCyara](https://github.com/bandrel/OCyara) - Performs OCR on image files and scans them for matches to YARA rules
 - [interference-security/ntds-tools](https://github.com/interference-security/ntds-tools) - Tools for NTDS.dit
 - [andrew-morris/PUG](https://github.com/andrew-morris/PUG) - Generate users with "random-ish" realistic passwords or password hashes
@@ -15443,7 +15443,7 @@
 - [aaronroyer/shy](https://github.com/aaronroyer/shy) - Minimal shell plugin management
 - [thoronas/vvv-auto-setup-elasticsearch](https://github.com/thoronas/vvv-auto-setup-elasticsearch) - VVV Auto Site Setup for Elasticsearch testing
 - [rsato/apk-disassemble](https://github.com/rsato/apk-disassemble) - 
-- [noplay/docker-osx](https://github.com/noplay/docker-osx) - Fast and easy installation of Docker on OS X
+- [duponchelle/docker-osx](https://github.com/duponchelle/docker-osx) - Fast and easy installation of Docker on OS X
 - [hortonworks/HDP-Public-Utilities](https://github.com/hortonworks/HDP-Public-Utilities) - 
 - [caux-iofc/scripts](https://github.com/caux-iofc/scripts) - Miscellaneous scripts.
 - [Hood3dRob1n/BinGoo](https://github.com/Hood3dRob1n/BinGoo) - BinGoo! A Linux bash based Bing and Google Dorking Tool
