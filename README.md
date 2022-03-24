@@ -2475,6 +2475,7 @@
 - [blushft/go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [cycloidio/inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
 - [gustavorobertux/goshock](https://github.com/gustavorobertux/goshock) - SonicWall VPN-SSL Exploit* using Golang ( * and other targets vulnerable to shellshock ).
+- [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems
 - [open-ch/ja3](https://github.com/open-ch/ja3) - A high performance Go Implementation of the JA3 Client Fingerprinting Algorithm.
 - [pry0cc/soxy](https://github.com/pry0cc/soxy) - Multi-threaded socks proxy checker written in Go!
 - [chennqqi/godnslog](https://github.com/chennqqi/godnslog) - An exquisite dns&http log server for verify SSRF/XXE/RFI/RCE vulnerability
@@ -2526,7 +2527,7 @@
 - [busterb/msmailprobe](https://github.com/busterb/msmailprobe) - Office 365 and Exchange Enumeration
 - [Shivangx01b/BountyIt](https://github.com/Shivangx01b/BountyIt) - A fuzzer made in golang for finding issues like xss, lfi, rce, ssti...that detects issues using change in content length and verify it using signatures
 - [gruntwork-io/kubergrunt](https://github.com/gruntwork-io/kubergrunt) - Kubergrunt is a standalone go binary with a collection of commands to fill in the gaps between Terraform, Helm, and Kubectl. https://www.gruntwork.io
-- [cisco-open/kubei](https://github.com/cisco-open/kubei) - Kubei is a flexible Kubernetes runtime scanner, scanning images of worker and Kubernetes nodes to provide an accurate vulnerability assessment
+- [cisco-open/kubei](https://github.com/cisco-open/kubei) - Kubei is tool for detection and management of Software Bill Of Material and vulnerabilities of container images and filesystems. It scans both runtime K8s clusters and CI/CD Pipelines for enhanced software supply chain security.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [chenjiandongx/kubectl-images](https://github.com/chenjiandongx/kubectl-images) - 🕸  Show container images used in the cluster.
 - [tilt-dev/ctlptl](https://github.com/tilt-dev/ctlptl) - Making local Kubernetes clusters fun and easy to set up
@@ -2589,7 +2590,7 @@
 - [lima-vm/sshocker](https://github.com/lima-vm/sshocker) - ssh + reverse sshfs + port forwarder, in Docker-like CLI (predecessor of Lima)
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [shenwei356/rush](https://github.com/shenwei356/rush) - A cross-platform command-line tool for executing jobs in parallel
-- [dstotijn/hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
+- [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [dwisiswant0/cf-check](https://github.com/dwisiswant0/cf-check) - CloudFlare Checker written in Go
 - [projectdiscovery/dnsprobe](https://github.com/projectdiscovery/dnsprobe) - DNSProb is a tool built on top of retryabledns that allows you to perform multiple dns queries of your choice with a list of user supplied resolvers.
 - [hahwul/hack-pet](https://github.com/hahwul/hack-pet) - 🐰 Managing command snippets for hackers/bug bounty hunters. with pet.
@@ -8858,7 +8859,6 @@
 - [GAR-Project/project](https://github.com/GAR-Project/project) - DDoS attacks detection by using SVM on SDN networks.
 - [Haxel0rd/haxel0rds](https://github.com/Haxel0rd/haxel0rds) - Some private tools i decided to release for public.
 - [soxoj/socid-extractor](https://github.com/soxoj/socid-extractor) - ⛏️ Extract accounts info from personal pages on various sites for OSINT purpose
-- [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems
 - [Te-k/cobaltstrike](https://github.com/Te-k/cobaltstrike) - Code and yara rules to detect and analyze Cobalt Strike
 - [salesforce/aws-allowlister](https://github.com/salesforce/aws-allowlister) - Automatically compile an AWS Service Control Policy that ONLY allows AWS services that are compliant with your preferred compliance frameworks.
 - [NathanWailes/interview-questions](https://github.com/NathanWailes/interview-questions) - My solutions to companies' test questions.
@@ -9259,7 +9259,7 @@
 - [flosell/trailscraper](https://github.com/flosell/trailscraper) - A command-line tool to get valuable information out of AWS CloudTrail
 - [duo-labs/cloudtracker](https://github.com/duo-labs/cloudtracker) - CloudTracker helps you find over-privileged IAM users and roles by comparing CloudTrail logs with current IAM policies.
 - [bridgecrewio/AirIAM](https://github.com/bridgecrewio/AirIAM) - Least privilege AWS IAM Terraformer
-- [intel/cve-bin-tool](https://github.com/intel/cve-bin-tool) - This tool scans for a number of common, vulnerable components (openssl, libpng, libxml2, expat and a few others) to let you know if your system includes common libraries with known vulnerabilities.
+- [intel/cve-bin-tool](https://github.com/intel/cve-bin-tool) - The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for a number of common, vulnerable components (openssl, libpng, libxml2, expat and others), or if you know the components used, you can get a list of known vulnerabilities associated with a list of components and versions.
 - [tern-tools/tern](https://github.com/tern-tools/tern) - Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBOM that Tern generates will give you a layer-by-layer view of what's inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more.
 - [jupyterhub/ldapauthenticator](https://github.com/jupyterhub/ldapauthenticator) - LDAP Authenticator Plugin for Jupyter
 - [jtroberts83/AWS-S3-Object-ACL-Scanner](https://github.com/jtroberts83/AWS-S3-Object-ACL-Scanner) - Scripts used to scan every object in every bucket of an AWS account and report on objects which have Public read access
