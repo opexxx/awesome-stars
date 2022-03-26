@@ -1467,7 +1467,6 @@
 - [chrismaddalena/SharpCloud](https://github.com/chrismaddalena/SharpCloud) - Simple C# for checking for the existence of credential files related to AWS, Microsoft Azure, and Google Compute.
 - [FuzzySecurity/Sharp-Suite](https://github.com/FuzzySecurity/Sharp-Suite) - Also known by Microsoft as Knifecoat :hot_pepper:
 - [rvrsh3ll/SharpCOM](https://github.com/rvrsh3ll/SharpCOM) - CSHARP DCOM Fun
-- [l0ss/Grouper2](https://github.com/l0ss/Grouper2) - Find vulnerabilities in AD Group Policy
 - [cobbr/Elite](https://github.com/cobbr/Elite) - Elite is the client-side component of the Covenant project. Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.
 - [marcin-chwedczuk/dll-inject](https://github.com/marcin-chwedczuk/dll-inject) - Simple DLL injector written in C#
 - [antman1p/SharpProcEnum](https://github.com/antman1p/SharpProcEnum) - .NET tool for enumeration processes and dumping memory.
@@ -2672,7 +2671,7 @@
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
 - [cycloidio/terracognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
-- [brimdata/zed](https://github.com/brimdata/zed) - A cloud-native, searchable data lake for semi-structured and structured data
+- [brimdata/zed](https://github.com/brimdata/zed) - Tooling for super-structured data: a new and easier way to manipulate data
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [micrictor/Requestor](https://github.com/micrictor/Requestor) - Defensive counterpart to https://github.com/SpiderLabs/Responder
 - [arnaucube/cryptofun](https://github.com/arnaucube/cryptofun) - Crypto algorithms from scratch. Learning purposes only. ECC, BN128 pairing, Paillier, RSA, Homomorphic computation, ElGamal, Schnorr, ECDSA, BLS, ...
@@ -5887,7 +5886,7 @@
 - [chip-red-pill/glm-ucode](https://github.com/chip-red-pill/glm-ucode) - GLM uCode dumps
 - [enotspe/fortinet-2-elasticsearch](https://github.com/enotspe/fortinet-2-elasticsearch) - Fortinet products logs to Elasticsearch
 - [IdealDreamLast/CVE-2020-9484](https://github.com/IdealDreamLast/CVE-2020-9484) - 用Kali 2.0复现Apache Tomcat Session反序列化代码执行漏洞
-- [Laxa/HackingTools](https://github.com/Laxa/HackingTools) - Exhaustive list of hacking tools
+- [laxa/HackingTools](https://github.com/laxa/HackingTools) - Exhaustive list of hacking tools
 - [wavestone-cdt/AD-security-workshop](https://github.com/wavestone-cdt/AD-security-workshop) - Resources for our Active Directory security workshops
 - [llamasoft/polyshell](https://github.com/llamasoft/polyshell) - A Bash/Batch/PowerShell polyglot!
 - [visualbasic6/chatter](https://github.com/visualbasic6/chatter) - internet monitoring osint telegram bot for windows
@@ -6289,6 +6288,7 @@
 - [mubix/sectaskbars](https://github.com/mubix/sectaskbars) - Security Product Taskbar Icons (to identify from screenshots)
 - [threatexpress/malleable-c2](https://github.com/threatexpress/malleable-c2) - Cobalt Strike Malleable C2 Design and Reference Guide
 - [pwndizzle/CodeExecutionOnWindows](https://github.com/pwndizzle/CodeExecutionOnWindows) - A list of ways to execute code on Windows using legitimate Windows tools
+- [l0ss/Grouper2](https://github.com/l0ss/Grouper2) - Find vulnerabilities in AD Group Policy
 - [MalwareArchaeology/ATTACK](https://github.com/MalwareArchaeology/ATTACK) - MITRE ATT&CK Windows Logging Cheat Sheets
 - [sapphirex00/Threat-Hunting](https://github.com/sapphirex00/Threat-Hunting) - Personal compilation of APT malware from whitepaper releases, documents and own research
 - [ZonkSec/persistence-aggressor-script](https://github.com/ZonkSec/persistence-aggressor-script) - initial commit
@@ -14043,7 +14043,7 @@
 - [opexxx/mkepub](https://github.com/opexxx/mkepub) - Grab a text from Project Gutenberg DE and convert it to epub
 - [opexxx/chemr](https://github.com/opexxx/chemr) - CHM viewer for MacOS X, Forked from original SVN repository
 - [derailed/rackamole](https://github.com/derailed/rackamole) - Observe and learn how your users are interacting with your web applications.
-- [sophsec/ruby-nmap](https://github.com/sophsec/ruby-nmap) - A Ruby interface to nmap, the exploration tool and security / port scanner. Allows automating nmap and parsing nmap XML files.
+- [postmodern/ruby-nmap](https://github.com/postmodern/ruby-nmap) - A Ruby interface to nmap, the exploration tool and security / port scanner. Allows automating nmap and parsing nmap XML files.
 - [lava/mkepub](https://github.com/lava/mkepub) - Grab a text from Project Gutenberg DE and convert it to epub
 - [mephux/ruby-nessus](https://github.com/mephux/ruby-nessus) - Ruby-Nessus is a ruby interface for the popular Nessus vulnerability scanner.
 - [twitter/twurl](https://github.com/twitter/twurl) - OAuth-enabled curl for the Twitter API
@@ -15721,7 +15721,7 @@
 - [luisfontes19/xxexploiter](https://github.com/luisfontes19/xxexploiter) - Tool to help exploit XXE vulnerabilities
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [aletheia/iam-policy-generator](https://github.com/aletheia/iam-policy-generator) - A simple library to generate IAM policy statements with no need to remember all the actions APIs
-- [brimdata/brim](https://github.com/brimdata/brim) - Desktop application to efficiently search and analyze semi-structured/structured data and packet captures
+- [brimdata/brim](https://github.com/brimdata/brim) - Desktop application to efficiently search and analyze super-structured data. Powered by Zed.
 - [timbru31/amazon-tag-remover](https://github.com/timbru31/amazon-tag-remover) - 🚫 💹 🛒WebExtension for Chrome, Firefox, Edge and Opera to remove the Amazon affiliate tracking ID (tag) from amazon links
 - [OWASP/RiskAssessmentFramework](https://github.com/OWASP/RiskAssessmentFramework) - The Secure Coding Framework
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
