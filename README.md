@@ -10663,7 +10663,6 @@
 - [D4Vinci/Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r) - Know the dangers of credential reuse attacks.
 - [idanr1986/cuckoodroid-2.0](https://github.com/idanr1986/cuckoodroid-2.0) - CuckooDroid - Automated Android Malware Analysis with Cuckoo Sandbox.
 - [radare/radare2ida](https://github.com/radare/radare2ida) - Tools, documentation and scripts to move projects from IDA to R2 and viceversa
-- [tail-recursion/hibp-rankings](https://github.com/tail-recursion/hibp-rankings) - Top ranked sites from recent Have I Been Pwned breach
 - [education-script-projects/PyUrl-Downloader](https://github.com/education-script-projects/PyUrl-Downloader) - Url Downloader
 - [random-robbie/CRLF-Injection-Scanner](https://github.com/random-robbie/CRLF-Injection-Scanner) - Command line tool for testing CRLF injection on list of domains.
 - [MichaelStott/CRLF-Injection-Scanner](https://github.com/MichaelStott/CRLF-Injection-Scanner) - Command line tool for testing CRLF injection on a list of domains.
