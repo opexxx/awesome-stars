@@ -2293,7 +2293,7 @@
 - [nu11secur1ty/centos-snort3-dev](https://github.com/nu11secur1ty/centos-snort3-dev) - centos-snort3-dev
 - [antitree/cmd_and_kubectl_demos](https://github.com/antitree/cmd_and_kubectl_demos) - 
 - [belane/docker-bloodhound](https://github.com/belane/docker-bloodhound) - BloodHound Docker Ready to Use
-- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, and Monitoring. Enables Logs, Metrics, APM, Alerting, and SIEM features. Up with a Single Command. Now Supports v8.0!
+- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, preconfigured Out of the Box. Enables Logging, Metrics, APM, Alerting, ML, and SIEM features. Up with a Single Command. Now Supports v8.0!
 - [aws/aws-codebuild-docker-images](https://github.com/aws/aws-codebuild-docker-images) - Official AWS CodeBuild repository for managed Docker images http://docs.aws.amazon.com/codebuild/latest/userguide/build-env-ref.html
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes
 - [dukebarman/ghidra-builder](https://github.com/dukebarman/ghidra-builder) - Docker image for building ghidra RE framework from source
@@ -7482,7 +7482,7 @@
 - [PaulHCode/RecurringADChecks](https://github.com/PaulHCode/RecurringADChecks) - 
 - [soteria-security/365Inspect](https://github.com/soteria-security/365Inspect) - A PowerShell script that automates the security assessment of Microsoft Office 365 environments.
 - [AzureAD/Azure-AD-Incident-Response-PowerShell-Module](https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module) - The Azure Active Directory Incident Response PowerShell module provides a number of tools, developed by the Azure Active Directory Product Group in conjunction with the Microsoft Detection and Response Team (DART), to assist in compromise response.
-- [eshlomo1/Microsoft-Sentinel-4-SecOps](https://github.com/eshlomo1/Microsoft-Sentinel-4-SecOps) - Azure Sentinel 4 SecOps
+- [eshlomo1/Microsoft-Sentinel-4-SecOps](https://github.com/eshlomo1/Microsoft-Sentinel-4-SecOps) - Microsoft Sentinel 4 SecOps
 - [dievus/PowerShellForPentesters](https://github.com/dievus/PowerShellForPentesters) - Course repository for PowerShell for Pentesters Course
 - [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 - [jsecurity101/Marvel-Lab](https://github.com/jsecurity101/Marvel-Lab) - A collection of Powershell scripts that will help automate the build process for a Marvel domain.
@@ -9919,7 +9919,7 @@
 - [sham00n/buster](https://github.com/sham00n/buster) - An advanced tool for email reconnaissance
 - [mubix/osx-wificleaner](https://github.com/mubix/osx-wificleaner) - Cleans out "open" wireless connections from OSX machine
 - [paulgb/runipy](https://github.com/paulgb/runipy) - Run IPython notebooks as command-line scripts, generate HTML reports
-- [palewire/savepagenow](https://github.com/palewire/savepagenow) - A simple Python wrapper for archive.org's "Save Page Now" capturing service
+- [palewire/savepagenow](https://github.com/palewire/savepagenow) - A simple Python wrapper and command-line interface for archive.org’s "Save Page Now" capturing service
 - [alexwebr/sshflow](https://github.com/alexwebr/sshflow) - Proof-of-concept that makes a guess at what applications are being tunneled through an SSH session. It works primarily by analyzing packet sizes and inter-packet timing.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [WebBreacher/WhatsMyName](https://github.com/WebBreacher/WhatsMyName) - This repository has the unified data required to perform user enumeration on various websites. Content is in a JSON file and can easily be used in other projects.
@@ -14310,7 +14310,7 @@
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
-- [bing0o/bash_scripting](https://github.com/bing0o/bash_scripting) - bash scripting thing !
+- [bing0o/bash_scripting](https://github.com/bing0o/bash_scripting) - bash scripting thing!
 - [samhaxr/recox](https://github.com/samhaxr/recox) - Master script for web reconnaissance
 - [Adelittle/Mass_Git_Scanner](https://github.com/Adelittle/Mass_Git_Scanner) - 
 - [breakfixrepeat/haxtools](https://github.com/breakfixrepeat/haxtools) - A highly customised CTF, bounty hunting & penetration testing environment based on the official kali-rolling docker image
@@ -14821,7 +14821,6 @@
 - [aur-archive/dbpwaudit](https://github.com/aur-archive/dbpwaudit) - 
 - [teddysun/shadowsocks_install](https://github.com/teddysun/shadowsocks_install) - Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
 - [gebl/dirtycow-docker-vdso](https://github.com/gebl/dirtycow-docker-vdso) - 
-- [jaimetarrant/mutt-config](https://github.com/jaimetarrant/mutt-config) - My mutt configuration. Supports multiple accounts. Relies upon fetchmail, procmail, msmtp and spamassassin.
 - [CentOS/CentOS-Dockerfiles](https://github.com/CentOS/CentOS-Dockerfiles) - Dockerfiles for various common implementations
 - [v-egoshin/auto_mimikatz](https://github.com/v-egoshin/auto_mimikatz) - 
 - [bitsofinfo/logstash-modsecurity](https://github.com/bitsofinfo/logstash-modsecurity) - Logstash configuration filter set framework to parse modsecurity audit logs
@@ -14915,7 +14914,6 @@
 - [tabishimran/Metasploit-dev-setup](https://github.com/tabishimran/Metasploit-dev-setup) - Bash script to setup metasploit development environment
 - [nicolinuxfr/macOS-post-installation](https://github.com/nicolinuxfr/macOS-post-installation) - Script d'installation et de configuration d'un Mac
 - [kasparsd/pgp-quick](https://github.com/kasparsd/pgp-quick) - Encrypt, decrypt, sign and verify your clipboard with PGP using GPG
-- [Cisco-Talos/vboxhardening](https://github.com/Cisco-Talos/vboxhardening) - 
 - [wismna/OnionPi](https://github.com/wismna/OnionPi) - An ad-filtering, Samba friendly TOR anonymizing middle box
 - [wismna/HackPi](https://github.com/wismna/HackPi) - Hacking tool inside a Raspberry Pi zero
 - [chrissicool/zsh-256color](https://github.com/chrissicool/zsh-256color) - ZSH plugin to enhance the terminal environment with 256 colors
@@ -15442,7 +15440,7 @@
 - [aaronroyer/shy](https://github.com/aaronroyer/shy) - Minimal shell plugin management
 - [thoronas/vvv-auto-setup-elasticsearch](https://github.com/thoronas/vvv-auto-setup-elasticsearch) - VVV Auto Site Setup for Elasticsearch testing
 - [rsato/apk-disassemble](https://github.com/rsato/apk-disassemble) - 
-- [duponchelle/docker-osx](https://github.com/duponchelle/docker-osx) - Fast and easy installation of Docker on OS X
+- [julien-duponchelle/docker-osx](https://github.com/julien-duponchelle/docker-osx) - Fast and easy installation of Docker on OS X
 - [hortonworks/HDP-Public-Utilities](https://github.com/hortonworks/HDP-Public-Utilities) - 
 - [caux-iofc/scripts](https://github.com/caux-iofc/scripts) - Miscellaneous scripts.
 - [Hood3dRob1n/BinGoo](https://github.com/Hood3dRob1n/BinGoo) - BinGoo! A Linux bash based Bing and Google Dorking Tool
