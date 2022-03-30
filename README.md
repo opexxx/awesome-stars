@@ -4552,7 +4552,7 @@
 - [mitchmoser/sputnik](https://github.com/mitchmoser/sputnik) - Open Source Intelligence Browser Extension
 - [HASH1da1/Gotanda](https://github.com/HASH1da1/Gotanda) - Gotanda is browser Web Extension for OSINT.
 - [lelinhtinh/de4js](https://github.com/lelinhtinh/de4js) - JavaScript Deobfuscator and Unpacker
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - convert curl commands to Python, JavaScript, Go, PHP, R, Dart, Java, MATLAB, Rust, Elixir and more
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - generate code from Curl commands
 - [alephdata/aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for.
 - [teamdfir/sift-cli](https://github.com/teamdfir/sift-cli) - CLI tool to manage a SIFT Install
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
@@ -10658,7 +10658,7 @@
 - [Nekmo/dirhunt](https://github.com/Nekmo/dirhunt) - Find web directories without bruteforce
 - [netzob/netzob](https://github.com/netzob/netzob) - Netzob: Protocol Reverse Engineering, Modeling and Fuzzing
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
-- [intuitibits/ease](https://github.com/intuitibits/ease) - Enables support for external USB adapters in WiFi Explorer Pro and Airtool 2
+- [intuitibits/ease](https://github.com/intuitibits/ease) - Enables support for external USB adapters in WiFi Explorer Pro and Airtool 2.
 - [D4Vinci/Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r) - Know the dangers of credential reuse attacks.
 - [idanr1986/cuckoodroid-2.0](https://github.com/idanr1986/cuckoodroid-2.0) - CuckooDroid - Automated Android Malware Analysis with Cuckoo Sandbox.
 - [radare/radare2ida](https://github.com/radare/radare2ida) - Tools, documentation and scripts to move projects from IDA to R2 and viceversa
