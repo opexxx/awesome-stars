@@ -4552,7 +4552,7 @@
 - [mitchmoser/sputnik](https://github.com/mitchmoser/sputnik) - Open Source Intelligence Browser Extension
 - [HASH1da1/Gotanda](https://github.com/HASH1da1/Gotanda) - Gotanda is browser Web Extension for OSINT.
 - [lelinhtinh/de4js](https://github.com/lelinhtinh/de4js) - JavaScript Deobfuscator and Unpacker
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - generate code from Curl commands
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Turn curl commands into code
 - [alephdata/aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for.
 - [teamdfir/sift-cli](https://github.com/teamdfir/sift-cli) - CLI tool to manage a SIFT Install
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
@@ -4871,7 +4871,7 @@
 - [esthercrawford/EstherBot](https://github.com/esthercrawford/EstherBot) - Clone EstherBot to create your own version. Have fun! :)
 - [bda-research/node-crawler](https://github.com/bda-research/node-crawler) - Web Crawler/Spider for NodeJS + server-side jQuery ;-)
 - [macbre/phantomas](https://github.com/macbre/phantomas) - Headless Chromium-based web performance metrics collector and monitoring tool
-- [AliasIO/wappalyzer](https://github.com/AliasIO/wappalyzer) - Identify technology on websites.
+- [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
 - [xat/castnow](https://github.com/xat/castnow) - commandline chromecast player
 - [securing/gattacker](https://github.com/securing/gattacker) - A Node.js package for BLE (Bluetooth Low Energy) security assessment using Man-in-the-Middle and other attacks
 - [megmage/chrome-export-passwords](https://github.com/megmage/chrome-export-passwords) - Show all your chromium passwords in format ready to import in other browser like FireFox
@@ -14499,7 +14499,7 @@
 - [staz0t/hashcatch](https://github.com/staz0t/hashcatch) - Capture handshakes of nearby WiFi networks automatically
 - [wuseman/EMAGNET](https://github.com/wuseman/EMAGNET) - Automated hacking tool that will find leaked databases with 97.1% accurate to grab mail + password together from recent uploads from https://pastebin.com. Bruteforce support for spotify accounts, instagram accounts, ssh servers, microsoft rdp clients and gmail accounts
 - [ptb/mac-setup](https://github.com/ptb/mac-setup) - 
-- [sunasnow/shadowsocks-docker](https://github.com/sunasnow/shadowsocks-docker) - A docker image of breakwa11/shadowsocks, based on Ubuntu 14.04
+- [pastrale/shadowsocks-docker](https://github.com/pastrale/shadowsocks-docker) - A docker image of breakwa11/shadowsocks, based on Ubuntu 14.04
 - [MartinIngesen/blocklistbuilder](https://github.com/MartinIngesen/blocklistbuilder) - DNS blocklist builder
 - [andli/wipeusb](https://github.com/andli/wipeusb) - A headless Raspberry Pi install for auto-formatting usb drives.
 - [andreanidouglas/dns_response_time](https://github.com/andreanidouglas/dns_response_time) - Measure response time between different DNS providers against several domains
