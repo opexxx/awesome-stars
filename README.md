@@ -181,6 +181,7 @@
 
 - [klezVirus/inceptor](https://github.com/klezVirus/inceptor) - Template-Driven AV/EDR Evasion Framework
 - [jthuraisamy/SysWhispers2](https://github.com/jthuraisamy/SysWhispers2) - AV/EDR evasion via direct system calls.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [antonioCoco/Mapping-Injection](https://github.com/antonioCoco/Mapping-Injection) - Just another Windows Process Injection
 - [jthuraisamy/SysWhispers](https://github.com/jthuraisamy/SysWhispers) - AV/EDR evasion via direct system calls.
@@ -384,7 +385,6 @@
 - [ssdeep-project/ssdeep](https://github.com/ssdeep-project/ssdeep) - Fuzzy hashing API and fuzzy hashing tool
 - [ifding/iot-malware](https://github.com/ifding/iot-malware) - Malware source code samples leaked online uploaded to GitHub for those who want to analyze the code
 - [ant4g0nist/Vulnerable-Kext](https://github.com/ant4g0nist/Vulnerable-Kext) - A WIP "Vulnerable by Design" kext for iOS/macOS to play & learn *OS kernel exploitation
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [brannondorsey/naive-hashcat](https://github.com/brannondorsey/naive-hashcat) - Crack password hashes without the fuss :cat2:
 - [slaeryan/DetectCobaltStomp](https://github.com/slaeryan/DetectCobaltStomp) - Detects Module Stomping as implemented by Cobalt Strike
 - [NanXiao/tcpbench](https://github.com/NanXiao/tcpbench) - Porting OpenBSD tcpbench into Linux.
@@ -8025,7 +8025,7 @@
 - [mkellerman/PSRunAs](https://github.com/mkellerman/PSRunAs) - Collection of scripts to Invoke an expression with different credentials.
 - [MicrosoftDocs/windowsserverdocs](https://github.com/MicrosoftDocs/windowsserverdocs) - Public content repository for Windows Server 2016 content.
 - [ryancbutler/Citrix](https://github.com/ryancbutler/Citrix) - All things Citrix
-- [chadmcox/Azure_Active_Directory_Scripts](https://github.com/chadmcox/Azure_Active_Directory_Scripts) - 
+- [chadmcox/Azure_Active_Directory](https://github.com/chadmcox/Azure_Active_Directory) - 
 - [chadmcox/WindowsServerPoSh](https://github.com/chadmcox/WindowsServerPoSh) - 
 - [chadmcox/Group-Policy-Scripts](https://github.com/chadmcox/Group-Policy-Scripts) - 
 - [chadmcox/Active_Directory_Scripts](https://github.com/chadmcox/Active_Directory_Scripts) - Making my local storage of useful AD Scripts available to everyone.
