@@ -181,7 +181,6 @@
 
 - [klezVirus/inceptor](https://github.com/klezVirus/inceptor) - Template-Driven AV/EDR Evasion Framework
 - [jthuraisamy/SysWhispers2](https://github.com/jthuraisamy/SysWhispers2) - AV/EDR evasion via direct system calls.
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [antonioCoco/Mapping-Injection](https://github.com/antonioCoco/Mapping-Injection) - Just another Windows Process Injection
 - [jthuraisamy/SysWhispers](https://github.com/jthuraisamy/SysWhispers) - AV/EDR evasion via direct system calls.
@@ -385,6 +384,7 @@
 - [ssdeep-project/ssdeep](https://github.com/ssdeep-project/ssdeep) - Fuzzy hashing API and fuzzy hashing tool
 - [ifding/iot-malware](https://github.com/ifding/iot-malware) - Malware source code samples leaked online uploaded to GitHub for those who want to analyze the code
 - [ant4g0nist/Vulnerable-Kext](https://github.com/ant4g0nist/Vulnerable-Kext) - A WIP "Vulnerable by Design" kext for iOS/macOS to play & learn *OS kernel exploitation
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [brannondorsey/naive-hashcat](https://github.com/brannondorsey/naive-hashcat) - Crack password hashes without the fuss :cat2:
 - [slaeryan/DetectCobaltStomp](https://github.com/slaeryan/DetectCobaltStomp) - Detects Module Stomping as implemented by Cobalt Strike
 - [NanXiao/tcpbench](https://github.com/NanXiao/tcpbench) - Porting OpenBSD tcpbench into Linux.
@@ -3080,7 +3080,7 @@
 - [netxfly/xsec-proxy-scanner](https://github.com/netxfly/xsec-proxy-scanner) - xsec-proxy-scanner是一款速度超快、小巧的代理扫描器
 - [netxfly/Transparent-Proxy-Scanner](https://github.com/netxfly/Transparent-Proxy-Scanner) - 基于vpn和透明代理的web漏洞扫描器的实现思路及demo
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLSX) files.
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [tstillz/webshell-scan](https://github.com/tstillz/webshell-scan) - Simple web shell scanner written in Golang.
 - [aatarasoff/apistress](https://github.com/aatarasoff/apistress) - Very simple stress testing tool for API
 - [miquella/vaulted](https://github.com/miquella/vaulted) - Spawning and storage of secure environments
@@ -4832,6 +4832,7 @@
 - [kessler/node-bcat](https://github.com/kessler/node-bcat) - A pipe to browser utility
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [brave/browser-laptop](https://github.com/brave/browser-laptop) - [DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave
+- [clairempr/letterpress](https://github.com/clairempr/letterpress) - Django web application for the management of transcriptions and images of letters and related documents
 - [hellais/ooniprobe-iot](https://github.com/hellais/ooniprobe-iot) - 
 - [vtoubiana/TrackMeNot](https://github.com/vtoubiana/TrackMeNot) - An artware browser add-on to protect privacy in web-search. By issuing randomized queries to common search-engines, TrackMeNot obfuscates your search profile(s) and registers your discontent with surreptitious tracking.
 - [xl7dev/BurpSuite](https://github.com/xl7dev/BurpSuite) - BurpSuite using the document and some extensions
@@ -10739,7 +10740,6 @@
 - [ajackal/honey-hornet](https://github.com/ajackal/honey-hornet) - port scanner & login credential tester
 - [CaringCaribou/caringcaribou](https://github.com/CaringCaribou/caringcaribou) - A friendly car security exploration tool for the CAN bus
 - [linklayer/pyvit](https://github.com/linklayer/pyvit) - pyvit: Python Vehicle Interface Toolkit
-- [clairempr/letterpress](https://github.com/clairempr/letterpress) - Django web application for the management of transcriptions and images of letters and related documents
 - [MasterScrat/Chatistics](https://github.com/MasterScrat/Chatistics) - 💬 Python scripts to parse Messenger, Hangouts, WhatsApp and Telegram chat logs into DataFrames.
 - [mukund109/word-mesh](https://github.com/mukund109/word-mesh) - A context-preserving word cloud generator
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
@@ -13591,7 +13591,7 @@
 - [appvia/krane](https://github.com/appvia/krane) - Kubernetes RBAC static analysis & visualisation tool
 - [swdyh/gisty](https://github.com/swdyh/gisty) - yet another command line client for gist
 - [porthunter/gosploit](https://github.com/porthunter/gosploit) - Exploit framework written in Go
-- [unixorn/tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh) - Tumult is a collection of macOS-specific functions and scripts for your shell environment. It is packaged as a ZSH plugin, but can be used in bash/fish as well.
+- [unixorn/tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh) - Tumult is a collection of macOS-specific functions and scripts for your shell environment. It is packaged as a ZSH plugin, but can be used with other shells as well.
 - [knazarov/homebrew-qemu-virgl](https://github.com/knazarov/homebrew-qemu-virgl) - A homebrew tap for qemu with support for 3d accelerated guests
 - [noraj/vrt-cli](https://github.com/noraj/vrt-cli) - A simple tool to visualize VRT (Vulnerability Rating Taxonomy) from the CLI.
 - [Orange-Cyberdefense/ctf-party](https://github.com/Orange-Cyberdefense/ctf-party) - :flags: A library to enhance and speed up script/exploit writing for CTF players
