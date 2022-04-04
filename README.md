@@ -5617,6 +5617,7 @@
 
 ## Others 
 
+- [johnthebrit/CertificationMaterials](https://github.com/johnthebrit/CertificationMaterials) - A collection of materials related to my certification videos
 - [Res260/conti_202202_leak_procedures](https://github.com/Res260/conti_202202_leak_procedures) - This repository contains procedures found in the Feb 2022 conti leaks. They were taken from the "manual_teams_c" rocketchat channel in the leak and posted on may 10th, 2021 in the channel.
 - [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 - [NetNinjaCorp/Top1000-SubDomains](https://github.com/NetNinjaCorp/Top1000-SubDomains) - Top 1000 Subdomains as per SSL Certificate Registrations
@@ -10473,7 +10474,7 @@
 - [MyKings/python-masscan](https://github.com/MyKings/python-masscan) - python-masscan is a python library which helps in using masscan port scanner.
 - [LambdaF/heavenlyglory](https://github.com/LambdaF/heavenlyglory) - MassScan a target(s) and pass the output to Nmap version scanning
 - [kfr-ma/MassScanner](https://github.com/kfr-ma/MassScanner) - Mass IP Scanner
-- [FireFart/massnmap](https://github.com/FireFart/massnmap) - Scans an internal network using massscan and nmap
+- [firefart/massnmap](https://github.com/firefart/massnmap) - Scans an internal network using massscan and nmap
 - [DissectMalware/base64_substring](https://github.com/DissectMalware/base64_substring) - Generate a Yara rule to find base64-encoded files containg a specific keyword
 - [InQuest/python-iocextract](https://github.com/InQuest/python-iocextract) - Defanged Indicator of Compromise (IOC) Extractor.
 - [Sup3r-Us3r/HashCode](https://github.com/Sup3r-Us3r/HashCode) - Its purpose is to encode your desired hash text
@@ -11385,7 +11386,7 @@
 - [codepr/creak](https://github.com/codepr/creak) - Poison, reset, spoof, redirect MITM script
 - [unix-ninja/shellfire](https://github.com/unix-ninja/shellfire) - Exploitation shell for exploiting LFI, RFI, and command injection vulnerabilities
 - [LinOTP/LinOTP](https://github.com/LinOTP/LinOTP) - LinOTP - the open source solution for two factor authentication
-- [trufflesecurity/truffleHog](https://github.com/trufflesecurity/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [opsdisk/batchconfig](https://github.com/opsdisk/batchconfig) - Create custom Windows batch files from a configuration file
 - [kgretzky/evilginx](https://github.com/kgretzky/evilginx) - PLEASE USE NEW VERSION: https://github.com/kgretzky/evilginx2
 - [securelyinsecure/recon-enum](https://github.com/securelyinsecure/recon-enum) - python script to automate the usage of recon-ng.  Based on the enum.sh script by @jhaddix
@@ -13463,7 +13464,7 @@
 - [9b/pastycake](https://github.com/9b/pastycake) - Search pastebin for keywords using python
 - [CiscoCXSecurity/bbqsql](https://github.com/CiscoCXSecurity/bbqsql) - SQL Injection Exploitation Tool
 - [Boldewyn/gh_favs](https://github.com/Boldewyn/gh_favs) - A small script to clone and update all your watched GitHub projects
-- [FireFart/HashCollision-DOS-POC](https://github.com/FireFart/HashCollision-DOS-POC) - Proof of Concept for the PHP and JAVA Hashcollision Denial of service attack
+- [firefart/HashCollision-DOS-POC](https://github.com/firefart/HashCollision-DOS-POC) - Proof of Concept for the PHP and JAVA Hashcollision Denial of service attack
 - [SpiderLabs/msfrpc](https://github.com/SpiderLabs/msfrpc) - Perl/Python modules for interfacing with Metasploit MSGRPC
 - [stevenseeley/heaper](https://github.com/stevenseeley/heaper) - heaper, an advanced heap analysis plugin for Immunity Debugger
 - [tkisason/gcrack](https://github.com/tkisason/gcrack) - password cracking with the help of google's search
