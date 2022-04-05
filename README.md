@@ -2314,7 +2314,7 @@
 - [cboin/re_lab](https://github.com/cboin/re_lab) - A portable reverse engineering environment using docker.
 - [wpengine/base-images-public](https://github.com/wpengine/base-images-public) - Simple Docker Images
 - [singe/hashcat-brain](https://github.com/singe/hashcat-brain) - A docker container for running the hashcat brain server
-- [dizcza/docker-hashcat](https://github.com/dizcza/docker-hashcat) - Hashcat 6.2.3 docker for Ubuntu 18.04 CUDA and OpenCL
+- [dizcza/docker-hashcat](https://github.com/dizcza/docker-hashcat) - Latest hashcat docker for Ubuntu 18.04 CUDA and OpenCL
 - [espi0n/Dockerfiles](https://github.com/espi0n/Dockerfiles) - 
 - [marco-lancini/docker_burp](https://github.com/marco-lancini/docker_burp) - Burp as a Docker Container
 - [raesene/dockerized-security-tools](https://github.com/raesene/dockerized-security-tools) - Dockerfiles for security tools
@@ -2474,7 +2474,7 @@
 - [blushft/go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [cycloidio/inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
 - [gustavorobertux/goshock](https://github.com/gustavorobertux/goshock) - SonicWall VPN-SSL Exploit* using Golang ( * and other targets vulnerable to shellshock ).
-- [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems
+- [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) - :unlock: :unlock: Find secrets and passwords in container images and file systems :unlock: :unlock:
 - [open-ch/ja3](https://github.com/open-ch/ja3) - A high performance Go Implementation of the JA3 Client Fingerprinting Algorithm.
 - [pry0cc/soxy](https://github.com/pry0cc/soxy) - Multi-threaded socks proxy checker written in Go!
 - [chennqqi/godnslog](https://github.com/chennqqi/godnslog) - An exquisite dns&http log server for verify SSRF/XXE/RFI/RCE vulnerability
@@ -3588,6 +3588,7 @@
 - [vyrus001/go-mimikatz](https://github.com/vyrus001/go-mimikatz) - A wrapper around a pre-compiled version of the Mimikatz executable for the purpose of anti-virus evasion.
 - [jrozner/sonar](https://github.com/jrozner/sonar) - Self contained cross platform DNS recon tool
 - [EgeBalci/ARCANUS](https://github.com/EgeBalci/ARCANUS) - ARCANUS is a customized payload generator/handler.
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [optiopay/klar](https://github.com/optiopay/klar) - Integration of Clair and Docker Registry
 - [jgsqware/clairctl](https://github.com/jgsqware/clairctl) - Tracking container vulnerabilities with Clair Control for CoreOS Clair
 - [genuinetools/reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
@@ -4943,7 +4944,7 @@
 - [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [downthemall/downthemall-legacy](https://github.com/downthemall/downthemall-legacy) - Official DownThemAll! repository. Pull requests welcome.
-- [gavinhungry/cipherfox](https://github.com/gavinhungry/cipherfox) - Displays the current SSL/TLS cipher, protocol and certificate chain in the Firefox Add-on bar and Site ID dialog
+- [gavinhungry/cipherfox](https://github.com/gavinhungry/cipherfox) - :fox_face: Displays the current SSL/TLS cipher, protocol and certificate chain in the Firefox Add-on bar and Site ID dialog
 - [downthemall/anticontainer](https://github.com/downthemall/anticontainer) - DownThemAll! AntiContainer (Extension to a Firefox, Seamonkey extension)
 - [Wingman4l7/baconbackup](https://github.com/Wingman4l7/baconbackup) - Node.js tool for archiving a Reddit user's comments.
 - [dbr/webtools](https://github.com/dbr/webtools) - A web interface to youtube-dl, and maybe more [no longer developed - replaced by dbr/vidl-rs]
@@ -5164,7 +5165,7 @@
 - [adriancooney/console.image](https://github.com/adriancooney/console.image) - The one thing Chrome Dev Tools didn't need.
 - [zaidka/cliget](https://github.com/zaidka/cliget) - A Firefox addon to download login-protected files from the command line
 - [evilsocket/pycryptocat](https://github.com/evilsocket/pycryptocat) - pyCryptoCat - A CryptoCat standalone python client.
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, Microsoft SQL Server & DB2
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake & DB2
 - [eviltik/evilscan](https://github.com/eviltik/evilscan) - NodeJS Simple Network Scanner
 - [ExactTarget/fuelux](https://github.com/ExactTarget/fuelux) - As of March 2019, this repository is read-only as Salesforce has archived the FuelUX open-source UI framework and will no longer be supported.
 - [mustpax/sortmybox](https://github.com/mustpax/sortmybox) - Like e-mail filters, for your Dropbox.
@@ -9070,7 +9071,7 @@
 - [giuliano108/font-awesome-to-png](https://github.com/giuliano108/font-awesome-to-png) - Exports Font Awesome icons as PNG images
 - [cr0hn/festin](https://github.com/cr0hn/festin) - FestIn - S3 Bucket Weakness Discovery
 - [andrew-tavera/unpyc37](https://github.com/andrew-tavera/unpyc37) - Decompiler for Python 3.7  (forked from https://github.com/figment/unpyc3)
-- [alexandreborges/malwoverview](https://github.com/alexandreborges/malwoverview) - Malwoverview is a first response tool used for threat hunting and offers intel information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, ThreatCrowd, Malware Bazaar, ThreatFox, Triage and it is able to scan Android devices against VT and HA.
+- [alexandreborges/malwoverview](https://github.com/alexandreborges/malwoverview) - Malwoverview is a first response tool used for threat hunting and offers intel information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, ThreatCrowd, Malware Bazaar, ThreatFox, Triage and it is able to scan Android devices against VT.
 - [codingo/Reconnoitre](https://github.com/codingo/Reconnoitre) - A security tool for multithreaded information gathering and service enumeration whilst building directory structures to store results, along with writing out recommendations for further testing.
 - [welchbj/bscan](https://github.com/welchbj/bscan) - an asynchronous target enumeration tool
 - [Tib3rius/AutoRecon](https://github.com/Tib3rius/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
@@ -11386,7 +11387,6 @@
 - [codepr/creak](https://github.com/codepr/creak) - Poison, reset, spoof, redirect MITM script
 - [unix-ninja/shellfire](https://github.com/unix-ninja/shellfire) - Exploitation shell for exploiting LFI, RFI, and command injection vulnerabilities
 - [LinOTP/LinOTP](https://github.com/LinOTP/LinOTP) - LinOTP - the open source solution for two factor authentication
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [opsdisk/batchconfig](https://github.com/opsdisk/batchconfig) - Create custom Windows batch files from a configuration file
 - [kgretzky/evilginx](https://github.com/kgretzky/evilginx) - PLEASE USE NEW VERSION: https://github.com/kgretzky/evilginx2
 - [securelyinsecure/recon-enum](https://github.com/securelyinsecure/recon-enum) - python script to automate the usage of recon-ng.  Based on the enum.sh script by @jhaddix
