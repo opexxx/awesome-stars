@@ -1347,7 +1347,7 @@
 - [fox-it/LDAPFragger](https://github.com/fox-it/LDAPFragger) - 
 - [nccgroup/WinShareEnum](https://github.com/nccgroup/WinShareEnum) - Windows Share Enumerator
 - [3xpl01tc0d3r/Callidus](https://github.com/3xpl01tc0d3r/Callidus) - 
-- [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spawning a new Console Host Window
+- [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows
 - [MicrosoftLearning/AZ-500-Azure-Security](https://github.com/MicrosoftLearning/AZ-500-Azure-Security) - 
 - [CyberPoint/Ruxcon2016ETW](https://github.com/CyberPoint/Ruxcon2016ETW) - Ruxcon2016 POC Code
 - [RedCursorSecurityConsulting/CVE-2020-0668](https://github.com/RedCursorSecurityConsulting/CVE-2020-0668) - Use CVE-2020-0668 to perform an arbitrary privileged file move operation.
@@ -8278,7 +8278,6 @@
 - [sekirkity/BrowserGather](https://github.com/sekirkity/BrowserGather) - Fileless web browser information extraction
 - [FuzzySecurity/PSKernel-Primitives](https://github.com/FuzzySecurity/PSKernel-Primitives) - Exploit primitives for PowerShell
 - [cobbr/ObfuscatedEmpire](https://github.com/cobbr/ObfuscatedEmpire) - ObfuscatedEmpire is a fork of Empire with Invoke-Obfuscation integrated directly into it's functionality.
-- [ZilentJack/Get-bADpasswords](https://github.com/ZilentJack/Get-bADpasswords) - Find enabled Active Directory users with bad passwords
 - [lowmoon/Create-PopularPlaylist](https://github.com/lowmoon/Create-PopularPlaylist) - Create Spotify playlist with the most popular songs for an artist or list of artists
 - [mattifestation/PowerWorm](https://github.com/mattifestation/PowerWorm) - Analysis, detection, and removal of the "Power Worm" PowerShell-based malware
 - [lholman/AutoBot-Scripts](https://github.com/lholman/AutoBot-Scripts) - Community PowerShell scripts for [AutoBot](https://github.com/lholman/AutoBot), the awesome little automater
@@ -8561,7 +8560,6 @@
 - [Invoke-IR/PowerForensicsPortable](https://github.com/Invoke-IR/PowerForensicsPortable) - 
 - [bottkars/vmxtoolkit](https://github.com/bottkars/vmxtoolkit) - vmxtoolkit is the Powershell extension to VMware Workstation
 - [chango77747/AdEnumerator](https://github.com/chango77747/AdEnumerator) - Active Directory enumeration from non-domain system.
-- [ZilentJack/Get-ADHashDump](https://github.com/ZilentJack/Get-ADHashDump) - Create password dump file for password cracking tools, e.g. for performing Active Directory password audits.
 - [PowerShell/Remotely](https://github.com/PowerShell/Remotely) - Enable remote execution of scripts.  Works with Pester.
 - [CollinChaffin/SyncADDomain](https://github.com/CollinChaffin/SyncADDomain) - This module emulates the repadmin /syncall to force AD replication across all sites and domain controllers
 - [dlwyatt/ProtectedData](https://github.com/dlwyatt/ProtectedData) - PowerShell Module for securely encrypting and sharing secret data such as passwords.
@@ -9627,7 +9625,7 @@
 - [epsylon/xsser](https://github.com/epsylon/xsser) - Cross Site "Scripter" (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications.
 - [lyft/metadataproxy](https://github.com/lyft/metadataproxy) - A proxy for AWS's metadata service that gives out scoped IAM credentials from STS
 - [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
-- [elitest/Redboto](https://github.com/elitest/Redboto) - Red Team Scripts for AWS.
+- [ihamburglar/Redboto](https://github.com/ihamburglar/Redboto) - Red Team Scripts for AWS.
 - [natlas/natlas](https://github.com/natlas/natlas) - Scaling Network Scanning. Changes prior to 1.0 may cause difficult to avoid backwards incompatibilities. You've been warned.
 - [CaptainFreak/diffJs](https://github.com/CaptainFreak/diffJs) - Tool for monitoring changes in javascript files on WebApps for reconnaissance.
 - [Bo0oM/ParamPamPam](https://github.com/Bo0oM/ParamPamPam) - 
