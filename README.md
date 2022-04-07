@@ -13184,7 +13184,7 @@
 - [dnet/flowtools](https://github.com/dnet/flowtools) - Tools for analyzing and working with Wireshark TCP flow exports
 - [dnet/base64-vbs.py](https://github.com/dnet/base64-vbs.py) - converts EXE (or other binary) files to VBS scripts
 - [dnet/ut2025b](https://github.com/dnet/ut2025b) - FLOSS Python driver for UNI-T UT2025B scopes
-- [pyusb/pyusb](https://github.com/pyusb/pyusb) - USB access for Python
+- [pyusb/pyusb](https://github.com/pyusb/pyusb) - Easy USB access for Python
 - [ynadji/peid](https://github.com/ynadji/peid) - 
 - [ynadji/drop](https://github.com/ynadji/drop) - kvm malware analysis made easy
 - [bostonlink/cuckooforcanari](https://github.com/bostonlink/cuckooforcanari) - Cuckoo Sandbox Local Maltego Transforms Project
@@ -14045,7 +14045,7 @@
 - [mephux/ruby-nessus](https://github.com/mephux/ruby-nessus) - Ruby-Nessus is a ruby interface for the popular Nessus vulnerability scanner.
 - [twitter/twurl](https://github.com/twitter/twurl) - OAuth-enabled curl for the Twitter API
 - [soffes/markdownr.com](https://github.com/soffes/markdownr.com) - A nifty markdown notepad
-- [postmodern/wordlist.rb](https://github.com/postmodern/wordlist.rb) - A Ruby library for generating and working with wordlists.
+- [postmodern/wordlist.rb](https://github.com/postmodern/wordlist.rb) - A Ruby library and CLI for generating and working with wordlists.
 - [whymirror/parkplace](https://github.com/whymirror/parkplace) - an amazon s3 clone and bittorrent service (in ruby)
 - [glejeune/Ruby-Graphviz](https://github.com/glejeune/Ruby-Graphviz) - [MIRROR] Ruby interface to the GraphViz graphing tool
 - [tobi/clarity](https://github.com/tobi/clarity) - Web interface for the grep and tail -f unix tools. Useful for real-time log analysis. Remotely related to splunk
