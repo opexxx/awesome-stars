@@ -626,6 +626,7 @@
 - [0xdea/exploits](https://github.com/0xdea/exploits) - A handy collection of my public exploits, all in one place.
 - [spacehuhn/wifi_ducky](https://github.com/spacehuhn/wifi_ducky) - Upload, save and run keystroke injection payloads with an ESP8266 + ATMEGA32U4
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
+- [mitchellkrogza/apache-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker) - Apache Block Bad Bots, (Referer) Spam Referrer Blocker, Vulnerability Scanners, Malware, Adware, Ransomware, Malicious Sites, Wordpress Theme Detectors and Fail2Ban Jail for Repeat Offenders
 - [CipherShed/CipherShed](https://github.com/CipherShed/CipherShed) - Main CipherShed Development
 - [vysheng/tg](https://github.com/vysheng/tg) - telegram-cli
 - [telegramdesktop/dependencies_windows](https://github.com/telegramdesktop/dependencies_windows) - Compiled dependencies for the windows build
@@ -2227,7 +2228,6 @@
 
 ## Clojure 
 
-- [latacora/wernicke](https://github.com/latacora/wernicke) - Redaction for structured data
 - [into-docker/into-docker](https://github.com/into-docker/into-docker) - Never write another Dockerfile
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [jeaye/safepaste](https://github.com/jeaye/safepaste) - A security-conscious paste service
@@ -3962,7 +3962,7 @@
 - [grahams/safari-utm-stripper](https://github.com/grahams/safari-utm-stripper) - Safari extension that strips Google Analytics (i.e. Urchin Traffic Monitor) tokens from URL query strings.
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [honze-net/nmap-bootstrap-xsl](https://github.com/honze-net/nmap-bootstrap-xsl) - A Nmap XSL implementation with Bootstrap.
-- [kjur/jsrsasign](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CRL, OCSP, CMS SignedData, TimeStamp, CAdES JSON Web Signature/Token in pure JavaScript.
+- [kjur/jsrsasign](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CRL, OCSP, CMS SignedData, TimeStamp, CAdES and JSON Web Signature/Token in pure JavaScript.
 - [emn178/online-tools](https://github.com/emn178/online-tools) - Online tools provides md2, md5, sha1, sha2, sha512, bas64, html encode / decode functions
 - [blivesta/flexicon](https://github.com/blivesta/flexicon) - SVG icon collection.
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
@@ -8889,6 +8889,7 @@
 - [jaxBCD/Zeebsploit](https://github.com/jaxBCD/Zeebsploit) - web scanner - exploitation - information gathering
 - [Netflix/consoleme](https://github.com/Netflix/consoleme) - A Central Control Plane for AWS Permissions and Access
 - [et0x/xcoder](https://github.com/et0x/xcoder) - A tool for encoding and decoding data in various formats
+- [SEKOIA-IO/Community](https://github.com/SEKOIA-IO/Community) - Welcome to the SEKOIA.IO Community repository!
 - [chipik/SAP_EEM_CVE-2020-6207](https://github.com/chipik/SAP_EEM_CVE-2020-6207) - PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager)
 - [nyxgeek/onedrive_user_enum](https://github.com/nyxgeek/onedrive_user_enum) - onedrive user enumeration - pentest tool to enumerate valid onedrive users
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
@@ -12873,7 +12874,7 @@
 - [ChrisTruncer/PenTestScripts](https://github.com/ChrisTruncer/PenTestScripts) - Scripts that are useful for me on pen tests
 - [AonCyberLabs/Windows-Exploit-Suggester](https://github.com/AonCyberLabs/Windows-Exploit-Suggester) - This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins.
 - [enthought/scimath](https://github.com/enthought/scimath) - 
-- [mstamy2/PyPDF2](https://github.com/mstamy2/PyPDF2) - A utility to read and write PDFs with Python
+- [MartinThoma/PyPDF2](https://github.com/MartinThoma/PyPDF2) - A utility to read and write PDFs with Python
 - [jaraco/path](https://github.com/jaraco/path) - Object-oriented file system path manipulation
 - [sametmax/Bat-belt](https://github.com/sametmax/Bat-belt) - A collection of gagdets make Python even more powerful
 - [timbueno/SimpleTweetArchiver](https://github.com/timbueno/SimpleTweetArchiver) - Simple twitter script that writes your tweets to a file!
@@ -14781,7 +14782,6 @@
 - [mitchellkrogza/linux-server-administration-scripts](https://github.com/mitchellkrogza/linux-server-administration-scripts) - Simple bash administration scripts for Linux to make your life easier.
 - [mitchellkrogza/fail2ban-useful-scripts](https://github.com/mitchellkrogza/fail2ban-useful-scripts) - A collection of useful scripts for automation of & easing maintenance of Fail2Ban
 - [mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO](https://github.com/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO) - How to stop Google Analytics "Ghost" Spam using a well curated list of spam referrer domains and web sites. Simple and easy to use with instructions for creating Segments in Google Analytics using our google-exclude files.
-- [mitchellkrogza/apache-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker) - Apache Block Bad Bots, (Referer) Spam Referrer Blocker, Vulnerability Scanners, Malware, Adware, Ransomware, Malicious Sites, Wordpress Theme Detectors and Fail2Ban Jail for Repeat Offenders
 - [mitchellkrogza/nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker) - Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for Repeat Offenders
 - [Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist) - The Ultimate Unified Hosts file for protecting your network, computer, smartphones and Wi-Fi devices against millions of bad web sites. Protect your children and family from gaining access to bad web sites and protect your devices and pc from being infected with Malware or Ransomware.
 - [bronson/pdfdir](https://github.com/bronson/pdfdir) - Utilities to operate on lots of PDF files
@@ -15968,7 +15968,6 @@
 - [ditekshen/detection](https://github.com/ditekshen/detection) - Detection in the form of Yara, Snort and ClamAV signatures.
 - [StrangerealIntel/DailyIOC](https://github.com/StrangerealIntel/DailyIOC) - IOC from articles, tweets for archives
 - [mandiant/sunburst_countermeasures](https://github.com/mandiant/sunburst_countermeasures) - 
-- [SEKOIA-IO/Community](https://github.com/SEKOIA-IO/Community) - Welcome to the SEKOIA.IO Community repository!
 - [mandiant/red_team_tool_countermeasures](https://github.com/mandiant/red_team_tool_countermeasures) - 
 - [sbousseaden/YaraHunts](https://github.com/sbousseaden/YaraHunts) - Random hunting ordiented yara rules
 - [advanced-threat-research/Yara-Rules](https://github.com/advanced-threat-research/Yara-Rules) - Repository of YARA rules made by Trellix ATR Team
