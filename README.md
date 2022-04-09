@@ -3980,7 +3980,7 @@
 - [Patrowl/PatrowlDocs](https://github.com/Patrowl/PatrowlDocs) - PatrOwl - Open Source, Free and Scalable Security Operations Orchestration Platform
 - [clong/DetectionLab](https://github.com/clong/DetectionLab) - Automate the creation of a lab environment complete with security tooling and logging best practices
 - [francisck/DanderSpritz_lab](https://github.com/francisck/DanderSpritz_lab) - A fully functional DanderSpritz lab in 2 commands
-- [muellerberndt/smashing-smart-contracts](https://github.com/muellerberndt/smashing-smart-contracts) - Write-ups on security analysis of Ethereum smart contracts using symbolic execution and constraint solving.
+- [muellerberndt/smashing-smart-contracts](https://github.com/muellerberndt/smashing-smart-contracts) - Compiled writings on EVM smart contracts security analysis.
 - [cloudsriseup/PoorOperationalSecurityPractices](https://github.com/cloudsriseup/PoorOperationalSecurityPractices) - Deceptive tradecraft should be fun and light, not stern and stressful. It is cool to be cute.
 - [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
 - [IAIK/interruptjs](https://github.com/IAIK/interruptjs) - Practical Keystroke Timing Attacks in Sandboxed JavaScript
@@ -12874,7 +12874,7 @@
 - [ChrisTruncer/PenTestScripts](https://github.com/ChrisTruncer/PenTestScripts) - Scripts that are useful for me on pen tests
 - [AonCyberLabs/Windows-Exploit-Suggester](https://github.com/AonCyberLabs/Windows-Exploit-Suggester) - This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins.
 - [enthought/scimath](https://github.com/enthought/scimath) - 
-- [MartinThoma/PyPDF2](https://github.com/MartinThoma/PyPDF2) - A utility to read and write PDFs with Python
+- [py-pdf/PyPDF2](https://github.com/py-pdf/PyPDF2) - A utility to read and write PDFs with Python
 - [jaraco/path](https://github.com/jaraco/path) - Object-oriented file system path manipulation
 - [sametmax/Bat-belt](https://github.com/sametmax/Bat-belt) - A collection of gagdets make Python even more powerful
 - [timbueno/SimpleTweetArchiver](https://github.com/timbueno/SimpleTweetArchiver) - Simple twitter script that writes your tweets to a file!
