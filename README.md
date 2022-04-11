@@ -2405,7 +2405,7 @@
 - [idiotc4t/Reflective-HackBrowserData](https://github.com/idiotc4t/Reflective-HackBrowserData) - HackBrowserData的反射模块
 - [0xInfection/LogMePwn](https://github.com/0xInfection/LogMePwn) - A fully automated, reliable, super-fast, mass scanning and validation toolkit for the Log4J RCE CVE-2021-44228 vulnerability.
 - [kost/logdns](https://github.com/kost/logdns) - Simple DNS logging server
-- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [zinclabs/zinc](https://github.com/zinclabs/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [jas502n/Grafana-CVE-2021-43798](https://github.com/jas502n/Grafana-CVE-2021-43798) - Grafana Unauthorized arbitrary file reading vulnerability
 - [FDlucifer/Proxy-Attackchain](https://github.com/FDlucifer/Proxy-Attackchain) - proxylogon, proxyshell, proxyoracle and proxytoken full chain exploit tool
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
@@ -2420,7 +2420,6 @@
 - [yehgdotnet/attack](https://github.com/yehgdotnet/attack) - Utilities/scripts/files to assist emulation of MITRE ATT&CK / PRE-ATT&CK prepared by Myo Soe
 - [balook/tools](https://github.com/balook/tools) - These are my private tools for hacking
 - [metal3d/cors-proxy](https://github.com/metal3d/cors-proxy) - A simple proxy to add CORS for other service
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [inbug-team/InScan](https://github.com/inbug-team/InScan) - 边界打点后的自动化渗透工具
 - [Rvn0xsy/red-tldr](https://github.com/Rvn0xsy/red-tldr) - red-tldr is a lightweight text search tool, which is used to help red team staff quickly find the commands and key points they want to execute, so it is more suitable for use by red team personnel with certain experience.
 - [TheYkk/git-switcher](https://github.com/TheYkk/git-switcher) - Switch between your git profiles easily
@@ -4408,6 +4407,7 @@
 - [wurstbrot/DevSecOps-MaturityModel](https://github.com/wurstbrot/DevSecOps-MaturityModel) - 
 - [Ch0pin/log4JFrida](https://github.com/Ch0pin/log4JFrida) - 
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
+- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [apnex/vmw-cli](https://github.com/apnex/vmw-cli) - CLI and API for programmatic access to my.vmware.com
 - [sindresorhus/open-cli](https://github.com/sindresorhus/open-cli) - Open stuff like URLs, files, executables. Cross-platform.
 - [itszero/kgcat](https://github.com/itszero/kgcat) - Tap into Google's knowledge right from your console.
@@ -5496,7 +5496,7 @@
 
 - [whydee86/PlayWithDefender](https://github.com/whydee86/PlayWithDefender) - An easy tool to disable and enable windows defender protections
 - [HuskyHacks/ShadowSteal](https://github.com/HuskyHacks/ShadowSteal) - Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation
-- [d4rckh/vaf](https://github.com/d4rckh/vaf) - cross-platform very advanced (web) fuzzer
+- [d4rckh/vaf](https://github.com/d4rckh/vaf) - Vaf is a cross-platform very advanced (web) fuzzer written in nim
 - [khchen/winim](https://github.com/khchen/winim) - Nim's Windows API and COM Library
 - [byt3bl33d3r/OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim) - My experiments in weaponizing Nim (https://nim-lang.org/)
 
