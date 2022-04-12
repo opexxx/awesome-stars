@@ -2314,7 +2314,7 @@
 - [cboin/re_lab](https://github.com/cboin/re_lab) - A portable reverse engineering environment using docker.
 - [wpengine/base-images-public](https://github.com/wpengine/base-images-public) - Simple Docker Images
 - [singe/hashcat-brain](https://github.com/singe/hashcat-brain) - A docker container for running the hashcat brain server
-- [dizcza/docker-hashcat](https://github.com/dizcza/docker-hashcat) - Latest hashcat docker for Ubuntu 18.04 CUDA and OpenCL
+- [dizcza/docker-hashcat](https://github.com/dizcza/docker-hashcat) - Latest hashcat docker for Ubuntu 18.04 CUDA, OpenCL, and POCL
 - [espi0n/Dockerfiles](https://github.com/espi0n/Dockerfiles) - 
 - [marco-lancini/docker_burp](https://github.com/marco-lancini/docker_burp) - Burp as a Docker Container
 - [raesene/dockerized-security-tools](https://github.com/raesene/dockerized-security-tools) - Dockerfiles for security tools
@@ -2533,7 +2533,7 @@
 - [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [slyd0g/WhiteChocolateMacademiaNut](https://github.com/slyd0g/WhiteChocolateMacademiaNut) - Interact with Chromium-based browsers' debug port to view open tabs, installed extensions, and cookies
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
-- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Kubernetes Marketplace
+- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [weaveworks/kured](https://github.com/weaveworks/kured) - Kubernetes Reboot Daemon
 - [ethicalhackingplayground/bxss](https://github.com/ethicalhackingplayground/bxss) - 
 - [ethicalhackingplayground/ssrf-tool](https://github.com/ethicalhackingplayground/ssrf-tool) - 
@@ -6943,6 +6943,7 @@
 - [borgified/url_checker_pwl](https://github.com/borgified/url_checker_pwl) - this version is for the papers-we-love repo
 - [mdegrazia/iParser](https://github.com/mdegrazia/iParser) - Automated plist parser for Windows for mounted forensics images
 - [mdegrazia/Google-Analytic-Cookie-Cruncher](https://github.com/mdegrazia/Google-Analytic-Cookie-Cruncher) - Parse IE, FireFox, Chrome and Safari Cookies for Google Analytic values
+- [shiva-spampot/shiva](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer
 - [Miserlou/OnionCloud](https://github.com/Miserlou/OnionCloud) - OnionCloud - An Anonymous Heroku-like PaaS
 - [vlad902/IDA-scripts](https://github.com/vlad902/IDA-scripts) - Helpful IDA scripts
 - [pkrumins/bash-history-cheat-sheet](https://github.com/pkrumins/bash-history-cheat-sheet) - This is the bash history cheat sheet. It summarizes everything there is to know about working efficiently with command line history in bash.
@@ -9690,7 +9691,7 @@
 - [miyakogi/pyppeteer](https://github.com/miyakogi/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [rvrsh3ll/MimeSpray](https://github.com/rvrsh3ll/MimeSpray) - MimeCast Password Spraying Tool
-- [b17zr/ntlm_challenger](https://github.com/b17zr/ntlm_challenger) - Parse NTLM challenge messages over HTTP and SMB
+- [nopfor/ntlm_challenger](https://github.com/nopfor/ntlm_challenger) - Parse NTLM challenge messages over HTTP and SMB
 - [rsrdesarrollo/lmgtfy-cli](https://github.com/rsrdesarrollo/lmgtfy-cli) - Let me Google that for you CLI link generator
 - [rsrdesarrollo/fast-dns-scanner](https://github.com/rsrdesarrollo/fast-dns-scanner) - Async DNS bruteforce wordlist scanner.
 - [rsrdesarrollo/python-docx](https://github.com/rsrdesarrollo/python-docx) - Create and modify Word documents with Python
@@ -12726,7 +12727,6 @@
 - [mdegrazia/SQLite-Deleted-Records-Parser](https://github.com/mdegrazia/SQLite-Deleted-Records-Parser) - Script to recover deleted entries in an SQLite database
 - [mdegrazia/Office-Plist-Parser](https://github.com/mdegrazia/Office-Plist-Parser) - Script to parse the recent documents from MS Office plist file
 - [mdegrazia/Google-Analytic-Parser](https://github.com/mdegrazia/Google-Analytic-Parser) - Parses for Google Analytic values in raw files like RAM, DD images etc.
-- [shiva-spampot/shiva](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer
 - [MozillaSecurity/marifuzz](https://github.com/MozillaSecurity/marifuzz) - [Deprecated and unmaintained] A user interaction fuzzer for Firefox OS, based on the Marionette framework.
 - [switchdoclabs/iBeacon-Scanner-](https://github.com/switchdoclabs/iBeacon-Scanner-) - Reliable Bluetooth LE (iBeacon) scanner for Raspberry Pi
 - [mitsuhiko/pipsi](https://github.com/mitsuhiko/pipsi) - pip script installer
