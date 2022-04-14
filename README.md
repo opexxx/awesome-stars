@@ -5452,6 +5452,7 @@
 - [jchaney/owncloud](https://github.com/jchaney/owncloud) - docker image
 - [kordless/boot2docker-ing](https://github.com/kordless/boot2docker-ing) - Getting going with boot2docker on OSX.
 - [shadowsocks/openwrt-shadowsocks](https://github.com/shadowsocks/openwrt-shadowsocks) - Shadowsocks-libev for OpenWrt/LEDE
+- [dweinstein/dockerfile-qemu-arm-chroot](https://github.com/dweinstein/dockerfile-qemu-arm-chroot) - qemu-arm-static in a docker container to run apps compiled for ARM on x86
 - [OpenSecurityResearch/hostapd-wpe](https://github.com/OpenSecurityResearch/hostapd-wpe) - Modified hostapd to facilitate AP impersonation attacks
 - [carrierwrt/carrierwrt](https://github.com/carrierwrt/carrierwrt) - OpenWrt for Carriers and OEMs
 - [JonathanSalwan/binary-samples](https://github.com/JonathanSalwan/binary-samples) - Samples of binary with different formats and architectures. A test suite for your binary analysis tools.
@@ -8896,7 +8897,7 @@
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [vagnes/pyparazzi](https://github.com/vagnes/pyparazzi) - Pyparazzi is an scanner that searches websites for links.
 - [mufeedvh/basecrack](https://github.com/mufeedvh/basecrack) - Decode All Bases - Base Scheme Decoder
-- [mBouamama/MyJWT](https://github.com/mBouamama/MyJWT) - A cli for cracking, testing vulnerabilities on Json Web Token(JWT)
+- [tyki6/MyJWT](https://github.com/tyki6/MyJWT) - A cli for cracking, testing vulnerabilities on Json Web Token(JWT)
 - [unnonouno/jqp](https://github.com/unnonouno/jqp) - JSON processor with Python one-liner
 - [verovaleros/webcrawler](https://github.com/verovaleros/webcrawler) - A web crawler oriented to infosec.
 - [vuvova/gdb-tools](https://github.com/vuvova/gdb-tools) - Various tools to improve the gdb experience
@@ -15326,7 +15327,6 @@
 - [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 - [pozgo/docker-snorby](https://github.com/pozgo/docker-snorby) - Snorby web interface (Ruby on Rails)
 - [jonschipp/ISLET](https://github.com/jonschipp/ISLET) - Isolated, Scalable, & Lightweight Environment for Training
-- [dweinstein/dockerfile-qemu-arm-chroot](https://github.com/dweinstein/dockerfile-qemu-arm-chroot) - qemu-arm-static in a docker container to run apps compiled for ARM on x86
 - [jupyter-attic/docker-notebook](https://github.com/jupyter-attic/docker-notebook) - Docker containers for the IPython notebook (+SciPy Stack)
 - [Krijger/docker-cookbooks](https://github.com/Krijger/docker-cookbooks) - A collection of Dockerfiles, also shared on the docker index (https://index.docker.io/).
 - [docker-archive/dockerlite](https://github.com/docker-archive/dockerlite) - Lightweight virtualization system based on LXC and BTRFS. See dotcloud/docker.
