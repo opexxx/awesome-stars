@@ -3198,7 +3198,7 @@
 - [gruntwork-io/cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) - A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it
 - [gohxs/cloudmount](https://github.com/gohxs/cloudmount) - Cloudmount  Cloud services  gdrive, dropbox  linux mount tool
 - [Yelp/dockersh](https://github.com/Yelp/dockersh) - A shell which places users into individual docker containers
-- [docker/swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
+- [moby/swarmkit](https://github.com/moby/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
 - [rkt/rkt](https://github.com/rkt/rkt) - [Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 - [lfaoro/flares](https://github.com/lfaoro/flares) - Flares 🔥 is a CloudFlare DNS backup tool
