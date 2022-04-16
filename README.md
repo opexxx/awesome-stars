@@ -5497,7 +5497,7 @@
 
 - [whydee86/PlayWithDefender](https://github.com/whydee86/PlayWithDefender) - An easy tool to disable and enable windows defender protections
 - [HuskyHacks/ShadowSteal](https://github.com/HuskyHacks/ShadowSteal) - Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation
-- [d4rckh/vaf](https://github.com/d4rckh/vaf) - Vaf is a cross-platform very advanced (web) fuzzer written in nim
+- [d4rckh/vaf](https://github.com/d4rckh/vaf) - Vaf is a cross-platform very advanced and fast web fuzzer written in nim
 - [khchen/winim](https://github.com/khchen/winim) - Nim's Windows API and COM Library
 - [byt3bl33d3r/OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim) - My experiments in weaponizing Nim (https://nim-lang.org/)
 
@@ -6944,7 +6944,6 @@
 - [borgified/url_checker_pwl](https://github.com/borgified/url_checker_pwl) - this version is for the papers-we-love repo
 - [mdegrazia/iParser](https://github.com/mdegrazia/iParser) - Automated plist parser for Windows for mounted forensics images
 - [mdegrazia/Google-Analytic-Cookie-Cruncher](https://github.com/mdegrazia/Google-Analytic-Cookie-Cruncher) - Parse IE, FireFox, Chrome and Safari Cookies for Google Analytic values
-- [shiva-spampot/shiva](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer
 - [Miserlou/OnionCloud](https://github.com/Miserlou/OnionCloud) - OnionCloud - An Anonymous Heroku-like PaaS
 - [vlad902/IDA-scripts](https://github.com/vlad902/IDA-scripts) - Helpful IDA scripts
 - [pkrumins/bash-history-cheat-sheet](https://github.com/pkrumins/bash-history-cheat-sheet) - This is the bash history cheat sheet. It summarizes everything there is to know about working efficiently with command line history in bash.
@@ -12728,6 +12727,7 @@
 - [mdegrazia/SQLite-Deleted-Records-Parser](https://github.com/mdegrazia/SQLite-Deleted-Records-Parser) - Script to recover deleted entries in an SQLite database
 - [mdegrazia/Office-Plist-Parser](https://github.com/mdegrazia/Office-Plist-Parser) - Script to parse the recent documents from MS Office plist file
 - [mdegrazia/Google-Analytic-Parser](https://github.com/mdegrazia/Google-Analytic-Parser) - Parses for Google Analytic values in raw files like RAM, DD images etc.
+- [shiva-spampot/shiva](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer
 - [MozillaSecurity/marifuzz](https://github.com/MozillaSecurity/marifuzz) - [Deprecated and unmaintained] A user interaction fuzzer for Firefox OS, based on the Marionette framework.
 - [switchdoclabs/iBeacon-Scanner-](https://github.com/switchdoclabs/iBeacon-Scanner-) - Reliable Bluetooth LE (iBeacon) scanner for Raspberry Pi
 - [mitsuhiko/pipsi](https://github.com/mitsuhiko/pipsi) - pip script installer
@@ -12875,7 +12875,7 @@
 - [ChrisTruncer/PenTestScripts](https://github.com/ChrisTruncer/PenTestScripts) - Scripts that are useful for me on pen tests
 - [AonCyberLabs/Windows-Exploit-Suggester](https://github.com/AonCyberLabs/Windows-Exploit-Suggester) - This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins.
 - [enthought/scimath](https://github.com/enthought/scimath) - 
-- [py-pdf/PyPDF2](https://github.com/py-pdf/PyPDF2) - A utility to read and write PDFs with Python
+- [py-pdf/PyPDF2](https://github.com/py-pdf/PyPDF2) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
 - [jaraco/path](https://github.com/jaraco/path) - Object-oriented file system path manipulation
 - [sametmax/Bat-belt](https://github.com/sametmax/Bat-belt) - A collection of gagdets make Python even more powerful
 - [timbueno/SimpleTweetArchiver](https://github.com/timbueno/SimpleTweetArchiver) - Simple twitter script that writes your tweets to a file!
